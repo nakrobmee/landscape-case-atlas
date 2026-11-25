@@ -1,0 +1,1329 @@
+[
+ {
+  "id": "sondervold-nature-park-fredericia",
+  "name": "Søndervold Nature Park (Kanalbyen)",
+  "name_local": "Naturpark Søndervold",
+  "designer": "SLA (ภูมิสถาปนิกหลัก) ร่วมกับ Rambøll และ Dalgas; ผังแม่บท Kanalbyen โดย KCAP",
+  "client": "Kanalbyen Fredericia",
+  "city": "Fredericia",
+  "country": "Denmark",
+  "lat": 55.5597,
+  "lng": 9.7616,
+  "year": 2022,
+  "area": "10,200 sq. m. (6.4 ไร่)",
+  "area_sqm": 10200,
+  "categories": [
+   "public-parks",
+   "community-gardens",
+   "flood-suds"
+  ],
+  "tags": [
+   "ฟื้นฟูพื้นที่ท่าเรือ",
+   "ภูมิทัศน์ชั่วคราวสู่สวนถาวร",
+   "ความหลากหลายทางชีวภาพ",
+   "ป้องกันคลื่นพายุซัดฝั่ง",
+   "พืชพื้นถิ่น",
+   "สวนชุมชน",
+   "ลิ่มสีเขียว"
+  ],
+  "awards": [],
+  "summary_th": "สวนธรรมชาติขนาด 1 เฮกตาร์ที่เป็นหัวใจสีเขียวของย่านคลองใหม่ Kanalbyen บนพื้นที่ท่าเรืออุตสาหกรรมเดิมของเมืองเฟรเดอริเชีย สร้างต่อยอดจากภูมิทัศน์ชั่วคราวที่ SLA เริ่มไว้กว่า 12 ปีก่อน ยกระดับพื้นทั้งสวน 1 เมตรเพื่อกันคลื่นพายุ และปลูกต้นไม้-ไม้พุ่ม 3,200 ต้นจากเมล็ดพันธุ์ถิ่นใกล้เคียง",
+  "description_th": "ย่าน Kanalbyen (เมืองคลอง) ตั้งอยู่บนพื้นที่ท่าเรือฝั่งใต้ของเมืองเฟรเดอริเชีย ริมช่องแคบลิตเติลเบลต์ ซึ่งเคยเป็นเขตอุตสาหกรรมท่าเรือที่ปิดตัวลงและแยกเมืองเก่าออกจากทะเล พื้นที่มีดินปนเปื้อน และเมืองทั้งเมืองตั้งอยู่ในตำแหน่งที่เสี่ยงต่อน้ำทะเลหนุนสูงและคลื่นพายุซัดฝั่ง ผังแม่บทของย่านจัดทำโดย KCAP ส่วน SLA รับผิดชอบงานภูมิทัศน์ทั้งหมดของย่านตั้งแต่ปี 2009 จนถึงปี 2024\n\nแนวคิดหลักคือการพัฒนาเมือง \"โดยเริ่มจากธรรมชาติ\" ในปี 2009 SLA สร้างภูมิทัศน์ชั่วคราวขนาดใหญ่ที่เปิดให้ชาวเมืองกลับมาใช้ริมท่าเรือฝั่งใต้ได้อีกครั้งก่อนจะมีอาคาร กิจกรรมที่ชุมชนริเริ่มขึ้นในช่วงนั้น เช่น สวนผักชุมชน ถูกเก็บไว้เป็นองค์ประกอบหลักของสวนถาวร และต้นไม้ส่วนใหญ่จากภูมิทัศน์ชั่วคราวถูกย้ายมาปลูกใหม่ใน Søndervold ผู้ก่อตั้ง SLA ระบุว่าตลอดกระบวนการได้ใช้ธรรมชาติช่วยบำบัดดินปนเปื้อนและสร้างความเป็นเจ้าของร่วมของคนในท้องถิ่น\n\nสวนวางตัวเป็น \"ลิ่มสีเขียว\" ที่แทรกผ่านย่านคลอง เชื่อมธรรมชาติรอบเมืองเข้ากับใจกลางย่านใหม่ แบ่งเป็น 4 ส่วนตามข้อมูลการท่องเที่ยวของเมือง ได้แก่ Volden (เนินคันดิน) Legeskoven (ป่าเล่น) Sansehaven (สวนประสาทสัมผัส) และ Kysten (ชายฝั่ง) ทางเดินกรวดโค้งไปมาระหว่างกลุ่มไม้พุ่มและทุ่งดอกไม้ป่า มีลานไม้และม้านั่งแทรกเป็นระยะ ทั้งสวนถูกยกระดับขึ้น 1 เมตร จึงทำหน้าที่เป็นแนวป้องกันคลื่นพายุและน้ำท่วมไปพร้อมกับการเป็นพื้นที่นันทนาการ ขณะที่งานภูมิทัศน์ในภาพรวมของ SLA ยังมีคันกั้นน้ำสูงราว 2.5 เมตรรอบท่าเรือเก่าเพื่อปกป้องเมืองเก่าทั้งเมือง\n\nสวนมีต้นไม้และไม้พุ่ม 3,200 ต้น คัดเลือกจากการศึกษาของนักชีววิทยาของ SLA เกี่ยวกับภูมิทัศน์รอบเฟรเดอริเชีย มีการจำลองถิ่นอาศัยเฉพาะของท้องถิ่น เช่น ทุ่งหญ้าชายฝั่งและป่าทนเค็ม และหว่านเมล็ดที่เก็บจากถิ่นอาศัยใกล้เคียงเพื่อรักษาองค์ประกอบชนิดพันธุ์ของท้องถิ่น องค์ประกอบในสวนใช้ไม้ดิบเรียบง่าย เช่น แปลงผักยกระดับไม้ โรงเรือนกระจก เสาไม้และท่อสไลเดอร์ในป่าเล่น และขั้นบันไดไม้แทรกในแปลงไม้ดอก\n\nสวนเปิดในปี 2022 บนพื้นที่ 10,200 ตร.ม. นักชีววิทยาของ SLA พบต่อขุดดิน Mellinus arvensis ซึ่งทำรังใต้ดินทรายและล่าแมลงวันให้ตัวอ่อน เป็นสัญญาณว่าสวนมีช่องนิเวศเฉพาะที่รองรับโครงข่ายนิเวศซับซ้อนได้แล้ว ยังไม่มีการเผยแพร่ตัวเลขด้านการจัดการน้ำหรือจำนวนผู้ใช้",
+  "design_strategies": [
+   "เริ่มจากภูมิทัศน์ชั่วคราวก่อนการก่อสร้าง แล้วเก็บต้นไม้และกิจกรรมชุมชนที่เกิดขึ้นมาใช้ในสวนถาวร",
+   "ยกระดับพื้นสวนทั้งผืน 1 เมตร ให้สวนเป็นทั้งแนวกันคลื่นพายุและพื้นที่นันทนาการ",
+   "ใช้นักชีววิทยาศึกษาถิ่นอาศัยรอบเมือง แล้วจำลองทุ่งหญ้าชายฝั่งและป่าทนเค็มด้วยเมล็ดพันธุ์ท้องถิ่น",
+   "วางสวนเป็นลิ่มสีเขียวที่เชื่อมธรรมชาติภายนอกเข้าสู่ย่านพักอาศัยใหม่",
+   "แบ่งสวนเป็นโซนชัดเจน (เนินคันดิน ป่าเล่น สวนประสาทสัมผัส ชายฝั่ง) และเก็บสวนผักชุมชนไว้เป็นหัวใจ"
+  ],
+  "lessons_th": [
+   "โครงการฟื้นฟูที่ดินรกร้างหรือท่าเรือเก่าในไทยใช้ \"สวนชั่วคราว\" สร้างการใช้งานและความผูกพันของชุมชนได้ก่อน แล้วย้ายต้นไม้ที่โตแล้วไปใช้ในงานถาวร",
+   "ในเมืองชายฝั่งที่เสี่ยงน้ำทะเลหนุน เช่น สมุทรปราการหรือสงขลา การยกระดับสวนเป็นส่วนหนึ่งของระบบป้องกันน้ำช่วยลดการสร้างกำแพงคอนกรีตล้วน",
+   "การเก็บเมล็ดพันธุ์จากถิ่นอาศัยรอบพื้นที่ช่วยให้สวนเมืองมีพืชพื้นถิ่นที่ปรับตัวได้และดึงแมลง-สัตว์ท้องถิ่นกลับมา"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.759738,
+       55.5605
+      ],
+      [
+       9.759739,
+       55.560171
+      ],
+      [
+       9.760853,
+       55.559996
+      ],
+      [
+       9.760866,
+       55.559959
+      ],
+      [
+       9.760928,
+       55.559767
+      ],
+      [
+       9.761375,
+       55.559512
+      ],
+      [
+       9.761425,
+       55.559497
+      ],
+      [
+       9.762425,
+       55.559196
+      ],
+      [
+       9.763458,
+       55.558881
+      ],
+      [
+       9.763467,
+       55.558989
+      ],
+      [
+       9.763474,
+       55.559412
+      ],
+      [
+       9.76348,
+       55.559605
+      ],
+      [
+       9.762837,
+       55.559431
+      ],
+      [
+       9.762432,
+       55.55955
+      ],
+      [
+       9.761852,
+       55.55972
+      ],
+      [
+       9.761508,
+       55.55996
+      ],
+      [
+       9.761517,
+       55.560223
+      ],
+      [
+       9.761373,
+       55.560241
+      ],
+      [
+       9.760625,
+       55.560361
+      ],
+      [
+       9.759738,
+       55.5605
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1341734664"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-7.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของสวน ทางเดินกรวดโค้งผ่านทุ่งดอกไม้และกลุ่มไม้พุ่ม มองเห็นท่าเรือและช่องแคบลิตเติลเบลต์ด้านหลัง",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-1.jpg",
+    "type": "photo",
+    "caption": "ทางเดินคดเคี้ยวระหว่างแปลงไม้ดอกกับสนามหญ้า มีบ้านไม้ของย่าน Kanalbyen อยู่ด้านหลัง",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-6.jpg",
+    "type": "photo",
+    "caption": "ทางเดินกรวดผ่านเนินไม้พุ่มและต้นไม้ที่ย้ายมาจากภูมิทัศน์ชั่วคราว",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-8.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งริมทางเดินท่ามกลางดอกไม้ป่าสีขาว มีอาคารพักอาศัยใหม่ด้านหลัง",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-10.jpg",
+    "type": "photo",
+    "caption": "ลานไม้ยกระดับกลางทุ่งหญ้าและไม้ดอก ติดกับแถวบ้านไม้",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-16.jpg",
+    "type": "photo",
+    "caption": "สวนผักชุมชนแปลงยกระดับไม้และโรงเรือนกระจก ซึ่งเก็บมาจากกิจกรรมของชุมชนในช่วงภูมิทัศน์ชั่วคราว",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-19.jpg",
+    "type": "photo",
+    "caption": "ที่นั่งไม้เรียบง่ายแทรกในหญ้าสูงและไม้ดอก",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/08/Sondervold-Naturpark_SLA-Mikkel-Eye-web-20.jpg",
+    "type": "photo",
+    "caption": "ทางเดินหลักกับลานไม้ มีผู้ใช้เข็นรถเด็กผ่านแนวไม้พุ่ม",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2024/02/Sondervold-Naturpark_SLA-Mikkel-Eye-web-14.jpg",
+    "type": "photo",
+    "caption": "ขั้นไม้แทรกในแปลงไม้ดอกหนาแน่นบนเนินของสวน",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2024/02/Sondervold-Naturpark_SLA-Mikkel-Eye-web-17.jpg",
+    "type": "photo",
+    "caption": "ป่าเล่น (Legeskoven) เสาไม้และท่อสไลเดอร์สีเขียวกลางทุ่งดอกไม้",
+    "credit": "Mikkel Eye / SLA",
+    "source": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "url": "https://sla.imgix.net/wp-content/uploads/2023/09/Kanalbyen_masterplan-cKCAP.jpg",
+    "type": "plan",
+    "caption": "ภาพผังแม่บทย่าน Kanalbyen แสดงคลอง ท่าเรือ และลิ่มสีเขียวของสวน Søndervold",
+    "credit": "KCAP",
+    "source": "https://sla.dk/cases/kanalbyen-fredericia"
+   }
+  ],
+  "research": [
+   {
+    "title": "Kunstprojekter styrker lokal atmosfære i Kanalbyen - men pas godt på det flertydige!",
+    "authors": "Annette Svaneklink Jakobsen",
+    "year": 2021,
+    "journal": "University of Southern Denmark Research Portal",
+    "url": "https://portal.findresearcher.sdu.dk/da/publications/4c929686-d7b1-41e4-a87e-1c9b1adfcb29",
+    "note_th": "บทความวิจารณ์โดยสถาปนิก (ปริญญาเอก) เรื่องงานศิลปะและกระบวนการมีส่วนร่วมในย่าน Kanalbyen ที่สวนนี้ตั้งอยู่ ชื่นชมความ \"ช้า\" และการมีส่วนร่วมของการพัฒนา"
+   }
+  ],
+  "sources": [
+   {
+    "title": "SLA — Søndervold Nature Park",
+    "url": "https://sla.dk/cases/sondervold-nature-park"
+   },
+   {
+    "title": "SLA — Kanalbyen Fredericia (A waterfront regeneration project)",
+    "url": "https://sla.dk/cases/kanalbyen-fredericia"
+   },
+   {
+    "title": "Instagram — @sla_architects (Søndervold Nature Park)",
+    "url": "https://www.instagram.com/p/DfUvO9fDZwA/"
+   },
+   {
+    "title": "OpenStreetMap — Søndervold",
+    "url": "https://www.openstreetmap.org/way/1341734664"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W45",
+  "added_date": "2026-11-08"
+ },
+ {
+  "id": "rd-2007-solterre",
+  "name": "Renovation of Departmental Road 2007, Solterre",
+  "name_local": "Aménagement de la Route Départementale 2007 à Solterre",
+  "designer": "Troisième Paysage (หัวหน้าทีม) ร่วมกับ Terr&Am",
+  "client": "Agglomération Montargoise et rives du Loing",
+  "city": "Solterre (Loiret)",
+  "country": "France",
+  "lat": 47.9185,
+  "lng": 2.7368,
+  "year": 2021,
+  "categories": [
+   "green-streets",
+   "transport-corridors"
+  ],
+  "tags": [
+   "ถนนผ่านหมู่บ้าน",
+   "สงบจราจร",
+   "ทางเท้าปลูกพืช",
+   "ทางเข้าเมือง",
+   "อดีตทางหลวง N7",
+   "งบประมาณจำกัด",
+   "ดูแลรักษาง่าย"
+  ],
+  "awards": [],
+  "summary_th": "การปรับปรุงทางหลวงจังหวัด RD 2007 (อดีตทางหลวงสาย N7) ช่วงยาว 500 เมตรที่ผ่านใจกลางหมู่บ้านโซลแตร์ ใช้ \"พืชพรรณ\" เป็นเครื่องมือหลักในการลดความเร็วรถ แคบช่องจราจรลงด้วยเกาะกลาง แล้วขยายทางเท้าที่ปลูกไม้พุ่มดอกและหญ้าประดับ",
+  "description_th": "ถนน RD 2007 คือแนวทางหลวงสาย N7 เดิมของฝรั่งเศส ปัจจุบันยังจัดเป็นถนนสายจราจรหนาแน่น (route à grande circulation) และตัดผ่านกลางหมู่บ้านโซลแตร์ในจังหวัดลัวเรต์ ใกล้เมืองมงตาร์จี เดิมถนนกว้างเพื่อรถยนต์เป็นหลัก ทางเท้าคับแคบ ไม่ปลอดภัยต่อคนเดินและผู้ใช้จักรยาน ขอบเขตที่ดินสาธารณะกับเอกชนไม่ชัดเจน และถนนไม่ได้สะท้อนอัตลักษณ์ของหมู่บ้านเก่า\n\nเป้าหมายที่ตั้งไว้ คือทำให้ช่วงถนนนี้เป็น \"ทางเข้าเมืองและใจกลางหมู่บ้าน\" ที่มีอัตลักษณ์ จัดลำดับการสัญจรของคนเดิน จักรยาน และที่จอดรถใหม่ ปรับปรุงจุดศูนย์กลางชุมชน (ศาลาว่าการ โรงเรียน ร้านค้า) สร้างสี่แยกไฟสัญญาณเพื่อความปลอดภัย กระตุ้นร้านค้าและชีวิตของหมู่บ้าน และทำให้แนวเขตที่ดินชัดเจนผ่านการซื้อและโอนคืน ผู้ออกแบบระบุว่า \"พืชพรรณคือประตูทางเข้า\" ของการคิดเรื่องการสงบจราจรและความปลอดภัย\n\nผังใหม่แยกช่องจราจรสองทิศด้วยเกาะกลางแคบ ทำให้ผิวจราจรแคบลงและพื้นที่คนเดินกว้างขึ้น การลดความกว้างของถนนยังเปิดโอกาสให้สร้างทางขนาน (contre-allée) เข้าสู่ประตูบ้านและที่จอดรถได้อย่างปลอดภัยโดยไม่ต้องถอยออกสู่ถนนหลัก ช่วงชานหมู่บ้านใช้ทางเดินกรวดบดอัดขนาบด้วยแถบหญ้าและไม้พุ่ม ส่วนช่วงกลางหมู่บ้านทางเท้าชิดแนวบ้านเก่ามีแปลงปลูกที่ตีนผนัง\n\nทางเท้าปลูกไม้พุ่มดอกและหญ้าประดับ ผสมไม้ดอกล้มลุก เช่น ไอริสและเดย์ลิลลี แทรกก้อนหิน ที่จอดรถใช้บล็อกหญ้า ผิวทางเท้าใช้วัสดุทนทาน ได้แก่ บล็อกคอนกรีตและคอนกรีตล้างผิวสี (béton désactivé) ทั้งโครงการตั้งใจให้ประหยัดทั้งค่าก่อสร้างและค่าดูแล วัสดุและพืชจึงถูกเลือกตามเกณฑ์นี้\n\nโครงการแล้วเสร็จปี 2021 ครอบคลุมถนนยาว 500 เมตร งบประมาณ 1,200,000 ยูโร (ไม่รวมภาษี) ผลลัพธ์ที่เห็นได้คือถนนสายหลักที่แคบลงพร้อมเกาะกลาง สี่แยกไฟสัญญาณ และทางเท้าสีเขียวต่อเนื่องหน้าบ้านทุกหลัง ยังไม่มีการเผยแพร่ข้อมูลความเร็วรถหรืออุบัติเหตุก่อน-หลังโครงการ",
+  "design_strategies": [
+   "ใช้เกาะกลางแคบแยกช่องจราจร ลดความกว้างผิวถนนเพื่อลดความเร็วและได้พื้นที่ทางเท้าคืน",
+   "ใช้พืชพรรณเป็นเครื่องมือหลักของการสงบจราจรและการบอกว่า \"เข้าสู่หมู่บ้านแล้ว\"",
+   "สร้างทางขนานเข้าบ้านและที่จอดรถ แยกการเข้า-ออกบ้านออกจากกระแสจราจรหลัก",
+   "เลือกวัสดุทนทาน (บล็อกคอนกรีต คอนกรีตล้างผิวสี บล็อกหญ้า) และพืชดูแลง่ายเพื่อลดค่าก่อสร้างและค่าบำรุง",
+   "ปรับปรุงจุดศูนย์กลางชุมชน (ศาลาว่าการ โรงเรียน ร้านค้า) ร่วมกับสี่แยกไฟสัญญาณ"
+  ],
+  "lessons_th": [
+   "ทางหลวงที่ตัดผ่านชุมชนหรือตลาดในต่างจังหวัดของไทยลดความเร็วรถได้ด้วยการแคบช่องจราจรและเกาะกลางปลูกต้นไม้ ไม่ต้องพึ่งป้ายหรือลูกระนาดอย่างเดียว",
+   "งบประมาณระดับเทศบาลก็ทำถนนสีเขียวได้ หากเลือกพืชทนแล้งดูแลง่ายและวัสดุทนทานตั้งแต่ต้น",
+   "การจัดการแนวเขตที่ดินสาธารณะ-เอกชนเป็นส่วนหนึ่งของงานออกแบบ ช่วยให้ได้พื้นที่ทางเท้าเพิ่มอย่างถูกต้อง"
+  ],
+  "images": [
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/1-Solterre-vignette-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเท้าใหม่ขนาบด้วยแปลงไม้พุ่มดอกริมกำแพงบ้านและแถบหญ้าประดับฝั่งถนน",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/2-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "ช่องจราจรที่แคบลง ที่จอดรถบล็อกหญ้า และทางเท้ากว้างพร้อมไม้ดอกและก้อนหินหน้าบ้านเก่า",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/3-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "สี่แยกไฟสัญญาณใหม่กับเกาะกลางแคบกลางหมู่บ้าน",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/4-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเดินกรวดบดอัดช่วงชานหมู่บ้าน ขนาบด้วยแถบหญ้าและไม้พุ่ม",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/5-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเข้าหมู่บ้านพร้อมป้ายแสดงความเร็ว แปลงไม้ดอกริมถนน และทางเท้า",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/6-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเท้าแคบหน้าแถวบ้านเก่า มีแปลงปลูกที่ตีนผนังและแถบจอดรถ",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "url": "https://troisieme-paysage.fr/wp-content/uploads/2025/05/7-Solterre-scaled.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดผิวคอนกรีตล้างผิวกับพืชที่ปลูกชิดตีนผนัง",
+    "credit": "Troisième Paysage",
+    "source": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "Troisième Paysage — Aménagement de la Route Départementale 2007 à Solterre (45)",
+    "url": "https://troisieme-paysage.fr/projet/route-departementale-2007-solterre-45/"
+   },
+   {
+    "title": "Instagram — @landscape.first (Renovation of Departmental Road 2007)",
+    "url": "https://www.instagram.com/p/Dfb-zaHkR5A/"
+   },
+   {
+    "title": "OpenStreetMap — D 2007 / Route Nationale 7, Solterre",
+    "url": "https://www.openstreetmap.org/way/1086267275"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W45",
+  "added_date": "2026-11-08"
+ },
+ {
+  "id": "acros-fukuoka-step-garden",
+  "name": "ACROS Fukuoka Prefectural International Hall — Step Garden",
+  "name_local": "アクロス福岡",
+  "designer": "Emilio Ambasz (แนวคิด Step Garden) ภายใต้การกำกับของภูมิสถาปนิก Michio Tase",
+  "client": "จังหวัดฟุกุโอกะ ร่วมกับ Dai-ichi Mutual Life Insurance และ Mitsui Fudosan (ผู้ชนะการประกวดข้อเสนอปี 1991)",
+  "city": "Fukuoka",
+  "country": "Japan",
+  "lat": 33.5915,
+  "lng": 130.4023,
+  "year": 1995,
+  "area": "5,400 sq. m. (3.4 ไร่) — พื้นที่สวนบนหลังคาขั้นบันไดชั้น 2–14",
+  "area_sqm": 5400,
+  "categories": [
+   "living-roofs",
+   "industrial-commercial",
+   "public-parks"
+  ],
+  "tags": [
+   "หลังคาเขียว",
+   "สวนขั้นบันได",
+   "ลดปรากฏการณ์เกาะความร้อน",
+   "เก็บน้ำฝน",
+   "อาคารสาธารณะ-เอกชน",
+   "ป่าในเมือง",
+   "ดินเทียมน้ำหนักเบา"
+  ],
+  "awards": [
+   "BCS Award (Building Contractors Society) 1996",
+   "หนึ่งใน \"100 พื้นที่สีเขียวของภาคธุรกิจที่ช่วยอนุรักษ์ความหลากหลายทางชีวภาพ\" ปี 2010"
+  ],
+  "wikipedia": "ja:アクロス福岡",
+  "summary_th": "อาคารศูนย์ราชการ-สำนักงานกลางเมืองฟุกุโอกะที่ด้านใต้ทำเป็น \"ภูเขาในเมือง\" สวนขั้นบันได 14 ชั้นต่อเนื่องจากสวนสาธารณะเท็นจินชูโอ ปลูก 76 ชนิด 37,000 ต้นเมื่อเปิดปี 1995 และเติบโตเป็นป่าในเมืองราว 200 ชนิดในปัจจุบัน พร้อมข้อมูลวัดผลด้านความร้อนและลม",
+  "description_th": "ที่ตั้งของ ACROS Fukuoka คือที่ตั้งเดิมของศาลากลางจังหวัดฟุกุโอกะในย่านเท็นจินกลางเมืองมาเป็นเวลา 100 ปี (1876–1981) ด้านเหนือติดถนนเมจิซึ่งเป็นถนนสายหลัก ด้านใต้ติดสวนสาธารณะเท็นจินชูโอ ปี 1991 จังหวัดเปิดประกวดข้อเสนอโครงการอาคารอเนกประสงค์ที่รวมหอประชุมดนตรี ศูนย์ประชุมนานาชาติ และสำนักงานเอกชน ความท้าทายคือจะสร้างอาคารขนาดใหญ่บนที่ดินที่ชาวเมืองคุ้นเคยในฐานะพื้นที่สาธารณะโดยไม่ทำให้สวนหายไป\n\nข้อเสนอที่ชนะจาก 6 กลุ่มคือแนวคิด \"Step Garden\" ของ Emilio Ambasz ภายใต้การกำกับของภูมิสถาปนิก Michio Tase ซึ่งแทนพื้นที่เปิดโล่งระดับดินด้วยสวนขั้นบันไดที่กลืนเข้ากับสวนเท็นจินชูโอ ด้านใต้ของอาคารจึงถูกออกแบบเป็นภูเขาลูกหนึ่ง (ชาวเมืองเรียกว่า Mt. ACROS) ให้คนเดินขึ้นไปชมพืชตามฤดูกาลจนถึงจุดชมวิวชั้นบน มีน้ำตกไหลจากชั้น 5 ลงสู่ชั้น 1\n\nสวนบนหลังคามีพื้นที่ 5,400 ตร.ม. ตั้งแต่ชั้น 2 ถึง 14 ลาดเอียงราว 34.5 องศา ฝั่งเหนือเป็นอาคารสำนักงานกระจกตามแนวถนน ส่วนชั้นล่างและห้องโถงกลางเชื่อมระบบทางเดินใต้ดินไปสถานีรถไฟใต้ดินเท็นจิน น้ำฝนซึมผ่านดินเทียมหนา 50 ซม. ลงสู่ชั้นซึมน้ำและไหลลงชั้นล่างเหมือนเชิงเขาจริง ก่อนลงสู่บ่อน้ำระดับดิน และระบายส่วนเกินลงแม่น้ำยาคุอินชินกาวะเมื่อฝนตกหนัก น้ำฝนจากชั้นบนสุดถูกเก็บในถังขนาด 600 ตันที่ชั้นใต้ดิน 4 ใช้รดน้ำด้วยสปริงเกลอร์ และน้ำส่วนเกินถูกกรองเป็นน้ำรีไซเคิลสำหรับชักโครกทั้งอาคาร\n\nพันธุ์ไม้ผ่านการทดลองปลูกสองปีจากกล้าไม้และไม้พุ่มราว 200 ชนิด เมื่อเปิดมี 76 ชนิด 37,000 ต้น ใช้ 32 ชนิดสร้างกลุ่มไม้ตัดแต่งแบบโอคาริโคมิ (okarikomi) 15 แบบ ผสมไม้ไม่ผลัดใบ-ผลัดใบ มีไม้ยืนต้น 23 ชนิด เช่น บ๊วยและเมเปิล และไม้เลื้อยห้อยคลุมผนัง 5 ชนิด ปลูกในดินเทียม Aquasoil จากหินเพอร์ไลต์ที่หนักเพียงหนึ่งในสามของดินปกติ เก็บน้ำได้พอใช้ราว 60 วัน ไม่ใช้ยาฆ่าแมลงหรือปุ๋ย ปล่อยใบไม้ร่วงเป็นชั้นดินบน กิ่งที่ตัดแต่งถูกสานเป็นรังชีวภาพ (bio-nest) ให้ย่อยสลายเป็นปุ๋ย นกนำเมล็ดเข้ามาจนปัจจุบันมีราว 200 ชนิด และตั้งเป้า 350–400 ชนิดใกล้เคียงป่าภูเขาของเกาะคิวชู\n\nผลการตรวจวัดของ Kyushu University, Nippon Institute of Technology และ Takenaka Corporation พบว่ากลางวันหน้าร้อน ผิวคอนกรีตร้อนเกิน 50°C ขณะที่ผิวพืชสูงสุดราว 38°C (ต่ำกว่าราว 15°C) กลางคืนผิวภูเขาเย็นเท่าหรือต่ำกว่าอากาศรอบข้าง และด้านใต้ที่มีสวนกลับเย็นกว่าด้านเหนือ การวัดลมพบลมพัดลงตามลาดในคืนลมสงบที่มุมราว 30 องศา ใกล้เคียงความลาดของสวน นำอากาศเย็นลงสู่เมือง สปริงเกลอร์ใช้เพียง 2–3 ครั้งต่อปี งานวิจัยปี 2024 พบว่าชุมชนเชื้อราในดินหลัง 27 ปีมีลักษณะเฉพาะ บ่งชี้ว่าหลังคากลายเป็นป่าในเมืองที่สมบูรณ์ขึ้น",
+  "design_strategies": [
+   "คืนพื้นที่สวนที่อาคารใช้ไปด้วยสวนขั้นบันไดที่ต่อเนื่องจากสวนสาธารณะข้างเคียง ให้อาคารเป็น \"ภูเขา\" ของเมือง",
+   "ใช้ดินเทียมน้ำหนักเบาหนา 50 ซม. ที่ปรับสัดส่วนการอุ้มน้ำ-ระบายน้ำได้ เพื่อให้ไม้ยืนต้นอยู่บนหลังคาได้โดยไม่เพิ่มน้ำหนักมาก",
+   "ออกแบบระบบน้ำเลียนแบบเชิงเขา น้ำซึมผ่านชั้นต่อชั้นลงบ่อด้านล่าง พร้อมถังเก็บน้ำฝน 600 ตันสำหรับรดน้ำและชักโครก",
+   "ปลูกแบบกลุ่มโอคาริโคมิผสมหลายชนิด และปล่อยให้นกเพิ่มชนิดพันธุ์เอง จัดการแบบธรรมชาติ ไม่ใช้สารเคมี",
+   "วางแผนรับลมแรงด้วยการปลูกถี่ที่ปลายอาคาร ใช้ไม้ไม่ผลัดใบในบางโซน และใช้เพียงพืชคลุมดินที่ชั้นบนสุด"
+  ],
+  "lessons_th": [
+   "อาคารราชการหรือศูนย์การค้าในกรุงเทพฯ ที่ติดสวนสาธารณะ ใช้หลังคาขั้นบันไดเชื่อมกับสวนเดิมได้ เพื่อชดเชยพื้นที่สีเขียวที่เสียไป",
+   "หลังคาเขียวแบบป่าต้องการเวลาหลายสิบปีและการดูแลระยะยาว ควรมีแผนบำรุงและเก็บข้อมูลอุณหภูมิ-ชนิดพันธุ์ตั้งแต่ปีแรก",
+   "การเก็บน้ำฝนบนหลังคาไปใช้รดน้ำและชักโครกลดภาระน้ำประปา เหมาะกับภูมิอากาศฝนชุกแล้งยาวแบบไทย",
+   "ในเมืองร้อนชื้น สวนบนหลังคาช่วยลดอุณหภูมิผิวได้ราว 15°C เมื่อเทียบกับคอนกรีต ซึ่งช่วยลดภาระเครื่องปรับอากาศ"
+  ],
+  "images": [
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo01.jpg",
+    "type": "photo",
+    "caption": "Mt. ACROS มองจากสนามหญ้าสวนเท็นจินชูโอ สวนขั้นบันไดกลายเป็นภูเขาป่าทึบกลางเมือง",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/ACROS_Fukuoka_2011.jpg/1280px-ACROS_Fukuoka_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สวนขั้นบันไดด้านใต้ปกคลุมด้วยไม้ยืนต้นและไม้เลื้อยห้อยลงทุกชั้น",
+    "credit": "Kenta Mabuchi from Fukuoka, Japan (CC BY-SA 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:ACROS_Fukuoka_2011.jpg",
+    "year": 2011
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo02.jpg",
+    "type": "photo",
+    "caption": "มุมมองจากทางเดินบนขั้นบันไดชั้นบน มองลงไปเห็นสวนเท็นจินชูโอ แม่น้ำ และเมืองฟุกุโอกะ",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo03.jpg",
+    "type": "photo",
+    "caption": "ยอดภูเขา ACROS กับโดมกระจกบนสุด ล้อมด้วยพุ่มไม้ตัดแต่งแบบโอคาริโคมิ",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo04.jpg",
+    "type": "photo",
+    "caption": "ทางเดินบันไดภายในสวนขั้นบันไดที่ร่มรื่นด้วยต้นไม้หลายชั้น",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo06.jpg",
+    "type": "photo",
+    "caption": "ลำต้นไม้ใหญ่ที่โตเป็นป่าบนหลังคาหลังเปิดใช้ราว 27 ปี",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo07.jpg",
+    "type": "photo",
+    "caption": "รังชีวภาพ (bio-nest) สานจากกิ่งที่ตัดแต่ง ใช้ทำปุ๋ยหมักคืนสู่ดิน",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo09.jpg",
+    "type": "photo",
+    "caption": "ทางเดินชมสวนบนหลังคาท่ามกลางพุ่มไม้หนาแน่น",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg/1280px-%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ระเบียงขั้นบันไดและเสาทางเข้าจากสวนเท็นจินชูโอ เห็นต้นไม้ล้นทุกชั้น",
+    "credit": "Benford Choi (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_(Acros_Fukuoka)_-_panoramio.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Acros_Fukuoka_20170810.jpg/1280px-Acros_Fukuoka_20170810.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ด้านทิศใต้ของอาคารที่หันสู่ทางม้าลายและสวน",
+    "credit": "そらみみ (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Acros_Fukuoka_20170810.jpg",
+    "year": 2017
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Acros_Fukuoka_%2852406826%29.jpeg/1280px-Acros_Fukuoka_%2852406826%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "อาคารมองจากริมแม่น้ำ แสดงความลาดขั้นบันไดของสวนบนหลังคา",
+    "credit": "Yasuo Ogiuchi (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Acros_Fukuoka_(52406826).jpeg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio_%281%29.jpg/1280px-%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ความหนาแน่นของพืชพรรณบนชั้นขั้นบันได",
+    "credit": "Benford Choi (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_(Acros_Fukuoka)_-_panoramio_(1).jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio_%282%29.jpg/1280px-%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บ่อน้ำและน้ำตกท่ามกลางพืชพรรณที่ชั้นล่างของสวนขั้นบันได",
+    "credit": "Benford Choi (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1_(Acros_Fukuoka)_-_panoramio_(2).jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Lawn_open_space_in_Tenjin_Central_Park_with_ACROS_1_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg/1280px-Lawn_open_space_in_Tenjin_Central_Park_with_ACROS_1_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "Mt. ACROS ในฤดูใบไม้ร่วง มองจากสนามหญ้าของสวนเท็นจินชูโอ",
+    "credit": "Hirho (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lawn_open_space_in_Tenjin_Central_Park_with_ACROS_1_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg",
+    "year": 2022
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Fukuoka_Acros.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "type": "photo",
+    "caption": "ลานน้ำพุในสวนเท็นจินชูโอ ซึ่งต่อเนื่องกับสวนขั้นบันไดของอาคาร",
+    "credit": "User:Oarih (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuoka_Acros.JPG"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Acrosfukuoka02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "type": "photo",
+    "caption": "ไม้เลื้อยห้อยคลุมชั้นขั้นบันไดเหนือทางเข้าด้านใต้",
+    "credit": "Pontafon (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Acrosfukuoka02.jpg",
+    "year": 2009
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Yakuin-shinkawa_River_and_Acros_Fukuoka_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg/1280px-Yakuin-shinkawa_River_and_Acros_Fukuoka_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "อาคาร ACROS มองจากแม่น้ำยาคุอินชินกาวะ",
+    "credit": "Hirho (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Yakuin-shinkawa_River_and_Acros_Fukuoka_Tenjin-1-ch%C5%8Dme_Ch%C5%AB%C5%8D-ku_Fukuoka_City_20221124.jpg",
+    "year": 2022
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1%E3%81%8B%E3%82%89%E3%81%AE%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg/1280px-%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1%E3%81%8B%E3%82%89%E3%81%AE%E7%A6%8F%E5%B2%A1_%28Acros_Fukuoka%29_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "วิวจากชั้นบนของสวนมองลงไปเห็นแม่น้ำและยอดไม้",
+    "credit": "Benford Choi (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1%E3%81%8B%E3%82%89%E3%81%AE%E7%A6%8F%E5%B2%A1_(Acros_Fukuoka)_-_panoramio.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/ACROS_Fukuoka_20160405.JPG/1280px-ACROS_Fukuoka_20160405.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ด้านทิศใต้ของอาคารริมถนน เห็นขั้นบันไดสีเขียวไล่ระดับ",
+    "credit": "そらみみ (Soramimi) (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:ACROS_Fukuoka_20160405.JPG",
+    "year": 2016
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Acros_Fukuoka_from_Tenjin_Central_Park.jpg/1280px-Acros_Fukuoka_from_Tenjin_Central_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สวนขั้นบันไดมองจากสวนเท็นจินชูโอ ไม้ใหญ่บนทุกชั้นทำให้อาคารดูเป็นเนินเขา",
+    "credit": "そらみみ (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Acros_Fukuoka_from_Tenjin_Central_Park.jpg",
+    "year": 2017
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo12_en.jpg",
+    "type": "section",
+    "caption": "รูปตัดแสดงกระแสอากาศเย็นที่ไหลลงตามความลาดของ Step Garden สู่สวนในคืนอากาศสงบ",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo05_en.jpg",
+    "type": "diagram",
+    "caption": "ชั้นวัสดุปลูก: ดินเทียม Aquasoil สำหรับปลูก 40 ซม. ชั้นระบายน้ำ 10 ซม. แผ่นซึมน้ำ และแผ่นระบายน้ำรับแรงกด",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo10_en.jpg",
+    "type": "diagram",
+    "caption": "ภาพถ่ายความร้อน 2 ก.ย. 2000 เปรียบเทียบผิวคอนกรีตกับผิวพืชตอนเที่ยงและตอนเย็น",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/img/vol41/photo11_en.jpg",
+    "type": "diagram",
+    "caption": "กราฟอุณหภูมิผิวพืช ผิวคอนกรีต อุณหภูมิอากาศ และรังสีแสงอาทิตย์ตลอดหลายวันของการตรวจวัด",
+    "credit": "A-PLAT, National Institute for Environmental Studies",
+    "source": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   }
+  ],
+  "research": [
+   {
+    "title": "Fungal fauna in the planting substrate of rooftop greenery at ACROS Fukuoka, 27 years after construction",
+    "authors": "Satoshi Osawa, Takeshi Yoshioka, Ayami Nose, Masao Higo",
+    "year": 2024,
+    "journal": "Journal of the Japanese Society of Revegetation Technology",
+    "url": "https://doi.org/10.7211/jjsrt.49.320",
+    "note_th": "ศึกษาเชื้อราในดินปลูกหลัง 27 ปี พบชุมชนเชื้อราเฉพาะตัวต่างจากป่าธรรมชาติรอบเมือง สรุปว่าหลังคากำลังเป็นป่าในเมืองที่สมบูรณ์"
+   },
+   {
+    "title": "Quantitative Evaluation of Urban Heat Island Mitigation Effect and Reduction Human Heat Stress by Large Greening of Roof",
+    "authors": "Naru Takayama, Haruhiko Yamamoto, Kiyoshi Iwaya, Fei Wang, Yoko Harada",
+    "year": 2008,
+    "journal": "Journal of Agricultural Meteorology",
+    "url": "https://doi.org/10.2480/agrmet.64.4.1",
+    "note_th": "วัดผลการลดเกาะความร้อนและความเครียดจากความร้อนต่อคนรอบอาคาร ACROS จากข้อมูลอุตุนิยมวิทยาฤดูร้อนปี 2007"
+   },
+   {
+    "title": "Intelligence-Based Design Illustrated with Examples of ACROS Fukuoka, KKL Luzern and MICA Changsha Buildings—A Multicriterial Case Study",
+    "authors": "Beata Majerska-Pałubicka, Elżbieta Latusek",
+    "year": 2021,
+    "journal": "Buildings",
+    "url": "https://doi.org/10.3390/buildings11040135",
+    "note_th": "ใช้ ACROS เป็นกรณีศึกษาการออกแบบอาคารอเนกประสงค์ที่ยั่งยืนและเน้นประสบการณ์ผู้ใช้ เทียบกับอาคารอีกสองแห่ง"
+   },
+   {
+    "title": "Ri_visitati. L'Acros di Ambasz a Fukuoka è sempre più verde",
+    "authors": "Josephine Buzzone",
+    "year": 2021,
+    "journal": "PORTO@Iris (Politecnico di Torino)",
+    "url": "http://hdl.handle.net/11583/2860622",
+    "note_th": "บทความทบทวนโครงการหลัง 25 ปี ระบุอาคารราว 97,000 ตร.ม. ที่คืนพื้นที่สวนได้ครบตามแนวคิด \"เขียวบนเทา\" ของ Ambasz"
+   }
+  ],
+  "sources": [
+   {
+    "title": "A-PLAT (NIES) — ACROS Fukuoka, an \"Urban Mountain\" (case study vol. 41)",
+    "url": "https://adaptation-platform.nies.go.jp/en/articles/case_study/vol41.html"
+   },
+   {
+    "title": "Wikipedia (ญี่ปุ่น) — アクロス福岡",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%82%B9%E7%A6%8F%E5%B2%A1"
+   },
+   {
+    "title": "Wikimedia Commons — ACROS Fukuoka",
+    "url": "https://commons.wikimedia.org/w/index.php?search=ACROS+Fukuoka&title=Special:MediaSearch&type=image"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W45",
+  "added_date": "2026-11-08"
+ },
+ {
+  "id": "sunder-nursery-delhi",
+  "name": "Sunder Nursery Heritage Park",
+  "name_local": "सुंदर नर्सरी (Azim Bagh)",
+  "designer": "Mohammad Shaheer (ภูมิสถาปนิก); Aga Khan Trust for Culture (ผู้ดำเนินงานอนุรักษ์และภูมิทัศน์)",
+  "client": "Central Public Works Department, Archaeological Survey of India และ South Delhi Municipal Corporation (ตาม MoU ปี 2007)",
+  "city": "New Delhi",
+  "country": "India",
+  "lat": 28.5969,
+  "lng": 77.247,
+  "year": 2018,
+  "area": "360,000 sq. m. (225 ไร่)",
+  "area_sqm": 360000,
+  "categories": [
+   "historic",
+   "public-parks",
+   "monuments"
+  ],
+  "tags": [
+   "สวนโมกุล",
+   "อนุรักษ์โบราณสถาน",
+   "สวนพฤกษศาสตร์",
+   "ฟื้นฟูพื้นที่รกร้าง",
+   "ความหลากหลายทางชีวภาพ",
+   "แหล่งมรดกโลก",
+   "หุ้นส่วนรัฐ-เอกชน"
+  ],
+  "awards": [
+   "UNESCO Asia-Pacific Awards for Cultural Heritage Conservation — Award of Excellence 2020"
+  ],
+  "wikipedia": "Sunder_Nursery",
+  "summary_th": "การฟื้นฟูเรือนเพาะชำยุคอาณานิคมที่ถูกทิ้งร้างข้างสุสานหุมายุนในเดลี ให้เป็นสวนสาธารณะมรดก 36 เฮกตาร์ ที่รวมโบราณสถานสมัยโมกุล 15 แห่ง แกนสวนแบบเปอร์เซียยาวกว่า 500 เมตร สวนพฤกษศาสตร์ราว 300 ชนิด และโซนถิ่นอาศัยจำลองของเดลี",
+  "description_th": "พื้นที่ย่านนิซามุดดินริมแม่น้ำยมุนามีสิ่งก่อสร้างหนาแน่นตั้งแต่ศตวรรษที่ 14 ทั้งสุสาน มัสยิด และศาลาในสวน ศตวรรษที่ 16 ถนน Grand Trunk Road ตัดผ่าน และมีสวนสุสานล้อมกำแพงหลายแห่ง รวมถึงสุสานจักรพรรดิหุมายุน ต้นศตวรรษที่ 20 ระหว่างสร้างนิวเดลี อังกฤษตั้ง Sunder Nursery ทางเหนือของสุสานเพื่อเพาะกล้าไม้ให้ถนนของเมืองใหม่ แต่ต่อมาพื้นที่ถูกทิ้งร้างหลายสิบปี รกทึบ เต็มไปด้วยเศษวัสดุก่อสร้าง และโบราณสถานหลายแห่งอยู่ในสภาพพังบางส่วน\n\nปี 2007 Aga Khan Trust for Culture ลงนาม MoU กับกรมโยธาธิการกลาง กรมโบราณคดีอินเดีย และเทศบาลเดลีใต้ เพื่อทำงานอนุรักษ์และภูมิทัศน์ ภายใต้โครงการฟื้นฟูเมืองนิซามุดดินที่ใหญ่กว่า แนวคิดของภูมิสถาปนิก Mohammad Shaheer คือการสร้างสวนเมืองที่ผสาน \"ธรรมชาติ สวน และการใช้ประโยชน์\" ตามแนวคิดดั้งเดิมของอินเดีย คู่กับการอนุรักษ์สิ่งแวดล้อม และใช้แนวทาง Historic Urban Landscape ในการอนุรักษ์โบราณสถาน\n\nผังวางตามแกนกลางที่ยาวกว่า 500 เมตร ทับแนวถนน Grand Trunk Road สมัยศตวรรษที่ 16 เชื่อมทางเข้าแหล่งมรดกโลกสุสานหุมายุนกับ Azimganj Serai ทางเหนือ สองข้างแกนเป็นสวนแบบโมกุลที่มีน้ำพุหินอ่อนชิ้นเดียว รางน้ำไหล แปลงดอกไม้เรขาคณิต และทางเดินหินทรายแดงยกระดับ รอบแกนจัดสวนหลากหลายรูปแบบ ทั้งลานหญ้ากว้างสำหรับปิกนิกฤดูหนาว ทะเลสาบด้านเหนือพร้อมทางเดินและศาลา โรงละครกลางแจ้ง สวนกุหลาบรอบสุสาน Lakkarwala Burj แปลงเพาะชำ สวนผลไม้ และโซนถิ่นอาศัยจำลองขนาด 20 เอเคอร์ที่แสดงพืชของสันเขา ริมแม่น้ำ และพื้นที่ชุ่มน้ำของเดลี\n\nงานอนุรักษ์โบราณสถานใช้ช่างฝีมือดั้งเดิม เครื่องมือ และวัสดุแบบเดิม เช่น ปูนขาวและหินทราย ตามแผนอนุรักษ์ที่ผ่านการทบทวนและอนุมัติจากกรมโบราณคดี อาทิ การฟื้นฟูสุสาน Sunderwala Burj ด้วยหินทรายสีส้มและปูนขาวตามแบบเดิม สวนปัจจุบันเป็นสวนพฤกษศาสตร์แห่งแรกของเดลี มีพันธุ์ไม้ยืนต้นเกือบ 300 ชนิด มากที่สุดในบรรดาสวนของเดลี และต่อเนื่องเป็นผืนป่ากับสวนสัตว์แห่งชาติข้างเคียง เป็นถิ่นอาศัยของนกยูง\n\nตลอดสิบปีมีการขนเศษวัสดุก่อสร้างออกหลายร้อยคันรถบรรทุก (วิกิพีเดียระบุราว 1,000 คัน) ปลูกกล้าไม้ 20,000 ต้น ดึงนกกลับมาได้ 80 ชนิดและผีเสื้อ 60 ชนิด สวนพื้นที่ 90 เอเคอร์ (36 เฮกตาร์) เปิดให้ประชาชนเมื่อ 21 ก.พ. 2018 และได้รับรางวัล Award of Excellence จาก UNESCO Asia-Pacific ปี 2020 งานวิจัยปี 2026 สำรวจต้นไม้ 661 ต้น 105 ชนิด ด้วย i-Tree Eco เพื่อประเมินบริการทางนิเวศของสวน",
+  "design_strategies": [
+   "ใช้แนวถนนประวัติศาสตร์เป็นแกนกลางของผัง เชื่อมโบราณสถานและแหล่งมรดกโลกเข้าด้วยกัน",
+   "สร้างสวนแบบโมกุลด้วยรางน้ำ น้ำพุ และแปลงเรขาคณิตเฉพาะที่แกนกลาง แล้วปล่อยพื้นที่รอบนอกเป็นภูมิทัศน์ธรรมชาติและนันทนาการ",
+   "รักษาหน้าที่เดิมของเรือนเพาะชำและพัฒนาเป็นสวนพฤกษศาสตร์ พร้อมโซนถิ่นอาศัยจำลองเพื่อการศึกษา",
+   "อนุรักษ์โบราณสถานด้วยช่างฝีมือ วัสดุ และเทคนิคดั้งเดิม ตามแผนอนุรักษ์ที่ผ่านการทบทวน",
+   "ใช้รูปแบบหุ้นส่วนรัฐ-เอกชน-มูลนิธิ ในการลงทุนและบริหารสวนมรดก"
+  ],
+  "lessons_th": [
+   "พื้นที่ราชการที่ถูกทิ้งร้างใกล้โบราณสถาน เช่น รอบเกาะรัตนโกสินทร์หรืออยุธยา ฟื้นเป็นสวนสาธารณะมรดกได้ โดยใช้แนวแกนประวัติศาสตร์เป็นโครงของผัง",
+   "สวนมรดกไม่จำเป็นต้องเป็นสวนพิธีการทั้งผืน การจัดลำดับจากสวนเรขาคณิตสู่ป่าและพื้นที่ชุ่มน้ำช่วยรองรับทั้งการท่องเที่ยวและความหลากหลายทางชีวภาพ",
+   "การจ้างช่างฝีมือท้องถิ่นในงานอนุรักษ์ช่วยรักษาความแท้ของโบราณสถานและสร้างทักษะในชุมชน"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.243401,
+       28.595848
+      ],
+      [
+       77.243972,
+       28.595827
+      ],
+      [
+       77.24398,
+       28.594682
+      ],
+      [
+       77.244706,
+       28.59469
+      ],
+      [
+       77.244785,
+       28.594689
+      ],
+      [
+       77.244773,
+       28.594337
+      ],
+      [
+       77.244774,
+       28.594274
+      ],
+      [
+       77.246844,
+       28.59423
+      ],
+      [
+       77.24693,
+       28.594272
+      ],
+      [
+       77.247083,
+       28.594571
+      ],
+      [
+       77.247083,
+       28.59499
+      ],
+      [
+       77.24737,
+       28.595005
+      ],
+      [
+       77.247378,
+       28.595683
+      ],
+      [
+       77.248059,
+       28.595692
+      ],
+      [
+       77.24811,
+       28.594967
+      ],
+      [
+       77.250152,
+       28.595014
+      ],
+      [
+       77.25146,
+       28.59537
+      ],
+      [
+       77.251375,
+       28.596147
+      ],
+      [
+       77.251117,
+       28.596241
+      ],
+      [
+       77.250943,
+       28.596377
+      ],
+      [
+       77.250138,
+       28.596347
+      ],
+      [
+       77.250103,
+       28.596467
+      ],
+      [
+       77.250007,
+       28.597352
+      ],
+      [
+       77.249336,
+       28.598179
+      ],
+      [
+       77.24814,
+       28.599477
+      ],
+      [
+       77.243666,
+       28.599298
+      ],
+      [
+       77.243714,
+       28.597576
+      ],
+      [
+       77.243942,
+       28.597513
+      ],
+      [
+       77.244012,
+       28.596465
+      ],
+      [
+       77.243414,
+       28.596429
+      ],
+      [
+       77.243401,
+       28.595848
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1127484002"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://presentations.thebestinheritage.com/images/presentations/2021/27.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของสุสาน Lakkarwala Burj ที่ได้รับการอนุรักษ์ ตั้งอยู่กลางสวนกุหลาบแบบเรขาคณิต",
+    "credit": "Aga Khan Trust for Culture (ผ่าน The Best in Heritage)",
+    "source": "https://presentations.thebestinheritage.com/2021/sunder-nursery"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunder_Nursery_Sep-2019.jpg/1280px-Sunder_Nursery_Sep-2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แกนกลางแบบสวนโมกุล รางน้ำ น้ำพุ และพุ่มไม้ตัดแต่ง มุ่งสู่ศาลาโดมที่ปลายแกน",
+    "credit": "Gryffindor (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Sep-2019.jpg",
+    "year": 2019
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Sunder_Nursery_%28Garden%29.jpg/1280px-Sunder_Nursery_%28Garden%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รางน้ำกว้างพร้อมน้ำพุกลาง เสาหินทรายแดง และศาลาโดมยามเย็น",
+    "credit": "Danish971 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_(Garden).jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Sunder_Nursery_Wide_angle.jpg/1280px-Sunder_Nursery_Wide_angle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "มุมกว้างของแกนกลาง ทางเดินหินทรายแดงขนาบรางน้ำและสนามหญ้า",
+    "credit": "Aqueel23 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Wide_angle.jpg",
+    "year": 2022
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Sunder_Nursery_The_Central_Vista.jpg/1280px-Sunder_Nursery_The_Central_Vista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ลานหินทรายแดงลวดลายเรขาคณิตและดาวแปดแฉกตามแนวแกนกลาง",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_The_Central_Vista.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Sunder_Nursery_View_of_Sunder_Burj.jpg/1280px-Sunder_Nursery_View_of_Sunder_Burj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินแกนยาวผ่านสนามหญ้าไปสู่สุสาน Sunderwala Burj",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_View_of_Sunder_Burj.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Sunder_Nursery_Taken_From_Lakkarwala_Burj.jpg/1280px-Sunder_Nursery_Taken_From_Lakkarwala_Burj.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แปลงสวนเรขาคณิตมองจากสุสาน Lakkarwala Burj",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Taken_From_Lakkarwala_Burj.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Lakkarwala_Burj%27s_Garden_-Sunder_Nursery_-Delhi_-DSC001.jpg/1280px-Lakkarwala_Burj%27s_Garden_-Sunder_Nursery_-Delhi_-DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สวนรอบสุสาน Lakkarwala Burj ทางเดินหินและแปลงไม้ดอก",
+    "credit": "Aman.arch (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lakkarwala_Burj%27s_Garden_-Sunder_Nursery_-Delhi_-DSC001.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ampitheatre_Sunder_Nursery.jpg/1280px-Ampitheatre_Sunder_Nursery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "โรงละครกลางแจ้งขั้นบันไดหญ้าและหิน ใช้จัดกิจกรรมทางวัฒนธรรม",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Ampitheatre_Sunder_Nursery.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Artificial_Lake_Structure_Sunder_Nursery.jpg/1280px-Artificial_Lake_Structure_Sunder_Nursery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ขอบทะเลสาบด้านเหนือที่มีขั้นบันไดหินและไม้ใหญ่โดยรอบ",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Artificial_Lake_Structure_Sunder_Nursery.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sunder_Nursery_-_55332545775.jpg/1280px-Sunder_Nursery_-_55332545775.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บ่อน้ำในโซนถิ่นอาศัยจำลอง มีพืชน้ำและไม้ริมน้ำของเดลี",
+    "credit": "xiquinhosilva (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_-_55332545775.jpg",
+    "year": 2026
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sunder_Nursery_Bagh_e_Azeem_01.jpg/1280px-Sunder_Nursery_Bagh_e_Azeem_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บ่อน้ำพร้อมน้ำพุ มีผู้มาเยือนนั่งพักริมขอบ",
+    "credit": "Bintladen (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Bagh_e_Azeem_01.jpg",
+    "year": 2024
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Canna_Section_Sunder_Nursery.jpg/1280px-Canna_Section_Sunder_Nursery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แปลงพุทธรักษา (canna) ในส่วนแปลงเพาะชำ",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Canna_Section_Sunder_Nursery.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Protected_Bonsai_Houses_Sunder_Nursery.jpg/1280px-Protected_Bonsai_Houses_Sunder_Nursery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "โรงเรือนบอนไซโครงเหล็กในส่วนเรือนเพาะชำ",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Protected_Bonsai_Houses_Sunder_Nursery.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sunder_Nursery_Delhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "type": "photo",
+    "caption": "สุสาน Sunderwala Burj หลังการอนุรักษ์ ตั้งอยู่บนสนามหญ้า",
+    "credit": "Iloveplantsforever (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Delhi.jpg",
+    "year": 2024
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Arched_Platform_-Sunder_Nursery_-Delhi_-DSC001.jpg/1280px-Arched_Platform_-Sunder_Nursery_-Delhi_-DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แท่นโค้งโบราณที่ได้รับการอนุรักษ์ท่ามกลางต้นไม้",
+    "credit": "Aman.arch (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Arched_Platform_-Sunder_Nursery_-Delhi_-DSC001.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Mughal_Garden_Pavilion_-Sunder_Nursery_-Delhi_-DSC001.jpg/1280px-Mughal_Garden_Pavilion_-Sunder_Nursery_-Delhi_-DSC001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาสวนโมกุลที่ได้รับการอนุรักษ์ปลายทางเดินหิน",
+    "credit": "Aman.arch (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Mughal_Garden_Pavilion_-Sunder_Nursery_-Delhi_-DSC001.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Sunder_Nursery.jpg/1280px-Sunder_Nursery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สนามหญ้ากว้างพร้อมเสาหินทรายและแนวไม้ใหญ่",
+    "credit": "Pulakit Singh (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Sunder_Nursery_Bagh_e_Azeem_04.jpg/1280px-Sunder_Nursery_Bagh_e_Azeem_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ซากสุสานโบราณที่อนุรักษ์ไว้ใต้ร่มไม้",
+    "credit": "Bintladen (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunder_Nursery_Bagh_e_Azeem_04.jpg",
+    "year": 2024
+   },
+   {
+    "url": "https://presentations.thebestinheritage.com/images/presentations/2021/27a.jpg",
+    "type": "photo",
+    "caption": "ช่างฝีมือซ่อมลวดลายปูนปั้นด้วยเครื่องมือดั้งเดิมระหว่างงานอนุรักษ์",
+    "credit": "Aga Khan Trust for Culture (ผ่าน The Best in Heritage)",
+    "source": "https://presentations.thebestinheritage.com/2021/sunder-nursery"
+   }
+  ],
+  "research": [
+   {
+    "title": "Working in Paradise with the Master, Mohammad Shaheer",
+    "authors": "Ratish Nanda",
+    "year": 2016,
+    "journal": "MANZAR (The Scientific Journal of Landscape)",
+    "url": "https://www.manzar-sj.com/article_15323.html?lang=en",
+    "note_th": "อธิบายแนวทางของ Shaheer ในการฟื้นฟูสวนประวัติศาสตร์ รวมถึงแกนกลางของ Sunder Nursery ทั้งระบบน้ำและงานปลูกตามหลักฐานประวัติศาสตร์"
+   },
+   {
+    "title": "Sunder Nursery: A Look at Garden Spaces as Urban Heritage",
+    "authors": "Shambwaditya Ghosh",
+    "year": 2026,
+    "journal": "Reading the Archive",
+    "url": "https://readingarchive.janastu.org/ria/article/view/68",
+    "note_th": "พิจารณาสวนในฐานะมรดกเมืองและความหมายทางสังคม-วัฒนธรรมที่เปลี่ยนไป โดยใช้ Sunder Nursery เป็นกรณีศึกษา"
+   },
+   {
+    "title": "Urban Ecosystem Restoration for Climate Resilience, and Co-benefits: an Integrated Assessment of the UNESCO World Heritage Site, New Delhi, India",
+    "authors": "Saurabh Sonwani, Ronak Sharma, Rajendra Burdak, Aakriti Yadav",
+    "year": 2026,
+    "journal": "EGU General Assembly Conference Abstracts",
+    "url": "https://doi.org/10.5194/egusphere-egu26-846",
+    "note_th": "สำรวจต้นไม้ 661 ต้น 105 ชนิดใน Sunder Nursery และประเมินบริการทางนิเวศ (ฝุ่น ความร้อน คาร์บอน) ด้วย i-Tree Eco"
+   }
+  ],
+  "sources": [
+   {
+    "title": "The Best in Heritage 2021 — Sunder Nursery (Ratish Nanda, AKTC)",
+    "url": "https://presentations.thebestinheritage.com/2021/sunder-nursery"
+   },
+   {
+    "title": "Wikipedia — Sunder Nursery",
+    "url": "https://en.wikipedia.org/wiki/Sunder_Nursery"
+   },
+   {
+    "title": "Sunder Nursery (official site)",
+    "url": "https://www.sundernursery.org/home.php"
+   },
+   {
+    "title": "OpenStreetMap — Sunder Nursery",
+    "url": "https://www.openstreetmap.org/way/1127484002"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W45",
+  "added_date": "2026-11-08"
+ },
+ {
+  "id": "canadas-sugar-beach-toronto",
+  "name": "Canada's Sugar Beach",
+  "designer": "Claude Cormier + Associés ร่วมกับ The Planning Partnership",
+  "client": "Waterfront Toronto",
+  "city": "Toronto",
+  "country": "Canada",
+  "lat": 43.6431,
+  "lng": -79.3674,
+  "year": 2010,
+  "area": "8,500 sq. m. (5.3 ไร่)",
+  "area_sqm": 8500,
+  "categories": [
+   "urban-squares",
+   "recreation",
+   "derelict-land"
+  ],
+  "tags": [
+   "ชายหาดในเมือง",
+   "ฟื้นฟูริมน้ำ",
+   "ลานจอดรถสู่สวน",
+   "มรดกอุตสาหกรรม",
+   "น้ำพุเล่นน้ำ",
+   "การประกวดแบบ",
+   "พื้นที่จัดกิจกรรม"
+  ],
+  "awards": [
+   "ASLA Professional Award (General Design) 2012",
+   "CSLA Regional Honor Award",
+   "Toronto Urban Design Awards — Award of Excellence",
+   "RAIC Civic Design Project Award",
+   "AZ Award (Azure)"
+  ],
+  "wikipedia": "Sugar_Beach",
+  "summary_th": "การเปลี่ยนลานจอดรถริมท่าเทียบเรือเก่าข้างโรงงานน้ำตาล Redpath ให้เป็นสวนชายหาดในเมือง 8,500 ตร.ม. ร่มสีชมพู 36 คัน หินแกรนิตลายลูกกวาด และทางเดินลายใบเมเปิล กลายเป็นพื้นที่สาธารณะต้นแบบของย่านริมน้ำ East Bayfront",
+  "description_th": "ที่ตั้งเป็นปลายถนน Lower Jarvis ฝั่งตะวันออกของท่าเรือ Jarvis Slip ซึ่งถมทะเลสาบออนแทรีโอราวทศวรรษ 1920 ก่อนสร้างเป็นลานจอดรถพื้นผิวแข็งของย่านอุตสาหกรรมเก่า ฝั่งตะวันตกติดโรงงานน้ำตาล Redpath ที่ยังเปิดดำเนินการ ส่วนฝั่งตะวันออกเป็นอาคารสำนักงานใหญ่ของ Corus Entertainment Waterfront Toronto ต้องการพื้นที่สาธารณะที่เป็น \"หน้าตา\" แรกของย่านริมน้ำใหม่ East Bayfront จึงจัดการประกวดแบบในปี 2007\n\nแบบที่ชนะของ Claude Cormier + Associés ดึงแรงบันดาลใจจากมรดกอุตสาหกรรมของพื้นที่และโรงงานน้ำตาลข้างเคียง ใช้ภาษาที่สนุกสนาน — ทรายสีอ่อน ร่มสีชมพู หินลายลูกกวาด — เพื่อบอกว่าริมน้ำของโตรอนโตเป็นที่สำหรับเล่นและพักผ่อน แม้จะลงเล่นน้ำในทะเลสาบไม่ได้ก็ตาม ผู้ออกแบบอ้างอิงภาพวาดของ Seurat เรื่องคนพักผ่อนริมน้ำ และวางสวนนี้เป็นคู่กับ HTO Park ทางตะวันตก\n\nสวนแบ่งเป็นสามส่วนเหมือน \"สามสวนในหนึ่งเดียว\" ได้แก่ ชายหาด (2,920 ตร.ม.) รูปลิ่มตามขอบท่าเรือ ลานกิจกรรม (2,060 ตร.ม.) ระหว่างอาคาร Corus กับทางเดิน และทางเดินแนวทแยงกว้าง 12 เมตร ยาว 200 เมตร จากถนน Queens Quay ลงสู่ริมน้ำ ซึ่งเชื่อมต่อกับทางเดินริมน้ำและสะพานไม้ยาวราว 900 เมตรของ West 8 + DTAH ลานกิจกรรมมีหินแกรนิตยาว 15.5 เมตรทาแถบสี 18 เส้น และเนินหญ้าสามลูกสูง 1–2.5 เมตร ทำหน้าที่เป็นอัฒจันทร์ธรรมชาติ ช่องว่างระหว่างเนินกลายเป็นเวทีเล็ก ริมน้ำยาว 225 เมตร\n\nชายหาดใช้ทรายจากรัฐโอไฮโอ ร่มไฟเบอร์กลาสสีชมพูสูง 3 เมตร 36 คันพร้อมไฟ LED ใต้ร่ม และเก้าอี้ Muskoka พลาสติกรีไซเคิล 150 ตัว ทางเดินปูหินแกรนิตดำ-เทาเป็นลายใบเมเปิล ปลูกเมเปิล Freeman 32 ต้น รวมต้นไม้ทั้งสวน 57 ต้น ทั้งหลิวทองและสนขาว ต้นไม้บนลานใช้ระบบ Silva Cells ให้ดินไม่อัดแน่นราว 30 ลบ.ม. ต่อต้น ข้างชายหาดมีน้ำพุ 27 หัวฝังในใบเมเปิลหินแกรนิตพร้อมไฟ LED น้ำฝนถูกรวบรวมสู่ระบบบำบัดน้ำฝนของย่าน East Bayfront ก่อนปล่อยลงทะเลสาบ\n\nโครงการใช้งบ 14.3 ล้านดอลลาร์แคนาดา (รวมการเตรียมพื้นที่ รื้อถอน และจัดการดิน) ก่อสร้างก.ย. 2009–มิ.ย. 2010 เป็นส่วนหนึ่งของแผน LEED ND ระดับ Gold ของ East Bayfront ได้รับรางวัลหลายรายการรวมถึง ASLA Professional Award ปี 2012 และตั้งแต่ปี 2011 ใช้จัดงานฉายภาพยนตร์กลางน้ำ Sail-In Cinema โดยติดตั้งจอเป่าลมบนเรือห่างฝั่งราว 50 เมตร",
+  "design_strategies": [
+   "เปลี่ยนลานจอดรถริมน้ำเป็นสวนด้วยภาษาการออกแบบที่สนุกและจดจำง่าย (ร่มชมพู หินลายลูกกวาด) ให้เป็นสัญลักษณ์ของย่านใหม่",
+   "แบ่งพื้นที่เล็กเป็นสามส่วนที่ใช้งานต่างกัน (ชายหาด ลานกิจกรรม ทางเดิน) เพื่อรองรับทั้งการพักผ่อนทุกวันและงานอีเวนต์",
+   "ใช้หินและเนินหญ้าเป็นที่นั่งแบบอัฒจันทร์ แทนเฟอร์นิเจอร์ติดตั้งจำนวนมาก",
+   "อ้างอิงบริบทอุตสาหกรรม (โรงงานน้ำตาล) และอัตลักษณ์ชาติ (ใบเมเปิล) ในวัสดุและลวดลาย",
+   "ใช้ระบบดินใต้ผิวแข็ง (Silva Cells) ให้ต้นไม้บนลานโตได้ และเชื่อมการระบายน้ำเข้ากับระบบของทั้งย่าน"
+  ],
+  "lessons_th": [
+   "ริมน้ำที่ลงเล่นน้ำไม่ได้ เช่น ริมเจ้าพระยาหรือท่าเรือเก่า ยังทำ \"ชายหาดในเมือง\" เพื่อการพักผ่อนได้ โดยใช้ทราย ร่ม และเก้าอี้แทนการลงน้ำ",
+   "สีและองค์ประกอบที่แปลกตาช่วยให้สวนขนาดเล็กเป็นจุดหมายของเมืองได้ ซึ่งเหมาะกับโครงการฟื้นฟูย่านที่ต้องการสร้างภาพจำเร็ว",
+   "การประกวดแบบโดยหน่วยงานพัฒนาริมน้ำเฉพาะกิจ (แบบ Waterfront Toronto) ช่วยให้ได้แบบคุณภาพและดูแลต่อเนื่องเป็นระบบ"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -79.368288,
+       43.643875
+      ],
+      [
+       -79.368181,
+       43.643718
+      ],
+      [
+       -79.367792,
+       43.643142
+      ],
+      [
+       -79.367453,
+       43.642615
+      ],
+      [
+       -79.366881,
+       43.642838
+      ],
+      [
+       -79.365753,
+       43.643251
+      ],
+      [
+       -79.365325,
+       43.643409
+      ],
+      [
+       -79.365045,
+       43.643515
+      ],
+      [
+       -79.364831,
+       43.6436
+      ],
+      [
+       -79.364874,
+       43.643695
+      ],
+      [
+       -79.365739,
+       43.643411
+      ],
+      [
+       -79.366912,
+       43.642988
+      ],
+      [
+       -79.367363,
+       43.64363
+      ],
+      [
+       -79.367547,
+       43.643771
+      ],
+      [
+       -79.367569,
+       43.643791
+      ],
+      [
+       -79.367761,
+       43.64372
+      ],
+      [
+       -79.367827,
+       43.643696
+      ],
+      [
+       -79.367869,
+       43.643722
+      ],
+      [
+       -79.368215,
+       43.643965
+      ],
+      [
+       -79.368288,
+       43.643875
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/172728952"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Toronto-waterfront-park-sugar-beach.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของชายหาดทรายพร้อมร่มสีชมพูและต้นไม้ริมทะเลสาบออนแทรีโอ",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-05-CC.jpg",
+    "type": "photo",
+    "caption": "ผู้คนอาบแดดบนชายหาดใต้ร่มสีชมพูริมขอบท่าเรือ",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-02-CC.jpg",
+    "type": "photo",
+    "caption": "ภาพถ่ายมุมสูงแนวดิ่งแสดงชายหาด ทางเดินแนวทแยงที่มีต้นไม้ เนินหญ้า และลานกิจกรรม",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-03-CC.jpg",
+    "type": "photo",
+    "caption": "หินแกรนิตทาแถบสีลูกกวาดกับเนินหญ้าในลานกิจกรรม มองจากมุมสูง",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-04-CC.jpg",
+    "type": "photo",
+    "caption": "ต้นไม้เปลี่ยนสีในฤดูใบไม้ร่วงบนชายหาดและทางเดินลายใบเมเปิล",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-06-CC.jpg",
+    "type": "photo",
+    "caption": "เด็กเล่นน้ำพุที่ฝังในใบเมเปิลหินแกรนิต มองจากด้านบน",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-07-CC.jpg",
+    "type": "photo",
+    "caption": "หินลายลูกกวาดกับเส้นขอบฟ้าโตรอนโตและโรงงานน้ำตาลด้านหลัง",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-08-CC.jpg",
+    "type": "photo",
+    "caption": "ชายหาดในหมอกกับต้นไม้ไร้ใบและร่มสีชมพู",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-09-CC.jpg",
+    "type": "photo",
+    "caption": "ต้นหลิวทองให้ร่มเงาทางเดินหินแกรนิตต่อเนื่องสู่ชายหาด",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-11.jpg",
+    "type": "photo",
+    "caption": "ชายหาดและร่มสีชมพูริมท่าเรือ มองจากมุมสูง",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-12.jpg",
+    "type": "photo",
+    "caption": "ทางเดินแนวทแยงลายใบเมเปิล ต้นไม้ และผู้ใช้จักรยาน",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-13.jpg",
+    "type": "photo",
+    "caption": "เด็กๆ เล่นน้ำพุบนลานหินที่สะท้อนเงาร่มชมพู",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-14.jpg",
+    "type": "photo",
+    "caption": "น้ำพุ 27 หัวเปิดไฟ LED หลากสียามค่ำ",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-15.jpg",
+    "type": "photo",
+    "caption": "เด็กใช้ถังตักน้ำเล่นที่น้ำพุ",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-16.jpg",
+    "type": "photo",
+    "caption": "ร่มชมพูเปิดไฟใต้ร่มและเก้าอี้ Muskoka ยามค่ำคืน",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-17.jpg",
+    "type": "photo",
+    "caption": "ร่มและเก้าอี้ชายหาดท่ามกลางหิมะในฤดูหนาว",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2014/01/Sugar-Beach-by-Claude_Cormier_Associés-19-CC.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพแนวคิดอ้างอิงภาพวาดของ Seurat และตำแหน่ง HTO Park กับ Jarvis Slip ริมน้ำโตรอนโต",
+    "credit": "Claude Cormier + Associés (ผ่าน Landezine)",
+    "source": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   }
+  ],
+  "research": [
+   {
+    "title": "How sweet: there's no swimming at Canada's Sugar Beach, but the crowds come anyway [Toronto, Ontario]",
+    "authors": "Daniel Jost",
+    "year": 2013,
+    "journal": "Landscape Architecture Magazine",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=6252153",
+    "note_th": "บทความวิเคราะห์ใน LAM ว่าทำไมชายหาดที่ลงน้ำไม่ได้จึงดึงคนได้มาก และที่มาจากการประกวดแบบ Jarvis Slip"
+   },
+   {
+    "title": "Lure of the Water's Edge. Sugar Beach, Toronto, Canada",
+    "authors": "James W. Roche",
+    "year": 2014,
+    "journal": "Topos: European Landscape Magazine",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=5592977",
+    "note_th": "บทความใน Topos ว่าด้วยแรงดึงดูดของขอบน้ำและบทบาทของ Sugar Beach ในการฟื้นริมน้ำโตรอนโต"
+   },
+   {
+    "title": "Sugar beach. Toronto. Ontario. Canadá",
+    "authors": "Claude Cormier",
+    "year": 2011,
+    "journal": "Paisea: revista de paisajismo",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=4019078",
+    "note_th": "ผู้ออกแบบนำเสนอโครงการในวารสารภูมิสถาปัตยกรรม Paisea"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Waterfront Toronto — Canada's Sugar Beach Fact Sheet (July 2010)",
+    "url": "https://www.waterfrontoronto.ca/sites/default/files/documents/csb---fact-sheet-july-2010-final-1.pdf"
+   },
+   {
+    "title": "Landezine — Sugar Beach by Claude Cormier + Associés",
+    "url": "https://landezine.com/sugar-beach-by-claude-cormier-associes/"
+   },
+   {
+    "title": "Wikipedia — Sugar Beach",
+    "url": "https://en.wikipedia.org/wiki/Sugar_Beach"
+   },
+   {
+    "title": "OpenStreetMap — Sugar Beach",
+    "url": "https://www.openstreetmap.org/way/172728952"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W45",
+  "added_date": "2026-11-08"
+ }
+]

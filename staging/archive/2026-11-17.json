@@ -1,0 +1,1385 @@
+[
+ {
+  "id": "losbates-school-lounovice",
+  "name": "LOŠBATES Primary School (Svazková základní škola LOŠBATES)",
+  "designer": "Pelletier de Fontenay + SOA architekti (competition with Valerio Sartori)",
+  "client": "LOŠBATES Voluntary Association of Municipalities",
+  "city": "Louňovice (Prague-East)",
+  "country": "Czechia",
+  "lat": 49.98995,
+  "lng": 14.76103,
+  "year": "2025",
+  "categories": [
+   "school-grounds",
+   "living-roofs",
+   "flood-suds"
+  ],
+  "tags": [
+   "school courtyard",
+   "forest cloister",
+   "community hub",
+   "rainwater reuse",
+   "green roof",
+   "Passivhaus",
+   "international competition"
+  ],
+  "awards": [],
+  "summary_th": "โรงเรียนประถมร่วมของสหภาพเทศบาลสี่แห่งชานกรุงปราก ออกแบบเป็น \"อารามป่า\" ที่อาคารสองชั้นล้อมลานกลางสีเขียวสำหรับเล่นและเรียนรู้กลางแจ้ง พร้อมหลังคาเขียวและระบบเก็บน้ำฝนนำกลับมาใช้",
+  "description_th": "หมู่บ้านสี่แห่งทางตะวันออกเฉียงใต้ของกรุงปราก (Louňovice, Svojetice, Štíhlice, Tehovec — ชื่อ LOŠBATES มาจากอักษรต้นของชุมชน) เติบโตเร็วจากการย้ายออกจากเมือง แต่ไม่มีโรงเรียนที่เพียงพอ สหภาพเทศบาลจึงจัดการประกวดแบบนานาชาติในปี 2018 เพื่อสร้างโรงเรียนร่วมแห่งเดียว ผู้ชนะคือสำนักงาน Pelletier de Fontenay จากแคนาดาร่วมกับ Valerio Sartori และพัฒนาแบบต่อกับ SOA architekti จากปราก ก่อสร้างแล้วเสร็จในปี 2025\n\nแนวคิดหลักคือ \"forest cloister\" หรืออารามป่า ที่ตั้งโรงเรียนอยู่บนแนวชายป่า ตรงจุดกึ่งกลางทางภูมิศาสตร์ของสี่ชุมชน และจงใจไม่วางไว้ในแกนกลางของหมู่บ้านใดหมู่บ้านหนึ่ง เพื่อให้เป็นศูนย์กลางร่วมที่เดินและปั่นจักรยานถึงได้ อาคารเตี้ยสองชั้นล้อมเป็นวงแหวนโปร่งรอบลานกลางขนาดใหญ่ ซึ่งแปลความคิด \"ป่าในอาคาร\" ให้เป็นภูมิทัศน์สีเขียวที่ปลอดภัยสำหรับพัก เล่น และเรียนรู้\n\nผังวิทยาเขตมีตรรกะชัดเจน: โลกภายในที่ได้รับการปกป้องอยู่ตรงกลาง โซนกีฬา (ลู่วิ่ง สนามฟุตบอล อาคารยิมนาเซียม) อยู่ด้านตะวันออก และการจราจรรถยนต์กับงานบริการถูกกันไว้ที่ขอบ วงแหวนอาคารเชื่อมสี่กลุ่มอาคาร (ส่วนกลางที่มีหอประชุม โรงอาหาร กิจกรรมหลังเลิกเรียน, ประถมต้น, ประถมปลาย และโรงยิม) ทำหน้าที่เป็น \"ถนน\" หลักของโรงเรียนที่ไม่มีทางตัน ส่วนที่ใช้ร่วมกับชุมชนสามารถเปิดแยกนอกเวลาเรียนได้โดยไม่ต้องเปิดทั้งวิทยาเขต\n\nลานกลางปูด้วยพื้นยางสีแดงและคอนกรีตซึมน้ำ (Pervia) สลับกับเนินดินปลูกหญ้าประดับ ไม้พุ่ม และต้นไม้ มีเกมวาดบนพื้น วงกตบนพื้น โต๊ะปิกนิก และกระถางต้นไม้ทรงกลม ด้านหน้าอาคารเก็บต้นไม้ใหญ่เดิมไว้เป็นแนวร่มเงาของทางเดินเท้า ผนังภายนอกกรุไม้ลาร์ชที่ปล่อยให้ซีดตามธรรมชาติ และหลังคาส่วนใหญ่เป็นหลังคาเขียวแบบ extensive\n\nด้านสมรรถนะ อาคารผ่านมาตรฐานบ้านพาสซีฟ ทำความร้อนด้วยปั๊มความร้อน น้ำฝนถูกหน่วงไว้ในพื้นที่ปลูกพืชและหลังคาเขียวเป็นหลัก น้ำส่วนเกินถูกกักเก็บไว้ใช้รดน้ำต้นไม้ กดชักโครก และทำความสะอาด และมีระบบโซลาร์บนหลังคาที่ออกแบบเพื่อใช้เองในพื้นที่ โครงการมีพื้นที่ปกคลุมอาคาร 5,140 ตร.ม. และพื้นที่อาคารรวม 10,515 ตร.ม.",
+  "design_strategies": [
+   "วางโรงเรียนที่จุดกึ่งกลางของสี่ชุมชนบนแนวชายป่า เชื่อมด้วยเครือข่ายทางเดินและทางจักรยาน",
+   "ใช้อาคารวงแหวนสองชั้นล้อมลานกลาง (forest cloister) ให้เด็กมีภูมิทัศน์ที่ปลอดภัยและมองเห็นกันได้ทั่ว",
+   "ลานกลางผสมพื้นยางเล่นได้ คอนกรีตซึมน้ำ และเนินพืชพรรณ เพื่อเล่น เรียนกลางแจ้ง และหน่วงน้ำ",
+   "แยกโซนกีฬาไว้ด้านตะวันออก และกันรถยนต์/งานบริการไว้ที่ขอบวิทยาเขต",
+   "หลังคาเขียวและระบบหน่วง-กักเก็บน้ำฝนเพื่อรดน้ำและใช้ในอาคาร",
+   "ให้ส่วนหอประชุม โรงอาหาร และยิม เปิดใช้โดยชุมชนนอกเวลาเรียนได้แยกจากส่วนเรียน"
+  ],
+  "lessons_th": [
+   "โรงเรียนไทยที่มีลานกลางสามารถออกแบบลานให้เป็น \"ห้องเรียนกลางแจ้ง\" ที่มีเนินต้นไม้และพื้นซึมน้ำ แทนลานคอนกรีตโล่งร้อน",
+   "การวางโรงเรียนเป็นศูนย์กลางร่วมของหลายตำบล พร้อมพื้นที่ที่ชุมชนใช้ได้นอกเวลาเรียน ช่วยเพิ่มคุณค่างบลงทุนสาธารณะ",
+   "เก็บต้นไม้ใหญ่เดิมไว้เป็นแนวร่มเงาของทางเดินเข้าโรงเรียน ช่วยลดความร้อนตั้งแต่วันเปิดใช้",
+   "ระบบน้ำฝนที่ผูกกับพืชพรรณและหลังคาเขียวทำได้ทั้งหน่วงน้ำท่วมขังและลดการใช้น้ำประปา"
+  ],
+  "images": [
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_03.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของวิทยาเขต: อาคารวงแหวนสองชั้นล้อมลานกลาง ลานกีฬาและสนามอยู่ด้านตะวันออก ติดแนวป่า",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_50.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณแสดงตำแหน่งโรงเรียนกึ่งกลางระหว่างชุมชนและแนวป่า",
+    "credit": "Pelletier de Fontenay + SOA architekti",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_52.jpg",
+    "type": "plan",
+    "caption": "ผังชั้นล่าง: วงแหวนอาคารสี่กลุ่มล้อมลานกลาง (forest cloister)",
+    "credit": "Pelletier de Fontenay + SOA architekti",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_54.jpg",
+    "type": "section",
+    "caption": "รูปตัดอาคารและลานกลาง",
+    "credit": "Pelletier de Fontenay + SOA architekti",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_55.jpg",
+    "type": "diagram",
+    "caption": "แอกโซโนเมตริกแสดงการจัดกลุ่มอาคาร ลานกลาง และพื้นที่กีฬา",
+    "credit": "Pelletier de Fontenay + SOA architekti",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_02.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงยามเย็น โรงเรียนตั้งอยู่ชายป่า นอกแกนกลางของทุกหมู่บ้าน",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_05.jpg",
+    "type": "photo",
+    "caption": "มุมมองจากด้านบน: หลังคาเขียว ลานกลาง ลู่วิ่ง และสนามฟุตบอล",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_04.jpg",
+    "type": "photo",
+    "caption": "ลานกลางจากมุมสูง พื้นยางสีแดงสลับเนินปลูกพืชและต้นไม้",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_06.jpg",
+    "type": "photo",
+    "caption": "ลานกลางมองตรงจากด้านบน แปลงพืชรูปทรงอิสระแทรกอยู่ในพื้นผิวเล่น",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_07.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดลานเล่น: เกมบนพื้น วงกลม และเนินพืชพรรณ",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_08.jpg",
+    "type": "photo",
+    "caption": "เส้นสนามและเกมบนพื้นยางแดงข้างกระถางต้นไม้ทรงกลม",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_09.jpg",
+    "type": "photo",
+    "caption": "โต๊ะปิกนิกและที่นั่งทรงกลมบนพื้นลายวงกต",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_21.jpg",
+    "type": "photo",
+    "caption": "นักเรียนใช้ลานกลางในช่วงพัก",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_22.jpg",
+    "type": "photo",
+    "caption": "มุมเล่นในลานกลาง โต๊ะปิงปองข้างแปลงหญ้าประดับ",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_23.jpg",
+    "type": "photo",
+    "caption": "มุมหนึ่งของลานกลางกับทางเดินชั้นล่างของอาคารวงแหวน",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_19.jpg",
+    "type": "photo",
+    "caption": "อาคารโรงเรียนผ่านแนวต้นไม้ใหญ่เดิมในฤดูใบไม้ร่วง",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_20.jpg",
+    "type": "photo",
+    "caption": "ทางเดินเท้าใต้ร่มไม้เดิมด้านหน้าโรงเรียน",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_10.jpg",
+    "type": "photo",
+    "caption": "ลานทางเข้าหลักและแปลงพืชหน้าอาคาร",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_11.jpg",
+    "type": "photo",
+    "caption": "ด้านหน้าอาคารกรุไม้ลาร์ช ลานแข็งและที่จอดจักรยาน",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_14.jpg",
+    "type": "photo",
+    "caption": "ลานกลางในฤดูหนาวเมื่อหิมะปกคลุม",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_17.jpg",
+    "type": "photo",
+    "caption": "มองลอดใต้ส่วนอาคารยกสู่พื้นที่สีเขียวในฤดูหนาว",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_24.jpg",
+    "type": "photo",
+    "caption": "สนามหญ้ากีฬาด้านตะวันออกของวิทยาเขต",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_25.jpg",
+    "type": "photo",
+    "caption": "ลู่วิ่งและสนามกีฬากลางแจ้ง",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-09/metalocus_soa-pelletier-de-fontenay-losbates-school_27.jpg",
+    "type": "photo",
+    "caption": "มองจากภายในอาคารออกสู่ลานกลาง",
+    "credit": "Alex Shoots Buildings",
+    "source": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   }
+  ],
+  "research": [
+   {
+    "title": "Construction technology design - Lošbates elementary school",
+    "authors": "Dibala, J.",
+    "year": "2024",
+    "journal": "Czech Technical University in Prague (thesis, DSpace)",
+    "url": "http://hdl.handle.net/10467/113894",
+    "note_th": "วิทยานิพนธ์ ČVUT ที่ศึกษาการออกแบบเทคโนโลยีการก่อสร้างของโรงเรียน LOŠBATES ใช้ดูขั้นตอนและระบบก่อสร้างของโครงการจริง"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Metalocus — LOŠBATES Primary School by Pelletier de Fontenay + SOA architekti",
+    "url": "https://www.metalocus.es/en/news/diverse-and-inspiring-losbates-primary-school-pelletier-de-fontenay-soa-architekti"
+   },
+   {
+    "title": "Competitions.org — Prague's LOŠBATES School Competition",
+    "url": "https://competitions.org/?p=37146"
+   },
+   {
+    "title": "Instagram — @toposmagazine (photos @alex.shoots.buildings)",
+    "url": "https://www.instagram.com/p/DfzzXlXDdbR/"
+   },
+   {
+    "title": "OpenStreetMap — school grounds",
+    "url": "https://www.openstreetmap.org/way/1475628922"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W47",
+  "added_date": "2026-11-17",
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.759473,
+       49.989609
+      ],
+      [
+       14.76181,
+       49.989227
+      ],
+      [
+       14.761858,
+       49.98935
+      ],
+      [
+       14.762168,
+       49.9893
+      ],
+      [
+       14.762586,
+       49.990312
+      ],
+      [
+       14.760269,
+       49.990673
+      ],
+      [
+       14.759982,
+       49.990544
+      ],
+      [
+       14.759473,
+       49.989609
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1475628922"
+   ]
+  }
+ },
+ {
+  "id": "schaliken-stadspark-herentals",
+  "name": "Binnengebied Schaliken & Stadspark (Schaliken Inner Area and City Park)",
+  "designer": "LAMA landscape architects + BRUT architecture and urban design (engineering: Talboom)",
+  "client": "City of Herentals",
+  "city": "Herentals",
+  "country": "Belgium",
+  "lat": 51.17824,
+  "lng": 4.83362,
+  "year": "2015–2017",
+  "categories": [
+   "public-parks",
+   "historic",
+   "masterplanning",
+   "flood-suds"
+  ],
+  "tags": [
+   "city park restoration",
+   "inner-block regeneration",
+   "wadi",
+   "depaving",
+   "slow mobility",
+   "temporary use",
+   "participation"
+  ],
+  "awards": [
+   "Prijs Publieke Ruimte 2020 — Publieksprijs (public prize)"
+  ],
+  "summary_th": "การฟื้นฟูพื้นที่ใจกลางบล็อกเมืองเฮเรนทาลส์ ประเทศเบลเยียม: บูรณะสวนเมืองสมัยศตวรรษที่ 19 เปลี่ยนลานจอดรถเป็นพื้นที่สาธารณะชั่วคราว สร้างแอ่งวาดีรับน้ำเป็นหัวใจของสวน และวางผังแม่บทระยะยาวของทั้งบล็อก",
+  "description_th": "Schaliken เป็นพื้นที่ภายในบล็อกเมือง (binnengebied) ที่อยู่ติดจัตุรัสกลาง Grote Markt ของเมืองเฮเรนทาลส์ จังหวัดแอนต์เวิร์ป ภายในมีสวนเมือง Stadspark Van Hilst ซึ่งเดิมเป็นสวนของคฤหาสน์และตกเป็นของเมือง ลานจอดรถขนาดใหญ่ และทางเดินแคบ 't Loopke ที่เป็นทางดินกว้างเพียง 2–3 ม. ด้านหลังของอาคารริมถนนทำให้พื้นที่เป็น \"ขอบรุ่งริ่ง\" ที่เข้าถึงยากและไม่มีทางเข้าชัดเจน ต้นปี 2015 เมืองว่าจ้าง BRUT, LAMA และ Talboom ให้ศึกษาและออกแบบ\n\nโจทย์มีสองชั้น: แผนปรับปรุงระยะสั้นที่ก่อสร้างได้ทันที และผังแม่บทระยะยาวเพื่อกำกับการพัฒนาทั้งบล็อก แนวคิดคือทำให้พื้นที่สีเขียวกลางบล็อก \"ยึดโยง\" กับเมืองด้วยทางเชื่อมที่ดีระหว่างใจกลางเมืองกับสวนและทางเข้าที่ชัดเจน บูรณะสวนเมืองในแบบร่วมสมัยโดยรักษาต้นไม้ที่มีคุณค่าและบุคลิกแบบศตวรรษที่ 19 และตอบโจทย์ศตวรรษที่ 21 ได้แก่ การรื้อพื้นแข็ง เส้นทางสัญจรอ่อน การจัดการน้ำอย่างยั่งยืน การออกแบบที่เป็นมิตรกับเด็ก และการใช้พื้นที่ชั่วคราวอย่างมีคุณภาพ\n\nในผังระยะสั้น ทางเดิน 't Loopke ถูกปรับเป็นส่วนหนึ่งของเส้นทางสัญจรอ่อนระหว่างสถานีรถไฟกับ Grote Markt สวนเมืองได้ทางเข้าใหม่ ลานจอดรถเดิมถูกแทนด้วยการจัดพื้นที่สาธารณะชั่วคราวระหว่างรอโครงการเติมเมืองระยะยาว และระบบที่จอดรถถูกจัดใหม่ให้กระชับเพื่อลดแรงกดดันจากรถในพื้นที่ ส่วนผังแม่บทระยะยาวเสนอให้ลานจอดรถบนดินหายไป เปิดทางให้สวนขยายไปถึง Grote Markt ในสภาพปลอดรถ และเสนอแนวทางเติมอาคารตามขอบบล็อกที่สร้างประโยชน์ร่วมกับพื้นที่สีเขียว ผังผ่านกระบวนการมีส่วนร่วมทั้งนิทรรศการ ตลาดนัดข้อมูล และการเดินชมพื้นที่กับผู้ออกแบบ\n\nวัสดุใช้ชุดเรียบง่ายคือคอนกรีตล้างผิวและหินก้อน (kasseien) สำหรับทางเดินและลาน ผสานกับกำแพงอิฐ ประตูเสาอิฐ และรั้วเหล็กเดิมของสวนเก่า แปลงไม้ยืนต้นและหญ้าประดับเลียบกำแพง ส่วนกลางของสวนคือแอ่งวาดีธรรมชาติที่มีองค์ประกอบสำหรับเล่นและนั่ง ทำหน้าที่ควบคุมระบบน้ำของพื้นที่ภายในบล็อกทั้งหมด ลานชั่วคราวใช้กระบะไม้ปลูกต้นไม้ที่นั่งได้และที่จอดจักรยาน\n\nผลลัพธ์คือพื้นที่ภายในบล็อกที่เคยถูกใช้เป็นที่จอดรถกลายเป็นปอดเขียวที่เดินผ่านได้ เชื่อมสถานีกับใจกลางเมือง และเป็นที่นั่งเล่นของครอบครัวและวัยรุ่นข้างลานสเก็ต โครงการได้รับรางวัล Publieksprijs (รางวัลมหาชน) ของ Prijs Publieke Ruimte ปี 2020 และกลายเป็นฐานให้เมืองต่อยอดโครงการขยายสวน Stadspark+ ในเวลาต่อมา",
+  "design_strategies": [
+   "แบ่งงานเป็นแผนระยะสั้นที่สร้างได้ทันทีและผังแม่บทระยะยาวที่ยืดหยุ่น เพื่อกำกับการพัฒนาทั้งบล็อก",
+   "เปลี่ยนลานจอดรถกลางบล็อกเป็นพื้นที่สาธารณะชั่วคราว ระหว่างรอการพัฒนาถาวร",
+   "ใช้แอ่งวาดีธรรมชาติเป็นทั้งหัวใจของสวน พื้นที่เล่น และระบบจัดการน้ำของทั้งพื้นที่",
+   "บูรณะสวนประวัติศาสตร์แบบร่วมสมัย รักษาต้นไม้ใหญ่ กำแพง และประตูเดิม",
+   "สร้างเส้นทางสัญจรอ่อน ('t Loopke) เชื่อมสถานีรถไฟกับจัตุรัสกลางเมืองผ่านพื้นที่สีเขียว",
+   "ใช้ชุดวัสดุเรียบง่าย (คอนกรีตล้างผิว หินก้อน) ให้กลมกลืนกับอิฐเก่า"
+  ],
+  "lessons_th": [
+   "พื้นที่หลังอาคารพาณิชย์และลานจอดรถกลางบล็อกในเมืองไทยสามารถปรับเป็นสวนและทางเดินลัดสาธารณะได้ แม้ยังไม่ได้รื้อที่จอดรถทั้งหมด",
+   "การออกแบบ \"ชั่วคราวที่มีคุณภาพ\" ช่วยให้เมืองได้พื้นที่ใช้งานทันทีระหว่างรอโครงการใหญ่",
+   "แอ่งรับน้ำในสวนที่ออกแบบให้นั่งเล่นได้ ใช้แก้น้ำท่วมขังในย่านเก่าได้โดยไม่เสียพื้นที่ใช้งาน",
+   "เก็บกำแพงและประตูเก่าไว้เป็นองค์ประกอบของสวน สร้างความต่อเนื่องทางประวัติศาสตร์ให้ชุมชนจดจำ"
+  ],
+  "images": [
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-01.jpg",
+    "type": "photo",
+    "caption": "แอ่งวาดี (wadi) ธรรมชาติพร้อมขอบนั่งคอนกรีต หัวใจใหม่ของสวนที่รับน้ำของพื้นที่",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/binnengebied-schaliken-korte-termijn.jpg",
+    "type": "plan",
+    "caption": "ผังการปรับปรุงระยะสั้น: สวนเมือง ทางเดิน 't Loopke และลานชั่วคราวในใจกลางบล็อก",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/binnengebied-schaliken-lange-termijn.jpg",
+    "type": "plan",
+    "caption": "ผังแม่บทระยะยาว: ขยายสวนเมืองไปทางจัตุรัส Grote Markt และพัฒนาขอบบล็อก",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals14.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพเครือข่ายทางเดินและจักรยานที่เชื่อมใจกลางเมืองเข้าสู่พื้นที่สีเขียวภายในบล็อก",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals16.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพตำแหน่ง: 't Loopke เป็นส่วนหนึ่งของเส้นทางสัญจรอ่อนระหว่างสถานีรถไฟกับ Grote Markt",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-02.jpg",
+    "type": "photo",
+    "caption": "ประตูเสาอิฐเดิมของสวนศตวรรษที่ 19 กับทางเดินคอนกรีตล้างผิวใหม่",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-03.jpg",
+    "type": "photo",
+    "caption": "ทางเดินโค้งผ่านกำแพงสวนเก่าและแปลงไม้ดอกหญ้าประดับ",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-04.jpg",
+    "type": "photo",
+    "caption": "แปลงไม้ยืนต้นและหญ้าประดับเลียบกำแพงอิฐเก่า",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-05.jpg",
+    "type": "photo",
+    "caption": "ลานชั่วคราวในพื้นที่ที่เคยเป็นลานจอดรถ พร้อมกระบะไม้นั่งได้และที่จอดจักรยาน",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://www.lamaland.eu/wordpress/wp-content/uploads/2017/07/Herentals-Stadspark-Schaliken-LAMA-Brut-06.jpg",
+    "type": "photo",
+    "caption": "สนามหญ้าและต้นไม้ใหญ่ที่เก็บรักษาไว้ในสวนเมือง",
+    "credit": "LAMA landscape architects / BRUT",
+    "source": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals9.jpg",
+    "type": "photo",
+    "caption": "แอ่งวาดีและสนามหญ้า มองไปยังขอบอาคารของบล็อก",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals10.jpg",
+    "type": "photo",
+    "caption": "ทางเดินแยกสองทางใต้ร่มไม้ใหญ่ในสวน",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals11.jpg",
+    "type": "photo",
+    "caption": "ทางเดิน 't Loopke ช่วงใหม่ระหว่างกำแพงอิฐกับแปลงไม้ดอก",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals12.jpg",
+    "type": "photo",
+    "caption": "ผู้คนเดินผ่านสวนบนทางเดินคอนกรีตใหม่",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals3.jpg",
+    "type": "photo",
+    "caption": "ทางเข้าสวนผ่านประตูเสาอิฐและรั้วเหล็กเดิม",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals5.jpg",
+    "type": "photo",
+    "caption": "ทางเดินเลียบกำแพงอิฐใช้เป็นเส้นทางลัดของคนเดินเท้า",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals6.jpg",
+    "type": "photo",
+    "caption": "ลานแข็งชั่วคราวพร้อมกระบะไม้ปลูกต้นไม้และที่นั่ง",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals7.jpg",
+    "type": "photo",
+    "caption": "ซุ้มกำแพงเก่าและแปลงหญ้าประดับริมทางเดินใหม่",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals8.jpg",
+    "type": "photo",
+    "caption": "ประตูเสาอิฐเปิดสู่สนามหญ้าของสวนเมือง",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "url": "https://databank.publiekeruimte.info/wp-content/uploads/2020/02/Schaliken-Herentals4.jpg",
+    "type": "photo",
+    "caption": "สภาพทางเดิน 't Loopke ก่อนปรับปรุง: ทางดินแคบและเป็นโคลน (ภาพก่อนปรับปรุง)",
+    "credit": "BRUT / LAMA landscape architects (Databank Publieke Ruimte)",
+    "source": "https://databank.publiekeruimte.info/project/schaliken/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "LAMA landscape architects — Binnengebied Schaliken",
+    "url": "https://www.lamaland.eu/projects/binnengebied-schaliken/"
+   },
+   {
+    "title": "Databank Publieke Ruimte — Binnengebied Schaliken, Herentals",
+    "url": "https://databank.publiekeruimte.info/project/schaliken/"
+   },
+   {
+    "title": "Stad Herentals — Brochure Binnengebied Schaliken (BRUT, LAMA, Talboom)",
+    "url": "https://www.herentals.be/sites/default/files/public/stad/Bestuur/Documenten/Projecten/Binnengebied/brochure_binnengebied_schaliken_v1.pdf"
+   },
+   {
+    "title": "A+ Architecture in Belgium — Lama – Brut, Schaliken Inner Region",
+    "url": "https://a-plus.be/en/groene-long-voor-stadsdorp/"
+   },
+   {
+    "title": "Instagram — @landscape.first (photo Steven Neyrinck)",
+    "url": "https://www.instagram.com/p/Dfy5y0FEUy_/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W47",
+  "added_date": "2026-11-17"
+ },
+ {
+  "id": "shalimar-gardens-lahore",
+  "name": "Shalimar Gardens (Shalamar Bagh)",
+  "name_local": "شالامار باغ",
+  "designer": "Mughal court of Shah Jahan (managed by Khalilullah Khan with Mulla Alaul Maulk Tuni; construction Ali Mardan Khan)",
+  "client": "Emperor Shah Jahan",
+  "city": "Lahore",
+  "country": "Pakistan",
+  "lat": 31.58713,
+  "lng": 74.38216,
+  "year": "1641–1642",
+  "area": "160,000 sq. m. (100 ไร่) — ผังสี่เหลี่ยม 658 × 258 ม.",
+  "area_sqm": 160000,
+  "categories": [
+   "historic",
+   "recreation",
+   "monuments"
+  ],
+  "tags": [
+   "Mughal garden",
+   "charbagh",
+   "terraced garden",
+   "water features",
+   "fountains",
+   "UNESCO World Heritage",
+   "microclimate cooling"
+  ],
+  "awards": [
+   "UNESCO World Heritage Site (1981, Fort and Shalamar Gardens in Lahore)"
+  ],
+  "wikipedia": "Shalimar_Gardens,_Lahore",
+  "summary_th": "สวนโมกุลแบบจัตุรบาฆสามชั้นของจักรพรรดิชาห์ชะฮัน สร้างปี 1641–1642 ในลาฮอร์ มีน้ำพุ 414 หัว น้ำตกหินอ่อน และสระน้ำขนาดใหญ่ เป็นตัวอย่างสูงสุดของการใช้น้ำเชิงวิศวกรรมเพื่อสร้างความเย็นและความงามในภูมิอากาศร้อนจัด",
+  "description_th": "ลาฮอร์มีฤดูร้อนที่อุณหภูมิบางครั้งเกิน 49°C ราชสำนักโมกุลต้องการสวนสำหรับรับรองแขกที่เปิดบางส่วนให้สาธารณชนเข้าได้ ที่ตั้งริมถนน Grand Trunk Road ห่างจากประตูเดลีของเมืองเก่าราว 5 กม. ถูกเลือกเพราะมีแหล่งน้ำมั่นคง ที่ดินเดิมเป็นของตระกูล Arain Mian แห่ง Baghbanpura ซึ่งยกให้จักรพรรดิแลกกับสิทธิ์ดูแลสวนที่สืบต่อมากว่า 350 ปี การก่อสร้างเริ่มเดือนมิถุนายน 1641 และแล้วเสร็จใน 17 เดือนเศษ\n\nแนวคิดคือ \"สวนสวรรค์\" แบบจัตุรบาฆ (charbagh) ซึ่งมีรากจากสวนติมูริดในเอเชียกลางและอิหร่าน คำว่า bagh สื่อถึงการอยู่ร่วมกันอย่างกลมกลืนของมนุษย์กับธรรมชาติ ได้แรงบันดาลใจจากสวน Shalimar ในแคชเมียร์ของจักรพรรดิชะฮันคีร์ แต่ต่างกันตรงที่ลาฮอร์เป็นที่ราบ จึงต้องสร้างขั้นระดับและน้ำตกเทียมด้วยวิศวกรรม Ali Mardan Khan สร้างคลองยาวราว 100 ไมล์นำน้ำจากเชิงเขามาเลี้ยงสวน\n\nผังเป็นสี่เหลี่ยมผืนผ้าตามแกนเหนือ-ใต้ ขนาด 658 × 258 ม. พื้นที่ 16 เฮกตาร์ ล้อมด้วยกำแพงอิฐประดับลวดลาย แบ่งเป็นสามลานต่างระดับกัน 4–5 ม. ลานบนสุด Bagh-e-Farah Bakhsh (สำหรับฝ่ายใน) และลานกลาง-ลานล่าง Bagh-e-Faiz Bakhsh ลานบนและลานล่างเป็นจัตุรัสแบ่งเป็นสี่แปลงด้วยรางน้ำพุยาวขนาบทางเดินอิฐยกระดับ (khayaban) ที่ยกสูงเพื่อให้มองเห็นสวน ส่วนลานกลางเป็นแถบแคบที่มีระบบน้ำวิจิตรที่สุด ทางเข้าหลักอยู่ที่ลานล่าง\n\nน้ำคือวัสดุหลัก สวนมีน้ำพุรวม 414 หัว (ลานบน 105, ลานกลาง 152, ลานล่าง 153) ไหลลงสระหินอ่อน (haūz) และมีน้ำตก 5 แห่ง รวมถึงน้ำตกหินอ่อนใหญ่และ Sawan Bhadoon น้ำไหลผ่านแผ่นหินอ่อนสลักลาย (chador) ลงสู่สระใหญ่ที่มีแท่นนั่งกลางน้ำ ศาลาหินอ่อนสีขาวและหินทรายแดงวางรอบสระ พืชพรรณหนาแน่นร่วมกับน้ำทำให้ภายในสวนเย็นกว่าพื้นที่โดยรอบอย่างชัดเจน\n\nแม้จะถูกรื้อหินอ่อนไปในสมัยซิกข์ และเผชิญแรงกดดันจากการขยายเมือง ร้านค้าบุกรุก และการขยายถนนรอบสวน สวนยังคงเป็นหนึ่งในสถานที่ท่องเที่ยวยอดนิยมของปากีสถาน และได้ขึ้นทะเบียนเป็นมรดกโลกร่วมกับป้อมลาฮอร์ในปี 1981 งานวิจัยร่วมสมัยใช้สวนนี้เป็นกรณีศึกษาเรื่องน้ำในฐานะเครื่องมือควบคุมอุณหภูมิ การจัดการรอยรั่วของระบบน้ำโบราณ และการฟื้นฟูภูมิทัศน์ถนนรอบแหล่งมรดก",
+  "design_strategies": [
+   "ผังจัตุรบาฆแบ่งสวนเป็นสี่ส่วนด้วยแกนน้ำและทางเดินยกระดับ สร้างลำดับมุมมองที่ชัดเจน",
+   "ปรับที่ราบเป็นสามลานต่างระดับ 4–5 ม. เพื่อสร้างน้ำตกและแรงดันให้น้ำพุ",
+   "ใช้น้ำพุ 414 หัว สระ และน้ำตกหินอ่อนเป็นระบบลดอุณหภูมิและเสียงที่ผ่อนคลาย",
+   "วางศาลาและแท่นนั่งกลางน้ำ ณ จุดตัดแกน เพื่อชมสวนและรับลมเย็น",
+   "กำแพงล้อมสวนสร้างโลกภายในที่ร่มเย็นแยกจากเมือง",
+   "ลงทุนโครงสร้างพื้นฐานน้ำระดับภูมิภาค (คลองส่งน้ำ) เพื่อเลี้ยงสวนอย่างยั่งยืน"
+  ],
+  "lessons_th": [
+   "ในภูมิอากาศร้อนแบบไทย น้ำที่เคลื่อนไหว (น้ำพุ น้ำตก) ร่วมกับร่มไม้หนาแน่น ช่วยลดอุณหภูมิในสวนสาธารณะได้จริง ควรออกแบบเป็นระบบไม่ใช่ของประดับ",
+   "การยกทางเดินให้สูงกว่าแปลงปลูกช่วยให้มองเห็นผังสวนทั้งหมด และแยกการสัญจรออกจากพื้นที่ปลูก",
+   "แหล่งมรดกต้องวางแผนภูมิทัศน์ถนนและการค้ารอบนอกควบคู่กับตัวสวน มิฉะนั้นการบุกรุกจะทำลายคุณค่า",
+   "ผังที่มีแกนและลำดับชั้นชัดเจนทำให้สวนขนาดใหญ่ยังอ่านง่ายและนำทางได้ดี"
+  ],
+  "images": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Shalimar_Gardens_%40_Lahore_%2815004139714%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815004139714%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาหินอ่อนสีขาวริมสระน้ำพุใหญ่ของลานชั้นกลาง",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15004139714).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Shalimar_Gardens_%28Lahore%29_1.jpg/1280px-Shalimar_Gardens_%28Lahore%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ภาพพาโนรามาสระน้ำพุใหญ่ ทางเดินยกระดับ และศาลาโดยรอบ",
+    "credit": "Shahzaib Damn Cruze (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_(Lahore)_1.jpg",
+    "year": "2018"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Shalimar_garden_1.JPG/1280px-Shalimar_garden_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รางน้ำตามแกนหลักขนาบด้วยแปลงดอกไม้และทางเดิน",
+    "credit": "Armughanmunir (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_garden_1.JPG",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Shalimar_bagh.12.jpg/1280px-Shalimar_bagh.12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาหินทรายแดงสะท้อนในรางน้ำแกนกลาง",
+    "credit": "Talha Khalid 123 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_bagh.12.jpg",
+    "year": "2017"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Shalimar_Gardens_%40_Lahore_%2815439401490%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815439401490%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สระน้ำพุใหญ่กับศาลาหินทรายแดงและหัวน้ำพุเรียงแถว",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15439401490).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Hayat_Baksh_%28Bestower_of_life%29_terrace_-_Shalimar_Gardens.jpg/1280px-Hayat_Baksh_%28Bestower_of_life%29_terrace_-_Shalimar_Gardens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ลานชั้นบนกับสระน้ำและซุ้มประตูปลายแกน",
+    "credit": "Muhammad Ashar (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Hayat_Baksh_(Bestower_of_life)_terrace_-_Shalimar_Gardens.jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Shalamar_Gardens%2C_Lahore_06.jpg/1280px-Shalamar_Gardens%2C_Lahore_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แท่นหินอ่อนกลางสระและแนวหัวน้ำพุในลานชั้นกลาง",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_06.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Shalamar_Gardens%2C_Lahore_18.jpg/1280px-Shalamar_Gardens%2C_Lahore_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สระน้ำพุกับแนวต้นไม้ใหญ่ของสวน",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_18.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Shalamar_Gardens%2C_Lahore_10.jpg/1280px-Shalamar_Gardens%2C_Lahore_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สระน้ำใหญ่มองไปยังศาลาฝั่งตรงข้าม",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_10.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Shalamar_Gardens%2C_Lahore_11.jpg/1280px-Shalamar_Gardens%2C_Lahore_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "มองจากภายในศาลาลงไปตามแกนสวน",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_11.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Shalamar_Gardens%2C_Lahore_14.jpg/1280px-Shalamar_Gardens%2C_Lahore_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินขอบสระกับแปลงดาวเรือง",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_14.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Shalamar_Gardens%2C_Lahore_22.jpg/1280px-Shalamar_Gardens%2C_Lahore_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "อาคารประตูปลายแกนกับรางน้ำที่ไม่มีน้ำ",
+    "credit": "Tahir mq (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Gardens,_Lahore_22.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Shalimar_Gardens_%40_Lahore_%2815624632975%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815624632975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินแกนหลักพร้อมรางน้ำพุมุ่งสู่ศาลา",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15624632975).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Shalimar_Gardens_%40_Lahore_%2815005063823%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815005063823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "อาคารซุ้มโค้งที่ปลายทางเดินแกนหลัก",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15005063823).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Shalimar_Gardens_%40_Lahore_%2815437985338%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815437985338%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาหินทรายแดงกลางสวน",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15437985338).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Shalimar_Gardens_%40_Lahore_%2815437978388%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815437978388%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รางน้ำแคบตัดผ่านสนามหญ้าตามผังจัตุรบาฆ",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15437978388).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Shalimar_Gardens_%40_Lahore_%2815003781264%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815003781264%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แปลงสนามหญ้าแบ่งตามแกนกับศาลาสีแดงด้านหลัง",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15003781264).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Shalimar_Gardens_%40_Lahore_%2815003897694%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815003897694%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาสีขาวยกพื้นริมสระ",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15003897694).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Shalimar_Gardens_%40_Lahore_%2815004045283%29.jpg/1280px-Shalimar_Gardens_%40_Lahore_%2815004045283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ขั้นบันไดหินริมรางน้ำและป้อมมุมกำแพงสวน",
+    "credit": "Guilhem Vellut from Annecy, France (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalimar_Gardens_@_Lahore_(15004045283).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Shalamar_Garden.jpg/1280px-Shalamar_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ผู้มาเยือนริมศาลาสีขาวกลางน้ำ",
+    "credit": "Asad Amjad ChangEzi (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Shalamar_Garden.jpg",
+    "year": "2014"
+   }
+  ],
+  "research": [
+   {
+    "title": "Representation in Mughal Architecture: A Contextual Analysis of Shalimar Gardens, Lahore Fort Gardens and Wah Gardens",
+    "authors": "Khaskheli, R., Zhang, W., Shar, B. K., Marvi, H.",
+    "year": "2022",
+    "journal": "Journal of Research in Architecture & Planning",
+    "url": "https://doi.org/10.53700/jrap3222022_2",
+    "note_th": "วิเคราะห์น้ำในฐานะองค์ประกอบออกแบบของสวนโมกุล ทั้งด้านความงามและการลดอุณหภูมิ ผ่านทะเลสาบ คลอง น้ำพุ และสระ"
+   },
+   {
+    "title": "City of Gardens from a Lost to Retrieve Paradise. Conservation and Preservation Analysis within Shalimar Gardens Lahore Pakistan",
+    "authors": "Khaskheli, R., Zhang, W.",
+    "year": "2021",
+    "journal": "International Journal of Scientific & Engineering Research",
+    "url": "https://doi.org/10.14299/ijser.2021.08.08",
+    "note_th": "วิเคราะห์การอนุรักษ์และสภาพปัจจุบันของสวน Shalimar ในฐานะแหล่งมรดกโลก"
+   },
+   {
+    "title": "Rethinking Future. A Potential Solution for Encroachment and Illegal Bazar around Shalimar Gardens, Lahore",
+    "authors": "Khaskheli, R., Zhang, W.",
+    "year": "2023",
+    "journal": "Journal of Art, Architecture and Built Environment",
+    "url": "https://doi.org/10.32350/jaabe.62.06",
+    "note_th": "เสนอการออกแบบภูมิทัศน์ถนนรอบสวนเพื่อแก้การบุกรุกและตลาดผิดกฎหมาย ใช้วิธี streetscape"
+   },
+   {
+    "title": "Leakage Investigation at Shalamar Garden, Lahore Using Radioisotopes",
+    "authors": "Hussain, S. D., Mustafa, N., Khan, N. A.",
+    "year": "1982",
+    "journal": "Archaeometry",
+    "url": "https://doi.org/10.1111/j.1475-4754.1982.tb00649.x",
+    "note_th": "ใช้ไอโซโทปรังสีตรวจหาจุดรั่วของระบบสระและท่อน้ำโบราณ ตัวอย่างงานวิศวกรรมเพื่ออนุรักษ์สวนน้ำประวัติศาสตร์"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia — Shalimar Gardens, Lahore",
+    "url": "https://en.wikipedia.org/wiki/Shalimar_Gardens,_Lahore"
+   },
+   {
+    "title": "Wikimedia Commons — Shalimar Gardens (Lahore)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Shalimar_Gardens_(Lahore)"
+   },
+   {
+    "title": "OpenStreetMap — Shalimar Gardens",
+    "url": "https://www.openstreetmap.org/way/232344024"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W47",
+  "added_date": "2026-11-17",
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       74.380055,
+       31.589537
+      ],
+      [
+       74.381339,
+       31.58409
+      ],
+      [
+       74.382647,
+       31.584325
+      ],
+      [
+       74.382668,
+       31.584237
+      ],
+      [
+       74.38288,
+       31.584273
+      ],
+      [
+       74.38286,
+       31.58436
+      ],
+      [
+       74.384165,
+       31.584547
+      ],
+      [
+       74.384117,
+       31.584699
+      ],
+      [
+       74.384871,
+       31.584819
+      ],
+      [
+       74.38494,
+       31.585414
+      ],
+      [
+       74.384694,
+       31.586453
+      ],
+      [
+       74.383745,
+       31.586288
+      ],
+      [
+       74.383589,
+       31.586913
+      ],
+      [
+       74.383713,
+       31.586934
+      ],
+      [
+       74.383624,
+       31.587256
+      ],
+      [
+       74.383515,
+       31.587238
+      ],
+      [
+       74.382906,
+       31.590024
+      ],
+      [
+       74.380055,
+       31.589537
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/232344024"
+   ]
+  }
+ },
+ {
+  "id": "kwame-nkrumah-memorial-park-accra",
+  "name": "Kwame Nkrumah Memorial Park and Mausoleum",
+  "designer": "Don Arthur (original design, 1992); refurbishment 2022–2023 redesign by Bethel Maphrey",
+  "client": "Government of Ghana (Ministry of Tourism, Arts and Culture)",
+  "city": "Accra",
+  "country": "Ghana",
+  "lat": 5.54474,
+  "lng": -0.20299,
+  "year": "1992 (ปรับปรุงใหม่ 2023)",
+  "area": "20,234 sq. m. (13 ไร่) — แหล่งข้อมูลระบุราว 5 เอเคอร์",
+  "area_sqm": 20234,
+  "categories": [
+   "monuments",
+   "historic",
+   "urban-squares"
+  ],
+  "tags": [
+   "memorial park",
+   "mausoleum",
+   "independence",
+   "water axis",
+   "fountains",
+   "heritage tourism",
+   "refurbishment"
+  ],
+  "awards": [],
+  "wikipedia": "Kwame_Nkrumah_Memorial_Park",
+  "summary_th": "สวนอนุสรณ์และสุสานของประธานาธิบดีคนแรกของกานา บนพื้นที่สนามโปโลอาณานิคมเดิมซึ่งเป็นจุดประกาศเอกราช ใช้แกนทางเดินขนาบสระน้ำพุนำสู่สุสานทรงดาบคว่ำ และปรับปรุงใหญ่ในปี 2023",
+  "description_th": "สวนตั้งอยู่ใจกลางเมืองอักกรา บนที่ตั้งของสนามโปโลสมัยอาณานิคมอังกฤษ ซึ่งเป็นจุดที่ Kwame Nkrumah ประกาศเอกราชของกานา หลังรัฐประหารปี 1966 อนุสาวรีย์ของเขาถูกโค่นล้ม จนในปี 1992 รัฐบาลที่เป็นมิตรกับแนวคิด Nkrumah จึงสร้างสุสานและรูปปั้นใหม่ เปิดเป็นสวนอนุสรณ์ขนาดราว 5 เอเคอร์ ที่บรรจุร่างของ Nkrumah และภรรยา Fathia\n\nแนวคิดใช้สัญลักษณ์วัฒนธรรมอาคาน: สุสานออกแบบโดย Don Arthur เป็นรูปดาบคว่ำซึ่งหมายถึงสันติภาพ บุหินอ่อนอิตาลีทั้งหลัง มีดาวดำบนยอดแทนเอกภาพ และล้อมรอบด้วยน้ำซึ่งเป็นสัญลักษณ์ของชีวิต ภายในหลุมศพหินอ่อนได้แสงจากช่องแสงบนหลังคา\n\nผังภูมิทัศน์เป็นแกนสมมาตรแบบอนุสรณ์: ทางเดินตรงกลางขนาบด้วยสระน้ำพุยาว มีรูปปั้นสำริดนักดนตรีเป่าแตรเรียงสองฟาก นำสายตาไปสู่สุสานที่ปลายแกน รอบแกนเป็นสนามหญ้า ทางเดิน และต้นปาล์ม มีพิพิธภัณฑ์ที่จัดแสดงข้าวของของ Nkrumah และรูปปั้นสำริดดั้งเดิมที่ถูกตัดศีรษะหลังรัฐประหาร ซึ่งกลายเป็นประเด็นการเมืองว่าด้วย \"สงครามอนุสาวรีย์\" ตลอดหลายทศวรรษ\n\nหลังใช้งานราว 25 ปีโดยไม่มีการปรับปรุงใหญ่ น้ำพุเสีย หลังคาพิพิธภัณฑ์รั่ว รัฐบาลจึงปิดสวนเมื่อพฤษภาคม 2022 และเปิดใหม่ 4 กรกฎาคม 2023 การปรับปรุงเพิ่มห้องสมุดประธานาธิบดี อาคารต้อนรับ อัฒจันทร์ ร้านอาหาร Freedom Hall ที่จัดแสดงรถ Cadillac ประจำตำแหน่ง อุโมงค์ภาพและเสียงในพิพิธภัณฑ์ หลุมศพหินอ่อนใหม่ น้ำพุดนตรีที่ซิงก์กับแสงเสียง ขยายพื้นที่นันทนาการ ซ่อมถนนภายใน และวางรูปปั้นเดิมพร้อมศีรษะที่ถูกตัดไว้ข้างกัน\n\nตัวเลขสำคัญ: ก่อนปรับปรุงสวนรับผู้เยี่ยมชมราว 90,000 คนต่อปี งบปรับปรุงกว่า 30 ล้านเซดี (มีรายงานราว 3.5 ล้านดอลลาร์สหรัฐ ภายใต้กองทุนพัฒนาการท่องเที่ยวของธนาคารโลก) และระบบชำระเงิน/เข้าชมแบบดิจิทัล เป้าหมายคือทำให้สวนเป็นแหล่งท่องเที่ยวมรดกหลักของประเทศ",
+  "design_strategies": [
+   "ใช้แกนสมมาตรขนาบสระน้ำพุนำสายตาและการเดินสู่สุสาน สร้างพิธีกรรมของการเข้าถึง",
+   "ใช้สัญลักษณ์ท้องถิ่น (ดาบคว่ำแห่งสันติภาพ ดาวดำ น้ำแห่งชีวิต) ในรูปทรงอาคารและภูมิทัศน์",
+   "วางรูปปั้นนักดนตรีในสระน้ำให้ภูมิทัศน์เล่าเรื่องการเฉลิมฉลองเอกราช",
+   "เก็บและจัดแสดงรูปปั้นเดิมที่ถูกทำลาย เพื่อให้ประวัติศาสตร์ที่ขัดแย้งยังมองเห็นได้",
+   "ปรับปรุงใหม่ด้วยโปรแกรมเสริม (ห้องสมุด อัฒจันทร์ ร้านอาหาร น้ำพุดนตรี) เพื่อดึงผู้ชมและสร้างรายได้"
+  ],
+  "lessons_th": [
+   "อนุสรณ์สถานในเมืองไทยใช้แกนน้ำและการจัดลำดับการเดินเพื่อสร้างความรู้สึกสงบและเคารพได้โดยไม่ต้องใช้พื้นที่มาก",
+   "สวนอนุสรณ์ต้องมีแผนบำรุงรักษาระบบน้ำระยะยาว มิฉะนั้นน้ำพุที่เสียจะลดคุณค่าของทั้งพื้นที่",
+   "การเพิ่มโปรแกรมร่วมสมัยช่วยให้แหล่งประวัติศาสตร์มีชีวิตและหารายได้มาบำรุงรักษา แต่ควรระวังไม่ให้กลบความหมายเดิม",
+   "การแสดงร่องรอยความขัดแย้ง (เช่น รูปปั้นที่ถูกทำลาย) ช่วยให้พื้นที่สาธารณะเป็นที่เรียนรู้ประวัติศาสตร์อย่างตรงไปตรงมา"
+  ],
+  "images": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Statues_at_the_Kwame_Nkrumah_Museum.2.jpg/1280px-Statues_at_the_Kwame_Nkrumah_Museum.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แกนทางเดินหลักกับสระน้ำพุและรูปปั้นนักดนตรี มุ่งสู่สุสานอนุสรณ์ หลังปรับปรุงปี 2023",
+    "credit": "Williams Penuku (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Statues_at_the_Kwame_Nkrumah_Museum.2.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Statues_at_the_Kwame_Nkrumah_Museum.3.jpg/1280px-Statues_at_the_Kwame_Nkrumah_Museum.3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สระน้ำพุสีฟ้าและรูปปั้นสำริดเรียงสองข้างทางเดินแกนกลาง",
+    "credit": "Williams Penuku (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Statues_at_the_Kwame_Nkrumah_Museum.3.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Statues_at_the_Kwame_Nkrumah_park_Museum.jpg/1280px-Statues_at_the_Kwame_Nkrumah_park_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รูปปั้นนักดนตรีในสระน้ำและสุสานอนุสรณ์ปลายแกน",
+    "credit": "Williams Penuku (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Statues_at_the_Kwame_Nkrumah_park_Museum.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Statues_at_the_Kwame_Nkrumah_Museum.jpg/1280px-Statues_at_the_Kwame_Nkrumah_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แกนทางเดินและสระน้ำมองจากด้านข้าง",
+    "credit": "Williams Penuku (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Statues_at_the_Kwame_Nkrumah_Museum.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Kwame_Nkrumah_Mausoleum_and_Memorial_Park_Fountain_at_Night.jpg/1280px-Kwame_Nkrumah_Mausoleum_and_Memorial_Park_Fountain_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "น้ำพุดนตรีเปิดไฟยามค่ำคืนหลังการปรับปรุง",
+    "credit": "Nkansahrexford (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Mausoleum_and_Memorial_Park_Fountain_at_Night.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_3.jpg/1280px-Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สระน้ำพุยาวพร้อมรูปปั้นนักเป่าแตรเรียงสองฟาก",
+    "credit": "Fquasie (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_3.jpg",
+    "year": "2015"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_4.jpg/1280px-Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินแกนกลางขนาบด้วยสระน้ำ มองไปยังสุสาน",
+    "credit": "Fquasie (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_4.jpg",
+    "year": "2015"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_5.jpg/1280px-Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สุสานอนุสรณ์ทรงดาบคว่ำบุหินอ่อน ล้อมด้วยน้ำ",
+    "credit": "Fquasie (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_5.jpg",
+    "year": "2015"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Kwame-Nkrumah-Memorial-Park-Accra-Ghana.jpg/1280px-Kwame-Nkrumah-Memorial-Park-Accra-Ghana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สุสานอนุสรณ์ท่ามกลางสนามหญ้าและต้นไม้",
+    "credit": "Danny99178 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame-Nkrumah-Memorial-Park-Accra-Ghana.jpg",
+    "year": "2019"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_2.jpg/1280px-Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินและสนามหญ้าร่มปาล์มภายในสวน",
+    "credit": "Fquasie (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum_2.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kwame_Nkrumah_Memorial_Park_%2821738707240%29.jpg/960px-Kwame_Nkrumah_Memorial_Park_%2821738707240%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สุสานอนุสรณ์กับต้นปาล์มรอบสนาม",
+    "credit": "David Stanley from Nanaimo, Canada (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_(21738707240).jpg",
+    "year": "2015"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Kwame_Nkrumah_-2.jpg/1280px-Kwame_Nkrumah_-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รูปปั้นสำริดของ Kwame Nkrumah ด้านหน้าสุสาน",
+    "credit": "Cca Raheem (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_-2.jpg",
+    "year": "2025"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Kwame_Nkrumah_-16.jpg/1280px-Kwame_Nkrumah_-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รูปปั้นนักดนตรีในสระน้ำพุ",
+    "credit": "Cca Raheem (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_-16.jpg",
+    "year": "2025"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Sculpture_piece_at_Kwame_Nkrumah_Mausoleum.jpg/1280px-Sculpture_piece_at_Kwame_Nkrumah_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ประติมากรรมในน้ำพุบริเวณสวน",
+    "credit": "Kwameghana(Bright Kwame Ayisi) (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Sculpture_piece_at_Kwame_Nkrumah_Mausoleum.jpg",
+    "year": "2025"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kwame_Nkrumah_artworks_at_Kwame_Nkrumah_Mausoleum.jpg/1280px-Kwame_Nkrumah_artworks_at_Kwame_Nkrumah_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "กำแพงงานศิลปะประวัติ Nkrumah ส่วนต่อเติมใหม่",
+    "credit": "Maame1Yaa (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_artworks_at_Kwame_Nkrumah_Mausoleum.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Kwame_Nkrumah%27s_Quote.jpg/1280px-Kwame_Nkrumah%27s_Quote.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "กำแพงคำคมของ Nkrumah กับดาวดำสัญลักษณ์ชาติ",
+    "credit": "Brans Wyte GH (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah%27s_Quote.jpg",
+    "year": "2025"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Kwame_Nkrumah_Memorial_Park_%26_Mausoleum.jpg/1280px-Kwame_Nkrumah_Memorial_Park_%26_Mausoleum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สุสานอนุสรณ์และลานรอบ",
+    "credit": "Fquasie (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park_%26_Mausoleum.jpg",
+    "year": "2021"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kwame_Nkrumah_mausoleum_-_panoramio.jpg/1280px-Kwame_Nkrumah_mausoleum_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แกนทางเดินและสระน้ำก่อนการปรับปรุง (ภาพเก่า)",
+    "credit": "Simon Ontoyin (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_mausoleum_-_panoramio.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Kwame_Nkrumah_Mausoleum_in_Accra_Ghana%2C_May_2008.jpg/1280px-Kwame_Nkrumah_Mausoleum_in_Accra_Ghana%2C_May_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สุสานอนุสรณ์และสระน้ำ ปี 2008 ก่อนการปรับปรุง",
+    "credit": "Emkamau (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Mausoleum_in_Accra_Ghana,_May_2008.jpg",
+    "year": "2008"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Kwame_Nkrumah_Memorial_Park.jpg/960px-Kwame_Nkrumah_Memorial_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินแกนกลางสู่สุสาน ปี 2008",
+    "credit": "Erik B. Anderson (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Memorial_Park.jpg",
+    "year": "2008"
+   }
+  ],
+  "research": [
+   {
+    "title": "Ghanaian \"Monument Wars\": The Contested History of the Nkrumah Statues",
+    "authors": "Lentz, C.",
+    "year": "2017",
+    "journal": "Cahiers d'études africaines",
+    "url": "https://doi.org/10.4000/etudesafricaines.20822",
+    "note_th": "ประวัติศาสตร์ความขัดแย้งของรูปปั้น Nkrumah ตั้งแต่ 1958 ถึงการสร้างสุสานปี 1992 และการวางรูปปั้นเดิมในสวน แสดงว่าอนุสาวรีย์ผูกกับการเมือง"
+   },
+   {
+    "title": "Stakeholder role in tourism sustainability: the case of Kwame Nkrumah Mausoleum and centre for art and culture in Ghana",
+    "authors": "Amoako, G. K., Obuobisa-Darko, T., Marfo, S. O.",
+    "year": "2021",
+    "journal": "International Hospitality Review",
+    "url": "https://doi.org/10.1108/ihr-09-2020-0057",
+    "note_th": "สัมภาษณ์ผู้มีส่วนได้ส่วนเสีย 12 คนเกี่ยวกับความยั่งยืนของการท่องเที่ยวที่สุสาน Nkrumah พบปัญหางบประมาณ การประชาสัมพันธ์ และการบังคับใช้กฎหมาย"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia — Kwame Nkrumah Memorial Park",
+    "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah_Memorial_Park"
+   },
+   {
+    "title": "Graphic Online — Refurbished Kwame Nkrumah Memorial Park opens for public access",
+    "url": "https://www.graphic.com.gh/news/general-news/refurbished-kwame-nkrumah-memorial-park-opens-for-public-access.html"
+   },
+   {
+    "title": "Wikimedia Commons — Kwame Nkrumah Memorial Park",
+    "url": "https://commons.wikimedia.org/wiki/Category:Kwame_Nkrumah_Memorial_Park"
+   },
+   {
+    "title": "OpenStreetMap — Kwame Nkrumah Memorial Park",
+    "url": "https://www.openstreetmap.org/way/13787230"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W47",
+  "added_date": "2026-11-17",
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.203941,
+       5.544489
+      ],
+      [
+       -0.202769,
+       5.543476
+      ],
+      [
+       -0.201798,
+       5.544277
+      ],
+      [
+       -0.202405,
+       5.544988
+      ],
+      [
+       -0.202817,
+       5.545697
+      ],
+      [
+       -0.20327,
+       5.545393
+      ],
+      [
+       -0.203941,
+       5.544489
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/13787230"
+   ]
+  }
+ },
+ {
+  "id": "malecon-havana",
+  "name": "Malecón (Avenida de Maceo)",
+  "name_local": "Malecón de La Habana",
+  "designer": "Public works of the U.S. Military Government (1901–1902) and successive Cuban governments",
+  "client": "City of Havana / Government of Cuba",
+  "city": "Havana",
+  "country": "Cuba",
+  "lat": 23.14167,
+  "lng": -82.36806,
+  "year": "1901–1952",
+  "categories": [
+   "transport-corridors",
+   "historic",
+   "flood-suds",
+   "recreation"
+  ],
+  "tags": [
+   "seawall",
+   "waterfront promenade",
+   "coastal defence",
+   "wave overtopping",
+   "climate adaptation",
+   "public life",
+   "heritage"
+  ],
+  "awards": [],
+  "wikipedia": "Malecón,_Havana",
+  "summary_th": "กำแพงกันคลื่น ถนน และทางเดินเลียบทะเลยาว 8 กม. ของฮาวานา สร้างเป็นช่วง ๆ ระหว่าง 1901–1952 เพื่อป้องกันเมืองจากคลื่น และกลายเป็น \"โซฟาของเมือง\" ที่ใช้ชีวิตสาธารณะริมทะเล ปัจจุบันเป็นกรณีศึกษาสำคัญเรื่องคลื่นซัดข้ามกำแพงและการปรับตัวต่อสภาพภูมิอากาศ",
+  "description_th": "ชายฝั่งทางเหนือของฮาวานาเปิดรับคลื่นจากอ่าวเม็กซิโกโดยตรง โดยเฉพาะ \"frentes fríos\" (แนวปะทะอากาศเย็น) ที่ทำให้คลื่นซัดเข้าใส่ด้านหน้าอาคารบนถนน San Lázaro มาเลกอนจึงถูกสร้างเพื่อป้องกันเมืองจากทะเลเป็นหลัก โดยเริ่มในปี 1901 ช่วงการปกครองทางทหารของสหรัฐฯ และรัฐบาลคิวบาต่อมาสานต่อเป็นเวลากว่า 50 ปี\n\nแนวคิดคือการรวมโครงสร้างป้องกันชายฝั่งเข้ากับถนนสายหลักและทางเดินเลียบทะเล กำแพงคอนกรีตยาวต่อเนื่องทำหน้าที่ทั้งกันคลื่นและเป็นม้านั่งยาวที่สุดของเมือง งานวิจัยประวัติศาสตร์เมืองชี้ว่ามาเลกอนเป็น \"แกนผังเมือง\" ของเมืองหลวง ที่สะท้อนวาทกรรมทางการเมืองของประธานาธิบดีแต่ละยุคผ่านอนุสาวรีย์และอาคารสำคัญที่เรียงรายอยู่\n\nการก่อสร้างแบ่งเป็นระยะ: 1901–1902 จาก Paseo del Prado ถึง Calle Crespo พร้อมวงเวียนคอนกรีตเสริมเหล็กแห่งแรกของคิวบาที่มีวงดนตรีเล่นทุกวันอาทิตย์, 1902–1921 ถึงอนุสาวรีย์เรือ USS Maine, 1927–1930 ต่อเลียบปากอ่าว และถึง Avenida de los Presidentes, 1948–1952 ไปจนถึงปากแม่น้ำ Almendares รวมยาว 8 กม. ผ่าน Habana Vieja, Centro Habana และ Vedado ตลอดแนวมีอนุสาวรีย์ Antonio Maceo, Máximo Gómez, Calixto García และจุดเชื่อมกับถนน La Rampa\n\nหน้าตัดประกอบด้วยกำแพงกันคลื่นแนวดิ่ง ทางเดินเท้ากว้างบนสันกำแพง และถนนหลายช่องจราจรคั่นกับแถวอาคารซุ้มโค้ง วัสดุหลักคือคอนกรีตเรียบที่ทนน้ำเค็ม ไม่มีต้นไม้ร่มเงา ทำให้ทะเลและท้องฟ้าเป็นภูมิทัศน์หลัก ชาวเมืองใช้กำแพงนั่งเล่น ตกปลา และลงเล่นน้ำบนโขดหินด้านหน้า\n\nด้านสมรรถนะ พายุใหญ่ยังทำให้น้ำซัดข้ามกำแพงเข้าท่วมเมืองเป็นประจำ แบบจำลอง Delft3D–XBeach ระบุว่าระหว่างพายุเฮอริเคน Irma (2017) คลื่นสูง 8.25–10.80 ม. และอัตราน้ำซัดข้ามกำแพงถึง 15.02 ลบ.ม./วินาที/ม. เทียบกับ 13.60 ลบ.ม./วินาที/ม. ช่วง Wilma (2005) รัฐบาลคิวบาร่วมกับมหาวิทยาลัยในอิตาลีทดลองแบบจำลองเพื่อออกแบบหน้าตัดกำแพงและโครงสร้างกันคลื่นนอกชายฝั่งใหม่ และมีแผนฟื้นฟูช่วง \"Malecón Tradicional\" ที่อาคารมรดกเสื่อมโทรมจากความเค็มและการขาดการบำรุงรักษา",
+  "design_strategies": [
+   "รวมโครงสร้างป้องกันชายฝั่ง ถนนสายหลัก และทางเดินสาธารณะไว้ในหน้าตัดเดียว",
+   "ใช้สันกำแพงกันคลื่นเป็นม้านั่งยาวต่อเนื่อง ทำให้โครงสร้างวิศวกรรมกลายเป็นพื้นที่สาธารณะ",
+   "สร้างเป็นระยะตามการขยายเมือง โดยยึดแนวเดียวต่อเนื่อง 8 กม.",
+   "วางอนุสาวรีย์ วงเวียน และศาลาดนตรีเป็นจุดหมายตาและจุดรวมคนตามแนว",
+   "ปัจจุบันศึกษาการปรับหน้าตัดและโครงสร้างนอกชายฝั่งเพื่อลดน้ำซัดข้ามกำแพงจากพายุ"
+  ],
+  "lessons_th": [
+   "เขื่อนและกำแพงกันน้ำริมแม่น้ำเจ้าพระยาหรือชายฝั่งไทยออกแบบให้เป็นทางเดินและที่นั่งสาธารณะได้ ไม่จำเป็นต้องเป็นกำแพงปิดตาย",
+   "กำแพงแนวดิ่งอย่างเดียวรับพายุรุนแรงไม่ได้ ควรผสานโครงสร้างนอกชายฝั่งหรือพื้นที่รับน้ำด้านหลังและวางแผนรับน้ำล้น",
+   "ทางเดินริมน้ำที่ไม่มีร่มเงาจะใช้งานได้ดีเฉพาะเย็น-ค่ำ ในเมืองร้อนควรเพิ่มต้นไม้หรือร่มเงาบริเวณที่ไม่ขวางการป้องกันคลื่น",
+   "ถนนสายหลักที่คั่นชุมชนกับน้ำลดการเข้าถึง ควรมีทางข้ามที่ปลอดภัยและถี่พอ"
+  ],
+  "images": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/DJI_0197_crp_wiki.jpg/1280px-DJI_0197_crp_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ภาพโดรนของกำแพงกันคลื่นมาเลกอนโค้งตามแนวชายฝั่ง Centro Habana",
+    "credit": "RenaatPeeters (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_0197_crp_wiki.jpg",
+    "year": "2019"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Malec%C3%B3n_0197_crp.jpg/1280px-Malec%C3%B3n_0197_crp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ภาพโดรนแนวมาเลกอนกับอาคารริมทะเลของ Vedado",
+    "credit": "RenaatPeeters (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_0197_crp.jpg",
+    "year": "2019"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/The_Malec%C3%B3n%2C_Havana.jpg/1280px-The_Malec%C3%B3n%2C_Havana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "กำแพงกันคลื่นและทางเดินเลียบทะเลยามคลื่นลมแรง",
+    "credit": "Dudva (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Malec%C3%B3n,_Havana.jpg",
+    "year": "2024"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Malec%C3%B3n_%283031744036%29.jpg/1280px-Malec%C3%B3n_%283031744036%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "คลื่นซัดกำแพงมาเลกอนจนน้ำกระเซ็นขึ้นถนน",
+    "credit": "Martin Abegglen from Bern, Switzerland (CC BY-SA 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_(3031744036).jpg",
+    "year": "2008"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/1_Malecon_Havana.jpg/1280px-1_Malecon_Havana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "แนวถนนและทางเดินริมทะเลทอดยาวไปทาง Vedado",
+    "credit": "PLBechly (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:1_Malecon_Havana.jpg",
+    "year": "2012"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/AvMalecon-LaHabanaCuba-04735.jpg/1280px-AvMalecon-LaHabanaCuba-04735.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รถคลาสสิกบนถนน Avenida de Maceo ริมกำแพงกันคลื่น",
+    "credit": "Ezarate (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:AvMalecon-LaHabanaCuba-04735.jpg",
+    "year": "2017"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Malecon%2C_Havana_%2814173993073%29.jpg/1280px-Malecon%2C_Havana_%2814173993073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ถนนหกช่องจราจรคั่นระหว่างแถวอาคารกับทะเล",
+    "credit": "Bryan Ledgard (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malecon,_Havana_(14173993073).jpg",
+    "year": "2014"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Nov2023._Dawn_at_the_Malec%C3%B3n%2C_Havana%2C_Cuba_01.jpg/1280px-Nov2023._Dawn_at_the_Malec%C3%B3n%2C_Havana%2C_Cuba_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "รุ่งเช้าที่มาเลกอน แนวกำแพงทอดโค้งไปตามชายฝั่ง",
+    "credit": "Ridiculopathy (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Nov2023._Dawn_at_the_Malec%C3%B3n,_Havana,_Cuba_01.jpg",
+    "year": "2023"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Malecon%2C_Havana%2C_Cuba_%289422348146%29.jpg/1280px-Malecon%2C_Havana%2C_Cuba_%289422348146%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ผิวทางเดินและถนนเลียบทะเลในวันแดดจัด",
+    "credit": "Rinaldo Wurglitsch from Vienna, Austria (CC BY 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malecon,_Havana,_Cuba_(9422348146).jpg",
+    "year": "2012"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio.jpg/1280px-Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทะเลสีครามกับแนวอาคารริมมาเลกอน",
+    "credit": "Horacio_Fernandez (CC BY 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n,_La_Habana,_Cuba_._-_panoramio.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio_%281%29.jpg/1280px-Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "กำแพงกันคลื่นและโขดหินชายฝั่งหน้า Vedado",
+    "credit": "Horacio_Fernandez (CC BY 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n,_La_Habana,_Cuba_._-_panoramio_(1).jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/D%C3%ADa_de_playa%2C_Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio.jpg/1280px-D%C3%ADa_de_playa%2C_Malec%C3%B3n%2C_La_Habana%2C_Cuba_._-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ชาวเมืองลงเล่นน้ำบนโขดหินหน้ากำแพงในวันหยุด",
+    "credit": "Horacio_Fernandez (CC BY 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%ADa_de_playa,_Malec%C3%B3n,_La_Habana,_Cuba_._-_panoramio.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/15.Malec%C3%B3n_de_La_Habana_%2816%29.JPG/1280px-15.Malec%C3%B3n_de_La_Habana_%2816%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "วัยรุ่นนั่งบนกำแพงมาเลกอนโดยมีป้อม El Morro ฉากหลัง",
+    "credit": "Elemaki (CC BY 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:15.Malec%C3%B3n_de_La_Habana_(16).JPG",
+    "year": "2007"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Hotel_Nacional_y_Malecon_de_La_Habana.jpg/1280px-Hotel_Nacional_y_Malecon_de_La_Habana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "โรงแรม Hotel Nacional และแนวมาเลกอนจากมุมสูง",
+    "credit": "Hmaglione10 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Nacional_y_Malecon_de_La_Habana.jpg",
+    "year": "2010"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vista_del_castillo_del_Morro_desde_el_malec%C3%B3n_de_La_Habana_1.jpg/1280px-Vista_del_castillo_del_Morro_desde_el_malec%C3%B3n_de_La_Habana_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ป้อม El Morro มองจากทางเดินมาเลกอน",
+    "credit": "Luis Alvaz (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Vista_del_castillo_del_Morro_desde_el_malec%C3%B3n_de_La_Habana_1.jpg",
+    "year": "2007"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/La_Habana%2C_El_Malec%C3%B3n_%281983%29_03.jpg/960px-La_Habana%2C_El_Malec%C3%B3n_%281983%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "คลื่นซัดมาเลกอนในปี 1983",
+    "credit": "LBM1948 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Habana,_El_Malec%C3%B3n_(1983)_03.jpg",
+    "year": "1983"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Havana_-_Malecon_Avenue.jpg/1280px-Havana_-_Malecon_Avenue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "โปสการ์ดถนนมาเลกอนราวปี 1954",
+    "credit": "Curt Teich & Co. (Public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:Havana_-_Malecon_Avenue.jpg",
+    "year": "1954"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Habana_-_Avenida_de_Maceo_o_Malecon.jpg/1280px-Habana_-_Avenida_de_Maceo_o_Malecon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "โปสการ์ดแนวโค้งของ Avenida de Maceo ราวปี 1930",
+    "credit": "Carlos Jordi, Havana (publisher) (Public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:Habana_-_Avenida_de_Maceo_o_Malecon.jpg",
+    "year": "1930"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Havana_-_Music_Pavilion%2C_Malecon.jpg/960px-Havana_-_Music_Pavilion%2C_Malecon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาดนตรี (Glorieta) บนมาเลกอน ปี 1925",
+    "credit": "Carlos Jordi, Havana (Public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:Havana_-_Music_Pavilion,_Malecon.jpg",
+    "year": "1925"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Habana_-_Malecon_y_Castillo_del_Morro.jpg/1280px-Habana_-_Malecon_y_Castillo_del_Morro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "มาเลกอนช่วงแรกกับปราสาท El Morro ราวปี 1910",
+    "credit": "Unknown author (Public domain)",
+    "source": "https://commons.wikimedia.org/wiki/File:Habana_-_Malecon_y_Castillo_del_Morro.jpg",
+    "year": "1910"
+   }
+  ],
+  "research": [
+   {
+    "title": "Estimation of wave overtopping using integrated Delft3D and XBeach NH numerical Models: Case study of the Malecón, Havana, Cuba",
+    "authors": "Córdova de Horta, D., Prats Rico, D., Pardo Picazo, M. Á., Córdova López, L. F.",
+    "year": "2025",
+    "journal": "Ocean Engineering",
+    "url": "https://doi.org/10.1016/j.oceaneng.2025.122460",
+    "note_th": "จำลองคลื่นซัดข้ามกำแพงมาเลกอนช่วงพายุ Wilma และ Irma ระบุช่วงที่เปราะบางที่สุด ให้ข้อมูลตัวเลขสำหรับการจัดการความเสี่ยงชายฝั่ง"
+   },
+   {
+    "title": "Wave overtopping at Malecón Tradicional, La Habana, Cuba",
+    "authors": "Córdova López, L. F., Salerno, D., Dentale, F., Capobianco, A.",
+    "year": "2017",
+    "journal": "Coastal Engineering Proceedings",
+    "url": "https://doi.org/10.9753/icce.v35.structures.24",
+    "note_th": "ทดลองแบบจำลองทางกายภาพเพื่อออกแบบหน้าตัดกำแพงใหม่และโครงสร้างกันคลื่นนอกชายฝั่ง ร่วมระหว่างรัฐบาลคิวบากับมหาวิทยาลัยในอิตาลี"
+   },
+   {
+    "title": "Malecón Tradicional de La Habana. Sostenibilidad de una zona urbana vulnerable",
+    "authors": "Lloga Fernández, R., Sánchez Martínez, O.",
+    "year": "2017",
+    "journal": "Bitácora Urbano Territorial",
+    "url": "https://doi.org/10.15446/bitacora.v27n2.51884",
+    "note_th": "ทบทวนพัฒนาการและข้อเสนอแทรกแซงเมืองช่วง Malecón Tradicional ภายใต้ความเปราะบางจากการเปลี่ยนแปลงสภาพภูมิอากาศและมรดกที่เสื่อมโทรม"
+   },
+   {
+    "title": "Malecón de la Habana: cronología de una historia urbana",
+    "authors": "Puga Hermosa, D. A., González Maldonado, C.",
+    "year": "2018",
+    "journal": "Eídos",
+    "url": "https://doi.org/10.29019/eidos.v0i11.410",
+    "note_th": "ลำดับประวัติการก่อสร้างมาเลกอนตลอด 50 ปี ในฐานะแกนผังเมืองของฮาวานาและความเชื่อมโยงกับบริบทการเมือง"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia — Malecón, Havana",
+    "url": "https://en.wikipedia.org/wiki/Malec%C3%B3n,_Havana"
+   },
+   {
+    "title": "Wikimedia Commons — Malecón (Havana)",
+    "url": "https://commons.wikimedia.org/wiki/Category:Malec%C3%B3n_(Havana)"
+   },
+   {
+    "title": "Ocean Engineering (2025) — Wave overtopping, Malecón",
+    "url": "https://doi.org/10.1016/j.oceaneng.2025.122460"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W47",
+  "added_date": "2026-11-17"
+ }
+]

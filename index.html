@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Landscape Case Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Anuphan:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/5.6.0/maplibre-gl.min.css">
+<link rel="stylesheet" href="assets/style.css?v=14">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/maplibre-gl/5.6.0/maplibre-gl.min.js"></script>
+<script src="data/projects.js"></script>
+<script src="assets/config.js?v=8"></script>
+<script src="assets/common.js?v=11"></script>
+<style>
+html,body{height:100%;overflow:hidden}
+#map{position:fixed;inset:0;background:var(--bg)}
+.panel{position:fixed;z-index:1000;top:12px;left:12px;width:340px;max-height:calc(100dvh - 24px);display:flex;flex-direction:column;
+  background:var(--surface);border-radius:12px;box-shadow:var(--shadow)}
+.panel-head{padding:14px 16px 10px}
+.panel h1{font-size:16px;margin:0;line-height:1.2;min-width:0}
+.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:6px;margin-top:12px}
+.stats>a,.stats .cpick-btn{display:flex;flex-direction:column;align-items:flex-start;gap:1px;min-height:74px;background:var(--accent-soft);border:none;border-radius:10px;padding:9px 12px;
+  font:inherit;font-size:12px;color:var(--muted);line-height:1.3;text-decoration:none;text-align:left;position:relative;cursor:pointer;transition:background .12s}
+.stats>a:hover,.stats .cpick-btn:hover{background:var(--line)}
+.stats b{display:block;font-size:30px;line-height:1.1;color:var(--ink);font-weight:600;letter-spacing:-.02em}
+.stats>a::after{content:"→";position:absolute;right:11px;top:11px;font-size:15px;color:var(--muted);transition:transform .12s,color .12s}
+.stats>a:hover::after{color:var(--accent-text);transform:translateX(3px)}
+.stats .cpick{display:block}
+.stats .cpick-btn{width:100%;height:100%}
+.stats .cpick-btn .caret{position:absolute;right:10px;top:12px}
+/* selected type: icon on its own row, then the (up to 2-line) name, then the count */
+.stats .cpick.on .cpick-btn{background:var(--accent);color:rgba(255,255,255,.85)}
+.stats .cpick.on .cpick-btn .cbadge{box-shadow:0 0 0 2px #fff;margin-bottom:5px}
+.stats .cpick.on .cpick-btn b{color:#fff;font-size:14px;line-height:1.25;letter-spacing:0;padding-right:4px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.search-wrap{position:relative;margin-top:10px}
+.results{list-style:none;margin:6px 0 0;padding:0;max-height:240px;overflow:auto}
+.results button{all:unset;box-sizing:border-box;display:block;width:100%;padding:6px 8px;border-radius:6px;cursor:pointer;font-size:13.5px}
+.results button:hover,.results button:focus-visible{background:var(--accent-soft)}
+.results small{color:var(--muted);display:block;font-size:12px}
+.empty-note{font-size:13px;background:var(--accent-soft);border-radius:8px;padding:8px 10px;margin-top:10px}
+/* globe background (space) */
+#map{background:radial-gradient(ellipse at 50% 45%,#3a3c3e 0%,#1e1f20 75%)}
+/* popup */
+.maplibregl-popup-content{border-radius:12px;padding:0;overflow:hidden;background:var(--surface);color:var(--ink);box-shadow:var(--shadow);width:var(--pw,400px);height:var(--ph,450px)}
+.card-pop .maplibregl-popup-tip{display:none}
+.maplibregl-popup.card-pop{max-width:none!important}
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip,.maplibregl-popup-anchor-bottom-left .maplibregl-popup-tip,.maplibregl-popup-anchor-bottom-right .maplibregl-popup-tip{border-top-color:var(--surface)}
+.maplibregl-popup-anchor-top .maplibregl-popup-tip,.maplibregl-popup-anchor-top-left .maplibregl-popup-tip,.maplibregl-popup-anchor-top-right .maplibregl-popup-tip{border-bottom-color:var(--surface)}
+.maplibregl-popup-anchor-left .maplibregl-popup-tip{border-right-color:var(--surface)}
+.maplibregl-popup-anchor-right .maplibregl-popup-tip{border-left-color:var(--surface)}
+/* square popup card: photo fills the square, text sits on a dark gradient at the bottom */
+.pop-card{position:relative;width:100%;height:100%;background:#2a2c2e center/cover no-repeat;color:#fff;display:flex;flex-direction:column}
+.pop-card::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.35) 0%,rgba(0,0,0,0) 22%,rgba(0,0,0,.15) 40%,rgba(0,0,0,.88) 78%);pointer-events:none}
+.pop-badges,.pop-text{position:relative;z-index:1}
+.pop-badges{position:absolute;top:46px;right:11px;display:flex;flex-direction:column;gap:7px}
+.pop-badges .cbadge{box-shadow:0 0 0 2px rgba(255,255,255,.9),0 1px 4px rgba(0,0,0,.4)}
+.pop-text{margin-top:auto;padding:0 16px 16px}
+.pop-text h3,.pop-text .pop-meta{padding-right:44px}   /* keep clear of the icon column */
+.pop-text h3{margin:0 0 2px;font-size:var(--h3,20px);line-height:1.25}
+.pop-meta{font-size:12px;color:rgba(255,255,255,.78);line-height:1.4;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pop-text p{margin:6px 0 12px;font-size:13px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:var(--clamp,3);-webkit-box-orient:vertical;overflow:hidden}
+.pop-text .btn{width:100%;justify-content:center;padding:7px 12px;font-size:13.5px;color:#fff;background:#D7004F}
+.maplibregl-popup-close-button{color:#fff;text-shadow:0 0 4px #000;font-size:22px;width:30px;height:30px;top:2px;right:2px}
+.maplibregl-popup-close-button:hover{background:rgba(0,0,0,.25)}
+/* base-map switcher: one icon button (bottom-right, with the zoom/globe controls); the list opens to its left */
+.basesw{position:relative}
+.basesw>button{display:flex!important;align-items:center;justify-content:center;color:#333}
+.basesw-menu{position:absolute;right:calc(100% + 8px);bottom:0;display:flex;flex-direction:column;background:var(--surface);border-radius:8px;box-shadow:var(--shadow);overflow:hidden;min-width:190px}
+.basesw-menu[hidden]{display:none}
+.basesw-menu button{font:inherit;font-size:12.5px;border:none;background:none;color:var(--ink);padding:7px 12px;text-align:left;cursor:pointer;white-space:nowrap;width:auto;height:auto}
+.basesw-menu button[aria-pressed=true]{background:var(--accent);color:#fff;font-weight:600}
+.basesw-menu button:hover:not([aria-pressed=true]){background:var(--accent-soft)}
+/* pin labels (shown while a project type is selected) */
+.pin{position:relative}
+.pin-label{position:absolute;left:30px;top:4px;background:var(--surface);color:var(--ink);font-size:12px;font-weight:600;line-height:1.25;padding:4px 9px;border-radius:7px;white-space:nowrap;box-shadow:0 1px 6px rgba(0,0,0,.3);pointer-events:auto}
+.pop-open .pin-label{display:none}
+.pin-label small{display:block;font-weight:400;color:var(--muted);font-size:11px}
+.maplibregl-ctrl-attrib{font-size:11px}
+/* markers on the far side of the globe: fully hidden and not clickable */
+.maplibregl-marker[style*="opacity: 0;"]{pointer-events:none;visibility:hidden}
+@media (max-width:640px){
+  .panel{left:8px;right:8px;top:8px;width:auto}
+}
+</style>
+</head>
+<body>
+<div id="map" aria-label="แผนที่กรณีศึกษา"></div>
+
+<aside class="panel" aria-label="ค้นหาโครงการ">
+  <div class="panel-head">
+    <h1 class="serif" id="brand"></h1>
+    <div class="stats" id="stats"></div>
+    <div class="search-wrap">
+      <input type="search" id="q" placeholder="ค้นหาโครงการ ผู้ออกแบบ เมือง…" aria-label="ค้นหา" autocomplete="off">
+      <ul class="results" id="results"></ul>
+    </div>
+    <div id="emptyNote"></div>
+  </div>
+</aside>
+
+<script>
+const state = {q: "", cat: ""};
+
+// ---- base maps (raster) — remembered between visits
+// Your Mapbox style is used as the default when a token is set in assets/config.js.
+const MBX = window.MAPBOX_TOKEN && window.MAPBOX_STYLE;
+const BASES = {
+  ...(MBX ? {"Mapbox": {tiles: [`https://api.mapbox.com/styles/v1/${window.MAPBOX_STYLE}/tiles/512/{z}/{x}/{y}@2x?access_token=${window.MAPBOX_TOKEN}`],
+    tileSize: 512, maxzoom: 22, attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> &copy; OpenStreetMap'}} : {}),
+  "OpenStreetMap": {tiles: ["https://tile.openstreetmap.org/{z}/{x}/{y}.png"], maxzoom: 19, attribution: "&copy; OpenStreetMap contributors"},
+  "Google Satellite": {tiles: [0, 1, 2, 3].map(i => `https://mt${i}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}`), maxzoom: 21, attribution: "Imagery &copy; Google"},
+  "Google Satellite + ป้ายชื่อ": {tiles: [0, 1, 2, 3].map(i => `https://mt${i}.google.com/vt/lyrs=y&x={x}&y={y}&z={z}`), maxzoom: 21, attribution: "Imagery &copy; Google"},
+};
+const baseId = n => "base-" + Object.keys(BASES).indexOf(n);
+let base = BASES[store("lca-base-v2")] ? store("lca-base-v2") : Object.keys(BASES)[0] === "OpenStreetMap" ? "Google Satellite" : Object.keys(BASES)[0];
+const style = {version: 8, sources: {}, layers: [],
+  projection: {type: "globe"},
+  // atmosphere glow around the globe, fading out as the map flattens
+  sky: {"atmosphere-blend": ["interpolate", ["linear"], ["zoom"], 0, 1, 4, 1, 6, 0]}};
+Object.entries(BASES).forEach(([n, b]) => {
+  style.sources[baseId(n)] = {type: "raster", tiles: b.tiles, tileSize: b.tileSize || 256, maxzoom: b.maxzoom, attribution: b.attribution};
+  style.layers.push({id: baseId(n), type: "raster", source: baseId(n), layout: {visibility: n === base ? "visible" : "none"}});
+});
+
+// Globe when zoomed out; MapLibre flattens it into a normal map as you zoom in.
+// Start zoom: globe diameter ≈ 95% of the shorter screen side (measured: visible diameter ≈ 123.6 · 2^zoom px).
+const mapEl = document.getElementById("map");
+const startZoom = Math.min(3.2, Math.max(.5, Math.log2(.95 * Math.min(mapEl.clientHeight, mapEl.clientWidth) / 123.6)));
+const map = new maplibregl.Map({container: "map", style, center: [100, 18], zoom: startZoom,
+  maxPitch: 70, attributionControl: {compact: true}, renderWorldCopies: false});
+map.addControl(new maplibregl.NavigationControl({visualizePitch: true}), "bottom-right");
+map.addControl(new maplibregl.GlobeControl(), "bottom-right");
+
+const LAYERS_ICON = '<svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/></svg>';
+class BaseSwitch {
+  onAdd(){
+    const el = this.el = document.createElement("div");
+    el.className = "maplibregl-ctrl maplibregl-ctrl-group basesw";
+    el.innerHTML = `<button type="button" class="basesw-tg" aria-expanded="false" aria-label="แผนที่ฐาน" title="แผนที่ฐาน">${LAYERS_ICON}</button>
+      <div class="basesw-menu" hidden>${Object.keys(BASES).map(n => `<button type="button" data-b="${esc(n)}" aria-pressed="${n === base}">${esc(n)}</button>`).join("")}</div>`;
+    const tg = el.querySelector(".basesw-tg"), menu = el.querySelector(".basesw-menu");
+    const open = o => { menu.hidden = !o; tg.setAttribute("aria-expanded", o); };
+    el.addEventListener("click", e => {
+      const b = e.target.closest("button"); if (!b) return;
+      if (b === tg) return open(menu.hidden);
+      open(false);
+      base = b.dataset.b; store("lca-base-v2", base);
+      Object.keys(BASES).forEach(n => map.setLayoutProperty(baseId(n), "visibility", n === base ? "visible" : "none"));
+      el.querySelectorAll("[data-b]").forEach(x => x.setAttribute("aria-pressed", x.dataset.b === base));
+    });
+    document.addEventListener("click", e => { if (!el.contains(e.target)) open(false); });
+    el.addEventListener("keydown", e => { if (e.key === "Escape"){ open(false); tg.focus(); } });
+    return el;
+  }
+  onRemove(){ this.el.remove(); }
+}
+map.addControl(new BaseSwitch(), "bottom-right");   // bottom corners stack newest on top: layers above globe + zoom
+
+// ---- the globe always spins slowly while zoomed out. It pauses while you drag/zoom or a popup is open,
+// stops when you zoom in past SPIN_MAX_ZOOM, and starts again by itself when you zoom back out.
+const SPIN_MAX_ZOOM = 3.5, reduceMotion = matchMedia("(prefers-reduced-motion: reduce)").matches;
+let userBusy = false, resumeT;
+const isGlobe = () => (map.getProjection() || {}).type === "globe";   // 2D (mercator) never spins
+function spinStep(){
+  if (reduceMotion || !isGlobe() || userBusy || popup.isOpen() || map.getZoom() > SPIN_MAX_ZOOM || map.isMoving()) return;
+  const c = map.getCenter(); c.lng -= 6;
+  map.easeTo({center: c, duration: 1000, easing: t => t});
+}
+function pauseSpin(ms){            // ms given → resume automatically after that delay
+  userBusy = true; clearTimeout(resumeT); resumeT = null;
+  if (ms) resumeT = setTimeout(() => { resumeT = null; userBusy = false; spinStep(); }, ms);
+}
+map.on("moveend", () => { if (userBusy && !resumeT) pauseSpin(1500); spinStep(); });
+["mousedown", "touchstart"].forEach(ev => map.on(ev, () => { pauseSpin(); map.stop(); }));
+map.on("wheel", () => pauseSpin());
+map.on("projectiontransition", () => setTimeout(spinStep, 300));   // globe button: back to 3D → spin again
+["mouseup", "touchend"].forEach(ev => map.on(ev, () => { if (!map.isMoving()) pauseSpin(1500); }));
+
+// ---- panel tiles: โครงการ → project cards page; ประเภทงาน → filter the pins by type
+document.getElementById("brand").innerHTML = brandHtml();
+const statsEl = document.getElementById("stats");
+statsEl.innerHTML = `<div id="typePick"></div><a id="allLink" href="cases.html" title="ดูโครงการทั้งหมดแบบการ์ด"><b id="nShown">${P.length}</b>โครงการ</a>`;
+const typeCounts = Object.fromEntries(Object.keys(C).map(k => [k, P.filter(p => cats(p).includes(k)).length]));
+catPicker(document.getElementById("typePick"), {counts: typeCounts,
+  btnHtml: k => k ? `${badge(k, 26)}<b>${esc(C[k].en)}</b><span>ประเภทงาน</span>${CARET}`
+                  : `<b>${Object.values(typeCounts).filter(Boolean).length}</b>ประเภทงาน${CARET}`,
+  onChange: k => {
+    state.cat = k; popup.remove();
+    document.getElementById("allLink").href = "cases.html" + (k ? "?cat=" + encodeURIComponent(k) : "");
+    render(false);   // just swap the pins — the camera stays where it is
+  }});
+if (!P.length) document.getElementById("emptyNote").innerHTML =
+  `<div class="empty-note">ยังไม่มีโครงการ — งานตั้งเวลาจะเพิ่มให้วันละ 5 โครงการ (จันทร์–ศุกร์)</div>`;
+
+// ---- popup
+const byId = Object.fromEntries(P.map(p => [p.id, p]));
+function popupHtml(p){
+  const img = coverImg(p);
+  return `<div class="pop-card" ${img ? `style="background-image:url('${esc(img)}')"` : ""}>
+    <div class="pop-badges">${cats(p).map(k => `<span title="${esc(C[k] ? C[k].th : k)}" aria-label="${esc(C[k] ? C[k].th : k)}">${badge(k, 28)}</span>`).join("")}</div>
+    <div class="pop-text">
+      <h3>${esc(p.name)}</h3>
+      <div class="pop-meta">${esc(p.city)}, ${esc(p.country)}${p.year ? " · " + esc(p.year) : ""}</div>
+      <div class="pop-meta">${esc(p.designer)}</div>
+      <p>${esc(p.summary_th)}</p>
+      <a class="btn" href="${projectUrl(p)}">ดูรายละเอียดโครงการ →</a>
+    </div>
+  </div>`;
+}
+// Pin is 32×42 px with its tip on the location. GAP = clear space between the pin and the card.
+const CARD_W = 400, CARD_H = 450, PIN_W = 32, PIN_H = 42, PIN_MID = 21, GAP = 30;
+const popup = new maplibregl.Popup({anchor: "left", offset: [PIN_W / 2 + GAP, -PIN_MID], maxWidth: "none", focusAfterOpen: false, className: "card-pop"});
+popup.on("open", () => document.body.classList.add("pop-open"));   // hide every pin label while a card is open
+popup.on("close", () => { document.body.classList.remove("pop-open"); pauseSpin(800); });   // resume spinning after the popup is closed
+// zooming out while a popup is open closes it automatically
+let popupZoom = 0;
+map.on("zoom", () => {
+  if (!popup.isOpen()) return;
+  const z = map.getZoom(); popupZoom = Math.max(popupZoom, z);   // measured from the closest zoom reached
+  if (z < popupZoom - .25) popup.remove();
+});
+// Screen offset that puts the pin near the top-centre and its popup centred in the visible area
+// (on phones the search panel covers the top, so only the area below it counts).
+const visibleTop = () => innerWidth <= 640 ? document.querySelector(".panel").getBoundingClientRect().bottom : 0;
+// Card sits to the RIGHT of the pin (CARTO-style), vertically centred on it, no pointer tip.
+// Its size depends only on the screen, so the final framing is known before the map moves:
+// one camera move puts the pin in the middle of the screen, then the card appears beside it.
+// Pixel positions of the OTHER visible projects relative to p's pin tip, at zoom z (Mercator maths, camera-independent).
+function neighbours(p, z){
+  const scale = 512 * 2 ** z, me = maplibregl.MercatorCoordinate.fromLngLat([p.lng, p.lat]);
+  return P.filter(o => o !== p && matches(o) && Math.abs(o.lat - p.lat) < 3 && Math.abs(o.lng - p.lng) < 3).map(o => {
+    const c = maplibregl.MercatorCoordinate.fromLngLat([o.lng, o.lat]);
+    return [(c.x - me.x) * scale, (c.y - me.y) * scale];
+  });
+}
+// Choose where the card goes (right / left / below / above the pin) and where the pin lands on screen.
+// Preference: the side that covers the fewest neighbouring pins; ties → right, left, below, above.
+// Sides that don't fit on screen (or would sit under the search panel) are skipped.
+function cardLayout(p, z = map.getZoom()){
+  const W = map.getContainer().clientWidth, H = map.getContainer().clientHeight, top = visibleTop();
+  const left0 = innerWidth > 640 ? document.querySelector(".panel").getBoundingClientRect().right + 12 : 12;
+  const gx = PIN_W / 2 + GAP, gy = PIN_MID + GAP, cy = top + (H - top) / 2;
+  const kSide = Math.max(.6, Math.min(1, (H - top - 24) / CARD_H, (W / 2 - gx - 12) / CARD_W));
+  const kVert = Math.max(.5, Math.min(1, (H - top - 24 - PIN_H - GAP) / CARD_H, (W - 24) / CARD_W));
+  const opts = [];
+  if (W > 640){
+    { // right of the pin — pin in the middle unless the card would run off the right edge
+      const w = Math.round(CARD_W * kSide), h = Math.round(CARD_H * kSide), x = Math.min(W / 2, W - 12 - w - gx);
+      opts.push({side: "right", w, h, x, y: cy, anchor: "left", popOffset: [gx, -PIN_MID], rect: [gx, -h / 2, gx + w, h / 2]});
+    }
+    { // left of the pin — keep the card clear of the search panel
+      const w = Math.round(CARD_W * kSide), h = Math.round(CARD_H * kSide), x = Math.max(W / 2, left0 + w + gx);
+      if (x + PIN_W / 2 < W - 12) opts.push({side: "left", w, h, x, y: cy, anchor: "right", popOffset: [-gx, -PIN_MID], rect: [-gx - w, -h / 2, -gx, h / 2]});
+    }
+  }
+  { // below / above the pin — the pin + card group is centred vertically in the visible area
+    const w = Math.round(Math.min(CARD_W * kVert, W - 24)), h = Math.round(CARD_H * w / CARD_W), gh = PIN_H + GAP + h;
+    const gTop = top + Math.max(12, (H - top - gh) / 2);
+    opts.push({side: "below", w, h, x: W / 2, y: gTop + PIN_MID, anchor: "top", popOffset: [0, GAP], rect: [-w / 2, PIN_MID + GAP, w / 2, PIN_MID + GAP + h]});
+    if (W > 640) opts.push({side: "above", w, h, x: W / 2, y: gTop + h + GAP + PIN_MID, anchor: "bottom", popOffset: [0, -(PIN_H + GAP)], rect: [-w / 2, -PIN_MID - GAP - h, w / 2, -PIN_MID - GAP]});
+  }
+  // count neighbouring pins that the card would cover (rect is relative to the pin centre; 20 px margin)
+  const nb = neighbours(p, z);   // tip-to-tip offsets = centre-to-centre offsets
+  const covered = o => nb.filter(([x, y]) => x > o.rect[0] - 20 && x < o.rect[2] + 20 && y > o.rect[1] - 25 && y < o.rect[3] + 25).length;
+  const best = opts.map((o, i) => ({o, n: covered(o), i})).sort((a, b) => a.n - b.n || a.i - b.i)[0].o;
+  return {...best, offset: [best.x - W / 2, best.y + PIN_MID - H / 2]};   // camera offset puts the pin tip at (x, y + 21)
+}
+async function openPopup(p, L = cardLayout(p)){
+  popup.options.anchor = L.anchor; popup.setOffset(L.popOffset);
+  popup.setLngLat([p.lng, p.lat]).setHTML(popupHtml(p)).addTo(map);
+  const {w, h} = L, el = popup.getElement();
+  el.style.setProperty("--h3", Math.max(15, Math.round(20 * Math.min(1, h / CARD_H))) + "px");
+  el.style.setProperty("--pw", w + "px"); el.style.setProperty("--ph", h + "px");
+  el.style.setProperty("--clamp", h < 330 ? 2 : h < 400 ? 3 : 5);
+  popupZoom = map.getZoom();
+  // ✕ closes the card and eases out a bit (≈3 levels, never all the way back to the globe),
+  // zooming around the pin so the view doesn't slide sideways
+  el.querySelector(".maplibregl-popup-close-button").addEventListener("click", () => {
+    const z = map.getZoom(), target = Math.max(z - 3, Math.min(z, startZoom + 2.5));
+    map.easeTo({zoom: target, around: [p.lng, p.lat], duration: 1600, easing: t => 1 - Math.pow(1 - t, 3), essential: true});
+  });
+  const card = el.querySelector(".pop-card");
+  if (card && !coverImg(p) && p.wikipedia){ const u = await wikiThumb(p.wikipedia); if (u) card.style.backgroundImage = `url('${u}')`; }
+}
+// Move once to the final framing, then open the popup. fly = long animated flight (search / "1" bubbles).
+function showProject(p, {zoom, fly = false, animate = true} = {}){
+  pauseSpin(); map.stop(); popup.remove();
+  const z = zoom ? Math.max(map.getZoom(), zoom) : map.getZoom(), L = cardLayout(p, z);
+  const cam = {center: [p.lng, p.lat], zoom: z, offset: L.offset, essential: true};
+  if (!animate || document.hidden){ map.jumpTo(cam); openPopup(p, L); return; }
+  map.once("moveend", () => openPopup(p, L));
+  fly ? map.flyTo({...cam, duration: 2200}) : map.easeTo({...cam, duration: 600});
+}
+
+// ---- clustered GeoJSON source; pins and clusters drawn as HTML markers
+const toFC = list => ({type: "FeatureCollection", features: list.map(p => ({type: "Feature",
+  geometry: {type: "Point", coordinates: [p.lng, p.lat]}, properties: {id: p.id, cat: cats(p)[0]}}))});
+let markers = {}, onScreen = {};
+function makePin(id){
+  const p = byId[id], el = document.createElement("div");
+  // a selected project type colours every pin with that type's icon and labels it with name + country
+  el.innerHTML = state.cat
+    ? `<div class="pin">${pinHtml(state.cat)}<span class="pin-label">${esc(p.name)}<small>${esc(p.country)}</small></span></div>`
+    : `<div class="pin" title="${esc(p.name)}">${pinHtml(cats(p)[0])}</div>`;
+  el.addEventListener("click", e => { e.stopPropagation(); showProject(p); });
+  return new maplibregl.Marker({element: el, anchor: "bottom", opacityWhenCovered: "0"}).setLngLat([p.lng, p.lat]);
+}
+// Single project while zoomed out: a "1" bubble; click zooms in to the pin and opens its popup.
+const PIN_ZOOM = 9;
+function makeSingle(id){
+  const p = byId[id], {html, size} = clusterHtml(1), el = document.createElement("div");
+  el.innerHTML = `<div class="cluster" style="width:${size}px;height:${size}px" title="${esc(p.name)} — คลิกเพื่อซูมเข้า">${html}</div>`;
+  el.addEventListener("click", e => { e.stopPropagation(); focusProject(id, true, 12); });
+  return new maplibregl.Marker({element: el, opacityWhenCovered: "0"}).setLngLat([p.lng, p.lat]);
+}
+function makeCluster(f){
+  const pr = f.properties, {html, size} = clusterHtml(pr.point_count), el = document.createElement("div");
+  el.innerHTML = `<div class="cluster" style="width:${size}px;height:${size}px" title="${pr.point_count} โครงการ — คลิกเพื่อซูมเข้า">${html}</div>`;
+  el.addEventListener("click", async e => {
+    e.stopPropagation(); pauseSpin(5000);
+    const z = await map.getSource("projects").getClusterExpansionZoom(pr.cluster_id);
+    map.easeTo({center: f.geometry.coordinates, zoom: Math.min(z + .3, 16), duration: 700});
+  });
+  return new maplibregl.Marker({element: el, opacityWhenCovered: "0"}).setLngLat(f.geometry.coordinates);
+}
+function clearMarkers(){ Object.values(onScreen).forEach(m => m.remove()); markers = {}; onScreen = {}; }
+function syncMarkers(){
+  if (!map.getSource("projects") || !map.isSourceLoaded("projects")) return;
+  const next = {}, pins = !!state.cat || map.getZoom() >= PIN_ZOOM;
+  for (const f of map.querySourceFeatures("projects")){
+    const pr = f.properties, key = pr.cluster ? "c" + pr.cluster_id : (pins ? "p" : "o") + pr.id;
+    if (next[key]) continue;
+    const m = markers[key] || (markers[key] = pr.cluster ? makeCluster(f) : pins ? makePin(pr.id) : makeSingle(pr.id));
+    next[key] = m; if (!onScreen[key]) m.addTo(map);
+  }
+  for (const k in onScreen) if (!next[k]) onScreen[k].remove();
+  onScreen = next;
+}
+
+function matches(p){
+  return (!state.cat || cats(p).includes(state.cat)) && (!state.q || [p.name, p.name_local, p.designer, p.city, p.country, (p.tags||[]).join(" "),
+      cats(p).map(c => C[c] ? C[c].th + " " + C[c].en : c).join(" ")].join(" ").toLowerCase().includes(state.q));
+}
+const padding = () => innerWidth > 640 ? {top: 60, bottom: 60, left: 380, right: 80} : {top: 220, bottom: 40, left: 40, right: 40};
+function fitTo(list, maxZoom){
+  if (!list.length) return;
+  const b = new maplibregl.LngLatBounds(); list.forEach(p => b.extend([p.lng, p.lat]));
+  // never zoom out past the starting globe size (projects spread worldwide would shrink the globe)
+  const cam = map.cameraForBounds(b, {padding: padding(), maxZoom});
+  if (cam) map.easeTo({...cam, zoom: Math.max(cam.zoom, startZoom), bearing: 0, duration: 900});
+}
+// Projects source: clustered normally; unclustered while a project type is selected (every pin + label visible).
+let clustered = null;
+function setSource(list){
+  const data = toFC(list), cl = !state.cat, src = map.getSource("projects");
+  if (src && clustered === cl) return src.setData(data);
+  if (map.getLayer("projects-hit")) map.removeLayer("projects-hit");
+  if (src) map.removeSource("projects");
+  map.addSource("projects", {type: "geojson", data, cluster: cl, clusterRadius: 55, clusterMaxZoom: 14});
+  // invisible layer so the source's tiles are loaded and queryable
+  map.addLayer({id: "projects-hit", type: "circle", source: "projects", paint: {"circle-radius": 1, "circle-opacity": 0}});
+  clustered = cl;
+}
+let mapReady = false;
+function render(fit){
+  const list = P.filter(matches);
+  document.getElementById("nShown").textContent = list.length;
+  if (mapReady){ clearMarkers(); setSource(list); }
+  if (fit) fitTo(list, 13);
+  const res = document.getElementById("results");
+  res.innerHTML = state.q ? (list.slice(0, 30).map(p =>
+    `<li><button data-id="${esc(p.id)}">${esc(p.name)}<small>${esc(p.city)}, ${esc(p.country)}</small></button></li>`).join("")
+    || `<li class="muted" style="font-size:13px;padding:6px 8px">ไม่พบโครงการ</li>`) : "";
+}
+function focusProject(id, animate, zoom = 15){
+  const p = byId[id]; if (p) showProject(p, {zoom, fly: true, animate});
+}
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(false); });
+document.getElementById("results").addEventListener("click", e => { const b = e.target.closest("button"); if (b) focusProject(b.dataset.id, true); });
+
+map.on("load", () => {
+  mapReady = true;
+  map.on("render", syncMarkers);
+  render(false);
+  const focus = new URLSearchParams(location.search).get("focus");
+  if (focus) focusProject(focus);
+  else spinStep();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,1114 @@
+[
+ {
+  "id": "jingyue-central-park-changchun",
+  "name": "Jingyue Central Park",
+  "name_local": "净月中央公园",
+  "designer": "SHUISHI (Shanghai Shui Shi Landscape and Environment Design) ร่วมกับ Fab-Union (ออกแบบดิจิทัล) — EPCO ร่วมกับ Shanghai Garden Group",
+  "client": "Changchun Jingyue High-tech Industrial Development Zone Management Committee",
+  "city": "Changchun (Jingyue High-tech Zone)",
+  "country": "China",
+  "lat": 43.7916,
+  "lng": 125.3768,
+  "year": 2024,
+  "area": "490,000 sq. m. (306 ไร่) — รวมพื้นที่ใต้ทางด่วนยกระดับ และพื้นที่อาคาร 59,000 ตร.ม.",
+  "area_sqm": 490000,
+  "categories": [
+   "public-parks",
+   "derelict-land",
+   "transport-corridors",
+   "recreation"
+  ],
+  "tags": [
+   "idle municipal land",
+   "under-viaduct space",
+   "cut-and-fill",
+   "EPCO",
+   "park operation",
+   "digital fabrication",
+   "3D printing",
+   "cold climate",
+   "urban renewal"
+  ],
+  "awards": [],
+  "summary_th": "สวนสาธารณะขนาด 49 เฮกตาร์ในเขตไฮเทคจิ้งเยว่ เมืองฉางชุน ที่เปลี่ยนที่ดินว่างเปล่าซึ่งเต็มไปด้วยกองดินและเศษวัสดุก่อสร้างให้เป็น 'ปอดสีเขียว' ของย่าน ออกแบบ ก่อสร้าง และบริหารโดยทีมเดียว (EPCO) และนำพื้นที่ใต้ทางด่วนยกระดับยาว 2 กม. มาใช้เป็นพื้นที่กิจกรรม",
+  "description_th": "สวนกลางจิ้งเยว่ (Jingyue Central Park) อยู่ในเขตพัฒนาอุตสาหกรรมไฮเทคจิ้งเยว่ ทางตะวันออกเฉียงใต้ของเมืองฉางชุน มณฑลจี๋หลิน ประเทศจีน พื้นที่โครงการราว 490,000 ตร.ม. ล้อมรอบด้วยชุมชนที่พักอาศัยประมาณ 300,000 คน อาคารพาณิชย์ สำนักงาน โรงเรียน และอยู่ใกล้มหาวิทยาลัย 9 แห่ง ก่อนพัฒนา การก่อสร้างทางด่วนยกระดับ คลอง และอาคารรอบ ๆ ทิ้งกองดินและเศษวัสดุก่อสร้างไว้ในพื้นที่ จนกลายเป็นที่ดินของรัฐที่ถูกปล่อยว่างและตัดขาดย่านทางเหนือออกจากทางใต้\n\nผู้ออกแบบวางแนวคิดให้ 'ภูมิทัศน์เป็นตัวนำ' (macro-landscape) โดยรวมงานวางผัง จัดโปรแกรม ภูมิทัศน์ และสถาปัตยกรรมไว้ด้วยกัน และใช้ระบบ EPCO (ออกแบบ จัดซื้อ ก่อสร้าง และบริหาร) ที่ทีมออกแบบ SHUISHI เป็นผู้นำร่วมกับ Shanghai Garden Group ทำให้เรื่องการใช้งานและการดูแลถูกคิดตั้งแต่ขั้นออกแบบ พื้นที่ที่มีหน้าที่ชัดเจนออกแบบละเอียดแล้วสร้างทันที ส่วนพื้นที่อื่นเปิดไว้ให้ยืดหยุ่นและปรับตามการใช้งานจริง โครงการสร้างเสร็จใน 18 เดือน รวมช่วงดินเยือกแข็ง 5 เดือน\n\nผังเป็นแถบยาวตะวันออก–ตะวันตก ทางด่วนยกระดับโค้งพาดผ่านตลอดแนวและคลองของเมืองไหลขนานไป (ตามผังมีพื้นที่สวนราว 109 เอเคอร์ และพื้นที่ทางด่วน 12 เอเคอร์) ผู้ออกแบบได้แรงบันดาลใจจากหุบเขาธรรมชาติ ใช้ภูมิประเทศกำหนดการสัญจรและลำดับพื้นที่ มีทางเดินหลายระดับเชื่อมกันเป็นเครือข่าย 'หุบเขาเขียว' ลำน้ำ ลานกิจกรรม และพื้นที่ใต้สะพานต่อเนื่องเป็นแกนเขียวที่เชื่อมเมืองกับธรรมชาติทั้งแนวเหนือ–ใต้และตะวันออก–ตะวันตก พื้นที่ใต้ทางด่วนยาว 2 กม. (ราว 5 เฮกตาร์) แบ่งเป็น 5 โซน คือ กีฬา พาณิชย์ พักผ่อน ครอบครัว และลาน เปิดใช้ได้ตลอดวัน\n\nดินในพื้นที่ราว 1.5 ล้านลูกบาศก์เมตรถูกนำกลับมาปั้นเป็นเนินและหุบ ผสานกับโครงสร้างอาคารและทางเดิน ช่วยลดต้นทุนขนดิน งานรายละเอียดใช้เทคโนโลยีดิจิทัล เครื่องเล่นเด็กออกแบบด้วยการเขียนโปรแกรมบน Rhinoceros และจำลองทางฟิสิกส์ ผลิตด้วยการดัดด้วยหุ่นยนต์และระบบโมดูลสำเร็จรูป จุดชมวิวฝั่งตะวันออกและตะวันตกสร้างจากไม้ glulam ที่ตัดด้วยหุ่นยนต์ แผ่นปูพื้นคอนกรีตพิมพ์ 3 มิติลาย 'เกล็ดหิมะ' 33 แผ่นสะท้อนวัฒนธรรมฤดูหนาวของภูมิภาค และชิ้นส่วนพิมพ์ 3 มิติจากพลาสติก ABS ดัดแปลงทนอากาศหนาวจัด\n\nหลังเปิดใช้ ทีม EPCO ยังเป็นผู้บริหารสวน จัดตลาดนัดรายสัปดาห์ งานแคมปิ้ง คอนเสิร์ต และเทศกาลก่อสร้างของมหาวิทยาลัย และเปิดให้ชาวบ้านจัดกิจกรรมเอง เช่น งานรวมญาติและการเต้นรำในลาน โครงการส่งเข้าประกวด Landezine International Landscape Award (LILA) 2025 และถูกศึกษาในวารสาร Landscape Architecture ของจีนในฐานะตัวอย่างการบริหารสวนตลอดวงจรชีวิต",
+  "design_strategies": [
+   "เปลี่ยนที่ดินว่างที่มีกองดินและเศษวัสดุก่อสร้างให้เป็นแกนสวนสาธารณะต่อเนื่องที่เชื่อมย่านเหนือ–ใต้",
+   "นำดินในพื้นที่ราว 1.5 ล้าน ลบ.ม. มาปั้นเป็นภูมิประเทศหุบและเนิน แทนการขนทิ้ง",
+   "ใช้พื้นที่ใต้ทางด่วนยกระดับยาว 2 กม. เป็น 5 โซนกิจกรรมที่ใช้ได้ทุกช่วงเวลา",
+   "ให้ทีมออกแบบเป็นผู้นำทั้งการก่อสร้างและการบริหาร (EPCO) และปล่อยบางพื้นที่ให้ยืดหยุ่นตามการใช้งานจริง",
+   "ใช้การออกแบบและผลิตแบบดิจิทัล (หุ่นยนต์ glulam, คอนกรีตพิมพ์ 3 มิติ) สร้างรายละเอียดที่สะท้อนวัฒนธรรมฤดูหนาว"
+  ],
+  "lessons_th": [
+   "พื้นที่ใต้ทางด่วนและทางยกระดับในกรุงเทพฯ สามารถออกแบบเป็นลานกีฬาและพื้นที่ชุมชนต่อเนื่องเป็นแนวยาว แทนที่จอดรถหรือที่รกร้าง",
+   "ที่ดินรัฐที่ถูกทิ้งดินถมจากงานก่อสร้าง ควรใช้ดินนั้นปั้นภูมิประเทศใหม่ ลดต้นทุนขนดินและสร้างพื้นที่ที่น่าสนใจ",
+   "การให้ผู้ออกแบบมีส่วนในการบริหารสวนหลังเปิด (หรือวางแผนการบริหารตั้งแต่แรก) ช่วยให้สวนมีกิจกรรมต่อเนื่องและได้ปรับปรุงตามผู้ใช้"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       125.371904,
+       43.794304
+      ],
+      [
+       125.371926,
+       43.789416
+      ],
+      [
+       125.38103,
+       43.789522
+      ],
+      [
+       125.382286,
+       43.793064
+      ],
+      [
+       125.376592,
+       43.793877
+      ],
+      [
+       125.376456,
+       43.793791
+      ],
+      [
+       125.371904,
+       43.794304
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1302367433"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2190/a29c/de3e/00cf/90df/large_jpg/jingyue-central-park-shuishi_1.jpg?1732190650",
+    "type": "photo",
+    "caption": "ภาพมุมสูงสวนกลางเมืองเป็นแถบสีเขียวยาวผ่าย่านที่พักอาศัยหนาแน่น มีทางด่วนยกระดับโค้งพาดผ่าน",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2025/05/zz-site-plan-3.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (site plan) สวนแถบยาวระหว่างถนน Yinxing และ Tianhe มีทางด่วนยกระดับโค้งพาดผ่านและลำน้ำของเมืองไหลขนานไปตลอดแนว",
+    "credit": "SHUISHI",
+    "source": "https://landezine-award.com/changchun-jingyue-central-park-by-shuishi/"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2191/a29c/de01/86fd/cfdd/large_jpg/jingyue-central-park-shuishi_3.jpg?1732190626",
+    "type": "photo",
+    "caption": "มุมสูงยามเย็น ลานเล่นเด็กสีชมพูและทางเดินโค้งวางคู่ขนานกับทางด่วนยกระดับ",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2193/a29c/de01/86fd/cfdf/large_jpg/jingyue-central-park-shuishi_16.jpg?1732190631",
+    "type": "photo",
+    "caption": "ลานเล่นเด็กพื้นสีชมพู ขั้นบันไดนั่ง และเนินหญ้าที่ปั้นจากดินในพื้นที่",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2195/a29c/de01/86fd/cfe2/large_jpg/jingyue-central-park-shuishi_17.jpg?1732190633",
+    "type": "photo",
+    "caption": "ศาลาวงรีโครงเหล็กเคลือบสีส้มกลางแนวต้นสน",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2199/a29c/de01/86fd/cfe6/large_jpg/jingyue-central-park-shuishi_5.jpg?1732190636",
+    "type": "photo",
+    "caption": "ทางเดินขั้นบันไดและสไลเดอร์ขึ้นเนิน มีซุ้มโค้งสีแดงอยู่บนยอด",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2194/a29c/de01/86fd/cfe1/large_jpg/jingyue-central-park-shuishi_15.jpg?1732190632",
+    "type": "photo",
+    "caption": "ลานเล่นรูปทรงอิสระล้อมด้วยทางเดินยกระดับคดโค้ง",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2194/06be/0e01/88b0/cd64/large_jpg/jingyue-central-park-shuishi_10.jpg?1732190628",
+    "type": "photo",
+    "caption": "มุมสูงยามค่ำ ทางเดินโค้งเรืองแสงวนรอบลานวงกลมและศาลาหลังคาแบน",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2191/06be/0e58/50e0/8d4b/large_jpg/jingyue-central-park-shuishi_11.jpg?1732190630",
+    "type": "photo",
+    "caption": "ทางเดินคดเคี้ยวรอบลานวงกลมกลางสนามหญ้าและแนวไม้ปลูกใหม่",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2192/a29c/de01/86fd/cfde/large_jpg/jingyue-central-park-shuishi_12.jpg?1732190631",
+    "type": "photo",
+    "caption": "ลานวงกลมและศาลาหลังคาจานบางเหนือสนามหญ้า",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2194/06be/0e01/88b0/cd65/large_jpg/jingyue-central-park-shuishi_14.jpg?1732190631",
+    "type": "photo",
+    "caption": "ศาลาจุดชมวิวโครงไม้รูปเห็ดบนยอดเนินหญ้า",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2196/06be/0e01/88b0/cd67/large_jpg/jingyue-central-park-shuishi_18.jpg?1732190633",
+    "type": "photo",
+    "caption": "ทางเดินยกระดับโค้งลอยผ่านแนวต้นไม้ยามเย็น",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2199/06be/0e01/88b0/cd6c/large_jpg/jingyue-central-park-shuishi_2.jpg?1732190634",
+    "type": "photo",
+    "caption": "ทางเดินลอยตัดผ่านแปลงหญ้าประดับและไม้ดอกสีม่วง",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2190/06be/0e01/88b0/cd61/large_jpg/jingyue-central-park-shuishi_2.jpg?1732190627",
+    "type": "photo",
+    "caption": "มุมสูงยามค่ำ ทางด่วนยกระดับกับสวนที่เปิดไฟอยู่สองข้าง",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2196/a29c/de01/86fd/cfe4/large_jpg/jingyue-central-park-shuishi_21.jpg?1732190677",
+    "type": "photo",
+    "caption": "ลำน้ำของเมืองที่ไหลผ่านสวน เกาะต้นไม้ และโดมกระจกริมน้ำ",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2198/06be/0e01/88b0/cd69/large_jpg/jingyue-central-park-shuishi_23.jpg?1732190716",
+    "type": "photo",
+    "caption": "ลานกีฬาล้อเลื่อนใต้ทางด่วนยกระดับ — พื้นที่ใต้สะพานที่ถูกเปลี่ยนเป็นที่เล่น",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2197/a29c/de01/86fd/cfe5/large_jpg/jingyue-central-park-shuishi_24.jpg?1732190636",
+    "type": "photo",
+    "caption": "สะพานโค้งข้ามหุบหญ้าและร่องน้ำยามพลบค่ำ",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/218e/a29c/de01/86fd/cfdc/large_jpg/jingyue-central-park-shuishi_4.jpg?1732190625",
+    "type": "photo",
+    "caption": "ศาลาวงแหวนยกลอยและอาคารทรงกระบอกสีขาวยามเย็น",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/218e/06be/0e01/88b0/cd5f/large_jpg/jingyue-central-park-shuishi_5.jpg?1732190623",
+    "type": "photo",
+    "caption": "อาคารทรงกระบอกสีขาวริมสระน้ำ และโดมกระจกกลางแนวไม้",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2190/06be/0e58/50e0/8d4a/large_jpg/jingyue-central-park-shuishi_7.jpg?1732190629",
+    "type": "photo",
+    "caption": "โดมกระจกครึ่งวงกลมริมบึง ไม้ดอกสีม่วงริมน้ำด้านหน้า",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/673f/2192/06be/0e01/88b0/cd63/large_jpg/jingyue-central-park-shuishi_8.jpg?1732190625",
+    "type": "photo",
+    "caption": "ศาลาหลังคาโค้งโครงตาข่ายเรืองแสงยามค่ำ",
+    "credit": "SHUISHI — ภาพ: Chill Shine, Li Kuan, Zhang Yikai, Wang Xiu (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   }
+  ],
+  "research": [
+   {
+    "title": "Urban Park Operation Concept and Practice Based on the Whole Life Cycle: Exploration of Changchun Jingyue Central Park",
+    "authors": "Gang Deng, Huiyuan Wang, Xiu Zhang, Pu Liu",
+    "year": 2025,
+    "journal": "Landscape Architecture (风景园林)",
+    "url": "https://doi.org/10.3724/j.fjyl.la20250018",
+    "note_th": "ศึกษาแนวคิดและการปฏิบัติในการบริหารสวนตลอดวงจรชีวิต โดยใช้สวนกลางจิ้งเยว่เป็นกรณีศึกษา (ตั้งแต่ออกแบบ ก่อสร้าง ถึงการดำเนินงาน)"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ArchDaily — Jingyue Central Park / SHUISHI",
+    "url": "https://www.archdaily.com/1023850/jingyue-central-park-shuishi"
+   },
+   {
+    "title": "Landezine International Landscape Award (LILA) 2025 — Changchun Jingyue Central Park by SHUISHI",
+    "url": "https://landezine-award.com/changchun-jingyue-central-park-by-shuishi/"
+   },
+   {
+    "title": "Facebook — โพสต์ที่ผู้ใช้ส่งมา (ลิงก์จาก inbox)",
+    "url": "https://www.facebook.com/share/p/19jZ69SkrX/"
+   },
+   {
+    "title": "OpenStreetMap — 净月中央公园",
+    "url": "https://www.openstreetmap.org/way/1302367433"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-15"
+ },
+ {
+  "id": "al-shaheed-park-kuwait-city",
+  "name": "Al Shaheed Park (Phase I)",
+  "name_local": "حديقة الشهيد",
+  "designer": "Ricardo Camacho (Ricardo Camacho, Sara Machado) กับ STROOP landscape urbanism และ TAEP (The Associated Engineering Partnership); หลังคาเขียว ZinCo",
+  "client": "Amiri Diwan (Kuwait)",
+  "city": "Kuwait City",
+  "country": "Kuwait",
+  "lat": 29.3696,
+  "lng": 47.9942,
+  "year": 2015,
+  "area": "200,000 sq. m. (125 ไร่) — ระยะที่ 1 (ตาม ZinCo) ภายใต้หลังคาเขียวราว 35,000 ตร.ม.",
+  "area_sqm": 200000,
+  "categories": [
+   "living-roofs",
+   "green-belt",
+   "public-parks",
+   "monuments"
+  ],
+  "tags": [
+   "desert landscape",
+   "native plants",
+   "over-structure green roof",
+   "underground museums",
+   "memorial",
+   "artificial lake",
+   "water reservoir",
+   "dust and wind mitigation",
+   "Smithson legacy"
+  ],
+  "awards": [],
+  "wikipedia": "Al_Shaheed_Park",
+  "summary_th": "การฟื้นฟูแนวเขียวรอบเมืองคูเวต (Green Belt) บนแนวกำแพงเมืองเก่า ให้เป็นสวนเนินเรขาคณิตที่ฝังอาคารพิพิธภัณฑ์ ศูนย์บริการ และที่จอดรถไว้ใต้หลังคาเขียวราว 35,000 ตร.ม. ปลูกพืชพื้นถิ่นทะเลทราย และมีทะเลสาบกลางที่เป็นอ่างเก็บน้ำ",
+  "description_th": "แนวเขียว (Green Belt) ของคูเวตซิตีถูกวางผังไว้ต้นทศวรรษ 1960 บนแนวกำแพงเมืองเก่าที่ถูกรื้อ เพื่อเป็นพื้นที่กันชนระหว่างเมืองเก่ากับย่านที่พักอาศัยใหม่ แนวนี้ถูกถนนรัศมีตัดออกเป็นหลายช่วง และช่วงหนึ่งตั้งชื่อว่า 'ชาฮีด' (ผู้พลีชีพ) เพื่อรำลึกถึงผู้เสียชีวิตจากการยึดครองของอิรักปี 1990 แต่พื้นที่ทรุดโทรมจากการดูแลที่ไม่ดีและการใช้งานที่ไม่เหมาะสม ปี 2012 สำนักราชเลขาธิการ (Amiri Diwan) จึงสั่งปรับปรุงทั้งหมด พร้อมโปรแกรมทั้งพื้นที่กีฬาและนันทนาการ ลานรำลึก อนุสรณ์ครบ 50 ปีรัฐธรรมนูญ ที่จอดรถใต้ดิน พิพิธภัณฑ์และอาคารสำนักงาน\n\nทีมของ Ricardo Camacho และ STROOP ร่วมกับ TAEP ต้องทำงานกับข้อจำกัดหลายอย่าง ทั้งต้นไม้เดิมที่ต้องรักษา เครือข่ายสาธารณูปโภคใต้ดินจำนวนมาก และกฎที่ห้ามสร้างอาคารใหม่ในแนวเขียว แนวคิดหลักจึงเป็น 'เนินทรายเรขาคณิต' ที่ปั้นภูมิประเทศ แบ่งพื้นที่ตามธีม และฝังอาคารไว้ใต้เนิน โดยตีความต่อจากข้อเสนอของ Alison และ Peter Smithson สำหรับพื้นที่เดียวกันในปลายทศวรรษ 1960 ที่ไม่เคยถูกสร้าง เนินยังช่วยบรรเทาเสียงจากถนนใหญ่ ลม ฝุ่น และแดด\n\nทะเลสาบประดิษฐ์อยู่กลางผัง และเป็นทั้งจุดเฉลิมฉลองระดับชาติและอ่างเก็บน้ำสำหรับรดน้ำในหน้าร้อน ทางเดินหลักสามเส้นแยกออกจากทะเลสาบตัดผ่านเนิน ได้แก่ ทางเฉลิมฉลอง (ทางของเจ้าผู้ครองรัฐ) ลู่วิ่ง และทางเดินของผู้มาเยือน แต่ละเส้นใช้วัสดุปูต่างกัน ประตูหลักเป็นผนังกล่องหิน (gabion) นำตรงไปยังทะเลสาบ ศูนย์บริการนักท่องเที่ยวและอาคารบริหารหันหน้าเข้าหาลานนี้ พิพิธภัณฑ์ Habitat Museum ทางตะวันออกจำลองระบบนิเวศของคูเวตตั้งแต่ที่ราบทะเลทรายถึงโอเอซิส แอ่งเกลือ และป่าอะคาเซีย ส่วนพิพิธภัณฑ์รำลึก (Remembrance/Memorial Museum) ทางตะวันตกมีลานจมต่ำ อัฒจันทร์กลางแจ้ง และอุโมงค์คนเดินไปยังประตูเมืองเก่าที่บูรณะแล้ว\n\nอาคารเกือบทั้งหมดอยู่ใต้ดินภายใต้หลังคาเขียวราว 35,000 ตร.ม. ที่ออกแบบสำหรับภูมิอากาศทะเลทรายและใช้พืชพื้นถิ่นเป็นหลัก รวมถึงที่จอดรถใต้ดิน 800 คัน หลังคาเขียวใช้ระบบของ ZinCo (เช่น Stabilodrain และ Floradrain) ที่รองรับทั้งพื้นที่ปลูก ทางเดิน และที่นั่ง แม้เลือกพืชที่ทนแล้ง หลังคายังต้องใช้ระบบรดน้ำ ด้านหน้าอาคารที่โผล่ขึ้นมาใช้กระจกน้อยและมีบังแดด\n\nระยะที่ 1 สร้างเสร็จภายใน 22 เดือน (ก่อสร้างช่วงปี 2013–2015) ZinCo ระบุว่าสวนมีพื้นที่ 20 เฮกตาร์ เป็นสวนเมืองที่ใหญ่ที่สุดในประเทศ และเป็นหนึ่งในหลังคาเขียวเหนือโครงสร้าง (over-structure) ที่ใหญ่ที่สุดในโลก ระยะที่ 2 เปิดในเดือนเมษายน 2017 (ลานสเก็ต ศูนย์เยาวชน และเวทีกลางแจ้ง) และยังมีระยะต่อไปตามแผน นักวิชาการชี้ว่าโครงการนี้เป็นการพัฒนาสวนสาธารณะขนาดใหญ่ที่นำโดยรัฐ ซึ่งต่างจากกระแสพื้นที่สาธารณะเล็ก ๆ ที่ประชาชนริเริ่มเอง",
+  "design_strategies": [
+   "ฝังอาคารพิพิธภัณฑ์ ศูนย์บริการ และที่จอดรถไว้ใต้เนินหลังคาเขียว เพื่อรักษาความต่อเนื่องของแนวเขียวและเลี่ยงข้อห้ามสร้างอาคารใหม่",
+   "ปั้นเนินเรขาคณิตเพื่อแบ่งโซนและช่วยกันเสียง ลม ฝุ่น และแดด",
+   "ใช้ทะเลสาบกลางเป็นทั้งจุดศูนย์รวมพิธีการและอ่างเก็บน้ำสำหรับรดน้ำ",
+   "แยกทางเดินพิธีการ ลู่วิ่ง และทางผู้มาเยือนด้วยวัสดุปูต่างกัน",
+   "เลือกพืชพื้นถิ่นทะเลทรายและจำลองระบบนิเวศของประเทศในภูมิทัศน์รอบพิพิธภัณฑ์"
+  ],
+  "lessons_th": [
+   "อาคารสาธารณะในสวน (เช่น ที่จอดรถ ห้องน้ำ ศูนย์บริการ) สามารถฝังใต้เนินหลังคาเขียว เพื่อไม่ลดพื้นที่สีเขียวของสวนเมืองไทยที่มีน้อยอยู่แล้ว",
+   "บ่อน้ำในสวนควรออกแบบให้เป็นแหล่งเก็บน้ำสำหรับรดน้ำในหน้าแล้งด้วย ไม่ใช่เพียงองค์ประกอบสวยงาม",
+   "หลังคาเขียวขนาดใหญ่ต้องคิดเรื่องน้ำหนัก ระบบระบายน้ำ และการรดน้ำตั้งแต่ต้น แม้จะใช้พืชทนแล้ง"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       47.990237,
+       29.366479
+      ],
+      [
+       47.99228,
+       29.364964
+      ],
+      [
+       47.993509,
+       29.366318
+      ],
+      [
+       47.994374,
+       29.367544
+      ],
+      [
+       47.995068,
+       29.368873
+      ],
+      [
+       47.995395,
+       29.369791
+      ],
+      [
+       47.996605,
+       29.374422
+      ],
+      [
+       47.996338,
+       29.374458
+      ],
+      [
+       47.995124,
+       29.375142
+      ],
+      [
+       47.994013,
+       29.375345
+      ],
+      [
+       47.993984,
+       29.374142
+      ],
+      [
+       47.993697,
+       29.371961
+      ],
+      [
+       47.992503,
+       29.368828
+      ],
+      [
+       47.992248,
+       29.368492
+      ],
+      [
+       47.990237,
+       29.366479
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/relation/18067178"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b525/e58e/ce79/2b00/0066/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_PAN_KUWAIT_010215_0007.jpg?1426044183",
+    "type": "photo",
+    "caption": "มุมสูงสวนเนินเรขาคณิตปลูกพืชพื้นถิ่นทะเลทราย เบื้องหลังเป็นหอ Liberation Tower และตึกสูงของคูเวตซิตี",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b437/e58e/ce79/2b00/005f/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_1096.jpg?1426043933",
+    "type": "photo",
+    "caption": "ทะเลสาบประดิษฐ์กลางสวน ซึ่งเป็นอ่างเก็บน้ำสำรองในหน้าร้อนด้วย",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b4e7/e58e/cee4/f100/0049/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_PAN_KUWAIT_010215_0001.jpg?1426044118",
+    "type": "photo",
+    "caption": "ทางเดินเลียบหลังคาเขียวของอาคาร และต้นไม้เดิมที่เก็บรักษาไว้",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b430/e58e/ce81/2900/0061/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_0640.jpg?1426043928",
+    "type": "photo",
+    "caption": "สวนพืชทะเลทรายและปาล์มบนหลังคาอาคารใต้ดิน ยามค่ำ",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b404/e58e/ce79/2b00/005d/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_0586.jpg?1426043896",
+    "type": "photo",
+    "caption": "ลานขั้นบันไดหินและสระน้ำหน้าอาคารที่ฝังอยู่ในเนิน",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b4cb/e58e/cee4/f100/0048/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_040215_0245.jpg?1426044086",
+    "type": "photo",
+    "caption": "ลานน้ำรูปหลายเหลี่ยมพร้อมม้านั่ง ยามพลบ",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b417/e58e/ce79/2b00/005e/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_0631.jpg?1426043909",
+    "type": "photo",
+    "caption": "สนามหญ้าใต้ร่มไม้เดิมของแนวเขียวเมืองยามค่ำ",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b454/e58e/ce79/2b00/0060/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_1130.jpg?1426043965",
+    "type": "photo",
+    "caption": "ผนังสีขาวของอาคารฝังเนินและหลังคาเขียว กับหอ Liberation Tower",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b3fb/e58e/cee4/f100/0043/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_0295.jpg?1426043887",
+    "type": "photo",
+    "caption": "พิพิธภัณฑ์ที่ฝังตัวในเนิน ผนังหินแนวเฉียงและหลังคาปลูกพืช",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b3e8/e58e/ce79/2b00/005c/large_jpg/PORTADA_RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_1481.jpg?1426043858",
+    "type": "photo",
+    "caption": "ประตูทางเข้าผนังกล่องหิน (gabion)",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b54f/e58e/ce79/2b00/0067/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_PAN_KUWAIT_040215_0008.jpg?1426044208",
+    "type": "photo",
+    "caption": "อาคารรูปลิ่มหุ้มหินที่โผล่ขึ้นจากเนิน",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b4b9/e58e/ce81/2900/0064/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_040215_0226.jpg?1426044064",
+    "type": "photo",
+    "caption": "ผนังกล่องหินกับโครงสะพานเหล็กถัก",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b480/e58e/ce81/2900/0063/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_KUWAIT_010215_1465.jpg?1426044014",
+    "type": "photo",
+    "caption": "โครงหลังคาเหล็กถักขึงตาข่ายเหนือลานเฉลิมฉลอง",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b50c/e58e/cee4/f100/004a/large_jpg/RICARDO_CAMACHO_AL_SHAEED_PARK_PAN_KUWAIT_010215_0004.jpg?1426044136",
+    "type": "photo",
+    "caption": "ศูนย์บริการนักท่องเที่ยว หลังคายื่นเหนือสระน้ำ",
+    "credit": "Nelson Garrido / Ricardo Camacho (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b7f5/e58e/ce81/2900/006d/large_jpg/diagram.jpg?1426044895",
+    "type": "plan",
+    "caption": "ผังแม่บท (masterplan) ระยะที่ 1 แสดงเนิน ทะเลสาบกลาง และเส้นทางเดินหลักสามเส้น",
+    "credit": "Ricardo Camacho / STROOP (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b752/e58e/ce79/2b00/006b/large_jpg/desert_springs_section_A.jpg?1426044731",
+    "type": "section",
+    "caption": "รูปตัด Desert Springs แสดงลำน้ำไหลลดหลั่นลงตามเนิน",
+    "credit": "Ricardo Camacho / STROOP (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b879/e58e/ce79/2b00/0071/large_jpg/habitat_museum_green_roof.jpg?1426045043",
+    "type": "section",
+    "caption": "รูปตัดหลังคาเขียวของพิพิธภัณฑ์ Habitat Museum",
+    "credit": "Ricardo Camacho / STROOP (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/54ff/b7b5/e58e/cee4/f100/0054/large_jpg/detail_2.jpg?1426044810",
+    "type": "section",
+    "caption": "แบบขยายระบบหลังคาเขียว: ชั้นดิน ชั้นระบายน้ำ และขอบกระบะปลูก",
+    "credit": "Ricardo Camacho / STROOP (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   }
+  ],
+  "research": [
+   {
+    "title": "Spatial Practice: The politics of \"activating\" public space in the State of Kuwait",
+    "authors": "Muneerah Alrabe",
+    "year": 2016,
+    "journal": "Thesis (MIT)",
+    "url": "http://hdl.handle.net/1721.1/106411",
+    "note_th": "วิทยานิพนธ์ที่ศึกษาพัฒนาการพื้นที่สาธารณะและเครือข่ายสวนในคูเวต โดยเปรียบเทียบความเคลื่อนไหวพื้นที่สาธารณะเล็ก ๆ ของประชาชนกับสวน Al Shaheed Park ขนาดใหญ่ที่นำโดยรัฐ"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ArchDaily — Al Shaheed Park / Ricardo Camacho",
+    "url": "https://www.archdaily.com/608253/al-shaheed-park-ricardo-camacho"
+   },
+   {
+    "title": "Domus — Al Shaheed Park, Kuwait (2015)",
+    "url": "https://domusweb.it/en/reviews/2015/04/23/al_shaheed_park____kuwait.html"
+   },
+   {
+    "title": "ZinCo — Al Shaheed Park, Kuwait",
+    "url": "https://zinco-greenroof.com/node/588"
+   },
+   {
+    "title": "Wikipedia — Al Shaheed Park",
+    "url": "https://en.wikipedia.org/wiki/Al_Shaheed_Park"
+   },
+   {
+    "title": "OpenStreetMap — Al Shaheed Park Phase 1",
+    "url": "https://www.openstreetmap.org/relation/18067178"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-15"
+ },
+ {
+  "id": "saxholl-crater-stairway-snaefellsjokull",
+  "name": "Saxhóll Crater Stairway",
+  "designer": "Landslag ehf (Þráinn Hauksson; ผู้ร่วมงาน Jón Rafnar Benjamínsson)",
+  "client": "Environment Agency of Iceland (Umhverfisstofnun)",
+  "city": "Snæfellsjökull National Park (Snæfellsbær)",
+  "country": "Iceland",
+  "lat": 64.8516,
+  "lng": -23.9267,
+  "year": 2016,
+  "area": "250 sq. m. (0.16 ไร่) — พื้นที่ตัวบันได ยาว 160 ม. กว้าง 1.5 ม.",
+  "area_sqm": 250,
+  "categories": [
+   "recreation",
+   "land-art",
+   "forestry"
+  ],
+  "tags": [
+   "national park",
+   "visitor management",
+   "erosion control",
+   "weathering steel",
+   "minimal intervention",
+   "tourism",
+   "volcanic landscape",
+   "trail design"
+  ],
+  "awards": [
+   "Rosa Barba International Landscape Prize 2018 (10th International Landscape Biennial of Barcelona)",
+   "Shortlisted 2017: Nordic Architecture Fair Award, Icelandic Design Awards, DV Cultural Awards"
+  ],
+  "summary_th": "บันไดเหล็กยาว 160 เมตร 396 ขั้น ที่สร้างทับแนวทางเดินเดินเท้าเดิมขึ้นปล่องภูเขาไฟ Saxhóll ในอุทยานแห่งชาติ Snæfellsjökull ประเทศไอซ์แลนด์ เพื่อหยุดการกัดเซาะจากนักท่องเที่ยวด้วยการแทรกแซงน้อยที่สุด ได้รับรางวัล Rosa Barba ปี 2018",
+  "description_th": "Saxhóll เป็นปล่องภูเขาไฟทรงวงรีสูง 45 เมตร ที่โผล่ขึ้นจากทุ่งลาวาปกคลุมด้วยมอสในอุทยานแห่งชาติ Snæfellsjökull บนคาบสมุทร Snæfellsnes ทางตะวันตกของไอซ์แลนด์ ยอดปล่องมองเห็นทุ่งลาวา มหาสมุทรแอตแลนติก และธารน้ำแข็ง Snæfellsjökull ทางขึ้นเดิมเป็นร่องที่ผู้มาเยือนเหยียบจนเกิดเป็นทางตามแนวลาดที่ขึ้นง่ายที่สุด เมื่อนักท่องเที่ยวเพิ่มขึ้นอย่างรวดเร็ว วัสดุหลวมบนลาดเริ่มเคลื่อนตัวและทางแตกออกเป็นหลายเส้น ปี 2014 จึงตัดสินใจเข้าแทรกแซงเพื่อหยุดความเสียหายต่อภูมิทัศน์ที่เปราะบาง\n\nความลาดเฉลี่ยราว 1:3.5 ชันเกินกว่าจะเป็นทางเดินธรรมดา ผู้ออกแบบ Landslag จึงเลือกทำ 'ทางขั้นบันได' จากเหล็กสีดำที่วางตามแนวทางเดินเดิมพอดี แทนการตัดเส้นทางใหม่ เป้าหมายคือให้กระทบภูมิทัศน์น้อยที่สุดแต่ยังปลอดภัยและแข็งแรง\n\nบันไดแบ่งเป็นสองช่วงโค้งที่มาพบกันครึ่งทาง ณ จุดพักเล็ก ๆ ที่มีม้านั่ง ความยาวรวม 160 เมตร 396 ขั้น กว้าง 1.5 เมตร พอให้คนสองคนเดินสวนหรือเดินคู่กันได้ บันไดจึงทำหน้าที่ทั้งเส้นทางสัญจรและกรอบควบคุมการเหยียบย่ำบนลาดปล่องทั้งหมด\n\nบันไดประกอบจากหน่วยยาว 3 เมตร ขั้นบันไดยึดกับแผ่นเหล็กตั้งทั้งสองข้าง และแผ่นข้างแต่ละหน่วยต่อกันเป็นโครงสร้างต่อเนื่องตลอดแนวเหมือนสร้อยที่วางบนเนิน ผิวเหล็กเกิดสนิมอย่างรวดเร็วจนกลมกลืนกับสีแดงของหินภูเขาไฟและพืชอาร์กติก–อัลไพน์ ภาพของบันไดสีส้มที่ไต่ขึ้นปล่องกลายเป็นภาพที่คนนิยมถ่ายในสื่อสังคมออนไลน์\n\nบันไดสร้างเสร็จในปี 2016 ผู้ออกแบบรายงานว่าหลังจากนั้นผู้มาเยือนเกือบทั้งหมดเดินอยู่บนเส้นทาง ทำให้ลาดปล่องที่เหลือฟื้นตัวได้ โครงการเข้ารอบสุดท้ายรางวัล 3 รายการในปี 2017 (Nordic Architecture Fair Award, Icelandic Design Awards, DV Cultural Awards) และได้รับรางวัล Rosa Barba International Landscape Prize จาก Barcelona International Landscape Biennial ครั้งที่ 10 ปี 2018 งานศึกษาเกี่ยวกับภูมิทัศน์ทางตะวันตกของไอซ์แลนด์ยกให้เป็นตัวอย่างของการออกแบบทางเข้าและเส้นทางที่ช่วยทั้งการท่องเที่ยวและการอนุรักษ์",
+  "design_strategies": [
+   "วางโครงสร้างทับแนวทางเดินที่ผู้คนเหยียบจนเกิดเอง (desire line) แทนการตัดเส้นทางใหม่",
+   "ใช้ระบบหน่วยสำเร็จรูปยาว 3 ม. ต่อกันเป็นโครงต่อเนื่อง วางบนลาดโดยรบกวนดินน้อยที่สุด",
+   "ใช้เหล็กที่เกิดสนิมให้สีกลมกลืนกับหินภูเขาไฟ",
+   "ทำความกว้าง 1.5 ม. และจุดพักครึ่งทาง ให้คนเดินสวนกันได้โดยไม่ต้องลงไปเหยียบลาด"
+  ],
+  "lessons_th": [
+   "ในอุทยานและแหล่งท่องเที่ยวธรรมชาติของไทย (เช่น ยอดเขาหรือเนินที่มีคนขึ้นมาก) ทางเดินยกระดับหรือบันไดสำเร็จรูปตามแนวทางเดิมช่วยหยุดการกัดเซาะได้ดีกว่าปล่อยให้เกิดทางแยกหลายเส้น",
+   "การสังเกตเส้นทางที่คนเดินจริงก่อนออกแบบ ทำให้ผู้คนยอมเดินบนเส้นทางที่จัดให้",
+   "งานขนาดเล็กที่ออกแบบประณีตสามารถเป็นจุดสังเกตและภาพจำของสถานที่ได้ โดยไม่ต้องสร้างอาคารใหญ่"
+  ],
+  "images": [
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F1.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงปล่องภูเขาไฟ Saxhóll กับบันไดเหล็กสีสนิมที่โค้งไต่ขึ้นตามแนวทางเดินเดิมสู่ขอบปล่อง",
+    "credit": "Landslag ehf (ผ่าน Biennal Internacional de Paisatge de Barcelona)",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F2.jpg",
+    "type": "photo",
+    "caption": "ผู้มาเยือนเดินขึ้นบันไดเหล็กกว้าง 1.5 เมตร เบื้องหลังเป็นทุ่งลาวาและธารน้ำแข็ง Snæfellsjökull",
+    "credit": "Landslag ehf (ผ่าน Biennal Internacional de Paisatge de Barcelona)",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F7.jpg",
+    "type": "photo",
+    "caption": "บันไดช่วงบนแนบไปกับลาดหินภูเขาไฟสีน้ำตาลแดงและพืชอาร์กติก",
+    "credit": "Landslag ehf (ผ่าน Biennal Internacional de Paisatge de Barcelona)",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F3.jpg",
+    "type": "photo",
+    "caption": "บันไดในฤดูหนาว เส้นขั้นบันไดยังมองเห็นได้ใต้หิมะ",
+    "credit": "Landslag ehf (ผ่าน Biennal Internacional de Paisatge de Barcelona)",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_060.JPG/1280px-Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_060.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ภายในปล่องภูเขาไฟ Saxhóll มองจากขอบปล่องด้านบน",
+    "credit": "Diego Delso (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Saxh%C3%B3ll,_Vesturland,_Islandia,_2014-08-14,_DD_060.JPG",
+    "year": 2014
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_063.JPG/1280px-Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_063.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ขอบปล่องและแอ่งหญ้าภายในปล่อง",
+    "credit": "Diego Delso (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Saxh%C3%B3ll,_Vesturland,_Islandia,_2014-08-14,_DD_063.JPG",
+    "year": 2014
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_061.JPG/1280px-Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_061.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ป้ายบอกทิศบนยอดปล่อง มองออกไปยังทุ่งลาวาที่ปกคลุมด้วยมอส",
+    "credit": "Diego Delso (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Saxh%C3%B3ll,_Vesturland,_Islandia,_2014-08-14,_DD_061.JPG",
+    "year": 2014
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_059.JPG/1280px-Cr%C3%A1ter_Saxh%C3%B3ll%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_059.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "สภาพก่อนสร้างบันได (ส.ค. 2014): ทางเดินที่ผู้มาเยือนเหยียบจนเป็นร่องบนลาดปล่อง",
+    "credit": "Diego Delso (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A1ter_Saxh%C3%B3ll,_Vesturland,_Islandia,_2014-08-14,_DD_059.JPG",
+    "year": 2014
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F4.jpg",
+    "type": "plan",
+    "caption": "แผนที่ที่ตั้งในอุทยานแห่งชาติ Snæfellsjökull บนคาบสมุทร Snæfellsnes",
+    "credit": "Landslag ehf",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F5.jpg",
+    "type": "diagram",
+    "caption": "แบบจำลองสามมิติแสดงแนวบันไดสองช่วงโค้งที่พบกันกลางทางบนลาดปล่อง",
+    "credit": "Landslag ehf",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   },
+   {
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fotos_proj/10a_BIENNAL/P10093/P10093F6.jpg",
+    "type": "diagram",
+    "caption": "ภาพร่างแนวคิดเส้นทางที่ไต่ขึ้นสู่ปล่องรูปวงรี",
+    "credit": "Landslag ehf",
+    "source": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   }
+  ],
+  "research": [
+   {
+    "title": "Improving Fruition and Protecting Nature through Landscape Design and Nature-Based Solutions: The Case of West Iceland",
+    "authors": "Daniele Stefàno",
+    "year": 2025,
+    "journal": "IntechOpen (Environmental Sciences)",
+    "url": "https://doi.org/10.5772/intechopen.1012963",
+    "note_th": "ศึกษางานภูมิสถาปัตยกรรมที่จัดการนักท่องเที่ยวและปกป้องธรรมชาติบนคาบสมุทร Snæfellsnes โดยยกโครงการของ Landslag ที่ปล่อง Saxhóll เป็นตัวอย่าง"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Barcelona International Landscape Biennial — Saxhóll Crater Stairway (project sheet, 10th Biennial 2018)",
+    "url": "https://www.arquitectes.cat/iframes/paisatge/fitxa/10093"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-15"
+ },
+ {
+  "id": "parque-de-la-amistad-montevideo",
+  "name": "Parque de la Amistad (Friendship Park)",
+  "name_local": "Parque de la Amistad",
+  "designer": "Marcelo Roux (สถาปัตยกรรม), Marcelo Gastón Cuña (แบบก่อสร้างและควบคุมงาน), Alfonso Arcos (ภูมิทัศน์) — Intendencia de Montevideo",
+  "client": "Intendencia de Montevideo (Secretaría de Accesibilidad para la Inclusión)",
+  "city": "Montevideo (Parque Batlle / Villa Dolores)",
+  "country": "Uruguay",
+  "lat": -34.9022,
+  "lng": -56.1448,
+  "year": 2015,
+  "area": "3,500 sq. m. (2.2 ไร่) — ลานระยะแรก 70×50 ม.; ส่วนขยายปี 2020 เพิ่มอีกกว่า 4,000 ตร.ม.",
+  "area_sqm": 3500,
+  "categories": [
+   "recreation",
+   "public-parks"
+  ],
+  "tags": [
+   "inclusive playground",
+   "universal accessibility",
+   "disability",
+   "multisensory design",
+   "tactile murals",
+   "participatory design",
+   "planetarium",
+   "sunken plaza"
+  ],
+  "awards": [],
+  "summary_th": "สวนเล่นแบบไม่มีอุปสรรค (inclusive park) แห่งแรกของอุรุกวัย ในสวน Villa Dolores ข้างท้องฟ้าจำลองของมอนเตวิเดโอ ขุดลาดเดิมเป็นลานราบรูปโค้งที่ทุกคนเข้าถึงได้ด้วยทางลาด พร้อมเครื่องเล่นสำหรับรถเข็น จิตรกรรมสัมผัส และโปรแกรมการศึกษาที่ทำให้เด็กพิการและไม่พิการเล่นด้วยกัน",
+  "description_th": "ปาร์เก เด ลา อามิสตัด (Parque de la Amistad — 'สวนมิตรภาพ') ตั้งอยู่ในสวน Villa Dolores (อดีตสวนสัตว์ของมอนเตวิเดโอ) ติดกับท้องฟ้าจำลองของเทศบาล ความคิดเกิดจากการที่ผู้ว่าการเมือง Ana Olivera ไปเห็นสวนมิตรภาพที่เมือง Raanana ประเทศอิสราเอล ซึ่งบริหารโดยมูลนิธิ Beit Issie Shapiro ในปี 2012 และต่อยอดจากการติดตั้งเครื่องเล่นที่เข้าถึงได้ในลานต่าง ๆ ของเมืองตั้งแต่ปี 2010 โครงการนำโดยสำนักงานการเข้าถึงเพื่อการมีส่วนร่วมของเทศบาล ร่วมกับฝ่ายพื้นที่สาธารณะ ฝ่ายวัฒนธรรม และองค์กรคนพิการ สวนเปิดในเดือนมีนาคม 2015 ด้วยงบก่อสร้าง 29 ล้านเปโซอุรุกวัย\n\nสถาปนิก Marcelo Roux และ Gastón Cuña ตั้งหลักว่า 'เป็นสวนก่อน แล้วปรับให้ทุกคนใช้ได้' โดยไม่ยอมให้มาตรฐานการเข้าถึงจำกัดการออกแบบ แต่ใช้มันเป็นจุดเริ่มของรูปแบบ เช่น ผนังสัมผัส โจทย์คือเปลี่ยนพื้นที่ว่างขนาด 70×50 เมตร ให้เป็นที่เล่น เรียนรู้ และพบปะโดยไม่มีอุปสรรค ขณะต้องอยู่ร่วมกับโดมท้องฟ้าจำลอง หอดูดาวทรงกระบอก และต้นไม้เดิมที่ต้องเก็บไว้\n\nกลยุทธ์หลักคือขุดลาดเดิมให้เป็นแท่นราบขนาดใหญ่ เส้นขอบเป็นโค้งและโค้งกลับที่หลบต้นไม้และหอดูดาว และไม่มีมุมแหลม ทางลาดยาวใต้หลังคาโปร่งพาจากระดับถนนลงสู่ลาน ลานที่ต่ำกว่าถนนช่วยกันเสียงรถ ส่วนพื้นที่ระหว่างลานกับถนนเป็นสวนพืชหลากชนิดที่ให้สีและกลิ่น ผังจงใจไม่ให้เห็นทั้งสวนในครั้งเดียว ผู้ใช้ต้องเดินสำรวจ และยังรักษามุมมองไปยังท้องฟ้าจำลองไว้ สวนแบ่งเป็น 6 โซน ได้แก่ มุมเด็กเล็ก (0–3 ปี) โซนหมุนและโยก โซนน้ำ เขาวงกต อัฒจันทร์ และโซนเทคโนโลยีที่มีหลังคา ห้องน้ำสำหรับทุกคน และพื้นที่เวิร์กช็อป\n\nรายละเอียดออกแบบให้รับรู้ได้หลายประสาท มีจิตรกรรมเซรามิกนูนต่ำราว 10 ชิ้นที่สัมผัสได้ (รวมปฏิทินจักรวาลของ Carl Sagan และดาวเคราะห์ในเขาวงกต) ทำโดยครู 3 คนและนักเรียน 27 คนของโรงเรียนศิลปะ Pedro Figari (UTU) เสียงน้ำ พืชกลิ่นหอมที่บอกตำแหน่ง (เช่น กลิ่นโรสแมรีที่สไลเดอร์) และเครื่องเล่นที่ชวนสื่อสารด้วยเสียง ระหว่างก่อสร้างคนพิการเข้ามาร่วมตรวจและให้คำแนะนำโดยตรง\n\nภายใน 5 ปีแรก สวนรับผู้มาเยือนแบบอิสระราว 500,000 ครั้ง จัดกิจกรรมวัฒนธรรมกว่า 100 ครั้ง และมีการเยี่ยมชมแบบนำชม 15,000–30,000 ครั้งต่อปี ด้วยการตอบรับที่ดี เทศบาลจึงขยายสวนตามแนวถนน Rivera เพิ่มกว่า 4,000 ตร.ม. เปิดในเดือนพฤษภาคม 2020 (ลานสเก็ต สนามบาสเกตบอลขนาดเล็ก สนามโบเช่ซึ่งเป็นกีฬาพาราลิมปิก ศาลาอเนกประสงค์ และศูนย์บริการนักท่องเที่ยว) กลายเป็น Eco Parque de la Amistad",
+  "design_strategies": [
+   "ขุดลาดเดิมเป็นลานราบขนาดใหญ่ให้ทุกส่วนเข้าถึงได้ด้วยทางลาด แทนการเติมทางลาดภายหลัง",
+   "ใช้เส้นโค้งที่หลบต้นไม้เดิมและสิ่งก่อสร้างเดิม และไม่มีมุมแหลมเพื่อความปลอดภัย",
+   "แบ่ง 6 โซนตามวัยและประเภทการเล่น พร้อมเครื่องเล่นที่รถเข็นใช้ได้",
+   "ออกแบบประสบการณ์หลายประสาท: จิตรกรรมนูนต่ำ เสียงน้ำ และพืชกลิ่นหอมเป็นเครื่องหมายบอกทาง",
+   "ผูกการออกแบบเข้ากับการบริหารและโปรแกรมการศึกษา ที่ทำให้เด็กพิการและไม่พิการได้เล่นด้วยกัน"
+  ],
+  "lessons_th": [
+   "สวนสาธารณะไทยควรออกแบบการเข้าถึงสำหรับทุกคนตั้งแต่ระดับผังพื้นดิน (ระดับ ทางลาด พื้นผิว) ไม่ใช่เพียงติดตั้งเครื่องเล่นสำหรับคนพิการเพิ่ม",
+   "การเชิญองค์กรคนพิการเข้าร่วมตรวจแบบและหน้างาน ช่วยแก้ปัญหาที่ผู้ออกแบบมองไม่เห็น",
+   "พืชกลิ่นหอมและงานศิลปะที่สัมผัสได้ ช่วยผู้พิการทางสายตาในการรับรู้และหาทาง และเพิ่มความน่าสนใจให้ทุกคน",
+   "สวนขนาดเล็ก (ราว 2 ไร่) ที่มีโปรแกรมและการบริหารชัดเจนสามารถรองรับผู้ใช้ได้หลายแสนครั้ง"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/558c/d95a/e58e/ce2c/8300/00be/large_jpg/01-LADO_C.jpg?1435294037",
+    "type": "photo",
+    "caption": "มุมสูงสวนที่ขุดลดระดับลงจากถนน ล้อมด้วยต้นไม้เดิม ทางลาดยาวหลังคาโปร่ง และหอดูดาวทรงกระบอก",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dd23/e58e/ce2f/b500/00e2/large_jpg/lejos_arriba1.jpg?1435295000",
+    "type": "photo",
+    "caption": "มุมสูงลานเล่นโค้งและทางลาดใต้หลังคาเหล็ก ข้างหอดูดาวและท้องฟ้าจำลอง",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dd3a/e58e/ce2f/b500/00e3/large_jpg/parque_lejos1.jpg?1435295023",
+    "type": "photo",
+    "caption": "มุมสูงทางเดินคดโค้งในสวน Villa Dolores",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/d964/e58e/ce2f/b500/00d2/large_jpg/02-LADO_C.jpg?1435294048",
+    "type": "photo",
+    "caption": "แนวทางลาดหลังคาโปร่งจากระดับถนนลงสู่ลาน",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/d994/e58e/ce2f/b500/00d4/large_jpg/foto_parque1.jpg?1435294089",
+    "type": "photo",
+    "caption": "โดมท้องฟ้าจำลองและหอดูดาว มองจากทางลาดในวันเปิด",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dc8b/e58e/ce2c/8300/00ca/large_jpg/IMG_3299.jpg?1435294819",
+    "type": "photo",
+    "caption": "ลานเขาวงกตผนังโค้งสีสด และทางลาดข้างหอดูดาว",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/daf1/e58e/ce2f/b500/00d9/large_jpg/IMG_2899.jpg?1435294421",
+    "type": "photo",
+    "caption": "เขาวงกตผนังโค้งสีส้ม–แดง พร้อมแผงกิจกรรมสัมผัส",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/d974/e58e/ce2f/b500/00d3/large_jpg/04-LADO_C.jpg?1435294063",
+    "type": "photo",
+    "caption": "มุมสูงเขาวงกตผนังโค้งที่ไม่มีมุมแหลม",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/db33/e58e/ce2c/8300/00c5/large_jpg/IMG_2933.jpg?1435294486",
+    "type": "photo",
+    "caption": "ชิงช้าแบบที่รถเข็นขึ้นไปเล่นได้",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/db13/e58e/ce2f/b500/00da/large_jpg/IMG_2922.jpg?1435294455",
+    "type": "photo",
+    "caption": "เด็กนั่งรถเข็นเล่นเครื่องเล่นร่วมกับเพื่อน",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dace/e58e/ce2c/8300/00c4/large_jpg/IMG_2882.jpg?1435294386",
+    "type": "photo",
+    "caption": "โซนชิงช้าและการโยกบนพื้นยางกันกระแทก",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/db54/e58e/ce2f/b500/00db/large_jpg/IMG_2958.jpg?1435294519",
+    "type": "photo",
+    "caption": "เครื่องเล่นท่อสื่อสารเสียงสีสด",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dcea/e58e/ce2f/b500/00e1/large_jpg/IMG_3373.jpg?1435294929",
+    "type": "photo",
+    "caption": "แท่งเสียงหลากสีที่ราวกั้น ให้เคาะเล่น",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/da88/e58e/ce2c/8300/00c3/large_jpg/IMG_2874.jpg?1435294313",
+    "type": "photo",
+    "caption": "ช่องมองบนผนังเขาวงกต",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dbbe/e58e/ce2c/8300/00c7/large_jpg/IMG_3082.jpg?1435294621",
+    "type": "photo",
+    "caption": "เด็กใช้ท่อพูดคุยสื่อสารข้ามลาน",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/d9bb/e58e/ce2f/b500/00d5/large_jpg/IMG_2743.jpg?1435294111",
+    "type": "photo",
+    "caption": "จิตรกรรมนูนต่ำที่สัมผัสได้ ทำโดยนักเรียนโรงเรียนศิลปะ Pedro Figari",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/daab/e58e/ce2f/b500/00d8/large_jpg/IMG_2881.jpg?1435294349",
+    "type": "photo",
+    "caption": "เด็กนักเรียนเล่นในลานใต้โครงหลังคา",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dbda/e58e/ce2f/b500/00dd/large_jpg/IMG_3087.jpg?1435294657",
+    "type": "photo",
+    "caption": "สไลเดอร์ที่ติดไปกับผนังลาด",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dbfb/e58e/ce2c/8300/00c8/large_jpg/IMG_3120.jpg?1435294685",
+    "type": "photo",
+    "caption": "โซนเทคโนโลยีในส่วนที่มีหลังคา เด็กใช้คอมพิวเตอร์และอุปกรณ์ช่วย",
+    "credit": "Courtesy of Marcelo Roux (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dd74/e58e/ce2c/8300/00cd/large_jpg/planta.jpg?1435295081",
+    "type": "plan",
+    "caption": "ผังบริเวณ แสดงลานจมต่ำรูปโค้งที่เลี่ยงต้นไม้เดิม ท้องฟ้าจำลอง และหอดูดาว",
+    "credit": "Marcelo Roux, Gastón Cuña (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dd99/e58e/ce2c/8300/00ce/large_jpg/seccion.jpg?1435295118",
+    "type": "section",
+    "caption": "รูปตัดแสดงการขุดลดระดับลานจากลาดเดิมและทางลาดลง",
+    "credit": "Marcelo Roux, Gastón Cuña (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/558c/dd8a/e58e/ce2f/b500/00e4/large_jpg/diagrama.jpg?1435295096",
+    "type": "diagram",
+    "caption": "แผนภาพแนวคิด: ท้องฟ้าจำลอง หอดูดาว และการตัดพื้นที่เป็นลานราบ",
+    "credit": "Marcelo Roux, Gastón Cuña (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   }
+  ],
+  "research": [
+   {
+    "title": "Visibilizando los Espacios Inclusivos de Montevideo: análisis del \"Parque de la Amistad\" desde la perspectiva de la persona con discapacidad",
+    "authors": "Patricia Bastiani, Silvana Cabrera, Gimena Zúñiga Peña",
+    "year": 2017,
+    "journal": "XVI Jornadas de Investigación, Facultad de Ciencias Sociales, Universidad de la República",
+    "url": "https://hdl.handle.net/20.500.12008/10734",
+    "note_th": "วิเคราะห์ปาร์เก เด ลา อามิสตัด จากมุมมองของคนพิการ ในฐานะพื้นที่สาธารณะที่ทุกคนเข้าถึงได้ของมอนเตวิเดโอ"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ArchDaily — Friendship Park / Marcelo Roux + Gastón Cuña",
+    "url": "https://www.archdaily.com/770600/friendship-park-marcelo-roux-plus-gaston-cuna"
+   },
+   {
+    "title": "Intendencia de Montevideo — Parque de la Amistad: Aprender y jugar sin barreras (2020)",
+    "url": "https://montevideo.gub.uy/sites/default/files/biblioteca/webparquedelaamistad220x2201compressed.pdf"
+   },
+   {
+    "title": "OpenStreetMap — Parque de la Amistad",
+    "url": "https://www.openstreetmap.org/way/180398319"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-15"
+ },
+ {
+  "id": "national-park-of-mali-bamako",
+  "name": "National Park of Mali",
+  "name_local": "Parc National du Mali",
+  "designer": "Aga Khan Trust for Culture (ผังและภูมิทัศน์; วิศวกรรมพืช Sylvain Fovet) — อาคารโดย Kéré Architecture (Diébédo Francis Kéré)",
+  "client": "Government of Mali ร่วมกับ Aga Khan Trust for Culture (public-private partnership)",
+  "city": "Bamako",
+  "country": "Mali",
+  "lat": 12.6605,
+  "lng": -7.9978,
+  "year": 2010,
+  "area": "1.03 sq. km. (644 ไร่) — ขอบเขตอุทยาน; ระยะที่ 1 ปรับปรุงพื้นที่เปิดโล่งและสวน 170,000 ตร.ม.",
+  "area_sqm": 1030000,
+  "categories": [
+   "public-parks",
+   "green-belt",
+   "forestry",
+   "recreation"
+  ],
+  "tags": [
+   "Aga Khan",
+   "protected forest",
+   "botanical garden",
+   "zoo",
+   "medicinal garden",
+   "indigenous flora",
+   "interpretive trails",
+   "public-private partnership",
+   "Sahel"
+  ],
+  "awards": [],
+  "summary_th": "อุทยาน 103 เฮกตาร์ในหุบป่าคุ้มครองใต้ที่ราบสูง Koulouba กลางกรุงบามาโก ที่ Aga Khan Trust for Culture ร่วมกับรัฐบาลมาลีรวมพิพิธภัณฑ์แห่งชาติ สวนพฤกษศาสตร์ และสวนสัตว์เดิมให้เป็นสวนเดียว พร้อมเครือข่ายทางเดิน พืชพื้นถิ่น และอาคารใหม่โดย Kéré Architecture",
+  "description_th": "ประชากรบามาโก เมืองหลวงของมาลี เพิ่มขึ้นอย่างรวดเร็ว ทำให้ความต้องการที่อยู่อาศัยและพื้นที่สาธารณะสูงขึ้น และคุกคามพื้นที่สีเขียวที่เหลืออยู่ รัฐบาลจึงกำหนดขอบเขตอุทยานแห่งชาติ (Parc National du Mali) ขนาด 103 เฮกตาร์ ภายในเขตป่าสงวน 2,100 เฮกตาร์ ซึ่งเป็นแนวเขียวสำคัญของเมืองในประเทศที่แห้งแล้ง และมอบให้ Aga Khan Trust for Culture (AKTC) ดูแลพื้นที่ 103 เฮกตาร์นี้ภายใต้ความร่วมมือรัฐ–เอกชน พื้นที่เป็นหุบเขาครึ่งวงกลมที่ปกคลุมด้วยป่า ใต้ชั้นหินขั้นบันไดของที่ราบสูง Koulouba ระหว่างพิพิธภัณฑ์แห่งชาติกับทำเนียบประธานาธิบดี\n\nโจทย์คือรวมพื้นที่ของพิพิธภัณฑ์แห่งชาติ สวนพฤกษศาสตร์เดิม และสวนสัตว์ ให้เป็นสวนเดียวที่มีทั้งคุณค่าทางธรรมชาติและวัฒนธรรม และเปิดพื้นที่โล่งขนาดใหญ่สำหรับพักผ่อนและการเรียนรู้ของประชาชน นักเรียน และนักท่องเที่ยว\n\nระยะที่ 1 ปรับปรุงพื้นที่เปิดโล่งและสวน 17 เฮกตาร์ วางเครือข่ายทางเดินเท้าและทางเดินพิธีการทั่วสวน มีเส้นทางออกกำลังกาย วิ่ง ปั่นจักรยาน และปีนเขาหลายระดับความยาก รวมถึงเส้นทางศึกษาพรรณไม้ นก และธรรมชาติ เครือข่ายนี้เชื่อมพื้นที่ทั้ง 103 เฮกตาร์และสิ่งอำนวยความสะดวกเดิม เช่น พิพิธภัณฑ์และอัฒจันทร์ และนำอาคารเดิม 8 หลังกลับมาใช้ใหม่ สถาปนิก Diébédo Francis Kéré ออกแบบประตูหลักและประตูรอง อาคารต้อนรับ ศูนย์เยาวชนและกีฬา ร้านอาหาร ห้องน้ำสาธารณะ และซุ้มขายของ อาคารใช้หลังคาแผ่นบางลอยเหนือผนังบล็อกช่องลมเพื่อร่มเงาและการระบายอากาศ และวางบนลานหินธรรมชาติ\n\nสวนเน้นพรรณไม้พื้นถิ่นในหลายรูปแบบ ตั้งแต่สนามหญ้าโล่ง สวนไม้ดอก พื้นที่ป่า ถึงสวนสมุนไพร มีป้ายสื่อความหมายและมัคคุเทศก์ที่ได้รับการฝึก เพื่อสร้างประสบการณ์การเรียนรู้ใหม่ และ AKTC ยังเป็นผู้บริหารจัดการสวนต่อเนื่อง\n\nอุทยานเปิดในเดือนกันยายน 2010 โดยประธานาธิบดีมาลีและ Aga Khan ทำพิธีเปิดเมื่อ 22 กันยายน 2010 ในวาระครบรอบ 50 ปีการประกาศเอกราช ต่อมาสวนสัตว์แห่งชาติที่อยู่ติดกันได้รับการปรับปรุงและขยายเป็นเวลา 24 เดือน และเปิดใหม่ในเดือนมิถุนายน 2013",
+  "design_strategies": [
+   "ใช้สวนเป็นเครื่องมือปกป้องผืนป่าในเมืองที่ถูกกดดันจากการขยายตัวของเมือง",
+   "รวมพิพิธภัณฑ์ สวนพฤกษศาสตร์ และสวนสัตว์เดิมเป็นระบบสวนเดียวด้วยเครือข่ายทางเดิน",
+   "ปรับปรุงทีละระยะ เริ่มจากพื้นที่ 17 เฮกตาร์ที่ใช้งานหนาแน่นที่สุด และนำอาคารเดิม 8 หลังกลับมาใช้",
+   "ใช้พืชพื้นถิ่น สวนสมุนไพร และเส้นทางสื่อความหมายเป็นเครื่องมือการศึกษา",
+   "ออกแบบอาคารบริการที่ให้ร่มเงาและระบายอากาศตามธรรมชาติ เหมาะกับภูมิอากาศร้อนแห้ง"
+  ],
+  "lessons_th": [
+   "ป่าในเมืองหรือพื้นที่สงวนของรัฐในไทยสามารถเปิดบางส่วนเป็นสวนสาธารณะที่มีการจัดการ เพื่อให้ประชาชนเห็นคุณค่าและช่วยปกป้องพื้นที่ที่เหลือ",
+   "การรวมสถาบันเดิมที่อยู่ติดกัน (พิพิธภัณฑ์ สวนพฤกษศาสตร์ สวนสัตว์) ด้วยทางเดินเดียวกัน สร้างแหล่งเรียนรู้ที่มีพลังมากกว่าการแยกกันดูแล",
+   "ความร่วมมือรัฐ–มูลนิธิที่มีผู้บริหารสวนต่อเนื่อง ช่วยแก้ปัญหาสวนทรุดโทรมหลังก่อสร้างเสร็จ"
+  ],
+  "images": [
+   {
+    "url": "https://static.the.akdn/53832/1645798029-1645742555-aktc-mali-bamakopark-62313-1.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "ลานน้ำพุใต้ร่มไม้ใหญ่ เด็ก ๆ และครอบครัวมาเที่ยวสวน",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/where-we-work/west-africa/mali/bamako-the-national-park-of-mali-mali"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1642477901-aktc-mali_gjo7639.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "สวนไม้ดอกและทางเดินโค้งใต้ร่มไม้เดิม",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/resources-media/multimedia/photographs/national-park-mali-opens-bamako"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1641789075-aktc-mali-gjo7614.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "สวนพืชพื้นถิ่นที่จัดเป็นแปลง พร้อมป้ายสื่อความหมาย",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/resources-media/multimedia/photographs/national-park-mali-opens-bamako"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1642477956-2010mali_bamako_park_18new.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "ลำน้ำไหลผ่านฝายเล็กในหุบที่ร่มรื่น",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/resources-media/multimedia/photographs/national-park-mali-opens-bamako"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1642477831-2010mali_bamako_park_1new.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "ลำธารธรรมชาติในหุบป่าใต้ที่ราบสูง Koulouba",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/resources-media/multimedia/photographs/national-park-mali-opens-bamako"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9cd9/28ba/0d5a/4b00/05bc/large_jpg/1315323666-14bamako-park-fka-9324.jpg?1436822656",
+    "type": "photo",
+    "caption": "ผู้คนวิ่งออกกำลังบนเส้นทางใต้ร่มไม้ หน้าอาคารใหม่ของ Kéré",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9ce2/28ba/0d5a/4b00/05bf/large_jpg/1315323677-24bamako-park-fka-9685.jpg?1436822673",
+    "type": "photo",
+    "caption": "อาคารต้อนรับหลังคาเหล็กลอยเหนือก้อนหินธรรมชาติ ผู้มาเยือนเดินขึ้นบันได",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9cd1/28ba/0d5a/4b00/05ba/large_jpg/1315323659-07bamako-park-fka-9642.jpg?1436822644",
+    "type": "photo",
+    "caption": "ประตูทางเข้าหลัก หลังคาแผ่นบางและผนังบล็อกช่องลม",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9cd5/28ba/0d5a/4b00/05bb/large_jpg/1315323663-08bamako-park-fka-9662.jpg?1436822650",
+    "type": "photo",
+    "caption": "ผู้มาเยือนเดินผ่านประตูทางเข้าหลักสู่สวน",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9ce5/28ba/0d5a/4b00/05c0/large_jpg/1315323680-26bamako-park-fka-9559.jpg?1436822680",
+    "type": "photo",
+    "caption": "อาคารร้านอาหารบนลานหินท่ามกลางต้นไม้ ยามเย็น",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9ce8/28ba/0d5a/4b00/05c1/large_jpg/1315323682-28bamako-park-fka-9572.jpg?1436822685",
+    "type": "photo",
+    "caption": "อาคารบนลานหินแกรนิตธรรมชาติยามพลบค่ำ",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9cdd/28ba/0d5a/4b00/05bd/large_jpg/1315323669-18bamako-park-fka-9466.jpg?1436822662",
+    "type": "photo",
+    "caption": "ทางเดินระหว่างผนังบล็อกช่องลมของอาคาร",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9ce0/28ba/0d5a/4b00/05be/large_jpg/1315323671-20bamako-park-fka-9284.jpg?1436822667",
+    "type": "photo",
+    "caption": "ลานใต้หลังคาลอยของศูนย์เยาวชนและกีฬา",
+    "credit": "Kéré Architecture / AKTC (ผ่าน ArchDaily)",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1645798049-1645742700-aktc-mali-62298_0-1.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "อาคารเดิมทาสีส้มที่ปรับปรุงใหม่ท่ามกลางสนามหญ้าและต้นไม้",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/where-we-work/west-africa/mali/bamako-the-national-park-of-mali-mali"
+   },
+   {
+    "url": "https://static.the.akdn/53832/1645798067-1645742824-aktc-mali-gjo9102-1.jpg?auto=format&fit=max&w=1600",
+    "type": "photo",
+    "caption": "อาคารเดิมหลังคาฟางที่ปรับเป็นที่นั่งพักผ่อน",
+    "credit": "Aga Khan Trust for Culture (AKTC)",
+    "source": "https://the.akdn/en/where-we-work/west-africa/mali/bamako-the-national-park-of-mali-mali"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Parc_national_du_Mali._Pavillon_d%E2%80%99entr%C3%A9e.jpg/1280px-Parc_national_du_Mali._Pavillon_d%E2%80%99entr%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ศาลาทางเข้าของสวน (ออกแบบโดย Kéré) ในปี 2024",
+    "credit": "Davidoscarbodart (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_national_du_Mali._Pavillon_d%E2%80%99entr%C3%A9e.jpg",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/5015/9d53/28ba/0d5a/4b00/05e9/large_jpg/1315324838-planimetria-2.jpg?1436822893",
+    "type": "plan",
+    "caption": "ผังบริเวณระยะที่ 1 แสดงทางเข้า อาคารใหม่ และเครือข่ายทางเดินในหุบเขา",
+    "credit": "Kéré Architecture",
+    "source": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "AKDN — Bamako: The National Park of Mali",
+    "url": "https://the.akdn/en/where-we-work/west-africa/mali/bamako-the-national-park-of-mali-mali"
+   },
+   {
+    "title": "AKDN — National Park of Mali opens in Bamako (photographs)",
+    "url": "https://the.akdn/en/resources-media/multimedia/photographs/national-park-mali-opens-bamako"
+   },
+   {
+    "title": "ArchDaily — National Park of Mali / Kéré Architecture",
+    "url": "https://www.archdaily.com/167020/national-park-of-mali-kere-architecture"
+   },
+   {
+    "title": "Wikimedia Commons — Parc national du Mali. Pavillon d’entrée",
+    "url": "https://commons.wikimedia.org/wiki/File:Parc_national_du_Mali._Pavillon_d%E2%80%99entr%C3%A9e.jpg"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-15"
+ }
+]

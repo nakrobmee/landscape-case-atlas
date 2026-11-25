@@ -1,0 +1,186 @@
+{
+ "inbox_artifact": "https://claude.ai/artifact/HmcWcvGgo7ydTYZqEBjgcy",
+ "history": [
+  {
+   "date": "2026-10-19",
+   "event": "workflow switched to daily staging + Sunday publish; cursor starts at 2026"
+  },
+  {
+   "date": "2026-10-22",
+   "event": "thorough 2026 search (ArchDaily, Landezine, WLA, regional press) found only 1 well-documented new project fitting balance rules (New Sydney Fish Market); filled 4 from 2025 and moved cursor to 2025"
+  },
+  {
+   "date": "2026-10-28",
+   "event": "2025 search (ArchDaily API, Landezine/LILA, WLA feeds, regional press) yielded only 3 well-documented, precisely locatable 2025 projects meeting balance rules (Finsbury Circus, Krigsseilerplassen, Kovo 11); candidates dropped for unverifiable site location (Land of Wells Tunisia, Cheshm Cheran Bazi Iran, Yaku Quito, Brahmaputra riverfront Guwahati); filled 2 from 2024 (Parque del Jaguar, HAID Science Park) and moved cursor to 2024"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "year_cursor removed at user's request — daily research now targets projects of any completion year"
+  },
+  {
+   "date": "2026-10-30",
+   "event": "staged 5 (inbox: DBC Digital + Baltorpparken from 3 Instagram links via in-app browser; press: Hatirjheel Dhaka, Tabiat Bridge Tehran, Nyandungu Kigali). Instagram og:description readable in built-in browser when curl embed is blocked; Wikimedia upload.wikimedia.org originals rate-limited (429) — thumb.wikimedia.org 960/1280px thumbnails work."
+  },
+  {
+   "date": "2026-10-30",
+   "event": "second run same day: today's file already had 5, so no project added. Inbox triage: Kora Lumen Madrid skipped (unbuilt). Two links left pending for the next run, both new built leads: Climate Courtyard at Statholdervej, Copenhagen (MASU Planning; kk.dk confirms Statholdervej-Tagensvej shared courtyard, 6.6m DKK) and Lotte Premium Outlet Dongbusan landscape, Busan (post says IDEA 2026 Environments; 1,400-pyeong garden space reported Aug 2024; award and designer still to confirm). Instagram: curl embed yields no caption, built-in browser og:description works."
+  },
+  {
+   "date": "2026-10-31",
+   "event": "staged 5 (inbox: Harbor Wetland Baltimore, Westerkade Rotterdam; press: Lunuganga Sri Lanka, Kibera Public Space Project Nairobi, Frankfurt GrünGürtel — first green-belt and private-gardens main types). Bidadari Facebook link added to the staged record. Lotte Dongbusan skipped: IDEA award and landscape designer not verifiable (Instagram caption only names @spacemaker_a1 x @jeongsam_kwon x CA). Climate Courtyard at Statholdervej kept pending: built (MASU caption + kk.dk approval) but no hotlinkable public photo or drawing yet; recheck masuplanning.com. Curl is blocked on asla.org and frankfurt.de: read them in the built-in browser."
+  },
+  {
+   "date": "2026-11-01",
+   "event": "staged 5 after the Sunday publish had already run (next publish 2026-11-08). Inbox: Liuquan Lake Children's Paradise, Borgloon Fruit Station, Gowanus Lowlands, Emaljehaven Plads; press: Freedom Park Pretoria. Skipped unbuilt: Cheonan Yunseul-gori, Vliertpoort SE. Five links stay pending with notes: Amphia (BoschSlabbers vs Bureau B+B credit conflict), Can Badell (no second source), Hospitalshaven (built, EFFEKT confirms, only one built photo and no area), Cuscatlan (UDEB role and built scope unconfirmed), Climate Courtyard Statholdervej (no public images). Curl with a crawler user-agent on instagram.com was blocked by the permission classifier; opening posts as normal pages in the built-in browser and reading og:description works. Borgloon area omitted: ArchDaily 420,000 sq. m. looks wrong for a station square. Liuquan coordinates are the OSM park point, not the playground itself."
+  },
+  {
+   "date": "2026-11-02",
+   "event": "staged 5. Inbox: Lucas Museum Park & Gardens; Pharmaceutics Square Alabushevo (two links, same project). Press: Jardin Majorelle, Bagh-e Babur, Tapiola. Skipped Bout-du-Monde (6th-place competition entry, unbuilt). Five links stay pending, rechecked without new evidence: Amphia, Can Badell, Hospitalshaven (Arkitema gives 12,000 sq. m. for the district park, built photos still lacking), Cuscatlan, Climate Courtyard Statholdervej. Pharmaceutics Square coordinates are the OSM special-economic-zone point for Alabushevo, not the square itself, and no area is published. mos.ru images refuse curl here; they were verified 200 image/jpeg from the browser. Archnet needs the built-in browser (Vercel checkpoint on curl). Tapiola and Bagh-e Babur have no hotlinkable plan yet. Lucas area conflict: museum 13 acres, Studio-MLA 11 acres."
+  },
+  {
+   "date": "2026-11-04",
+   "event": "staged 5 (press): Moerenuma Park (Japan, land-art), Garden of Dreams (Nepal, private-gardens), Parque de la Memoria (Argentina, monuments), Freedom Park Lagos (Nigeria, historic), Sea Organ Zadar (Croatia, urban-squares). Inbox: Hospitalshaven skipped as unbuilt (EFFEKT announced on 19 Jan 2026 that it had been selected to lead the landscape design). Amphia lead: Boomzorg names Ruud Dubbeld (MTD Landschapsarchitecten), undated and without a second source, so it stays pending. Can Badell, Cuscatlan and Statholdervej stay pending and were not rechecked this run. No staging/2026-11-03.json exists (no run on that day). Areas omitted for Freedom Park and Sea Organ (none published). Memoria boundary omitted because the OSM relation is about 29 ha versus the official 14 ha. The Garden of Dreams OSM polygon is about 8,000 sq. m. versus 6,895 sq. m. published, close enough to keep. Commons thumbnails briefly returned 429 when fetched in parallel."
+  },
+  {
+   "date": "2026-11-06",
+   "event": "staged 5: Serpentine Pavilion 2011 Hortus Conclusus (UK, user-link, land-art), Lyle Center pathway (USA, user-link, school-grounds), Malecón 2000 (Ecuador, urban-design), Jardin d'Essai du Hamma (Algeria, historic), Tainan Spring (Taiwan, derelict-land). Inbox: both new Instagram links staged; 4 older pending links (Statholdervej, Amphia, Can Badell, Cuscatlán) not rechecked. Landezine began returning 202 text/html (bot check) for full-size images mid-run, and the browser pane was declined for landezine.com, so the Lyle images use the 300x300 / 630x473 sizes that downloaded as images earlier this run; try the full-size files on Sunday. Malecón has no published designer name or area (Fundación Malecón 2000 used); no matching OSM boundary. Tainan area omitted because published figures conflict (5 acres vs 54,600 sq. m.); boundary is the OSM plaza relation only (~1.1 ha). Instagram og meta was read via curl for siva.space; the landezine post caption came from the browser pane."
+  },
+  {
+   "date": "2026-11-07",
+   "event": "staged 5: BaseLink Allschwil courtyard (Switzerland, user-link, industrial-commercial), Xili Lake Greenway Talent Training Institute section (China, user-link, greenways), Kopupaka Reserve (New Zealand, flood-suds), Hiriya Landfill / Ariel Sharon Park (Israel, derelict-land), Parque del Este Caracas (Venezuela, public-parks, Burle Marx 1961). Inbox: both new Instagram links (@landscape.first) staged; the 4 older pending links (Statholdervej, Amphia, Can Badell, Cuscatlán) were not rechecked. Instagram captions were read in the browser pane (curl gave no og meta). mooool image URLs only work without the ?x-oss-process query, so the plain URLs are used. Xili year 2024 comes from the Instagram caption (mooool gives no completion year). BaseLink: no OSM courtyard polygon, so it is pinned to the SIP Main Campus relation centroid. Hiriya boundary omitted (no OSM feature matches the 118 ha); its Landezine images now return 200 image/jpeg. Parque del Este area is the current 64 ha (Berrizbeitia gives about 200 acres); it has no published drawings. Three Commons originals for Parque del Este hit HTTP 429 in the final check but downloaded fine earlier this run. Archello and immobilienbusiness are behind a Cloudflare check, so they are not cited."
+  },
+  {
+   "date": "2026-11-07",
+   "event": "second run: today's file already had 5 projects, so nothing new was staged. New inbox link (Instagram @landscape.first, Dfb-zaHkR5A) is Troisième Paysage's RD 2007 renovation in Solterre, France (2021), which is not yet in the atlas. A quick search found no confirming source, so it stays pending with a result_th note for the next run, which should take it first."
+  },
+  {
+   "date": "2026-11-08",
+   "event": "Staged 5: Søndervold Nature Park (Denmark, inbox @sla_architects), RD 2007 Solterre (France, inbox @landscape.first, held over from 7 Nov), ACROS Fukuoka Step Garden (Japan, living-roofs), Sunder Nursery (India, historic), Canada's Sugar Beach (Canada, urban-squares). Plaza Maristas (Lima) was dropped because ArchDaily gives no description and no second source was found. Sunder Nursery has no published masterplan that could be found; its sundernursery.org detail image did not load. Sugar Beach Landezine photo credits are given to CC+A as a group, because the per-photo credit list did not line up with the gallery order. The 4 older pending inbox links (Statholdervej, Amphia, Can Badell, Cuscatlán) were not rechecked. Today is Sunday, so next_publish was set to today."
+  },
+  {
+   "date": "2026-11-09",
+   "event": "Staged 5: Rachel de Queiroz Park (Brazil, inbox @landscape.first), Art Biotop Water Garden (Japan, inbox @mazzocchioo.magazine), Oxygen Park Doha (Qatar, recreation), Ljubljanica riverbanks renovation (Slovenia, urban-design), Forodhani Park Zanzibar (Tanzania, historic). Freedom Park Pretoria was first picked but is already published (id freedom-park-pretoria), so it was replaced by Forodhani; check ids, not only the 'Freedom Park Lagos' grep hit. Inbox DfXxUxMKbyL (@cosme_paisaje 'Memorias del Agua') kept pending: it matches Parque Paisajes del Agua, Rionegro (EDESO: 71,771 m2, opened Nov 2025), but no source confirms Cosme as designer. Instagram captions were read in the built-in browser via og:description. ArchDaily full galleries come from the data-images JSON on a '-photo' gallery page. publicspace.org project pages are unavailable (portlet error). Forodhani has no published designed area or drawings, so area and drawings were left out. Ljubljanica has no published drawings."
+  },
+  {
+   "date": "2026-11-11",
+   "event": "Staged 5: Herlev Hospital landscape (Denmark, inbox @sla_architects), Yuanchuang Oya retail landscape Xi'an (China, inbox @goooodofficial), Waterloo Greenway Confluence Austin (USA, inbox @mvva.inc), Carlos 'El Pescadito' Ruiz Peace Park (Guatemala, press/ArchDaily+AGN), Battery Park V&A Waterfront (South Africa, press/ArchDaily+dhk). Inbox: DfQaa63FOmP skipped (Midjourney AI render), DfesBk2k1kx skipped (Miyagi Cemetery 27, opens fully spring 2027), DffEGyam9Ic (The Amp at Suffolk Downs, Stoss) kept pending: built July 2026 but only one ribbon-cutting photo and no Stoss project page yet; worldlandscapearchitect.com blocks curl (Cloudflare). Older pending links (Statholdervej, Amphia, Can Badell, Cuscatlan, Memorias del Agua) not rechecked. Instagram og tags: curl worked for one post then was blocked; the built-in browser read the rest. Oya coordinate is approximate (SW corner of Eurasia Ave / Chanhe West Rd, from fang.com address; no OSM feature). Guatemala coordinate is from ArchDaily's map; no OSM feature matched. Confluence and Guatemala have no published drawings. gooood full-size images exist at oya-NN.jpg; 960px variants used where listed."
+  },
+  {
+   "date": "2026-11-11",
+   "event": "Second run today: staging/2026-11-11.json already had 5, so no new projects. Inbox c844ffhfaek2cz5mr48n (@landscape.first, Tainan Spring) matched published tainan-spring; queued update with the post link + Guidetti & Robiglio 2021 (Sustainability, doi 10.3390/su13105660, confirmed in full text to study Tainan Spring). Other 6 pending links not rechecked."
+  },
+  {
+   "date": "2026-11-13",
+   "event": "Staged 5 projects, all from inbox links (Instagram, read via the built-in browser since curl was blocked): Kronløb Island Copenhagen (STED landscape), Oishii Park Shingu (td-Atelier), Park1538 Gwangyang (Aliveus landscape, confirmed on aliveus.net project list), Museum of Ethnography Budapest roof garden (Garten Studio per ArchDaily credits), Munjeong Station Sports Garden Seoul (designer credit only from the 환경과조경 magazine's own Instagram post; facts from Seoul mediahub/한국건설신문/시정일보). Inbox De86JUXE6Y- (Oriente Green Campus) matched published project: queued source-only update. Older pending links (Memorias del Agua, The Amp, Statholdervej, Amphia, Can Badell, Cuscatlán) not rechecked. Approximate coordinates: Oishii Park uses the Youth Library ENGAWA address (GSI geocoder; park lot is adjacent), Park1538 uses ArchDaily's map point (no OSM feature), Munjeong uses Munjeong station (Wikipedia; site wraps exit 3). Park1538 area is approximate (~6,000 pyeong from 2023 groundbreaking news); Kronløb area omitted (only building GFA 32,400 m² published). Overpass API timed out this run. Balance not applied (inbox exempt): 2 projects in South Korea."
+  },
+  {
+   "date": "2026-11-14",
+   "event": "Staged 5 projects, all from inbox links (Instagram/Facebook captions read via og meta in the built-in browser): Xinyang University South Bay Gateway (Sasaki, CN), Eleftheria Square Nicosia (ZHA, CY, 4 papers), Success Academy Bronx K-12 rooftop terraces (SWA/Balsley, US), Guangming Science Park Shenzhen (S.P.I + Surbana Jurong, CN), Gordon Street & Gordon Square West London (Camden/UCL, UK). Inbox HAID Science Park and Borgloon Fruit Station matched published projects: source-only updates queued (HAID note suggests WLA 2026 Honourable Mention). Still pending (not processed, over daily 5): SKMS Icheon (BEOH, kxvbida9p692hbhmi5fu), Changchun Jingyue Central Park (Shuishi, 7yyxymwv0fr19h1nyk49), plus older Memorias del Agua, The Amp, Statholdervej, Amphia, Can Badell, Cuscatlán. Notes: XYU coordinates come from the LILA Google Maps pin (GCJ-02, may be offset a few hundred m; no OSM feature). Guangming lat/lng = OSM North Wing (way 940320256, ~72 ha) centroid; no boundary since it covers only part of the 208 ha. Eleftheria OSM square polygon (~7,900 m²) much smaller than 35,200 m² open area, so no boundary. Gordon Street boundary = OSM way 4059306 LineString; its LDA Design layout credit, 18 planters/54 trees and planting details come only from planting designer Darryl Moore's own Instagram post. UCL image server returns 403 to curl; images verified 200 image/jpeg via fetch in the built-in browser. 2 Chinese projects today (inbox exempt)."
+  },
+  {
+   "date": "2026-11-15",
+   "event": "Staged 5 projects: Jingyue Central Park Changchun (SHUISHI, CN; inbox Facebook link 7yyxymwv0fr19h1nyk49, identified via ArchDaily/LILA), Al Shaheed Park Phase I Kuwait City (Ricardo Camacho + STROOP, KW, living-roofs/green-belt), Saxhóll Crater Stairway (Landslag, IS, Rosa Barba 2018), Parque de la Amistad Montevideo (Roux/Cuña, UY, inclusive playground), National Park of Mali Bamako (AKTC + Kéré, ML). Inbox SKMS Icheon (BEOH, kxvbida9p692hbhmi5fu) left pending: Instagram needs login and no source confirms the BEOH landscape work. Older pending inbox links not rechecked today. Notes: Jingyue lat/lng+boundary = OSM way 1302367433 (372,000 m² vs 490,000 m² project incl. highway) confirmed by Yinxing/Tianhe roads on the LILA site plan; ArchDaily pin (43.884,125.318) is wrong. Al Shaheed lat/lng = ArchDaily pin inside OSM admin relation 18067178 'Phase 1' (264,000 m², used as boundary; ZinCo gives 20 ha). Mali lat/lng = Commons geotag of Kéré entrance pavilion (no OSM feature); no research found specifically on the park. Friendship Park OSM way (12,900 m²) larger than 3,500 m² phase 1, so no boundary. Saxhóll Commons photos are 2009/2014 (pre-stair) — one used as a captioned 'before' photo."
+  },
+  {
+   "date": "2026-11-16",
+   "event": "Staged 5 projects (W47 start, staging was empty after Sunday publish): Someș River Regeneration Cluj-Napoca (PRÁCTICA+Landlab, RO, greenways), Jewel Changi Forest Valley (PWP, SG, interior-planting), Te Ara I Whiti Lightpath Auckland (LandLAB+Monk Mackenzie, NZ, cycleways), Le Jardin Secret Marrakech (Tom Stuart-Smith, MA, historic), Inhotim Brumadinho (BR, land-art). No new inbox links; rechecked The Amp (Stoss) and Parque Paisajes del Agua — still unconfirmed, left pending; other 5 pending links not rechecked. Notes: Buenos Aires Olympic Park rejected (sports architecture). Someș lat/lng = OSM Podul Napoca (centre of 15 km stretch), no boundary; area = 11.3 ha green space (NEB). Jewel boundary = OSM mall way (23,700 m² ≈ dome footprint); area = Forest Valley 22,000 m². Lightpath boundary = 2 OSM cycleway ways; no area published. Jardin Secret boundary = OSM way 448190360 (3,356 m²); no official area so omitted; TSS og image (non-Moroccan meadow) excluded. Inhotim designer attribution kept cautious (Burle Marx influence only; Orsini 2000–04, Nehring Jardim Pictórico); area = 140 ha visitation (LABVERDE); boundary OSM relation 5418784 (1.57 km²). WLA blocks curl (Cloudflare)."
+  },
+  {
+   "date": "2026-11-17",
+   "event": "Staged 5: LOŠBATES Primary School Louňovice (Czechia, inbox @toposmagazine, school-grounds), Binnengebied Schaliken & Stadspark Herentals (Belgium, inbox @landscape.first, LAMA+BRUT, public-parks/historic/masterplanning), Shalimar Gardens Lahore (Pakistan, historic, 1641–42), Kwame Nkrumah Memorial Park Accra (Ghana, monuments, 1992/2023 refurb), Malecón Havana (Cuba, transport-corridors, 1901–52). Inbox: both new Instagram links read in the built-in browser (curl/embed blocked) and staged; 7 older pending links not rechecked. Notes: Pergola Cairo (CLUSTER) rejected — 84 m² pavilion. LOŠBATES: no published site area, so area omitted; boundary = OSM school way 1475628922 (24,039 m², address Svazková 500). Herentals: year 2015–2017 from LAMA page (IG caption says 2015–2019); area omitted (1.25 ha figure belongs to later Stadspark+); no boundary (OSM Stadspark way covers only part); databank.publiekeruimte.info images Schaliken-Herentals1–16 load direct; db_4 used as a captioned 'before' photo at the end. Shalimar: area 16 ha from Wikipedia; OSM way 232344024 = 18.4 ha; no plan on Commons; UNESCO page did not return text to curl, so not cited. Nkrumah: area 5 acres converted to 20,234 m²; OSM way 13787230 = 2.95 ha used as boundary. Malecón: no designer named in sources, so credited to public works of successive governments; no boundary; historic postcards (PD) included with years. Commons thumbnails hit 429 when downloading many at once — use 4 threads and pause."
+  },
+  {
+   "date": "2026-11-18",
+   "staged": [
+    "namba-parks-garden-osaka",
+    "emerald-necklace-boston",
+    "hard-turm-park-zurich",
+    "centro-piacentiniano-bergamo",
+    "grunwalds-have-copenhagen"
+   ],
+   "note": "All 5 from inbox (7 new Instagram/web links read in built-in browser via og:description). Left pending: Blossom Gully Yichang (HID, gooood) and Meiji Park Fukuoka (Sou Fujimoto) — quota reached; 7 older pending links not rechecked. Namba: area = 11,500 m² rooftop garden (Nankai); boundary = OSM mall way 451572345 (22,149 m²); IG claim of 15–20°C surface cooling not confirmed so omitted. Emerald: point at Olmsted Park (centre of chain), no boundary; 4 historic Olmsted plans (PD) + 19 Commons photos. Hard Turm: only 6 photos + site plan (mooool mirrors Landezine set); no research found. Bergamo: area 15,000 m² (ArchDaily) noted vs >30,000 m² study area (gooood). Grunwalds Have: building architect not confirmed (KHR named only for adjacent Teaterhaven), no plan/area; IG technical details (anchors, pumice) not used because only in social post."
+  },
+  {
+   "date": "2026-11-19",
+   "staged": [
+    "meiji-park-hakata-fukuoka",
+    "central-park-new-york",
+    "paley-park-new-york",
+    "atmos-zurich",
+    "punggol-digital-district-singapore"
+   ],
+   "note": "All 5 from the inbox. Blossom Gully (HID, Yichang) left pending: gooood confirms the project (8,000 m², opened May 2026), but the site is given only as 'north side of Dongfang Avenue, Yiling'. No OSM or press source pins it, so no coordinates. Left pending (quota): Elyson/Adventure Point (SWA, Katy TX) and Happy Spot under Metro Line 3 (VIASCAPE, Shanghai, via FB archlist). Meiji: only 5 built-park photos (Fukuoka Now) + 3 pre-renovation Commons photos; renders excluded; no research found. Paley: area 390 m² (Wikipedia) vs 1/10 acre (TCLF) vs 2,400 sq ft (Terrapin); waterfall flow uses the current FAQ figure of 1,400 gpm (Wikipedia gives 1,800). Fang 2020 DOI did not resolve, so it was dropped. Atmos: no published area; no boundary. PDD: boundary omitted because the OSM quarter is 75 ha against the 50 ha project; area from Henning Larsen."
+  },
+  {
+   "date": "2026-11-20",
+   "staged": [
+    "al-hosn-landscape-abu-dhabi",
+    "place-des-montrealaises-montreal",
+    "passerelle-zwolle",
+    "happy-spot-under-light-rail-shanghai",
+    "augustines-garden-riga"
+   ],
+   "note": "All 5 from the inbox (IG captions read via the built-in browser's og:title, since curl to Instagram is blocked). Update queue: dumas-sea-face-surat (INI IG post: credits) and yantai-westpark (XBTW restroom in the same park, gooood). Skipped: Jardim das Samambaias (concept series), Grotto Observatory Garden Wuhan (#WIP), Parque Lineal Arroyo Saldán (thesis proposal), Turenscape post (unavailable). Left pending: Taru Villas Maia (architect/landscape role not confirmed beyond FB), Orientkaj/SLETH (sleth.com dead, no image set), Luxe Lakes Chengdu (quota), Elyson (still unconfirmed). Al Hosn: year 2019 per CEBRA vs 2021 ArchDaily; no boundary (OSM only has the fort). Montréalaises: area 19,890 m² (ArchDaily) vs ~1.8 ha (LILA); OSM polygon 21,700 m² used. Zwolle: boundary = OSM bridge footway LineString; some LILA photos have no photographer credit. Happy Spot: mooool images hotlink-blocked, used ArchDaily set; no overall site plan in the AD set. Augustine's Garden: Dezeen images returned 522, used D5 Magazine photos (8); no drawings; area 830 m² is the project figure from Metalocus."
+  },
+  {
+   "date": "2026-11-21",
+   "staged": [
+    "tokyo-portcity-takeshiba-skip-terrace",
+    "skanderbeg-square-tirana",
+    "tel-aviv-port-public-space-regeneration",
+    "green-point-park-cape-town",
+    "parque-zonal-santa-rosa-lima"
+   ],
+   "note": "Inbox: Takeshiba (seoul_gardening_club IG) staged; Knie Rapperswil (Meier Hug IG) skipped as 2025 competition renders; Luxe Lakes still pending (quota). Press picks balance Europe/Middle East/Africa/Latin America. Takeshiba: landscape credit from Nikkenren BCS sheet (PLACEMEDIA + Landscape Design Inc.); area = office-tower site 12,156 m2; no boundary (OSM landuse polygon 17,569 m2 covers both towers); Commons photos only, no drawings. Skanderbeg: area 90,509 m2 (ArchDaily) vs OSM square 68,306 m2 used as boundary. Tel Aviv Port: no boundary (OSM suburb 20 ha vs 5.5 ha project); no verified research. Green Point: area 12.5 ha (SA Tourism), OSM 10.3 ha boundary; year 2011 (opening phase); no drawings found; unverified award count omitted. Santa Rosa: area 298,464 m2 from Facho 2023 (Arquitextos, read via built-in browser after bot check); ArchDaily text now truncated."
+  },
+  {
+   "date": "2026-11-21",
+   "staged": [],
+   "note": "Second session for 2026-11-21 (resumed after a pause): today's file already had 5 projects from the 23:30 run, so nothing new added. Enriched tokyo-portcity-takeshiba-skip-terrace with 9 verified Tokyu Land photos (terraces, rice paddy, vegetable garden, rain garden, island wall, aquaterrarium, wall greening; aerial terrace shot as hero) and the Takeshiba district location map (plan), plus sources: official skip-terrace page and Tokyo NbS Action 17. Researched but NOT staged (day full): Skogskyrkogården Stockholm, Cinta Costera Panama City, Freedom Park Lagos — candidates for a later day."
+  },
+  {
+   "date": "2026-11-22",
+   "staged": [
+    "smk-museum-garden-copenhagen",
+    "gran-canal-linear-park-mexico-city",
+    "alila-villas-uluwatu-bali",
+    "yagan-square-perth",
+    "yerevan-cascade"
+   ],
+   "note": "Run started 2026-11-22 and finished after midnight; the Sunday publish ran during this session (staging was emptied, 170 published), so these 5 wait for 2026-11-29. Inbox: new link DgCV2ZyCEiP (@is_this_landscapearchitecture, caption read via og:description in the built-in browser) = SMK museum garden Copenhagen, staged (user-link). 12 older pending inbox links not rechecked this run. Wikipedia/OSM checks showed Lunuganga, Wadi Hanifa and Freedom Park Lagos are already published; Cinta Costera dropped (no reliable landscape designer credit, only La Prensa naming Boris Aguilar & Alberto Arosemena). ArchDaily project text is truncated: Gran Canal facts come from SUR Atlas (Bocconi) + CDMX; area 75,900 m2 (SUR, two phases); OSM boundary = 2 park ways (~95,000 m2). SMK: area 8,500 m2 (firm; e-architect says 10,000), no OSM garden polygon so no boundary; coords set in front of the museum. Alila: no published site plan found; area = ArchDaily site area 44,642 m2. Cascade: no designed area published, so area omitted; no drawings found on Commons."
+  },
+  {
+   "date": "2026-11-23",
+   "staged": [
+    "skogskyrkogarden-woodland-cemetery-stockholm",
+    "kirstenbosch-national-botanical-garden-cape-town",
+    "lurie-garden-chicago",
+    "sabarmati-riverfront-ahmedabad",
+    "copacabana-promenade-avenida-atlantica"
+   ],
+   "note": "Run started 2026-11-23, finished 2026-11-24 (file named for start date, week 2026-W48). Inbox: 1 new link Df_q0CIFC80 (@eo.space; og:description read via curl) = SH Yongsan PR center exterior (CA Landscape) — no verifiable project page, left pending with note. 12 older pending links not rechecked. Medellín Corredores Verdes dropped (no usable Commons photos; facts only from NIES/INAS page). Skog area 102 ha per Stockholm city record via OpenAlex + OSM 1.07 km2. Kirstenbosch area = ArbNet (36 ha cultivated / 528 ha estate); OSM relation 2.0 km2 matches neither, so no boundary. Copacabana facts mainly from Yllana 2022 (Oculum) PDF; no designed area published, so area omitted; no drawings (Commons only has exhibition text panels). No drawings found for any of the 5 on Commons."
+  },
+  {
+   "date": "2026-11-24",
+   "staged": [
+    "warsaw-uprising-mound-park",
+    "umekita-park-grand-green-osaka",
+    "genbudo-park-toyooka",
+    "opera-park-copenhagen",
+    "daggett-park-san-francisco"
+   ],
+   "note": "All 5 from inbox (10 new links on 11-23; 5 staged, 5 left pending with notes: Fukuoka City Museum garden, 땅의 정원, Yeosu K-Garden festival garden, Memorias del Agua (Geográfica Sur lead, also updated old pending 3ug405...), Praça Saldanha Marinho). Two Japan projects (inbox exempt). Umekita area = ~45,000 m2 (GGN 11 acres); OSM boundary = South+North park ways (~34,600 m2, North Park not fully built). Daggett area = 1 acre per CMG (CMG info also lists 6.65 acres = whole development); OSM polygon only ~2,550 m2 so no boundary. Genbudo facts from architecturephoto.net (full JP/EN text) + ArchDaily; no OSM polygon. Opera Park: no research found. inbox.md had no pending lines."
+  },
+  {
+   "date": "2026-11-25",
+   "staged": [
+    "1881-park-windler-aurora",
+    "ortobene-forest-path-nuoro",
+    "parques-del-rio-medellin",
+    "parc-du-belvedere-tunis",
+    "rike-park-tbilisi"
+   ],
+   "note": "2 new inbox links staged (IG @landscape.first -> 1881 Park, Aurora; FB Casabella 986 -> Ortobene forest path, Nuoro). 3 press: Parques del Río Medellín, Parc du Belvédère Tunis, Rike Park Tbilisi. 1881 Park coords from official Google Maps link on livewindler.com (no OSM feature); area 10 acres per Superbloom. Nuoro coords = Nostra Signora di Monte Nero church (path ends at its forecourt); area 400 m2 per project credits. Parques del Río: thin Commons imagery (8 photos, no drawings), no area (only OSM boundary of 2 park ways). Belvédère area 110 ha (Wikipedia), OSM way 1.04 km2 used as boundary. Rike area 6 ha (Plizio), OSM relation 69,120 m2 boundary; one Commons photo dropped (persistent 429). Fukuoka museum garden lead: city press release confirms opening 18 Oct 2026, designer still unknown, left pending. Other older pending links not rechecked. inbox.md had no pending lines. claude-artifacts MCP server failed to connect but ArtifactData worked."
+  }
+ ]
+}

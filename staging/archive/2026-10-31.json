@@ -1,0 +1,977 @@
+[
+ {
+  "id": "harbor-wetland-baltimore",
+  "name": "Harbor Wetland (National Aquarium)",
+  "designer": "Ayers Saint Gross (ภูมิสถาปัตยกรรม); ร่วมกับ Biohabitats, McLaren Engineering Group, Kovacs, Whitney & Associates; ต่อยอดแนวคิดตั้งต้นจาก Studio Gang",
+  "client": "National Aquarium",
+  "city": "Baltimore",
+  "country": "United States",
+  "lat": 39.2848,
+  "lng": -76.6077,
+  "year": "2024 (ต้นแบบ 200 ตร.ฟุต ติดตั้งปี 2018; เปิดฤดูใบไม้ร่วง 2024)",
+  "area": "929 sq. m. (0.6 ไร่) — เฉพาะพื้นที่ชุ่มน้ำลอยน้ำ",
+  "area_sqm": 929,
+  "categories": [
+   "flood-suds",
+   "recreation"
+  ],
+  "tags": [
+   "floating wetland",
+   "salt marsh",
+   "waterfront",
+   "green infrastructure",
+   "ecological restoration",
+   "post-occupancy monitoring",
+   "environmental education",
+   "native planting"
+  ],
+  "awards": [
+   "2026 ASLA Professional Honor Award, General Design",
+   "2026 MD ASLA Professional Design Award",
+   "2025 The Architect's Newspaper Best of Design Awards — Honorable Mention, Landscape Architecture"
+  ],
+  "summary_th": "พื้นที่ชุ่มน้ำลอยน้ำขนาด 10,000 ตร.ฟุต กลางอ่าวด้านในของบอลทิมอร์ ฟื้นภาพบึงน้ำเค็มที่เคยมีในอดีตด้วยไม้พื้นถิ่นกว่า 30,000 ต้น เปิดให้เข้าชมฟรีและทำหน้าที่ทั้งถิ่นอาศัย ห้องเรียนกลางแจ้ง และแปลงทดลองด้านคุณภาพน้ำ",
+  "description_th": "อ่าวด้านใน (Inner Harbor) ของบอลทิมอร์เคยเป็นบึงน้ำเค็มเมื่อหลายร้อยปีก่อน ก่อนกลายเป็นท่าเรือกำแพงคอนกรีตที่รับน้ำไหลบ่าจากเมืองต้นน้ำ พื้นที่ระหว่าง Pier 3 และ Pier 4 หน้าพิพิธภัณฑ์สัตว์น้ำ National Aquarium จึงเป็นทั้งโจทย์ด้านคุณภาพน้ำและโอกาสสร้างจุดหมายสาธารณะใจกลางย่านท่องเที่ยว\n\nโครงการเกิดจาก Waterfront Campus Plan ที่ Ayers Saint Gross พัฒนาต่อจากข้อเสนอ EcoSlip ของ Studio Gang แนวคิดหลักคือนำบึงน้ำเค็มของอ่าวเชสพีกกลับมาให้คนเข้าถึงได้ฟรี และให้ภูมิทัศน์นี้ทำงานเป็นโครงสร้างพื้นฐานสีเขียวจริง ไม่ใช่เพียงนิทรรศการ\n\nผังจัดเป็นกลุ่มเกาะพืชลอยน้ำ คั่นด้วยร่องน้ำตื้นที่ปูเปลือกหอยนางรม ทางเดินไม้สองเส้นเชื่อมจากทางเดินริมอ่าวลงสู่ลานเรียนรู้ใต้หลังคาผ้าใบ มีป้ายสื่อความหมายและที่นั่ง โดยส่วนใหญ่ของพื้นที่กันไว้ให้พืชและสัตว์ ทุ่นโป๊ะรองรับระดับน้ำขึ้นลงหลายฟุตต่อวัน นักออกแบบระบุว่าส่วนที่มองเห็นมีเพียงราวหนึ่งในสาม อีกสองในสามอยู่ใต้ผิวน้ำ\n\nแปลงพืชใช้ไม้พุ่มและหญ้าบึงพื้นถิ่นกว่า 30,000 ต้น เช่น Spartina patens, Spartina alterniflora, Baccharis halimifolia, Iva frutescens และ Morella pensylvanica ปลูกบนแผ่นพลาสติกรีไซเคิลเพื่อให้รากหยั่งลงน้ำ ท่อเติมอากาศส่งออกซิเจนและช่วยให้น้ำหมุนเวียน ส่วนทุ่นปรับแรงลอยตัวได้ตามน้ำหนักพืชที่เพิ่มขึ้น แก้ปัญหาพื้นที่ชุ่มน้ำลอยน้ำแบบเดิมที่ค่อย ๆ จม พื้นลานใช้ไม้ Kebony\n\nการก่อสร้างมีมูลค่าราว 14 ล้านดอลลาร์ และต่อยอดจากต้นแบบ 200 ตร.ฟุตที่ติดตามผลหลายฤดูกาลตั้งแต่ปี 2018 หลังเปิดในฤดูใบไม้ร่วง 2024 พบปลา สัตว์เลื้อยคลาน สัตว์น้ำเปลือกแข็ง หอย และนกหลายชนิด รวมถึงนากแม่น้ำที่หายไปจากอ่าวนานกว่าศตวรรษ ข้อมูลหลังใช้งานระบุว่าช่วงที่อ่าวขาดออกซิเจน ร้อยละ 81 ของพื้นที่ชุ่มน้ำยังรักษาค่าออกซิเจนละลายสูงกว่าเกณฑ์ที่แนะนำ 3 มก./ล. ทำให้เป็นที่พักพิงของสัตว์น้ำ",
+  "design_strategies": [
+   "ทดสอบด้วยต้นแบบขนาดเล็กและเก็บข้อมูลหลายฤดูกาลก่อนขยายสู่ขนาดจริง",
+   "ใช้ทุ่นปรับแรงลอยตัวเพื่อรองรับน้ำหนักพืชที่เพิ่มขึ้นและระดับน้ำขึ้นลงรายวัน",
+   "ผสานท่อเติมอากาศในร่องน้ำเปลือกหอย เพื่อเพิ่มออกซิเจนและสร้างถิ่นอาศัยใต้ผิวน้ำ",
+   "จัดเส้นทางคนให้เข้าถึงเพียงบางส่วน และกันพื้นที่ส่วนใหญ่ไว้ให้พืชและสัตว์",
+   "เปิดเข้าชมฟรีและให้ประชาชนร่วมบันทึกข้อมูลชนิดพันธุ์ผ่าน iNaturalist"
+  ],
+  "lessons_th": [
+   "คลองและท่าน้ำผนังคอนกรีตในเมืองไทยที่ขยายตลิ่งไม่ได้ อาจใช้แปลงพืชลอยน้ำสร้างถิ่นอาศัยได้โดยไม่ต้องรื้อเขื่อน",
+   "ควรออกแบบเผื่อน้ำหนักพืชที่เพิ่มขึ้นในระยะยาวตั้งแต่ต้น ไม่เช่นนั้นแพพืชจะจมหรือเสื่อมเร็ว",
+   "งานนิเวศที่ติดเซนเซอร์และติดตามผลหลังใช้งานจะมีหลักฐานเชิงตัวเลขไว้ขยายผลและของบประมาณต่อ",
+   "พื้นที่ทดลองเล็ก ๆ เช่น 200 ตร.ฟุต ลดความเสี่ยงให้เจ้าของโครงการก่อนตัดสินใจลงทุนเต็มรูปแบบ"
+  ],
+  "images": [
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/08/20240801Exhibits_HW_Completed-0003-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงพื้นที่ชุ่มน้ำลอยน้ำระหว่างท่าเรือ Pier 3 และ Pier 4 เห็นแปลงพืชเกาะกลางน้ำและสะพานทางเดินไม้",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/20240801Exhibits_HW_Completed-0014.jpeg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงบริบทอ่าวด้านใน เห็นพื้นที่ชุ่มน้ำแทรกอยู่ระหว่างอาคารพิพิธภัณฑ์สัตว์น้ำกับเมืองบอลทิมอร์",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_birdseye.jpg",
+    "type": "photo",
+    "caption": "มุมมองจากที่สูงลงมายังแปลงพืชและลานเรียนรู้ มีเรือท่องเที่ยวแล่นผ่านแนวท่าเรือด้านหลัง",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_birdseye1-1.jpg",
+    "type": "photo",
+    "caption": "ทางลาดและลานไม้เรียนรู้ใต้หลังคาผ้าใบ เชื่อมทางเดินริมอ่าวลงสู่ระดับน้ำ",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_groupgathered.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมตรงจากด้านบนของลานไม้ มีผู้เข้าชมนั่งพักใต้เงาหลังคาผ้าใบท่ามกลางแปลงพืช",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_KidsRunning.jpg",
+    "type": "photo",
+    "caption": "เด็กวิ่งบนทางเดินไม้สู่ลานเรียนรู้ โดยมีผนังอาคารพิพิธภัณฑ์เป็นฉากหลัง",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_Observing-1.jpg",
+    "type": "photo",
+    "caption": "ครอบครัวยืนชมพื้นที่ชุ่มน้ำที่ราวกันตกริมทางเดินไม้",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_kayak.jpg",
+    "type": "photo",
+    "caption": "ผู้เล่นคายักพายใกล้ขอบพื้นที่ชุ่มน้ำ ด้านหลังเป็นอาคารพิพิธภัณฑ์และสะพานเชื่อม",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_bird.jpg",
+    "type": "photo",
+    "caption": "นกตัวเล็กซ่อนตัวในกอหญ้าทะเลสูงของแปลงพืช",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_birdwithminnow.jpg",
+    "type": "photo",
+    "caption": "นกกระสาหากินริมแปลงพืช บริเวณที่ระบบเติมอากาศทำให้ผิวน้ำเป็นฟอง",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_caterpillar.jpg",
+    "type": "photo",
+    "caption": "หนอนผีเสื้อบนพืชดอกสีส้มในแปลงพืชพื้นถิ่น สะท้อนบทบาทการเป็นถิ่นอาศัยของแมลง",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_crab.jpg",
+    "type": "photo",
+    "caption": "ปูที่พบในพื้นที่ชุ่มน้ำระหว่างการสำรวจสัตว์น้ำ",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_duck.jpg",
+    "type": "photo",
+    "caption": "เป็ดเดินบนกอหญ้าแห้งริมแปลงพืช",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_momanddadduck.jpg",
+    "type": "photo",
+    "caption": "เป็ดคู่ว่ายน้ำในร่องน้ำระหว่างแปลงพืช",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_otter.jpg",
+    "type": "photo",
+    "caption": "นากแม่น้ำจากภาพกล้องดักถ่ายเวลากลางคืน สัตว์ที่หายไปจากอ่าวด้านในกว่าหนึ่งศตวรรษ",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_oyster.jpg",
+    "type": "photo",
+    "caption": "เจ้าหน้าที่ลุยน้ำจัดการถุงเปลือกหอยนางรม ซึ่งใช้สร้างถิ่นอาศัยในร่องน้ำ",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_cutesmallbird.jpg",
+    "type": "photo",
+    "caption": "นกตัวเล็กเกาะกิ่งไม้พุ่มในแปลงพืชพื้นถิ่น",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/20240515_100536.jpeg",
+    "type": "photo",
+    "caption": "เจ้าหน้าที่ช่วยกันปลูกหญ้าทะเลลงในแผ่นวัสดุระหว่างการติดตั้งแปลงพืชในปี 2024",
+    "credit": "Philip Smith / National Aquarium (ผ่าน Ayers Saint Gross)",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/NationalAquarium_HarborWetland_plan.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ แสดงเกาะพืชลอยน้ำ ทางเดินและลานเรียนรู้ระหว่างสองท่าเรือ",
+    "credit": "Ayers Saint Gross",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "url": "https://ayerssaintgross.com/wp-content/uploads/2024/06/National-Aquarium-Wetland-Section-asg.jpeg",
+    "type": "section",
+    "caption": "รูปตัดแสดงความสัมพันธ์ของทางเดิน แปลงพืชบนผิวน้ำ และถิ่นอาศัยใต้น้ำ พร้อมตัวอย่างพรรณไม้และสัตว์",
+    "credit": "Ayers Saint Gross",
+    "source": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ASLA 2026 Professional Awards — Harbor Wetland: Green Infrastructure as Civic Space",
+    "url": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2026-professional-awards/harbor-wetland-green-infrastructure-as-civic-space"
+   },
+   {
+    "title": "The Dirt (ASLA) — Floating Wetlands Bring Nature Back to Baltimore's Inner Harbor",
+    "url": "https://www.asla.org/news-insights/dirt/floating-wetlands-bring-nature-back-to-baltimores-inner-harbor"
+   },
+   {
+    "title": "Ayers Saint Gross — National Aquarium Harbor Wetland",
+    "url": "https://ayerssaintgross.com/work/project/harbor-wetland/"
+   },
+   {
+    "title": "BauNetz Wissen — Harbor Wetland in Baltimore",
+    "url": "https://www.baunetzwissen.de/wasserkreislauf/objekte/kultur-bildung/harbor-wetland-in-baltimore-9596179"
+   },
+   {
+    "title": "Instagram — @nationalasla",
+    "url": "https://www.instagram.com/p/Dez4k89F5X6/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-31"
+ },
+ {
+  "id": "westerkade-rotterdam",
+  "name": "Westerkade Waterfront Renewal",
+  "designer": "OKRA ร่วมกับ dS+V; แผนปลูกโดย Piet Oudolf",
+  "client": "dS+V (Gemeente Rotterdam)",
+  "city": "Rotterdam",
+  "country": "Netherlands",
+  "lat": 51.9055,
+  "lng": 4.4769,
+  "year": "2010 (ออกแบบ–ก่อสร้าง 2008–2010)",
+  "area": "53,000 sq. m. (33 ไร่)",
+  "area_sqm": 53000,
+  "categories": [
+   "greenways",
+   "green-streets",
+   "urban-design"
+  ],
+  "tags": [
+   "waterfront",
+   "quay renewal",
+   "perennial planting",
+   "parking removal",
+   "flexible public space",
+   "event space"
+  ],
+  "awards": [],
+  "summary_th": "การเปลี่ยนริมท่าแม่น้ำมาสที่เคยเป็นที่จอดรถระยะยาวให้เป็น \"ท่าสีเขียว\" ระยะทางเดินเลียบน้ำของรอตเทอร์ดาม ด้วยแปลงไม้ล้มลุกของ Piet Oudolf ขอบที่นั่ง และบันไดลงน้ำ ที่รองรับทั้งการพักผ่อนเงียบ ๆ และงานขนาดใหญ่",
+  "description_th": "ริมท่าของรอตเทอร์ดามเคยเป็นพื้นที่ที่เมืองแทบลืม กิจกรรมกระจุกอยู่ในเมืองชั้นใน ส่วนริมน้ำถูกปล่อยให้ไร้นิยามหรือใช้เป็นที่จอดรถและพื้นที่เศษเหลือ แม้จะมีต้นไม้เดิมและมุมมองกว้างสู่แม่น้ำมาส\n\nวิสัยทัศน์ศูนย์กลางเมืองที่ OKRA จัดทำร่วมกับ dS+V มองเห็นศักยภาพของริมน้ำที่เข้าถึงง่ายและใช้พักผ่อนได้ เงื่อนไขสำคัญคือลดที่จอดรถระยะยาวแล้วคืนพื้นที่ให้คน แผนสำหรับ Westerkade และ Parkkade จึงตั้งอยู่บนแนวคิด \"ท่าสีเขียว\" (green quay) ที่แยกพื้นที่จราจรออกจากพื้นที่พักผ่อนอย่างชัดเจน\n\nผังเน้นความยืดหยุ่นเชิงการใช้งาน ทางเดินกว้างใต้แนวต้นไม้ทำหน้าที่เป็นเส้นทางนันทนาการต่อเนื่องเลียบแม่น้ำ แปลงปลูกที่มีขอบกว้างเป็นที่นั่งแบ่งพื้นที่เป็นช่วงจังหวะ ส่วนแอ่งท่าเรือเล็ก Van Ommerenhaven ถูกเปลี่ยนเป็นจุดพักด้วยบันไดกว้างลงน้ำ และมีสะพานเทียบเรือสำหรับจุดจอดแท็กซี่น้ำแห่งใหม่\n\nลักษณะสีเขียวของท่าไม่ได้มาจากต้นไม้อย่างเดียว แต่มาจากแปลงพืชหลายแปลงตามแผนปลูกของ Piet Oudolf ที่เป็นจุดเด่นด้วยสีและพื้นผิวเปลี่ยนไปตามฤดูกาล ขอบแปลงกว้างทำหน้าที่เป็นม้านั่ง ขณะที่พื้นผิวทางเดินเรียบง่ายรองรับการใช้งานหลากหลาย\n\nแม้จะให้ความรู้สึกเขียวและเป็นส่วนตัว พื้นที่กลับรองรับงานใหญ่ได้ดี โดยถูกเลือกเป็นจุดปล่อยตัวการแข่งขัน Tour de France ไม่นานหลังแล้วเสร็จ ในระยะเวลาสั้น Westerkade กลายเป็นจุดหมายของเมืองและเป็นต้นแบบการจัดพื้นที่ริมน้ำใหม่ของรอตเทอร์ดาม ขนาดโครงการรวม 5.3 เฮกตาร์",
+  "design_strategies": [
+   "ย้ายที่จอดรถระยะยาวออกจากริมน้ำเพื่อคืนพื้นที่ให้คนเดินและการพักผ่อน",
+   "แยกพื้นที่จราจรกับพื้นที่พักผ่อนให้ชัด ภายใต้แนวคิดท่าสีเขียว",
+   "ใช้แปลงไม้ล้มลุกที่มีขอบกว้างทำหน้าที่ทั้งภูมิทัศน์และที่นั่งในองค์ประกอบเดียว",
+   "เปลี่ยนแอ่งท่าเรือเล็กเป็นบันไดลงน้ำและจุดเทียบแท็กซี่น้ำ เชื่อมคนกับแม่น้ำโดยตรง",
+   "เว้นพื้นผิวโล่งยืดหยุ่นเพื่อให้รองรับงานขนาดใหญ่ได้โดยไม่เสียบรรยากาศพื้นที่สีเขียว"
+  ],
+  "lessons_th": [
+   "ริมแม่น้ำเจ้าพระยาหรือคลองที่เป็นลานจอดรถ เปลี่ยนเป็นทางเดินสีเขียวได้ด้วยการจัดการที่จอดรถเป็นอันดับแรก ไม่ต้องเริ่มจากงานก่อสร้างใหญ่",
+   "แนวต้นไม้เดิมเป็นสินทรัพย์ การออกแบบพื้นผิวและแปลงปลูกรอบต้นไม้ให้ผลเร็วกว่าการเริ่มปลูกใหม่ทั้งหมด",
+   "ไม้ล้มลุกสร้างเอกลักษณ์ตามฤดูกาลได้มาก แต่ในเขตร้อนต้องเลือกพรรณที่ทนร้อนชื้นและวางแผนการดูแลตั้งแต่ต้น",
+   "ขอบแปลงปลูกกว้างพอให้นั่งได้ เป็นรายละเอียดที่ประหยัดและเพิ่มที่นั่งจำนวนมากโดยไม่ต้องใช้เฟอร์นิเจอร์"
+  ],
+  "images": [
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-2-1484x761.jpg",
+    "type": "photo",
+    "caption": "อัฒจันทร์ขั้นบันไดลงสู่น้ำที่ Van Ommerenhaven มีคนนั่งริมน้ำ ด้านหลังเป็นตึกสูงของ Kop van Zuid",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-1-1920x1280.jpg",
+    "type": "photo",
+    "caption": "แนวต้นไม้และม้านั่งริมแม่น้ำมาส พร้อมแปลงไม้ล้มลุกด้านหน้า",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-3-1920x1280.jpg",
+    "type": "photo",
+    "caption": "คนเดินผ่านแปลงพืชขอบที่นั่ง มองข้ามแม่น้ำมาสไปยังเส้นขอบฟ้าฝั่งใต้",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-4-1920x1280.jpg",
+    "type": "photo",
+    "caption": "แปลงไม้ดอกฤดูร้อนหนาแน่นโทนม่วงตามแผนปลูกของ Piet Oudolf ใต้แนวต้นไม้",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-5-1920x1280.jpg",
+    "type": "photo",
+    "caption": "ทางเดินเรียบแม่น้ำขนาบแปลงไม้ดอกและหญ้าประดับ",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-antoine-thevenet-6-1920x1280.jpg",
+    "type": "photo",
+    "caption": "แปลงหญ้าประดับสูงช่วยกั้นทางจักรยานออกจากพื้นที่ริมน้ำ",
+    "credit": "Antoine Thevenet / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/01-okra-westerkade-rotterdam-after-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพ \"หลัง\" ปรับปรุง: แนวต้นไม้เดิมกลายเป็นทางเดินเท้า ไม่มีรถจอดริมน้ำ",
+    "credit": "OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-ben-ter-mull-976x702.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงช่วงมีงานใหญ่ ถนนริมท่าเต็มไปด้วยผู้คน แสดงความยืดหยุ่นของพื้นที่ต่อการจัดกิจกรรม",
+    "credit": "Ben ter Mull / OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/01-okra-westerkade-rotterdam-before-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพ \"ก่อน\" ปรับปรุง: ริมท่าถูกใช้เป็นที่จอดรถระยะยาวใต้แนวต้นไม้",
+    "credit": "OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "url": "https://www.okra.nl/wp-content/uploads/2023/06/okra-westerkade-rotterdam-976x702.jpeg",
+    "type": "plan",
+    "caption": "ผังบริเวณแสดงแนวต้นไม้ แปลงปลูก และทางเดินเลียบแม่น้ำมาส",
+    "credit": "OKRA",
+    "source": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "OKRA — Westerkade waterfront renewal",
+    "url": "https://www.okra.nl/project/westerkade-rotterdam-waterfront/"
+   },
+   {
+    "title": "Landezine — Westerkade waterfront renewal by OKRA",
+    "url": "https://landezine.com/westerkade-waterfront-renewal-by-okra/"
+   },
+   {
+    "title": "Instagram — @landezine_com",
+    "url": "https://www.instagram.com/p/DfHLwu7Cp4I/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-31"
+ },
+ {
+  "id": "lunuganga-bentota",
+  "name": "Lunuganga",
+  "name_local": "ලුණුගඟ",
+  "designer": "Geoffrey Bawa",
+  "client": "Geoffrey Bawa (ปัจจุบันดูแลโดย Lunuganga Trust / Geoffrey Bawa Trust)",
+  "city": "Bentota",
+  "country": "Sri Lanka",
+  "lat": 6.4039,
+  "lng": 80.0217,
+  "year": "1948–1998 (พัฒนาต่อเนื่องจนบาวาเสียชีวิตปี 2003)",
+  "area": "101,000 sq. m. (63 ไร่) — ตัวเลขโดยประมาณตามคำบอกเล่าของบาวา",
+  "area_sqm": 101000,
+  "categories": [
+   "private-gardens",
+   "historic",
+   "hotels-resorts"
+  ],
+  "tags": [
+   "tropical modernism",
+   "borrowed landscape",
+   "plantation conversion",
+   "lake setting",
+   "designer's own garden",
+   "Sri Lanka",
+   "South Asia"
+  ],
+  "awards": [],
+  "wikipedia": "Lunuganga",
+  "summary_th": "สวนบ้านพักตากอากาศของเจฟฟรีย์ บาวา สถาปนิกศรีลังกา ซึ่งใช้เวลากว่า 40 ปีเปลี่ยนอดีตสวนยางและอบเชยริมทะเลสาบเดดดูวาเป็น \"สวนภายในสวนที่ใหญ่กว่า\" ด้วยการตัดแต่งภูมิประเทศ แนวไม้ และมุมมองสู่ทิวทัศน์รอบข้าง",
+  "description_th": "ลุนุกังกาตั้งอยู่บนเนินเตี้ย ๆ ริมทะเลสาบเดดดูวาในเบนโตตา ชายฝั่งตะวันตกเฉียงใต้ของศรีลังกา ที่ดินเคยเป็นสวนอบเชยสมัยดัตช์และสวนยางสมัยอังกฤษ เจฟฟรีย์ บาวาได้ที่ดินนี้ในปลายทศวรรษ 1940 ขณะเป็นทนายความหนุ่ม ก่อนที่ประเทศจะได้รับเอกราชไม่นาน ชื่อลุนุกังกาแปลว่า \"แม่น้ำเค็ม\" ในภาษาสิงหล\n\nบาวาตั้งใจเปลี่ยนบังกะโลเดิมเป็นบ้านพักสุดสัปดาห์ และสร้างสวนเรอเนสซองซ์ยุโรปฉบับเขตร้อน ความสนใจนี้ผลักดันให้เขากลับไปอังกฤษเพื่อเรียนสถาปัตยกรรม และคืนสู่ศรีลังกาในปี 1958 มูลนิธิบาวาอธิบายการเปลี่ยนสวนเชิงพาณิชย์เป็นสวนว่าเป็นการแทนที่การใช้ประโยชน์เชิงสกัดในยุคอาณานิคม ด้วยระบบนิเวศที่อุดมด้วยพรรณพื้นถิ่น\n\nแม้พื้นที่จริงมีราว 25 เอเคอร์ตามที่บาวาเขียนไว้ แต่เขารู้สึกว่าเมื่อรวมทะเลสาบรอบด้าน ผืนดินดูเหมือนไม่สิ้นสุด สวนจึงจัดเป็นลำดับของห้องกลางแจ้ง เช่น ลานหญ้า บ่อน้ำ บ่อบัว และเนิน Cinnamon Hill เชื่อมด้วยทางเดินและจุดพักหลายแห่ง ให้ผู้มาเยือนค้นพบสวนในแบบของตนเอง โดยแต่ละจุดเปิดกรอบมุมมองสู่ทะเลสาบและทิวไม้ไกลออกไป\n\nองค์ประกอบของสวนเรียบง่าย ได้แก่ สนามหญ้าที่ตัดแต่ง ไม้ใหญ่เดิม ต้นลั่นทมรูปทรงงดงาม ไหและประติมากรรมที่วางเป็นจุดนำสายตา พื้นลายตาราง และเสาไม้แกะสลัก ตัวอาคารและสวนยังมีงานศิลปะของ Donald Friend, Laki Senanayake และวัตถุจากเอเชียและยุโรปแทรกอยู่\n\nบาวาพัฒนาสวนนี้ต่อเนื่องราว 40 ปีจนเสียชีวิตในเดือนพฤษภาคม 2003 และอังคารถูกฝังบน Cinnamon Hill หลังจากนั้นกลุ่มเพื่อนสนิทตั้งทรัสต์ขึ้นดูแล สวนเปิดให้นำชมทุกวัน ส่วนอาคารดำเนินการเป็นโรงแรมบ้านชนบทตามฤดูกาล รายได้สนับสนุนงานการศึกษาและการอนุรักษ์ ปัจจุบันสวนยังเป็นแหล่งพักพิงของสัตว์ป่าศรีลังกา",
+  "design_strategies": [
+   "อ่านภูมิประเทศและไม้ใหญ่เดิมก่อน แล้วปรับแต่งเพียงบางส่วนเพื่อเปิดมุมมอง",
+   "ยืมทิวทัศน์ทะเลสาบและทิวไม้รอบข้างเข้ามาเป็นส่วนหนึ่งของสวน ทำให้พื้นที่ดูกว้างกว่าจริง",
+   "จัดลำดับห้องกลางแจ้ง เชื่อมด้วยทางเดินหลายเส้นเพื่อให้เกิดการค้นพบ",
+   "วางวัตถุชิ้นเล็ก เช่น ไห ประติมากรรม เป็นจุดนำสายตาปลายมุมมอง",
+   "ปรับแก้สวนต่อเนื่องตามการเติบโตของพืช โดยถือว่าสวนเป็นงานที่ไม่จบ"
+  ],
+  "lessons_th": [
+   "สวนเขตร้อนไม่จำเป็นต้องปลูกพรรณจำนวนมาก การจัดระเบียบไม้เดิมและสนามหญ้าให้ถูกจังหวะอาจให้พลังมากกว่า",
+   "ที่ดินเกษตรเดิม เช่น สวนยางหรือสวนผลไม้ในไทย มีต้นไม้และภูมิประเทศเป็นทุนตั้งต้นสำหรับรีสอร์ตหรือบ้านสวน",
+   "การเปิดมุมมองสู่ภูมิทัศน์นอกที่ดินเป็นวิธีต้นทุนต่ำที่ทำให้ที่ดินขนาดจำกัดรู้สึกใหญ่",
+   "สวนของเจ้าของเองเป็นห้องทดลองระยะยาว นักออกแบบเรียนรู้จากการดูแลและปรับแก้ซ้ำหลายปี"
+  ],
+  "images": [
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/26443c8f-90f7-47b8-891e-8d5f459ffd5a/DSC05665-HDR.jpg",
+    "type": "photo",
+    "caption": "ลานหญ้าขั้นบันไดริมทะเลสาบเดดดูวา มีประติมากรรมหินใต้ต้นไม้ มองออกไปยังผืนน้ำกว้าง",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lunuganga_-_Cinnamon_Hill.jpg/1280px-Lunuganga_-_Cinnamon_Hill.jpg",
+    "type": "photo",
+    "caption": "ลานหญ้ากว้างของเนิน Cinnamon Hill โดยมีลูกกลมวางเป็นจุดนำสายตาสู่ทะเลสาบ",
+    "credit": "Eco2004 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunuganga_-_Cinnamon_Hill.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Lunuganga_-_Bungalow_Back.jpg/1280px-Lunuganga_-_Bungalow_Back.jpg",
+    "type": "photo",
+    "caption": "บังกะโลหลักด้านหลัง ใต้ต้นลั่นทมใหญ่ที่ทอดกิ่งคลุมสนามหญ้า",
+    "credit": "Eco2004 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunuganga_-_Bungalow_Back.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Lunuganga%2C_Bentota%2C_Sri_Lanka..JPG/1280px-Lunuganga%2C_Bentota%2C_Sri_Lanka..JPG",
+    "type": "photo",
+    "caption": "บ่อน้ำในสวนล้อมด้วยไม้ใหญ่และเงาร่ม",
+    "credit": "Labeet (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunuganga,_Bentota,_Sri_Lanka..JPG",
+    "year": 2012
+   },
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/a5d38491-aca5-44a2-90f0-d60a47fe0bc4/DSC04871.jpg",
+    "type": "photo",
+    "caption": "บ่อบัวล้อมด้วยไม้พุ่มหนาแน่น แสดงลักษณะสวนเขตร้อนที่ปล่อยให้เติบโตอย่างเป็นธรรมชาติ",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/9e33766a-938a-425b-967f-988bebbd113e/DSC05632-HDR.jpg",
+    "type": "photo",
+    "caption": "ต้นลั่นทมเก่าแก่กิ่งคดโค้ง มีทางเดินแผ่นหินแทรกในสนามหญ้าริมทะเลสาบ",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/04d3babc-8d52-4912-a178-aa97668488c8/DSC05170-HDR-Edit.jpg",
+    "type": "photo",
+    "caption": "ลานปูพื้นลายตารางระหว่างอาคาร แทรกด้วยลำต้นไม้ใหญ่และเสาไม้แกะสลัก",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/1848fcc9-b767-4292-9ce1-72c800178034/DSC05149-HDR-Edit.jpg",
+    "type": "photo",
+    "caption": "ไหดินเผาเคลือบวางกลางไม้ใบ เป็นจุดสนใจขนาดเล็กตามทางเดินในสวน",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://images.squarespace-cdn.com/content/v1/63d0e63627e06579be4567d4/bb00486e-b751-49d8-96df-0491c259def7/DSC05220-HDR-Edit.jpg",
+    "type": "photo",
+    "caption": "ซุ้มทางเข้าเสาไม้แกะสลักและช่องลมลายตาราง ผสมองค์ประกอบพื้นถิ่นกับอาณานิคม",
+    "credit": "Geoffrey Bawa Trust",
+    "source": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Lunuganga_Garden%2C_Bentota%2C_Sri_Lanka.jpg/1280px-Lunuganga_Garden%2C_Bentota%2C_Sri_Lanka.jpg",
+    "type": "photo",
+    "caption": "ต้นไม้ใหญ่บนเนินกับป้าย \"Private\" บริเวณส่วนที่พักของที่ดิน",
+    "credit": "Kingsleyceylon (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Lunuganga_Garden,_Bentota,_Sri_Lanka.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/DSC_0685-01.jpg/1280px-DSC_0685-01.jpg",
+    "type": "photo",
+    "caption": "ซุ้มเงาไม้เปิดกรอบมุมมองสู่ต้นลั่นทมกลางสนาม",
+    "credit": "Kosala Migara (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:DSC_0685-01.jpg",
+    "year": 2020
+   }
+  ],
+  "research": [
+   {
+    "title": "Memory, modernity and history: the landscapes of Geoffrey Bawa in Sri Lanka, 1948–1998",
+    "authors": "Robin D. Jones",
+    "year": 2011,
+    "journal": "Contemporary South Asia 19(1)",
+    "url": "https://doi.org/10.1080/09584935.2010.544717",
+    "note_th": "ศึกษาภูมิทัศน์ของบาวาในช่วงปี 1948–1998 ในมิติความทรงจำ ความทันสมัย และประวัติศาสตร์"
+   },
+   {
+    "title": "Queering the Gardens of Geoffrey Bawa: The Order of Nature",
+    "authors": "Pramodha Weerasekera",
+    "year": 2025,
+    "journal": "Visual Culture in Britain",
+    "url": "https://doi.org/10.1080/14714787.2025.2482314",
+    "note_th": "อ่านสวนของบาวาผ่านมุมมองเควียร์และ \"ระเบียบของธรรมชาติ\""
+   },
+   {
+    "title": "Study on the Placeness of Geoffrey Bawa's Architecture - Focus on the Analysis of Lunuganga -",
+    "authors": "In-Su Lee, Jung-Wook Lee, Eun-Hee An",
+    "year": 2014,
+    "journal": "Korean Institute of Interior Design Journal 23(3)",
+    "url": "https://doi.org/10.14774/jkiid.2014.23.3.039",
+    "note_th": "วิเคราะห์ความเป็นสถานที่ในงานของบาวา โดยใช้ลุนุกังกาเป็นกรณีศึกษาหลัก"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Geoffrey Bawa Trust — Lunuganga",
+    "url": "https://geoffreybawa.com/lunuganga"
+   },
+   {
+    "title": "Wikipedia — Lunuganga",
+    "url": "https://en.wikipedia.org/wiki/Lunuganga"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-31"
+ },
+ {
+  "id": "kibera-public-space-project-nairobi",
+  "name": "Kibera Public Space Project (KPSP)",
+  "designer": "Kounkuey Design Initiative (KDI) ร่วมกับองค์กรชุมชนในคิเบรา เช่น New Nairobi Dam Community Group, KUFON, Andolo Bridge Community Group",
+  "client": "องค์กรชุมชนในพื้นที่คิเบรา",
+  "city": "Nairobi",
+  "country": "Kenya",
+  "lat": -1.3151,
+  "lng": 36.7996,
+  "year": "2006–ปัจจุบัน (KPSP01 2006–2010; KPSP10 2017–2019; เครือข่าย 11 พื้นที่)",
+  "area": "9,075 sq. m. (5.7 ไร่) — พื้นที่ปนเปื้อนที่ฟื้นฟูรวมทั้งเครือข่าย",
+  "area_sqm": 9075,
+  "categories": [
+   "community-gardens",
+   "flood-suds",
+   "urban-design"
+  ],
+  "tags": [
+   "informal settlement",
+   "participatory design",
+   "flood resilience",
+   "productive public space",
+   "sanitation",
+   "river remediation",
+   "climate adaptation",
+   "Africa"
+  ],
+  "awards": [
+   "2020–2021 WRI Ross Center Prize for Cities — Finalist"
+  ],
+  "summary_th": "เครือข่ายพื้นที่สาธารณะ 11 แห่งริมแม่น้ำงองในชุมชนแออัดคิเบรา ที่ออกแบบ สร้าง และบริหารร่วมกับผู้อยู่อาศัย โดยรวมการป้องกันน้ำท่วม สุขาภิบาล และกิจการสร้างรายได้ไว้ในพื้นที่เดียว ไม่ต้องไล่รื้อบ้านเดิม",
+  "description_th": "คิเบราเป็นหนึ่งในชุมชนนอกระบบที่ใหญ่ที่สุดในโลก อยู่ริมแม่น้ำงองกลางไนโรบี ด้วยที่อยู่อาศัยหนาแน่น ระบบระบายน้ำและสุขาภิบาลไม่เพียงพอ และน้ำท่วมตามฤดูกาลที่รุนแรงขึ้น พื้นที่ลุ่มริมน้ำจึงกลายเป็นที่ทิ้งขยะ ไม่ปลอดภัย และมักถูกมองว่าสร้างอะไรไม่ได้\n\nKDI เริ่มทำงานกับ New Nairobi Dam Community Group ในปี 2006 ด้วยแนวคิด \"พื้นที่สาธารณะที่สร้างผลผลิต\" (Productive Public Space) ต่างจากแนวทางรื้อแล้วสร้างใหม่ โมเดลนี้นำบริการพื้นฐาน การลดน้ำท่วม และพื้นที่ส่วนรวมมาเสริมกันโดยไม่ย้ายบ้านเดิม ตั้งแต่ปี 2011 KDI ใช้การเปิดรับข้อเสนอเพื่อสร้างความร่วมมือที่โปร่งใสกับองค์กรชุมชน\n\nแต่ละแห่งออกแบบจากปัญหาเฉพาะจุดผ่านเวิร์กช็อปกับผู้อยู่อาศัย โดยรับฟังผู้หญิงและเด็กเป็นพิเศษ เช่น วางลานซักล้างติดพื้นที่เล่น พื้นที่ทั้งหมดเรียงตัวตามแม่น้ำงองและทางข้ามสำคัญ KPSP01 เปิดเส้นทางสัญจรใหม่ด้วยสะพานขนาดเล็ก ส่วน KPSP07 เป็นแห่งใหญ่สุด ประกอบด้วยลานเล่น ศาลา อาคารสุขาภิบาล ลานซักล้าง ซุ้มค้าขาย และแนวกันน้ำ เมืองไนโรบีรับสะพานคนเดินไปดูแลและติดไฟส่องสว่างเพิ่ม\n\nวัสดุเลือกให้แรงงานในชุมชนสร้างเองได้ เช่น กำแพงกล่องหินเกเบียน ซึ่งไม่ต้องใช้เครื่องจักรหนัก สะพานช่วงสั้น 5–6 เมตรทำจากไม้ที่ขนด้วยแรงคน ไม้รีไซเคิลสำหรับลานเล่น และหลังคาที่เก็บน้ำฝนไปรดแปลงผัก อาคารสาธารณะหนึ่งหลังยังใช้ร่วมเป็นห้องประชุม โรงเรียน และศาสนสถานได้ แต่ละแห่งมีออมทรัพย์หรือกิจการขนาดเล็กเลี้ยงงานดูแลรักษาเอง\n\nผลรวมคือพื้นที่เปิดใหม่ 11 แห่ง คิดเป็นราวร้อยละ 35 ของพื้นที่สาธารณะในคิเบรา ฟื้นฟูที่ดินปนเปื้อน 9,075 ตร.ม. เก็บกองขยะ 8 จุด ปลูกต้นไม้ 130 ต้น ทำรางระบายน้ำ 840 เมตร แนวกันชน 520 เมตร และรื้อส้วมที่ระบายลงแม่น้ำ 27 จุด ผู้อยู่อาศัยกว่า 125,000 คนได้รับประโยชน์ด้านบริการและการป้องกันน้ำท่วม อย่างไรก็ตาม น้ำท่วมเดือนเมษายน 2024 พัดพื้นที่ส่วนกลางและสะพานของ KPSP07 เสียหาย KDI และชุมชน KUFON จึงสร้างใหม่ให้แข็งแรงขึ้น ซึ่งชี้ว่าเครือข่ายนี้ต้องปรับตัวต่อเนื่องตามสภาพภูมิอากาศ",
+  "design_strategies": [
+   "เลือกพื้นที่ลุ่มรกร้างและที่ทิ้งขยะเป็นจุดเริ่ม เพื่อไม่ต้องรื้อถอนบ้านเดิม",
+   "ซ้อนหน้าที่ลดน้ำท่วม สุขาภิบาล และกิจการสร้างรายได้ไว้ในพื้นที่เดียว",
+   "ออกแบบร่วมกับชุมชน รวมถึงผู้หญิงและเด็ก ผ่านเวิร์กช็อปและหุ่นจำลอง",
+   "ใช้กำแพงเกเบียนและไม้ช่วงสั้นที่แรงงานชุมชนก่อสร้างและซ่อมเองได้",
+   "มอบการบริหารให้องค์กรชุมชน พร้อมกลุ่มออมทรัพย์และรายได้จากบริการเพื่อดูแลระยะยาว"
+  ],
+  "lessons_th": [
+   "ชุมชนริมคลองในไทยอาจใช้โมเดลพื้นที่ขนาดเล็กหลายจุด แทนโครงการใหญ่ที่ต้องรื้อย้าย",
+   "พื้นที่สาธารณะอยู่รอดเมื่อมีรายได้เลี้ยงตัวเอง เช่น ห้องน้ำจ่ายเงิน ลานซักล้าง หรือร้านค้า",
+   "งานก่อสร้างโดยชาวบ้านสร้างทั้งรายได้และความเป็นเจ้าของ แต่ต้องมีวิศวกรตรวจความปลอดภัย",
+   "เหตุน้ำท่วมปี 2024 เตือนว่าโครงการริมน้ำต้องวางแผนซ่อมและเสริมความแข็งแรงตั้งแต่แรก"
+  ],
+  "images": [
+   {
+    "url": "https://kounkuey.org/uploads/300003/1540837698708/KPSP07_SAN-BLOCK-800-0x0x3800x2850_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP07: อาคารสุขาภิบาลสองชั้น ลานซักล้าง แนวกำแพงกันน้ำ และสะพาน ท่ามกลางบ้านหลังคาสังกะสีริมแม่น้ำงอง",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1000010/1544571083975/KPSP03_Laundry_Pad-800-0x0x3456x2304_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP03: ลานซักผ้าสาธารณะพร้อมผู้หญิงกำลังซักผ้า ด้านหลังเป็นอาคารพื้นที่สาธารณะ",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_03"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1000010/1544570811409/sanitationblock-800-0x0x1000x667_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP02: อาคารสุขาภิบาลอิฐพร้อมถังเก็บน้ำบนฐานสูงพ้นระดับน้ำท่วม",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kpsp02"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/2400024/1733525940110/Building_KPSP07_Images_08-800-0x0x3800x2850_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP07 ปี 2024: สะพานคนเดินและสวนสีเขียวริมแม่น้ำ มองจากใต้หลังคาศาลา",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/2400024/1733525812113/Building_KPSP07_Images_07-800-0x0x3800x2850_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP07 ปี 2024: กำแพงกันดินหินเกเบียนและแปลงหญ้า ใช้เป็นแนวรับน้ำท่วมริมตลิ่ง",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/700007/1544141741176/L1060595-800-0x0x3800x2636_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP04: ชุมชนชุมนุมที่ศาลาริมแม่น้ำบนฐานเกเบียนในวันเปิดพื้นที่",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_04"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/400004/1540842817119/Hand_over-800-0x0x1024x575_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP05: ชาวบ้านร่วมงานส่งมอบพื้นที่ริมตลิ่งที่ปรับปรุงใหม่",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_05"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/400004/1540845578123/IMG_0054-800-0x0x3456x2304_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP06: ลานกิจกรรมและโรงเรือนปลูกผักใต้แนวต้นไม้",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_06"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1600016/1572895594454/DSC_8450-800-896x263x2904x1784_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP10: ลานเด็กเล่นจากไม้และยางรถเก่าใกล้จุดนั่งชุมนุมริมแม่น้ำ",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_10"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1400014/1545309287744/ANWA-Toilet_Facility-800-0x0x3800x2533_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP08: ห้องน้ำโรงเรียน Anwa Junior Academy พร้อมถังเก็บน้ำฝน",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_08"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1400014/1545161708629/DSC_2197-800-0x0x3696x2448_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP09: เด็กนักเรียนบนลานโรงเรียนซึ่งใช้เป็นพื้นที่ส่วนรวม",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_09"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/000000/1540575320221/DSCN8143-800-0x0x3648x2736_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP01: เด็กนักเรียนบนลานชุมชนหน้าศาลาที่มีโรงเรียนใช้งาน",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kpsp01"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/000000/1540575233825/L1060970-800-0x0x3800x2138_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP01: กลุ่มชุมชนรวมตัวหน้าศาลาหลังคาเก็บน้ำฝนและถังเก็บน้ำขนาดใหญ่",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kpsp01"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/300003/1540841098875/KPSP03_Poultry_Shed-800-0x0x3648x2736_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP03: เล้าไก่ที่ชุมชนบริหารเป็นแหล่งรายได้",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_03"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/400004/1540841854311/L1050579-800-0x0x3800x2138_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP04: ขั้นบันไดไม้ซุงแทรกบนตลิ่งเกเบียนริมแม่น้ำ",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_04"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/300003/1540840536958/site2gabions2-800-0x0x1000x607_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP02: ชาวบ้านก่อกำแพงเกเบียนด้วยแรงงานในพื้นที่ระหว่างการก่อสร้าง",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kpsp02"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/300003/1540839807875/ISSB_Construction-800-0x0x1024x768_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP06: ก่อสร้างอาคารสุขาภิบาลด้วยอิฐประสาน โดยแรงงานชุมชน",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_06"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/400004/1540842753351/KPSP05_WORKSHOP_ENVIRONMENT-800-0x0x3800x2138_q85.jpg",
+    "type": "photo",
+    "caption": "KPSP05: เวิร์กช็อปออกแบบร่วมกับชาวบ้านในพื้นที่",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_05"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/900009/154448601138/KPSP01_before_BW-800-0x0x1500x829_q85.jpg",
+    "type": "photo",
+    "caption": "สภาพเดิมของ KPSP01 ก่อนโครงการ: ที่ลุ่มแฉะถูกใช้เป็นที่ทิ้งขยะ",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kpsp01"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/2400024/1733525725188/Building_KPSP07_Images_01-800-0x0x3800x2850_q85.jpg",
+    "type": "photo",
+    "caption": "แม่น้ำงองหลังน้ำท่วมเดือนเมษายน 2024 ที่พัดพื้นที่ส่วนกลางและสะพานของ KPSP07 เสียหาย",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/1400014/154516061640/KPSP07_Site_Plan_crop-800-0x0x3800x2536_q85.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ KPSP07 แสดงลานชุมชน ลานเด็กเล่น อาคารสุขาภิบาล ลานซักล้าง และแนวเกเบียนริมแม่น้ำ",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "url": "https://kounkuey.org/uploads/400004/1540847019413/GH_Section-800-0x0x2178x1500_q85.png",
+    "type": "section",
+    "caption": "รูปตัด KPSP09 แสดงอาคารเรียนและลานที่ปรับตามระดับพื้นที่",
+    "credit": "Kounkuey Design Initiative (KDI)",
+    "source": "https://kounkuey.org/projects/kibera_public_space_project_09"
+   }
+  ],
+  "research": [
+   {
+    "title": "Community-responsive adaptation to flooding in Kibera, Kenya",
+    "authors": "Joe Mulligan, Jamilla Harper, Pascal Kipkemboi, Bukonola Ngobi, Anna Collins",
+    "year": 2017,
+    "journal": "Proceedings of the Institution of Civil Engineers - Engineering Sustainability 170",
+    "url": "https://doi.org/10.1680/jensu.15.00060",
+    "note_th": "ประเมินมาตรการปรับตัวต่อน้ำท่วมทั้งเชิงโครงสร้างและไม่ใช่โครงสร้างในคิเบรา"
+   },
+   {
+    "title": "From Kibera to Kalobeyei",
+    "authors": "Pascal Mukanga, Bernard Heng, John Gendall, Jia Cong Ang, Shirley Chebet, Kezia Ojal, Jack Campbell Clause, Joe Mulligan",
+    "year": 2022,
+    "journal": "The Journal of Public Space 7(1)",
+    "url": "https://doi.org/10.32891/jps.v7i1.1580",
+    "note_th": "ถอดบทเรียนการทำพื้นที่สาธารณะจากคิเบราสู่ Kalobeyei โดยทีม KDI"
+   }
+  ],
+  "sources": [
+   {
+    "title": "WRI Ross Center Prize for Cities — Kibera Public Space Project",
+    "url": "https://prizeforcities.org/project/kibera-public-space-project"
+   },
+   {
+    "title": "WRI Prize for Cities Database — Kibera Public Space Project",
+    "url": "https://prizeforcities.org/database/kibera-public-space-project"
+   },
+   {
+    "title": "KDI — Kibera Public Space Project 01",
+    "url": "https://kounkuey.org/projects/kpsp01"
+   },
+   {
+    "title": "KDI — Kibera Public Space Project 07",
+    "url": "https://kounkuey.org/projects/kibera_public_space_project_07"
+   },
+   {
+    "title": "KDI — Kibera Public Space Project 10",
+    "url": "https://kounkuey.org/projects/kibera_public_space_project_10"
+   },
+   {
+    "title": "ArchitectureAU — Kibera Public Space Project",
+    "url": "https://architectureau.com/articles/kibera-public-space-project/"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-31"
+ },
+ {
+  "id": "frankfurt-gruenguertel",
+  "name": "Frankfurt GrünGürtel (Frankfurt Green Belt)",
+  "name_local": "Frankfurter GrünGürtel",
+  "designer": "แนวคิด Till Behrens (1970/71); ระบบสวนยุคแรกโดย Max Bromme; กำหนดและดูแลโดยเมืองแฟรงก์เฟิร์ต (Umweltamt / Grünflächenamt)",
+  "client": "Stadt Frankfurt am Main",
+  "city": "Frankfurt am Main",
+  "country": "Germany",
+  "lat": 50.1427,
+  "lng": 8.6412,
+  "year": "1991 (ธรรมนูญ GrünGürtel 14 พ.ย. 1991; คุ้มครองตามกฎหมายตั้งแต่ 1994)",
+  "area": "80 sq. km. (50,000 ไร่) — ราวหนึ่งในสามของพื้นที่เมือง",
+  "area_sqm": 80000000,
+  "categories": [
+   "green-belt",
+   "masterplanning",
+   "forestry",
+   "recreation"
+  ],
+  "tags": [
+   "green infrastructure",
+   "landscape protection",
+   "urban growth boundary",
+   "river valley",
+   "urban forest",
+   "green constitution",
+   "civic participation"
+  ],
+  "awards": [],
+  "summary_th": "ระบบที่ว่างวงแหวนรอบเมืองแฟรงก์เฟิร์ต ครอบคลุมราว 80 ตร.กม. หรือหนึ่งในสามของเมือง ประกอบด้วยหุบเขานิดดา เนินเบอร์เกอร์รึคเคิน และป่าเมือง คุ้มครองด้วย \"ธรรมนูญ GrünGürtel\" ที่สภาเมืองลงมติเอกฉันท์ในปี 1991",
+  "description_th": "พื้นที่ของ GrünGürtel คือเกษตรกรรม ที่ลุ่มชื้น และป่าที่รอดจากการขยายเมืองในศตวรรษที่ 19–20 หลังสงครามโลกครั้งที่สอง ย่านใหม่ทยอยรุกที่เกษตร สนามบินขยายตัว และมีแผนเมืองบริวาร 75,000 คนที่ Heiligenstock จนการประท้วงเรื่องการสูญเสียที่ว่างเพิ่มขึ้นตั้งแต่ทศวรรษ 1970\n\nคำว่า \"Grüngürtel\" ปรากฏครั้งแรกกับระบบสวนสาธารณะชายเมืองของ Max Bromme ในยุค Neues Frankfurt ทศวรรษ 1920 ต่อมาสถาปนิกผังเมือง Till Behrens เสนอ \"วงแหวนสีเขียวที่สาม\" ในปี 1970/71 เพื่อเชื่อมพื้นที่สีเขียวที่เหลือเป็นแถบภูมิทัศน์ต่อเนื่อง เมืองนำแนวคิดนี้ไปพัฒนาต่อ โดยการจัดงาน Bundesgartenschau 1989 เปลี่ยนหุบเขานิดดาขนาด 168 เฮกตาร์เป็น Volkspark Niddatal\n\nโครงสร้างประกอบด้วยสามภูมิทัศน์ ได้แก่ หุบเขานิดดาทางตะวันตกและเหนือ เนิน Berger Rücken ทางตะวันออกเฉียงเหนือ และป่าเมือง Frankfurter Stadtwald ทางใต้ พร้อมแขนงที่ซึมเข้าใกล้ใจเมืองผ่านสวนอย่าง Grüneburgpark และ Ostpark แล้วเชื่อมออกสู่ Regionalpark RheinMain ทางเดินวงรอบเกือบ 68 กม. และทางจักรยานราว 62 กม. ร้อยพื้นที่ทั้งหมดเข้าด้วยกัน\n\nจากพื้นที่ราว 8,000 เฮกตาร์ ร้อยละ 50 เป็นป่า 20 เป็นเกษตร 10 เป็นสวนชุมชนและแปลงผัก 4 เป็นสวนสาธารณะ 4 เป็นพื้นที่กีฬา 3 เป็นสวนผลไม้ทุ่งหญ้า 1 เป็นเขตอนุรักษ์ และราว 8 เป็นพื้นที่คมนาคม สองในสามเป็นที่ดินของเมือง GrünGürtel ไม่ได้มีภาษาการออกแบบเดียว แต่มีตัวละคร \"GrünGürtel-Tier\" ของ Robert Gernhardt และงานศิลปะล้อเลียน Komische Kunst สร้างเอกลักษณ์ร่วม\n\nความสำเร็จหลักอยู่ที่เครื่องมือทางกฎหมาย ธรรมนูญปี 1991 ที่ Tom Koenigs ผลักดันกำหนดแนวเขต กฎบัตรเป้าหมาย และพันธะของฝ่ายบริหาร ตั้งแต่ปี 1994 พื้นที่นี้เป็นส่วนหนึ่งของเขตคุ้มครองภูมิทัศน์ขนาด 108.5 ตร.กม. และหากสภาเมืองจะตัดพื้นที่ออก ต้องเพิ่มพื้นที่ทดแทนที่มีขนาดและคุณค่าเทียบเท่า กลไกนี้ทำให้วงแหวนสีเขียวอยู่รอดมากว่าสามทศวรรษ",
+  "design_strategies": [
+   "เชื่อมพื้นที่เกษตร ป่า และลุ่มน้ำที่เหลือเป็นโครงข่ายเดียว แทนการสร้างสวนใหม่ทั้งหมด",
+   "ตรึงแนวเขตด้วยธรรมนูญของสภาเมืองและประกาศเขตคุ้มครองภูมิทัศน์",
+   "บังคับหลักการพื้นที่ทดแทนเทียบเท่าทุกครั้งที่ตัดพื้นที่ออก",
+   "แบ่งโซนการใช้งาน: โซน I พื้นที่ใช้สอยและสวน โซน II พื้นที่นิเวศที่ต้องคุ้มครองเข้ม",
+   "สร้างการรับรู้ผ่านเส้นทางวงรอบ เรื่องเล่า ตัวละคร และงานศิลปะ"
+  ],
+  "lessons_th": [
+   "ผังเมืองสีเขียวของกรุงเทพฯ และเมืองรองควรมีกฎที่ยากต่อการแก้ไข และต้องชดเชยพื้นที่เมื่อมีการเปลี่ยนการใช้ที่ดิน",
+   "พื้นที่รับน้ำ สวนผลไม้ และนาชานเมืองนับเป็นโครงสร้างพื้นฐานสีเขียวได้ โดยไม่ต้องเปลี่ยนเป็นสวนสาธารณะทั้งหมด",
+   "เจ้าของที่ดินหลักเป็นเมืองช่วยให้คุ้มครองได้จริง ไทยจึงควรเริ่มจากที่ดินรัฐ พร้อมสิทธิประโยชน์สำหรับเอกชน",
+   "เอกลักษณ์ที่สนุกอย่างตัวการ์ตูนหรือศิลปะช่วยให้นโยบายผังเมืองเป็นเรื่องใกล้ตัวประชาชน"
+  ],
+  "images": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/FFM_Niddapark_%283%29.jpg/1280px-FFM_Niddapark_%283%29.jpg",
+    "type": "photo",
+    "caption": "ทุ่งหญ้าและไม้ใหญ่ใน Volkspark Niddatal สวนขนาด 168 เฮกตาร์ซึ่งเป็นแกนหนึ่งของ GrünGürtel",
+    "credit": "Nadi2018 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:FFM_Niddapark_(3).jpg",
+    "year": 2019
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Alter_Flugplatz_Frankfurt_2020-03-19_01.jpg/1280px-Alter_Flugplatz_Frankfurt_2020-03-19_01.jpg",
+    "type": "photo",
+    "caption": "ทุ่งหญ้าน้ำท่วมถึงและลำน้ำบริเวณ Alter Flugplatz ในหุบเขานิดดา",
+    "credit": "Leonhard Lenz (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Frankfurt_2020-03-19_01.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Alter_Flugplatz_Frankfurt_2020-03-19_06.jpg/1280px-Alter_Flugplatz_Frankfurt_2020-03-19_06.jpg",
+    "type": "photo",
+    "caption": "พื้นที่ชุ่มน้ำและกกที่ขึ้นตามธรรมชาติบริเวณ Alter Flugplatz",
+    "credit": "Leonhard Lenz (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Frankfurt_2020-03-19_06.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Alter_Flugplatz_Frankfurt_2020-03-19_13.jpg/1280px-Alter_Flugplatz_Frankfurt_2020-03-19_13.jpg",
+    "type": "photo",
+    "caption": "ดงกกหน้าทุ่งหญ้าของ Alter Flugplatz",
+    "credit": "Leonhard Lenz (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Frankfurt_2020-03-19_13.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Alter_Flugplatz_Frankfurt_2020-03-19_08.jpg/1280px-Alter_Flugplatz_Frankfurt_2020-03-19_08.jpg",
+    "type": "photo",
+    "caption": "ทางเดินผ่านแนวต้นเบิร์ชที่ขึ้นหนาแน่น",
+    "credit": "Leonhard Lenz (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Frankfurt_2020-03-19_08.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Alter_Flugplatz_Frankfurt_2020-03-19_11.jpg/1280px-Alter_Flugplatz_Frankfurt_2020-03-19_11.jpg",
+    "type": "photo",
+    "caption": "พื้นผิวรันเวย์เก่าของ Alter Flugplatz ที่ปัจจุบันเปิดให้คนเดินและขี่จักรยาน",
+    "credit": "Leonhard Lenz (CC0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Frankfurt_2020-03-19_11.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Alter_Flugplatz_Bonames%2C_Renaturierung.jpg/1280px-Alter_Flugplatz_Bonames%2C_Renaturierung.jpg",
+    "type": "photo",
+    "caption": "ทางเดินผ่านบริเวณที่รื้อพื้นผิวแข็งและฟื้นฟูธรรมชาติที่ Alter Flugplatz",
+    "credit": "S. Kasten (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alter_Flugplatz_Bonames,_Renaturierung.jpg",
+    "year": 2006
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Am_Staudengarten%2C_Niddapark_Frankfurt.jpg/1280px-Am_Staudengarten%2C_Niddapark_Frankfurt.jpg",
+    "type": "photo",
+    "caption": "สวนไม้ล้มลุกในบริเวณ Niddapark พร้อมเสาประติมากรรมและซุ้มขนาดเล็ก",
+    "credit": "Nadi2018 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Am_Staudengarten,_Niddapark_Frankfurt.jpg",
+    "year": 2019
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Europaturm_vom_Volkspark_Niddatal.jpg/1280px-Europaturm_vom_Volkspark_Niddatal.jpg",
+    "type": "photo",
+    "caption": "แปลงธัญพืชและไม้พุ่มใน Volkspark Niddatal มองเห็นหอ Europaturm",
+    "credit": "MdE (CC BY-SA 3.0 de)",
+    "source": "https://commons.wikimedia.org/wiki/File:Europaturm_vom_Volkspark_Niddatal.jpg"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/FFM_Niddapark_%282%29.jpg/1280px-FFM_Niddapark_%282%29.jpg",
+    "type": "photo",
+    "caption": "ทางโค้งสวนผ่านไม้ใหญ่ใน Niddapark",
+    "credit": "Nadi2018 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:FFM_Niddapark_(2).jpg",
+    "year": 2019
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Der_Weg_durch_bl%C3%BChenden_B%C3%A4rlauch_im_Niedwald_%28Frankfurt_am_Main%29_mit_Tipi_aus_%C3%84sten_im_Hintergrund.jpg/1280px-Der_Weg_durch_bl%C3%BChenden_B%C3%A4rlauch_im_Niedwald_%28Frankfurt_am_Main%29_mit_Tipi_aus_%C3%84sten_im_Hintergrund.jpg",
+    "type": "photo",
+    "caption": "ทางเดินผ่านดงกระเทียมป่าที่กำลังออกดอกในป่า Niedwald",
+    "credit": "Glace 01 (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Der_Weg_durch_bl%C3%BChenden_B%C3%A4rlauch_im_Niedwald_(Frankfurt_am_Main)_mit_Tipi_aus_%C3%84sten_im_Hintergrund.jpg",
+    "year": 2020
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/FFM_Kaiserbahnweg_02.jpg/1280px-FFM_Kaiserbahnweg_02.jpg",
+    "type": "photo",
+    "caption": "เส้นทางเดินและขี่จักรยานในป่า Niedwald",
+    "credit": "Frank Behnsen (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:FFM_Kaiserbahnweg_02.jpg",
+    "year": 2019
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FFM_Nidda_Grillscher_Altarm_Uferbank_W.jpg/1280px-FFM_Nidda_Grillscher_Altarm_Uferbank_W.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งริมลำน้ำเก่า Grillscher Altarm ของแม่น้ำนิดดา ซึ่งถูกตัดออกจากการปรับทางน้ำ",
+    "credit": "Frank Behnsen (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:FFM_Nidda_Grillscher_Altarm_Uferbank_W.jpg",
+    "year": 2012
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/FFM_Nidda_Grillscher_Altarm_Uferweg_S.jpg/1280px-FFM_Nidda_Grillscher_Altarm_Uferweg_S.jpg",
+    "type": "photo",
+    "caption": "มุมมองสู่ลำน้ำเก่าของแม่น้ำนิดดาผ่านไม้ริมน้ำ",
+    "credit": "Frank Behnsen (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:FFM_Nidda_Grillscher_Altarm_Uferweg_S.jpg",
+    "year": 2012
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Ich-Denkmal_01.jpg/1280px-Ich-Denkmal_01.jpg",
+    "type": "photo",
+    "caption": "Ich-Denkmal งานศิลปะล้อเลียนริมแม่น้ำไมน์ ส่วนหนึ่งของ Komische Kunst ใน GrünGürtel",
+    "credit": "Immanuel Giel (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Ich-Denkmal_01.jpg",
+    "year": 2018
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Enkheimer_Ried_-_Bergen.jpg/1280px-Enkheimer_Ried_-_Bergen.jpg",
+    "type": "photo",
+    "caption": "พื้นที่ชุ่มน้ำ Enkheimer Ried เศษซากที่ราบน้ำท่วมถึงเดิมทางตะวันออกของเมือง",
+    "credit": "Artconceptffm (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Enkheimer_Ried_-_Bergen.jpg",
+    "year": 2014
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Berkersheim-ffm001.jpg/1280px-Berkersheim-ffm001.jpg",
+    "type": "photo",
+    "caption": "ทิวทัศน์บริเวณ Berkersheim ทางเหนือของเมือง",
+    "credit": "Dontworry (CC BY-SA 3.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Berkersheim-ffm001.jpg",
+    "year": 2008
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Behrens_Till_1970_GruenguertelMainquerspange.jpg/1280px-Behrens_Till_1970_GruenguertelMainquerspange.jpg",
+    "type": "plan",
+    "caption": "แผนแนวคิด \"วงแหวนสีเขียวที่สามกับแนวเชื่อมริมแม่น้ำไมน์\" ของ Till Behrens ปี 1970/71",
+    "credit": "Till Behrens (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Behrens_Till_1970_GruenguertelMainquerspange.jpg",
+    "year": 1970
+   }
+  ],
+  "research": [
+   {
+    "title": "From the Frankfurt greenbelt to the Regionalpark RheinMain: an institutional perspective on regional greenbelt governance",
+    "authors": "Sara Macdonald, Jochen Monstadt, Abigail Friendly",
+    "year": 2020,
+    "journal": "European Planning Studies 29",
+    "url": "https://doi.org/10.1080/09654313.2020.1724268",
+    "note_th": "วิเคราะห์เชิงสถาบันของการบริหารพื้นที่สีเขียวจาก GrünGürtel สู่ระดับภูมิภาค"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Stadt Frankfurt am Main — GrünGürtel",
+    "url": "https://frankfurt.de/themen/umwelt-und-gruen/orte/gruenguertel"
+   },
+   {
+    "title": "Wikipedia (DE) — Frankfurter Grüngürtel",
+    "url": "https://de.wikipedia.org/wiki/Frankfurter_Gr%C3%BCng%C3%BCrtel"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-31"
+ }
+]

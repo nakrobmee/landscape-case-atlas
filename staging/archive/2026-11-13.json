@@ -1,0 +1,1075 @@
+[
+ {
+  "id": "kronlob-island-nordhavn-copenhagen",
+  "name": "Kronløb Island (Kronløbsøen)",
+  "name_local": "Kronløbsøen",
+  "designer": "Vilhelm Lauritzen Architects + COBE (architecture); STED by- og landskab (landscape); Rambøll (engineering)",
+  "client": "Kronløbsøen Projekt P/S (CPH City & Port Development, PensionDanmark, Nordkranen)",
+  "city": "Copenhagen (Nordhavn)",
+  "country": "Denmark",
+  "lat": 55.70932,
+  "lng": 12.59687,
+  "year": 2023,
+  "categories": [
+   "housing",
+   "urban-squares",
+   "living-roofs"
+  ],
+  "tags": [
+   "waterfront",
+   "artificial island",
+   "car-free",
+   "coastal planting",
+   "podium landscape",
+   "underwater parking",
+   "DGNB Platinum"
+  ],
+  "awards": [
+   "Archello Public Space of the Year – Public Vote Winner (2024)"
+  ],
+  "summary_th": "เกาะที่สร้างขึ้นใหม่กลางท่าเรือย่าน Nordhavn โคเปนเฮเกน ซ่อนที่จอดรถ 3 ชั้นไว้ใต้ผิวน้ำ เพื่อให้ผิวเกาะทั้งหมดเป็นภูมิทัศน์ปลอดรถยนต์ที่ฝั่งหนึ่งลาดลงเป็นภูมิทัศน์คล้ายชายฝั่ง อีกฝั่งยกเป็นลานหินมองทะเล ออกแบบภูมิทัศน์โดย STED",
+  "description_th": "Kronløb Island (Kronløbsøen) เป็นเกาะที่สร้างขึ้นใหม่ในแอ่งท่าเรือของย่าน Nordhavn ซึ่งเป็นพื้นที่ท่าเรือเก่าทางเหนือของโคเปนเฮเกนที่กำลังพัฒนาเป็นย่านเมืองหนาแน่น เกาะตั้งอยู่ระหว่างย่าน Århusgadekvarteret กับ Sundmolen และเชื่อมทั้งสองฝั่งด้วยสะพาน ทำหน้าที่เป็น 'หินก้าว' และประตูสู่ย่าน ทีมออกแบบนำโดย Vilhelm Lauritzen Architects ร่วมกับ COBE, STED by- og landskab (ภูมิสถาปนิก) และ Rambøll ก่อสร้างโดย NCC แล้วเสร็จปี 2023\n\nแนวคิดหลักอ้างอิงกระบวนการทางธรณีวิทยาที่ก่อรูปภูมิประเทศเดนมาร์ก โดยเฉพาะหน้าผาชอล์ก Stevns Klint ซึ่งเป็นมรดกโลก ตัวเกาะถูกออกแบบให้อ่านเป็นก้อนหินก้อนเดียว (monolith) หุ้มอิฐสีอ่อนที่โผล่ขึ้นจากน้ำ และชั้นตะกอนถูกถ่ายทอดผ่านเส้นนอนของอาคารและขอบเกาะ\n\nการตัดสินใจสำคัญทางผังคือการนำที่จอดรถ 3 ชั้นไปไว้ใต้ระดับน้ำโดยตรง เมื่อจอดรถแล้วผู้ใช้จะขึ้นมาสู่เกาะปลอดรถยนต์ที่อยู่ระดับเดียวกับน้ำ ผิวเกาะจึงกลายเป็น 'ภูมิทัศน์เชื่อมต่อ' และพื้นที่สีเขียวให้หายใจของย่านที่หนาแน่น มีลานเมืองใหม่สองแห่งที่สัมผัสน้ำโดยตรง และสะพานใหม่สามแห่ง ภูมิทัศน์ด้านที่หันเข้าเมืองลาดลงเป็นภูมิทัศน์คล้ายชายหาด ส่วนด้านที่หันออกทะเลยกเป็นภูมิทัศน์หินที่เปิดมุมมองกว้างสู่ช่องแคบเออเรซุนด์ ทุกยูนิตพักอาศัยมีมุมมองสู่น้ำ\n\nพืชพรรณเลือกจากชนิดที่ขึ้นตามธรรมชาติบนชายฝั่งเดนมาร์ก ได้แก่ หญ้าและไม้ล้มลุกชายฝั่ง จัดเป็นเนินแปลงปลูกล้อมด้วยทางเดินคอนกรีตสีอ่อนคดเคี้ยว ขอบแปลงยกระดับทำหน้าที่เป็นที่นั่ง ขอบเกาะด้านน้ำใช้แผ่นคอนกรีตหยักเป็นชั้นคล้ายชั้นหิน สอดคล้องกับเปลือกอิฐของอาคาร\n\nโครงการมีพื้นที่อาคารรวม 32,400 ตร.ม. ได้รับการรับรอง DGNB Platinum และ DGNB Diamant และชนะรางวัล Archello Public Space of the Year ประเภทโหวตจากสาธารณะปี 2024 แหล่งข้อมูลที่อ่านในรอบนี้ไม่ได้เผยแพร่ตัวเลขพื้นที่ภูมิทัศน์หรือข้อมูลสมรรถนะด้านน้ำฝน",
+  "design_strategies": [
+   "ย้ายที่จอดรถลงใต้ผิวน้ำ 3 ชั้น เพื่อคืนผิวเกาะทั้งหมดให้เป็นภูมิทัศน์ปลอดรถยนต์",
+   "แบ่งภูมิทัศน์เป็นสองบุคลิก: ฝั่งเมืองลาดลงเป็นชายหาด ฝั่งทะเลยกเป็นลานหินชมวิว",
+   "ใช้พืชชายฝั่งพื้นถิ่นของเดนมาร์กสร้างอัตลักษณ์และลดการดูแล",
+   "ใช้สะพานสามแห่งให้เกาะเป็นทางผ่านสาธารณะเชื่อมสองย่าน ไม่ใช่เกาะส่วนตัวของผู้อยู่อาศัย",
+   "ออกแบบขอบเกาะเป็นชั้นคอนกรีตหยักที่นั่งได้ ให้คนเข้าถึงน้ำโดยตรง"
+  ],
+  "lessons_th": [
+   "โครงการคอนโดริมน้ำในไทยสามารถย้ายที่จอดรถลงใต้ดินหรือใต้โพเดียม แล้วเปิดผิวดินเป็นลานสาธารณะเชื่อมทางเดินริมน้ำได้",
+   "การเลือกพืชจากระบบนิเวศชายฝั่งหรือริมน้ำในท้องถิ่น (เช่น พืชป่าชายเลนหรือพืชชายหาดของไทย) ช่วยสร้างอัตลักษณ์และลดค่าดูแล",
+   "การออกแบบขอบน้ำเป็นขั้นบันไดหรือชั้นที่นั่งได้ ทำให้ริมน้ำเป็นพื้นที่ใช้งานจริง ไม่ใช่แค่ราวกันตก"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12.595598,
+       55.709221
+      ],
+      [
+       12.597729,
+       55.708791
+      ],
+      [
+       12.598146,
+       55.709374
+      ],
+      [
+       12.59604,
+       55.709831
+      ],
+      [
+       12.595598,
+       55.709221
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1203868631"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad1/large_jpg/30_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-22.jpg",
+    "type": "photo",
+    "caption": "ลานกลางเกาะปลอดรถยนต์ ทางเดินคอนกรีตสีอ่อนคดเคี้ยวผ่านเนินพืชพรรณแบบชายฝั่งเดนมาร์ก ล้อมด้วยอาคารพักอาศัยขั้นบันได",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5ea9/3b5b/d500/010b/face/large_jpg/21_Kronl_bs_en_Drone___Astrid_Maria_Rasmussen.jpg",
+    "type": "photo",
+    "caption": "ภาพถ่ายทางอากาศมุมตรง เห็นเกาะสี่เหลี่ยมกลางแอ่งท่าเรือ ลานกลางสีขาวแทรกด้วยเกาะพืชพรรณ และสะพานเชื่อมสองฝั่ง",
+    "credit": "Astrid Maria Rasmussen (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eaa/3b5b/d500/010b/facf/large_jpg/22_Kronl_bs_en_Drone___Astrid_Maria_Rasmussen.jpg",
+    "type": "photo",
+    "caption": "มุมโดรนยามเย็น เกาะ Kronløb ระหว่างคลองสองฝั่ง มองออกไปยังช่องแคบเออเรซุนด์",
+    "credit": "Astrid Maria Rasmussen (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad3/large_jpg/37_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-17.jpg",
+    "type": "photo",
+    "caption": "แปลงหญ้าประดับและพืชชายฝั่งริมทางเดินคอนกรีตในลานกลาง มีต้นไม้ขนาดกลางให้ร่มเงา",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5ea9/3b5b/d500/010b/facd/large_jpg/Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-20.jpg",
+    "type": "photo",
+    "caption": "ทางเดินโค้งกว้างผ่านลานกลาง ขอบแปลงปลูกยกระดับใช้เป็นที่นั่ง",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad7/large_jpg/34_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-14_copy.jpg",
+    "type": "photo",
+    "caption": "ช่องเปิดระหว่างอาคารเชื่อมลานกลางกับขอบน้ำ ปลูกไม้พุ่มและต้นไม้เป็นกลุ่ม",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fadb/large_jpg/39_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-2_copy.jpg",
+    "type": "photo",
+    "caption": "ขอบเกาะด้านน้ำเป็นแผ่นคอนกรีตหยักคล้ายชั้นหิน ผู้คนนั่งพักริมน้ำ มีต้นไม้และแปลงปลูกด้านบน",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad2/large_jpg/32_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-9.jpg",
+    "type": "photo",
+    "caption": "ลานกลางที่มีม้านั่งบล็อกคอนกรีตและแปลงไม้ดอกหลากสีตามแนวทางเดิน",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eaa/3b5b/d500/010b/fad0/large_jpg/23_Kronl_bs_en_Drone___Astrid_Maria_Rasmussen.jpg",
+    "type": "photo",
+    "caption": "มุมสูงยามเย็น เห็นเกาะเชื่อมกับย่าน Århusgade และ Sundmolen ด้วยสะพาน",
+    "credit": "Astrid Maria Rasmussen (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fadc/large_jpg/40_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-3_copy.jpg",
+    "type": "photo",
+    "caption": "ทางเดินระหว่างอาคารพร้อมรางระบายน้ำผิวดินและแปลงปลูกริมทาง",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fada/large_jpg/38_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-18_copy.jpg",
+    "type": "photo",
+    "caption": "ทางเดินปูบล็อกพร้อมแปลงหญ้าและพืชชายฝั่งที่ขอบลาน",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad5/large_jpg/33_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-11_copy.jpg",
+    "type": "photo",
+    "caption": "ทางเดินภายในเกาะที่เชื่อมลานกลางกับขอบเกาะ ปลูกไม้ดอกและหญ้าตามแนว",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fad9/large_jpg/36_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-16_copy.jpg",
+    "type": "photo",
+    "caption": "แปลงหญ้าและไม้พุ่มหน้ามุมอาคารขั้นบันได",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fadd/large_jpg/41_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-4_copy.jpg",
+    "type": "photo",
+    "caption": "ทางเดินแคบระหว่างอาคารมองออกสู่ปลายเกาะ มีม้านั่งและไม้กระถาง",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eab/3b5b/d500/010b/fad8/large_jpg/35_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-15_copy.jpg",
+    "type": "photo",
+    "caption": "แปลงหญ้าสูงริมทางและต้นไม้ที่ขอบลานด้านใกล้คลอง",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5ea9/3b5b/d500/010b/facb/large_jpg/44_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-23.jpg",
+    "type": "photo",
+    "caption": "เกาะมองจากคลองฝั่งตรงข้าม เห็นอาคารอิฐสีอ่อนตั้งขึ้นจากน้ำและพืชพรรณที่ขอบเกาะ",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fadf/large_jpg/45_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-24_copy.jpg",
+    "type": "photo",
+    "caption": "มุมปลายเกาะริมน้ำ ทางเดินริมขอบเกาะรอบอาคาร",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fade/large_jpg/43_Kronl_bs_en_sommmer_2024_-___Vilhelm_Lauritzen_Arkitekter_-_Sjavit_Maestro-5_copy.jpg",
+    "type": "photo",
+    "caption": "ด้านอาคารตั้งตรงจากผิวน้ำคลอง สื่อแนวคิดก้อนหินก้อนเดียว (monolith)",
+    "credit": "Sjavit Maestro / Vilhelm Lauritzen Arkitekter (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe",
+    "year": 2024
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fae0/large_jpg/06_Kronl_bs_en_situationsplan___Vilhelm_Lauritzen_Arkitekter_og_COBE.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (situationsplan) แสดงเกาะ สะพานเชื่อม และย่านโดยรอบใน Nordhavn",
+    "credit": "Vilhelm Lauritzen Arkitekter og COBE (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/66ed/5eac/3b5b/d500/010b/fae1/large_jpg/07_Kronl_bs_en_isometri-kronloebsoeen___Vilhelm_Lauritzen_Arkitekter_og_COBE.jpg",
+    "type": "diagram",
+    "caption": "ไดอะแกรมไอโซเมตริกแยกชั้น: ที่จอดรถใต้น้ำ 3 ชั้น ลานภูมิทัศน์ และอาคารพักอาศัย",
+    "credit": "Vilhelm Lauritzen Arkitekter og COBE (via ArchDaily)",
+    "source": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Kronløb Island / Vilhelm Lauritzen Architects + Cobe",
+    "url": "https://www.archdaily.com/1021423/kronlob-island-vilhelm-lauritzen-architects-plus-cobe"
+   },
+   {
+    "title": "Vilhelm Lauritzen Architects — Kronløb Island",
+    "url": "https://vilhelmlauritzen.com/collection-of-projects/kronloeb-island"
+   },
+   {
+    "title": "Instagram — @is_this_landscapearchitecture (Kronløb Island by STED, 10 พ.ย. 2026)",
+    "url": "https://www.instagram.com/p/Dfl597JCDEu/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-13"
+ },
+ {
+  "id": "oishii-park-shingu",
+  "name": "Oishii Park",
+  "designer": "td-Atelier (Tada Masaharu)",
+  "client": "Youth Library ENGAWA",
+  "city": "Shingu (Wakayama)",
+  "country": "Japan",
+  "lat": 33.7247,
+  "lng": 135.9843,
+  "year": 2022,
+  "area": "123 sq. m. (0.08 ไร่) — พื้นที่ที่ดิน",
+  "area_sqm": 123,
+  "categories": [
+   "community-gardens",
+   "public-parks"
+  ],
+  "tags": [
+   "pocket park",
+   "edible garden",
+   "DIY construction",
+   "community library",
+   "COVID-19 response",
+   "rural revitalization"
+  ],
+  "awards": [],
+  "summary_th": "สวนผักขนาด 123 ตร.ม. ในเมืองชิงงู จังหวัดวากายามะ ที่ห้องสมุดชุมชน Youth Library ENGAWA เปิดเป็น 'พื้นที่สาธารณะของเอกชน' ช่วงโควิด-19 โดยมีม้านั่งไม้ยาวโค้งที่ผสานชั้นหนังสือ ออกแบบโดย td-Atelier และสร้างแบบ DIY ร่วมกับนักศึกษา",
+  "description_th": "Youth Library ENGAWA เปิดในปี 2013 โดยปรับปรุงบ้านเก่าในเมืองชิงงู (คุมาโนะ) ให้เป็น 'ห้องสมุดที่พักค้างได้' ซึ่งเป็นทั้งที่พักนักเดินทางและพื้นที่สาธารณะของเด็กในท้องถิ่น เมื่อโควิด-19 แพร่ระบาดในปี 2020 ทางห้องสมุดเริ่มหาวิธีใหม่ในการใช้พื้นที่สาธารณะกลางแจ้ง จึงนำที่ดินแปลงผักเล็ก ๆ ใกล้วัดฝั่งตรงข้ามมาเปิดเป็นสวนให้ชุมชนใช้ ที่ดินอยู่ตรงข้ามโรงเรียนประถมซึ่งเด็ก ๆ มองเห็นได้ชัด\n\nแนวคิด 'Oishii' (แปลว่าอร่อย) คือ 'ปลูก เก็บเกี่ยว กิน เล่น เรียน' ผู้ออกแบบตั้งใจไม่เขียนความหมายของพื้นที่ใหม่ทั้งหมด แต่ใช้ 'อุปกรณ์ขนาดเล็ก' ยกระดับพื้นที่เดิมทีละน้อย งานนี้จึงไม่ใช่ทั้งอาคารและไม่ใช่เพียงเฟอร์นิเจอร์\n\nทีมออกแบบศึกษาการเปลี่ยนตำแหน่งแดดและร่มเงาในฤดูร้อน ทำแผนที่กิจกรรมที่อยากให้เกิดขึ้น และตรวจมุมมองจากโรงเรียนและซอย เมื่อซ้อนผลการศึกษาเหล่านี้จึงตัดสินใจวางม้านั่งสามมิติยาวไหลไปตามขอบด้านตะวันตกของที่ดิน (ชวนให้นึกถึงแม่น้ำ น้ำตก และภูเขาของคุมาโนะ) พื้นที่ตรงกลางจึงเหลือเป็นแปลงปลูกพืชผักที่เปิดโล่ง\n\nม้านั่งทำจากไม้ ยกตัวขึ้นลงเป็นลอน บางช่วงกลายเป็นซุ้มที่ฝังกล่องชั้นหนังสือหลากสี เชื่อมสวนเข้ากับบทบาทของห้องสมุด ด้วยข้อจำกัดช่วงโรคระบาดในพื้นที่ชนบทที่มีผู้สูงอายุมาก ทีมจึงผลิตชิ้นส่วนจำนวนมากที่มหาวิทยาลัย (KINDAI University) แล้วนำไปประกอบหน้างาน โดยออกแบบให้ขนส่งง่าย กำหนดขนาดและน้ำหนัก ใส่หมายเลขชิ้นส่วนเพื่อลดแรงงานหน้างาน และออกแบบให้คนไม่มีทักษะช่างก็สร้างได้พร้อมเรียนรู้งานไม้ไปด้วย\n\nออกแบบระหว่าง ส.ค. 2020 – มิ.ย. 2021 ก่อสร้าง ส.ค. 2021 – ก.ย. 2022 บนพื้นที่เพียง 123 ตร.ม. แหล่งข้อมูลที่อ่านในรอบนี้ไม่ได้รายงานตัวเลขผลลัพธ์ด้านการใช้งานหรือผลผลิต",
+  "design_strategies": [
+   "ใช้การศึกษาแดด-เงา มุมมอง และแผนที่กิจกรรมซ้อนกันเพื่อกำหนดตำแหน่งองค์ประกอบเดียวที่สำคัญที่สุด",
+   "รวมหน้าที่หลายอย่างไว้ในม้านั่งชิ้นเดียว: ที่นั่ง ชั้นหนังสือ ซุ้ม และเครื่องเล่น",
+   "เก็บพื้นที่กลางไว้เป็นแปลงผักที่ชุมชนปลูกและเก็บเกี่ยวร่วมกัน",
+   "ผลิตชิ้นส่วนแบบโมดูลมีหมายเลข แล้วประกอบหน้างานแบบ DIY ร่วมกับนักศึกษา"
+  ],
+  "lessons_th": [
+   "ที่ดินว่างขนาดเล็กในชุมชนไทย (เช่น ที่ดินวัดหรือที่ดินเอกชนรอพัฒนา) เปิดเป็นสวนผัก-ห้องสมุดกลางแจ้งได้ด้วยงบน้อย",
+   "ออกแบบเฟอร์นิเจอร์ภูมิทัศน์ให้ชุมชนหรือนักศึกษาประกอบเองได้ ช่วยสร้างความเป็นเจ้าของและลดค่าก่อสร้าง",
+   "วางองค์ประกอบตามแนวเงาบ่ายและมุมมองจากโรงเรียน ทำให้พื้นที่เล็กถูกใช้งานได้จริงในภูมิอากาศร้อน"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2827/65b1/c23c/fdb0/5fcc/large_jpg/oishii-park-td-atelier_3.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งไม้ยาวโค้งไหลตามแนวรั้วด้านตะวันตก มีชั้นหนังสือสีสันฝังในช่วงที่ยกโค้ง หน้าแปลงผัก",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2828/65b1/c23c/fdb0/5fcd/large_jpg/oishii-park-td-atelier_1.jpg",
+    "type": "photo",
+    "caption": "มุมสูงเห็นสวนแปลงผักแคบ ๆ กลางชุมชนบ้านไม้ และม้านั่งโค้งยาวพาดตามขอบที่ดิน",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/281d/65b1/c23c/fdb0/5fca/large_jpg/oishii-park-td-atelier_4.jpg",
+    "type": "photo",
+    "caption": "ผู้คนนั่งอ่านหนังสือและพักบนม้านั่งโค้งท่ามกลางแปลงผักและพืชผล",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2833/65b1/c23c/fdb0/5fd1/large_jpg/oishii-park-td-atelier_9.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งไม้ระแนงโค้งขึ้นลงเป็นลอน เด็กและผู้ใหญ่นั่งพักบนช่วงต่าง ๆ",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/282d/65b1/c23c/fdb0/5fd0/large_jpg/oishii-park-td-atelier_7.jpg",
+    "type": "photo",
+    "caption": "ช่วงม้านั่งที่ยกโค้งสูงเป็นซุ้ม ใต้ซุ้มเป็นกล่องชั้นหนังสือสีแดง น้ำเงิน เหลือง",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2839/65b1/c23c/fdb0/5fd2/large_jpg/oishii-park-td-atelier_8.jpg",
+    "type": "photo",
+    "caption": "มุมนั่งอ่านหนังสือข้างชั้นหนังสือฝังในซุ้มไม้",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2841/65b1/c23c/fdb0/5fd4/large_jpg/oishii-park-td-atelier_11.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมกว้างของสวน มีภูเขาเขียวของคุมาโนะเป็นฉากหลัง",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/282c/65b1/c23c/fdb0/5fce/large_jpg/oishii-park-td-atelier_2.jpg",
+    "type": "photo",
+    "caption": "ผู้ใช้เก็บเกี่ยวผลผลิตในแปลงผักหน้าม้านั่ง",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/282c/65b1/c23c/fdb0/5fcf/large_jpg/oishii-park-td-atelier_5.jpg",
+    "type": "photo",
+    "caption": "ครอบครัวนั่งบนม้านั่งต่ำชิดรั้วไม้ สนทนากันในสวน",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2847/65b1/c23c/fdb0/5fd6/large_jpg/oishii-park-td-atelier_6.jpg",
+    "type": "photo",
+    "caption": "เด็กปีนเล่นบนช่วงที่ม้านั่งยกโค้งสูง",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2841/65b1/c23c/fdb0/5fd5/large_jpg/oishii-park-td-atelier_12.jpg",
+    "type": "photo",
+    "caption": "มุมโดรนตรง เห็นแนวม้านั่งยาวขนานกับซอยและผังแปลงปลูก",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2840/65b1/c23c/fdb0/5fd3/large_jpg/oishii-park-td-atelier_10.jpg",
+    "type": "photo",
+    "caption": "มุมมองจากถนนหน้าโรงเรียน เห็นป้ายสวนติดกำแพงหินและม้านั่งโผล่พ้นรั้ว",
+    "credit": "Matsumura Kohei (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2803/65b1/c23c/fdb0/5fc9/large_jpg/siteplan-4.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (Layout map) แสดงความสัมพันธ์ของ Youth Library Engawa วัด โรงเรียน และพื้นที่สาธารณะที่ขยายออก",
+    "credit": "td-Atelier (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2800/65b1/c23c/fdb0/5fc7/large_jpg/axonometric-1.jpg",
+    "type": "diagram",
+    "caption": "ไดอะแกรมไอโซเมตริก: การศึกษาเงาแดดฤดูร้อน มุมมองจากโรงเรียนและถนน และกิจกรรมที่อยากให้เกิดในสวน",
+    "credit": "td-Atelier (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/639a/2800/65b1/c23c/fdb0/5fc6/large_jpg/construction-diagram-3.jpg",
+    "type": "diagram",
+    "caption": "ไดอะแกรมโครงสร้างม้านั่ง: ชิ้นส่วนแบบโมดูล ข้อต่อสามแบบ ผลิตที่มหาวิทยาลัยแล้วประกอบหน้างาน",
+    "credit": "td-Atelier (via ArchDaily)",
+    "source": "https://www.archdaily.com/993776/oishii-park-td-atelier"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Oishii Park / td-Atelier",
+    "url": "https://www.archdaily.com/993776/oishii-park-td-atelier"
+   },
+   {
+    "title": "mooool — Oishii Park by td-Atelier (ข้อมูลโครงการและพื้นที่)",
+    "url": "https://mooool.com/en/wp-json/wp/v2/posts/377899"
+   },
+   {
+    "title": "Instagram — @landscape.first (Oishii Park, td-Atelier)",
+    "url": "https://www.instagram.com/p/DfprOHVEaKu/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-13"
+ },
+ {
+  "id": "park1538-gwangyang",
+  "name": "Park1538 Gwangyang",
+  "name_local": "파크1538 광양",
+  "designer": "UnSangDong Architects + POSCO A&C (architecture); Aliveus (landscape); POSCO E&C (construction)",
+  "client": "POSCO (Gwangyang Steelworks)",
+  "city": "Gwangyang",
+  "country": "South Korea",
+  "lat": 34.9426,
+  "lng": 127.7237,
+  "year": 2025,
+  "area": "19,800 sq. m. (12.4 ไร่) — พื้นที่โครงการริมน้ำราว 6,000 พยอง (ตัวเลขประมาณ)",
+  "area_sqm": 19800,
+  "categories": [
+   "industrial-commercial",
+   "urban-squares"
+  ],
+  "tags": [
+   "corporate cultural complex",
+   "industrial heritage",
+   "steel city",
+   "recycled steel by-products",
+   "carbon-absorbing planting",
+   "waterfront"
+  ],
+  "awards": [
+   "15th Korea Landscape Award (대한민국 조경대상) — Minister of Culture, Sports and Tourism Prize (2025)"
+  ],
+  "summary_th": "ศูนย์วัฒนธรรมของ POSCO ริมน้ำใกล้โรงถลุงเหล็กกวางยาง ที่ใช้แนวคิด 'คลื่นแสง' จากจุดหลอมเหลวของเหล็ก 1,538°C ภูมิทัศน์นำผลพลอยได้จากการผลิตเหล็กมาทำกระบะปลูกและเลือกไม้ยืนต้นที่ดูดซับคาร์บอนสูง ได้รางวัลจาก Korea Landscape Award ครั้งที่ 15",
+  "description_th": "กวางยางเป็นเมืองอุตสาหกรรมเหล็กทางใต้ของเกาหลีใต้ POSCO สร้าง Park1538 Gwangyang บนที่ดินริมน้ำราว 6,000 พยอง ใกล้สะพานกึมโฮในย่านกึมโฮดง ใกล้โรงถลุงเหล็กกวางยาง ประกอบด้วยศูนย์ประชาสัมพันธ์ 4 ชั้นและศูนย์การศึกษา 3 ชั้น วางศิลาฤกษ์เดือนพฤษภาคม 2023 และแล้วเสร็จในปี 2025 เป็นพื้นที่วัฒนธรรมที่เปิดให้คนในเมืองใช้ร่วมกัน\n\nแนวคิดตั้งจากชื่อเมือง 'กวาง' (แสง) และ 'ยาง' (แสงแดด) ร่วมกับตัวเลข 1,538°C ซึ่งเป็นจุดหลอมเหลวของเหล็กบริสุทธิ์ จึงเกิดธีม 'คลื่นแสง' (Light Wave) ที่ถ่ายทอดผ่านผนังเหล็กโค้งของอาคาร (ใช้เหล็ก PosMAC ทนการกัดกร่อน) และส่งต่อลงสู่พื้นดิน\n\nภูมิทัศน์ออกแบบโดย Aliveus วางลานกว้างหน้าอาคารเป็นพื้นที่รวมคนและงานกิจกรรม ใช้เสาไฟประติมากรรมรูปทรงอิสระและองค์ประกอบแสงตอบสนอง 'Smart Light' ต่อจังหวะคลื่นของอาคาร ช่างภาพที่ร่วมงานกับผู้ออกแบบบรรยายว่าคลื่นของแสงจากอาคารต่อเนื่องสู่ผืนดิน กลายเป็นคลื่นสีเขียวบนพื้นดินที่สะท้อนแม่น้ำซอมจินและอ่าวกวางยาง พร้อมพื้นที่สวนและทางเดินเล่นให้ทั้งชาวเมืองและผู้มาเยือน\n\nจุดเด่นด้านภูมิทัศน์ที่คณะกรรมการรางวัลยกย่องคือการรีไซเคิลผลพลอยได้จากการผลิตเหล็กมาทำกระบะปลูกที่เป็นมิตรต่อสิ่งแวดล้อม และการเลือกปลูกไม้ยืนต้นที่มีอัตราการดูดซับคาร์บอนสูง ทำให้โครงการเป็นตัวอย่างภูมิทัศน์เชิงนิเวศในเมืองอุตสาหกรรม\n\nโครงการได้รับรางวัลรัฐมนตรีกระทรวงวัฒนธรรม กีฬา และการท่องเที่ยว จากงาน Korea Landscape Award (대한민국 조경대상) ครั้งที่ 15 ในเดือนตุลาคม 2025 แหล่งข้อมูลที่อ่านในรอบนี้ไม่ได้ระบุขนาดพื้นที่ภูมิทัศน์ที่แน่นอนหรือปริมาณคาร์บอนที่ดูดซับได้ (พื้นที่ 6,000 พยองเป็นตัวเลขโดยประมาณจากข่าวช่วงเริ่มก่อสร้าง)",
+  "design_strategies": [
+   "ใช้เรื่องเล่าของเมือง (แสง แสงแดด จุดหลอมเหลวของเหล็ก) เป็นแนวคิดร่วมระหว่างอาคารและภูมิทัศน์",
+   "นำผลพลอยได้จากอุตสาหกรรมเหล็กมาทำกระบะปลูก แทนวัสดุใหม่",
+   "เลือกไม้ยืนต้นที่ดูดซับคาร์บอนสูงเป็นโครงสร้างหลักของการปลูก",
+   "เปิดลานหน้าอาคารองค์กรให้เป็นพื้นที่สาธารณะของเมือง พร้อมองค์ประกอบแสงที่ใช้งานกลางคืนได้"
+  ],
+  "lessons_th": [
+   "นิคมอุตสาหกรรมหรือโรงงานในไทย (เช่น ภาคตะวันออก) สามารถใช้วัสดุพลอยได้ของตนเอง เช่น ตะกรัน หรือเศษเหล็ก ทำองค์ประกอบภูมิทัศน์ และเล่าเรื่องอุตสาหกรรมผ่านพื้นที่",
+   "อาคารศูนย์ประชาสัมพันธ์ขององค์กรควรเปิดลานให้ชุมชนใช้ เพื่อเปลี่ยนภาพลักษณ์อุตสาหกรรมหนักเป็นพื้นที่วัฒนธรรมของเมือง",
+   "การเลือกพรรณไม้โดยใช้เกณฑ์การดูดซับคาร์บอนเป็นเกณฑ์ที่วัดผลได้และอธิบายต่อเจ้าของโครงการได้ง่าย"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc58/4460/0500/01e0/cfb7/large_jpg/2.jpg",
+    "type": "photo",
+    "caption": "ลานหน้าอาคาร Park1538 ปูพื้นสีอ่อนกว้าง เสาไฟประติมากรรมโค้งตัดกับผนังเหล็กลอนคลื่น",
+    "credit": "Sergio Pirrone (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc57/4460/0500/01e0/cfb6/large_jpg/1.jpg",
+    "type": "photo",
+    "caption": "อาคารและลานหน้าอาคารยามค่ำ ผนังเหล็กเรืองแสงเป็นเส้นคลื่น",
+    "credit": "Sergio Pirrone (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc58/4460/0500/01e0/cfb8/large_jpg/3.jpg",
+    "type": "photo",
+    "caption": "ทางเข้าโค้งของอาคาร ลานบันไดกว้างและเสาไฟประติมากรรมรูปทรงอิสระ",
+    "credit": "Sergio Pirrone (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc57/4460/0500/01e0/cfb4/large_jpg/4.jpg",
+    "type": "photo",
+    "caption": "ผนังเหล็กลอนคลื่นต่อเนื่องลงสู่ลานด้านข้างอาคาร",
+    "credit": "Sergio Pirrone (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc5a/4460/0500/01e0/cfbc/large_jpg/8.jpg",
+    "type": "photo",
+    "caption": "ซุ้มโค้งเหล็กเปิดทางเดินจากลานเข้าสู่ภายใน",
+    "credit": "Sergio Pirrone (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc5c/4460/0500/01e0/cfc5/large_jpg/Site_Plan_w_program_ENG-01.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณแสดงอาคารสองหลัง ลาน และแนวถนนโดยรอบบนที่ดินริมน้ำย่านกึมโฮ",
+    "credit": "UnSangDong Architects + POSCO A&C (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6889/fc5c/4460/0500/01e0/cfc8/large_jpg/Section_w_program_ENG.jpg",
+    "type": "section",
+    "caption": "รูปตัดแสดงความสัมพันธ์ของอาคารกับระดับลานภายนอก",
+    "credit": "UnSangDong Architects + POSCO A&C (via ArchDaily)",
+    "source": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Park1538 Gwangyang Cultural Complex / UnSangDong Architects + POSCO A&C",
+    "url": "https://www.archdaily.com/1032629/park1538-gwangyang-cultural-complex-unsangdong-architects-plus-posco-a-and-c"
+   },
+   {
+    "title": "Aliveus — POSCO Park GWANGYANG 포스코 파크 광양 (หน้าโครงการของผู้ออกแบบภูมิทัศน์)",
+    "url": "https://aliveus.net/%ed%8f%ac%ec%8a%a4%ec%bd%94-%ed%8c%8c%ed%81%ac1538-%ea%b4%91%ec%96%91/"
+   },
+   {
+    "title": "경북일보 — 포스코이앤씨, 레드닷·대한민국 조경대상 동시 석권 (22 ต.ค. 2025)",
+    "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4054762"
+   },
+   {
+    "title": "한국경제 — 포스코이앤씨, 국내외 조경 디자인 어워드 연속 수상 (22 ต.ค. 2025)",
+    "url": "https://www.hankyung.com/article/2025102246636"
+   },
+   {
+    "title": "The Asia Business Daily — POSCO Begins Construction of 'Park1538 Gwangyang' (3 พ.ค. 2023)",
+    "url": "https://www.asiae.co.kr/en/article/2023050314355140274"
+   },
+   {
+    "title": "Instagram — 정원사진가 우승민 × @aliveus__ (PARK1538 GWANGYANG)",
+    "url": "https://www.instagram.com/p/DfmSKSdEwnb/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-13"
+ },
+ {
+  "id": "museum-of-ethnography-budapest-roof-park",
+  "name": "Museum of Ethnography Budapest (Roof Garden)",
+  "name_local": "Néprajzi Múzeum",
+  "designer": "NAPUR Architect (Marcel Ferencz); Garten Studio (landscape)",
+  "client": "Városliget Zrt. (Liget Budapest Project)",
+  "city": "Budapest",
+  "country": "Hungary",
+  "lat": 47.51217,
+  "lng": 19.08066,
+  "year": 2022,
+  "area": "7,000 sq. m. (4.4 ไร่) — สวนบนหลังคามากกว่า 7,000 ตร.ม.",
+  "area_sqm": 7000,
+  "categories": [
+   "living-roofs",
+   "public-parks",
+   "derelict-land"
+  ],
+  "tags": [
+   "green roof",
+   "museum landscape",
+   "car park conversion",
+   "Liget Budapest",
+   "urban park extension",
+   "BREEAM"
+  ],
+  "awards": [
+   "International Property Awards — Best Public Architecture (World, 2018)"
+  ],
+  "summary_th": "พิพิธภัณฑ์ชาติพันธุ์วิทยาแห่งใหม่ของบูดาเปสต์ สร้างแทนลานจอดรถ 1,500 คันที่ขอบสวน Városliget โดยออกแบบหลังคาโค้งเป็นสวนสาธารณะบนหลังคามากกว่า 7,000 ตร.ม. ยาวราว 1 กม. ที่เดินขึ้นได้และต่อเนื่องกับผืนสวน",
+  "description_th": "พื้นที่ตั้งของพิพิธภัณฑ์คือ Felvonulási tér (ลานเดินสวนสนาม) เดิมที่ปลายถนน Városligeti fasor ซึ่งในอดีตเป็นประตูสู่สวนสาธารณะ Városliget ของบูดาเปสต์ ต่อมาในยุคคอมมิวนิสต์ช่วงต้นทศวรรษ 1950 ลานนี้ถูกใช้เป็นที่ชุมนุมแสดงพลัง และก่อนเริ่มก่อสร้างในปี 2017 ใช้เป็นลานจอดรถบนดินสำหรับรถกว่า 1,500 คัน ปูคอนกรีตและบล็อกหินบะซอลต์ โครงการเป็นส่วนหนึ่งของ Liget Budapest Project โครงการฟื้นฟูสวนเมืองและวัฒนธรรมขนาดใหญ่\n\nNAPUR Architect (Marcel Ferencz) ชนะการประกวดแบบนานาชาติด้วยแนวคิดอาคารที่เปรียบเหมือน 'เนินเขาสองลูกที่เกือบโอบกัน' ปีกอาคารสองฝั่งยกขอบขึ้นที่ปลายและลาดลงสู่ระดับพื้นตรงกลาง ทำให้หลังคากลายเป็นสวนที่เดินขึ้นได้ และอาคารเป็นส่วนต่อขยายของภูมิทัศน์สวน ไม่ใช่วัตถุที่ตั้งทับสวน\n\nสวนบนหลังคามีพื้นที่มากกว่า 7,000 ตร.ม. และแนวหลังคาเขียวโค้งยาวราว 1,000 ม. (ตาม BauNetz Wissen) จากจุดสูงสุดเปิดมุมมองพาโนรามาสู่สวนและเมือง ทางเดินแผ่นหินแนวทแยงตัดผ่านสนามหญ้าและแปลงไม้ดอก มีช่องแสงสี่เหลี่ยมนำแสงลงสู่ห้องจัดแสดงใต้ดิน รอบอาคารเป็นพื้นที่สีเขียวใหม่และทางเดิน City Park Promenade ส่วนรถของผู้มาเยือนถูกย้ายลงไปยังลานจอดรถใต้ดิน Museum Underground Parking ที่เปิดในปี 2020\n\nภูมิทัศน์ออกแบบโดย Garten Studio ใช้สนามหญ้า หญ้าประดับ และไม้ดอกยืนต้น (เช่น แปลงไม้ดอกสีม่วงริมทางลาด) บนหลังคาที่ต้องรับทั้งการเดินและการพักผ่อนของผู้คน เปลือกอาคารเป็นผนังกระจกหุ้มแผงโลหะกว่า 2,000 แผ่นที่ฉลุลายพิกเซลเกือบครึ่งล้านจุด ถอดแบบจากลวดลายชาติพันธุ์ฮังการี 20 ลายและนานาชาติ 20 ลาย\n\nพิพิธภัณฑ์เปิดเมื่อ 23 พ.ค. 2022 พื้นที่อาคารราว 33,000–34,000 ตร.ม. เป็นอาคารแรกที่ออกแบบเฉพาะสำหรับพิพิธภัณฑ์ชาติพันธุ์วิทยาซึ่งมีวัตถุสะสมราว 250,000 ชิ้น มีพื้นที่จัดแสดงมากกว่าที่ตั้งเดิมที่ Kossuth Square สามเท่า และได้รางวัล International Property Awards ปี 2018 ในฐานะสถาปัตยกรรมสาธารณะยอดเยี่ยมของโลก ผลลัพธ์ทางผังที่สำคัญคือการคืนพื้นที่ที่เคยถูกรถยนต์ยึดครองให้กลับเป็นของสวน",
+  "design_strategies": [
+   "เปลี่ยนลานจอดรถบนดินเป็นอาคารที่หลังคาเป็นสวน แล้วย้ายที่จอดรถลงใต้ดิน",
+   "ปั้นรูปทรงหลังคาเป็นเนินลาดที่เดินขึ้นได้จากระดับพื้นสวน ให้อาคารกลายเป็นส่วนหนึ่งของภูมิประเทศ",
+   "ใช้ช่องแสงบนสวนหลังคานำแสงลงสู่พื้นที่ใต้ดิน ทำให้ภูมิทัศน์และภายในสัมพันธ์กัน",
+   "สร้างจุดชมวิวบนหลังคาเป็นจุดหมายใหม่ของสวนสาธารณะ"
+  ],
+  "lessons_th": [
+   "อาคารสาธารณะที่ต้องสร้างในสวนสาธารณะของไทย (เช่น พิพิธภัณฑ์หรือศูนย์การเรียนรู้) ควรออกแบบหลังคาให้เป็นพื้นที่สีเขียวที่เข้าถึงได้ เพื่อชดเชยพื้นที่สวนที่เสียไป",
+   "ลานจอดรถขนาดใหญ่ที่ขอบสวนเป็นโอกาสในการคืนพื้นที่ให้สวน หากย้ายที่จอดลงใต้ดินหรือรวมไว้ในอาคาร",
+   "ในภูมิอากาศร้อนชื้น ควรเลือกพืชคลุมดินและหญ้าที่ทนแดดและการเหยียบย่ำบนหลังคา และออกแบบทางเดินแข็งให้ชัดเจน"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+     [
+      [
+       [
+        19.079967,
+        47.512376
+       ],
+       [
+        19.080789,
+        47.511665
+       ],
+       [
+        19.081347,
+        47.511959
+       ],
+       [
+        19.080524,
+        47.51267
+       ],
+       [
+        19.079967,
+        47.512376
+       ]
+      ]
+     ],
+     [
+      [
+       [
+        19.081446,
+        47.511081
+       ],
+       [
+        19.082236,
+        47.510384
+       ],
+       [
+        19.08279,
+        47.51067
+       ],
+       [
+        19.081999,
+        47.511369
+       ],
+       [
+        19.081446,
+        47.511081
+       ]
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/relation/13957874"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1cf/8ac6/2721/26b2/79e5/large_jpg/museum-of-ethnography-budapest-napur-architect_12.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของสวนบนหลังคาโค้ง ลานหญ้าตัดด้วยทางเดินแผ่นหินแนวทแยงและช่องแสงลงสู่ภายใน ต่อเนื่องกับต้นไม้ของ Városliget",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1c7/701c/f301/678d/3334/large_jpg/museum-of-ethnography-budapest-napur-architect_2.jpg",
+    "type": "photo",
+    "caption": "สวนบนหลังคายามเย็น ทางลาดขอบหลังคายกตัวขึ้นทั้งสองด้าน ลานหญ้าและแปลงปลูกเป็นผืนต่อเนื่อง",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1db/8ac6/2721/26b2/79eb/large_jpg/museum-of-ethnography-budapest-napur-architect_16.jpg",
+    "type": "photo",
+    "caption": "สวนหลังคาช่วงพลบค่ำ ช่องแสงสี่เหลี่ยมเรืองแสงจากภายในพิพิธภัณฑ์ และลานกลางระหว่างปีกอาคารสองฝั่ง",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1e0/701c/f301/678d/333c/large_jpg/museum-of-ethnography-budapest-napur-architect_9.jpg",
+    "type": "photo",
+    "caption": "ผู้คนเดินขึ้นทางลาดบนหลังคา ผ่านแปลงไม้ดอกสีม่วงและหญ้าประดับ",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1c9/8ac6/2721/26b2/79e3/large_jpg/museum-of-ethnography-budapest-napur-architect_4.jpg",
+    "type": "photo",
+    "caption": "มุมมองจากหลังคาไปยังจัตุรัสวีรชนและพิพิธภัณฑ์ศิลปกรรม มีช่องแสงลงสู่ภายในอยู่กลางสนามหญ้า",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1c7/8ac6/2721/26b2/79e2/large_jpg/museum-of-ethnography-budapest-napur-architect_3.jpg",
+    "type": "photo",
+    "caption": "จุดสูงสุดของหลังคาโค้ง มองย้อนไปตามแนวสวนหลังคา",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1d8/701c/f301/678d/3336/large_jpg/museum-of-ethnography-budapest-napur-architect_13.jpg",
+    "type": "photo",
+    "caption": "มุมสูงเห็นอาคารพิพิธภัณฑ์ที่ปลายสวนสาธารณะ หลังคาเขียวกลืนไปกับป่าต้นไม้",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1c4/8ac6/2721/26b2/79e1/large_jpg/museum-of-ethnography-budapest-napur-architect_1.jpg",
+    "type": "photo",
+    "caption": "ภาพพาโนรามาเหนือ Városliget เห็นแนวหลังคาเขียวของพิพิธภัณฑ์ทอดตัวตามขอบสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1dc/8ac6/2721/26b2/79ed/large_jpg/museum-of-ethnography-budapest-napur-architect_14.jpg",
+    "type": "photo",
+    "caption": "ภาพทางอากาศแสดงตำแหน่งพิพิธภัณฑ์ที่ขอบสวนสาธารณะ ติดถนน Dózsa György",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1d8/8ac6/2721/26b2/79e9/large_jpg/museum-of-ethnography-budapest-napur-architect_15.jpg",
+    "type": "photo",
+    "caption": "มุมสูงเห็นลานกลางระหว่างปีกอาคารและสวนหลังคาที่ต่อเนื่องกับสวนสาธารณะ",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1d8/8ac6/2721/26b2/79ea/large_jpg/museum-of-ethnography-budapest-napur-architect_17.jpg",
+    "type": "photo",
+    "caption": "ภาพกลางคืนจากมุมสูง อาคารเรืองแสงกับหลังคาเขียวและทางเดินในสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1df/701c/f301/678d/333a/large_jpg/museum-of-ethnography-budapest-napur-architect_23.jpg",
+    "type": "photo",
+    "caption": "ภาพด้านหน้าอาคารจากมุมสูง เห็นสวนหลังคาไล่ระดับขึ้นไปและต้นไม้ของสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1dd/8ac6/2721/26b2/79ee/large_jpg/museum-of-ethnography-budapest-napur-architect_24.jpg",
+    "type": "photo",
+    "caption": "ภาพย้อนแสงยามเย็นของสวนหลังคาท่ามกลางพุ่มไม้ของ Városliget",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1e1/8ac6/2721/26b2/79f3/large_jpg/museum-of-ethnography-budapest-napur-architect_25.jpg",
+    "type": "photo",
+    "caption": "ภาพกลางคืนจากมุมสูงตามแนวถนน อาคารพิพิธภัณฑ์และสวนหลังคาที่ปลายแกนสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1e0/701c/f301/678d/333b/large_jpg/museum-of-ethnography-budapest-napur-architect_26.jpg",
+    "type": "photo",
+    "caption": "ภาพพลบค่ำมุมกว้างของสวน Városliget กับอาคารพิพิธภัณฑ์ที่ขอบสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1de/701c/f301/678d/3339/large_jpg/museum-of-ethnography-budapest-napur-architect_27.jpg",
+    "type": "photo",
+    "caption": "มุมสูงเห็นพิพิธภัณฑ์ ถนน Dózsa György และพิพิธภัณฑ์ศิลปกรรม ภูเขาบูดาเป็นฉากหลัง",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1d0/8ac6/2721/26b2/79e6/large_jpg/museum-of-ethnography-budapest-napur-architect_7.jpg",
+    "type": "photo",
+    "caption": "หลังคาเขียวโค้งลาดลงสู่ทางเท้าริมถนน Dózsa György",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1cb/8ac6/2721/26b2/79e4/large_jpg/museum-of-ethnography-budapest-napur-architect_5.jpg",
+    "type": "photo",
+    "caption": "ปลายปีกอาคารที่ยกตัวขึ้น ผนังกระจกหุ้มแผงโลหะลายพิกเซล และลานหน้าอาคาร",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1dc/701c/f301/678d/3337/large_jpg/museum-of-ethnography-budapest-napur-architect_18.jpg",
+    "type": "photo",
+    "caption": "ภาพกลางคืนมุมไกล เห็นแนวหลังคาเขียวเรืองแสงตามขอบสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/a1d4/8ac6/2721/26b2/79e7/large_jpg/museum-of-ethnography-budapest-napur-architect_10.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดปลายปีกอาคารที่ยกตัวขึ้นจากพื้นสวน",
+    "credit": "György Palkó (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect",
+    "year": 2022
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/9c3a/8ac6/2721/26b2/79db/large_jpg/neprajzi-muzeum-napur-architect-museum-of-ethnography-budapest-plan2-2.jpg",
+    "type": "plan",
+    "caption": "ผังชั้นล่าง แสดงปีกอาคารสองฝั่งและลานกลางที่ตัดผ่านระหว่างกัน",
+    "credit": "NAPUR Architect (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/9c3a/8ac6/2721/26b2/79dc/large_jpg/neprajzi-muzeum-napur-architect-museum-of-ethnography-budapest-plan7-7.jpg",
+    "type": "section",
+    "caption": "รูปตัดตามยาว แสดงหลังคาโค้งที่ลาดลงสู่ระดับสวนตรงกลางและพื้นที่จัดแสดงใต้ดิน",
+    "credit": "NAPUR Architect (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/62a0/9c39/701c/f301/678d/332d/large_jpg/neprajzi-muzeum-napur-architect-museum-of-ethnography-budapest-plan6-6.jpg",
+    "type": "section",
+    "caption": "รูปด้านแสดงแนวหลังคาโค้งสองฝั่งที่เปรียบเหมือนเนินเขาสองลูกเกือบโอบกัน",
+    "credit": "NAPUR Architect (via ArchDaily)",
+    "source": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect"
+   }
+  ],
+  "research": [
+   {
+    "title": "A budapesti Néprajzi Múzeum új épületei",
+    "authors": "Lajos Kemecsi",
+    "year": 2022,
+    "journal": "Kárpát-haza Szemle",
+    "url": "https://doi.org/10.64605/khsz.2022.1.03",
+    "note_th": "บทความภาษาฮังการีโดยผู้อำนวยการใหญ่ของพิพิธภัณฑ์ อธิบายลักษณะสถาปัตยกรรมพิพิธภัณฑ์ร่วมสมัย ประวัติการย้ายที่ตั้งตลอด 150 ปี และพื้นที่ใช้สอยของอาคารหลักใหม่ที่เปิดในเดือน พ.ค. 2022"
+   },
+   {
+    "title": "Tárgyilagos határvonal",
+    "authors": "Zorán Vukoszávlyev",
+    "year": 2022,
+    "journal": "Metszet",
+    "url": "https://doi.org/10.33268/met.2022.1.1",
+    "note_th": "บทความวิจารณ์สถาปัตยกรรมภาษาฮังการีในนิตยสาร Metszet เกี่ยวกับอาคารใหม่ของพิพิธภัณฑ์ชาติพันธุ์วิทยา ในบริบทประวัติการก่อตั้งพิพิธภัณฑ์ 150 ปี"
+   }
+  ],
+  "sources": [
+   {
+    "title": "ArchDaily — Museum of Ethnography Budapest / NAPUR Architect (ทีมออกแบบ รวม Garten Studio)",
+    "url": "https://www.archdaily.com/983318/museum-of-ethnography-budapest-napur-architect"
+   },
+   {
+    "title": "Liget Budapest Project — Museum of Ethnography",
+    "url": "https://ligetbudapest.hu/en/renewed-varosliget/museum-of-ethnography"
+   },
+   {
+    "title": "BauNetz Wissen — Ethnografisches Museum in Budapest (Stadt- und Dachbegrünung)",
+    "url": "https://www.baunetzwissen.de/stadt--und-dachbegruenung/objekte/kultur-bildung/ethnografisches-museum-in-budapest-8226016"
+   },
+   {
+    "title": "Instagram — @urmancheeva.k (Néprajzi Múzeum, Budapest, reel)",
+    "url": "https://www.instagram.com/reel/DcWlKvqI3Ms/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-13"
+ },
+ {
+  "id": "munjeong-station-sports-garden-seoul",
+  "name": "Munjeong Station Sports Garden",
+  "name_local": "문정역 스포츠가든 (문정 운동정원)",
+  "designer": "Seoul National University Landscape Design & Performance Lab + LabDH",
+  "client": "Seoul Metropolitan Government / Songpa-gu",
+  "city": "Seoul (Songpa-gu)",
+  "country": "South Korea",
+  "lat": 37.4859,
+  "lng": 127.1224,
+  "year": 2026,
+  "area": "18,772 sq. m. (11.7 ไร่)",
+  "area_sqm": 18772,
+  "categories": [
+   "recreation",
+   "transport-corridors",
+   "green-streets"
+  ],
+  "tags": [
+   "under-viaduct space",
+   "active design",
+   "subway station public space",
+   "Fun Station",
+   "urban garden",
+   "sunken plaza"
+  ],
+  "awards": [],
+  "summary_th": "พื้นที่ทางสัญจรรูปตัว L ขนาด 18,772 ตร.ม. รอบทางออก 3 สถานีรถไฟใต้ดินมุนจองในโซล ถูกเปลี่ยนเป็น 'สวนออกกำลังกาย' ที่รวมคอร์ตกีฬา ยิมในร่ม สวนพักผ่อน และลานวัฒนธรรม เชื่อมด้วยทางวิ่ง เปิดเดือนกันยายน 2026",
+  "description_th": "บริเวณทางออก 3 ของสถานีมุนจอง (รถไฟใต้ดินสาย 8) ในเขตซงพา เป็นย่านสำนักงานที่มีคนสัญจรจำนวนมาก แต่พื้นที่รอบสถานีรวมถึงใต้โครงสร้างทางยกระดับเดิมเป็นเพียงทางผ่านที่ไม่มีใครหยุดพัก รัฐบาลกรุงโซลจึงพัฒนาเป็น 'Fun Station' แห่งที่สามต่อจาก Runner Station ที่สถานียออีนารู และ Fun Station ที่สถานีตุกซอมและมอกโกล โดยตั้งเป้าให้ผู้คนขยับร่างกายระหว่างทางไปทำงาน ช่วงพักกลางวัน และหลังเลิกงาน โดยไม่ต้องไปสถานกีฬาแยกต่างหาก งบก่อสร้างราว 2,470 ล้านวอน และงานหลักของสัญญาเป็นงานภูมิทัศน์\n\nแนวคิดของผู้ออกแบบ (ห้องปฏิบัติการ Landscape Design & Performance ของมหาวิทยาลัยแห่งชาติโซล ร่วมกับ LabDH ตามที่นิตยสาร 환경과조경 ฉบับ พ.ย. 2026 ระบุ) คือ 'การผสมโปรแกรม' ระหว่างกีฬากับสวน ซึ่งต้องการตรรกะพื้นที่ที่ตรงข้ามกัน กีฬาต้องการขนาดมาตรฐานและพื้นเรียบ ส่วนสวนต้องการความลึกและเวลา ผู้ออกแบบจึงทุ่มความใส่ใจไปที่ 'ขอบ' ระหว่างคอร์ตกับแปลงปลูก ซึ่งเป็นที่ที่กิจกรรมทั้งสองแบบผสมกันจริง\n\nผังวางบนที่ดินรูปตัว L: ปลายสองด้านเป็นพื้นที่กีฬาอเนกประสงค์ (คอร์ตฟุตซอล-บาสเกตบอล แบดมินตัน พิกเกิลบอล) และพื้นที่ออกกำลังกายในร่ม (ปิงปอง โยคะ ไลน์แดนซ์ และยิมสาธารณะกึ่งใต้ดิน) ตรงกลางเป็นพื้นที่พักผ่อนแบบสวนที่มีป่าขนาดเล็กและที่นั่ง ทั้งหมดเชื่อมด้วยทางวิ่งยาว 235 ม. ส่วนลานจมระดับใจกลางสถานีปรับเป็นพื้นที่พักผ่อนเชิงวัฒนธรรม มีจอ LED 16×4.8 ม. ระบบ 'Connected Live' ถ่ายทอดคอนเสิร์ตและกีฬา โครงสร้างทางยกระดับด้านบนกลายเป็นหลังคาให้ร่มเงาแก่คอร์ตในฤดูร้อน\n\nการปลูกเน้นไม้ยืนต้น ไม้พุ่ม และไม้ดอกนานาชนิด เพื่อหลีกเลี่ยงการวางสิ่งก่อสร้างล้วน ๆ โซน 'Active Meadow' ริมทางวิ่งปลูกไม้พุ่มและไม้ล้มลุกให้รู้สึกเหมือนวิ่งผ่านทุ่งหญ้าเล็ก ๆ แปลงปลูกยกระดับมีโต๊ะกลมและม้านั่งไม้ วัสดุพื้นทางวิ่งเป็นสีเบจตัดเส้นน้ำเงิน และมี 'Energy Station' ที่นำพลังงานจากการออกกำลังกายมาใช้ สวนยังจัดกิจกรรมด้านสวน เช่น WE GARDEN และ 'หมอกระถางต้นไม้'\n\nเปิดอย่างเป็นทางการ 18 ก.ย. 2026 (หลังช่วงทดลองเปิดตั้งแต่เดือนสิงหาคม) ค่าบริการคนละ 1,000 วอน หรือทีมละ 5,000 วอน เปิดวันจันทร์-ศุกร์ 09:00–19:50 และวันเสาร์ 09:00–17:50 แหล่งข้อมูลที่อ่านในรอบนี้ยังไม่มีตัวเลขผู้ใช้งานหรือผลการประเมินหลังเปิด",
+  "design_strategies": [
+   "ใช้พื้นที่ใต้ทางยกระดับและทางผ่านรอบสถานีเป็นพื้นที่กีฬา โดยให้โครงสร้างด้านบนเป็นหลังคาบังแดดฝน",
+   "จัดผังรูปตัว L ให้กิจกรรมเข้มข้นอยู่ปลายสองด้านและสวนพักผ่อนอยู่ตรงกลาง เชื่อมทั้งหมดด้วยทางวิ่ง",
+   "ออกแบบ 'ขอบ' ระหว่างคอร์ตกับแปลงปลูกอย่างตั้งใจ เพื่อให้กีฬาและสวนผสมกันจริง",
+   "ปรับลานจมระดับของสถานีเป็นลานวัฒนธรรมพร้อมจอถ่ายทอดสด เพื่อดึงคนมาใช้ช่วงเย็นและวันหยุด"
+  ],
+  "lessons_th": [
+   "พื้นที่ใต้ทางด่วนและรางรถไฟฟ้ายกระดับในกรุงเทพฯ (เช่น ใต้ทางด่วนหรือรอบสถานี BTS/MRT) ใช้เป็นสวนกีฬาที่มีร่มเงาตลอดวันได้ เหมาะกับภูมิอากาศร้อน",
+   "วางพื้นที่ออกกำลังกายไว้บนเส้นทางเดินทางประจำวันของคนทำงาน ทำให้คนออกกำลังกายได้โดยไม่ต้องตั้งใจไปสถานกีฬา",
+   "การผสมแปลงปลูกเข้ากับคอร์ตกีฬาช่วยลดความแข็งกระด้างของพื้นที่กีฬาและลดความร้อนจากพื้นผิวแข็ง"
+  ],
+  "images": [
+   {
+    "url": "http://www.conslove.co.kr/news/photo/202609/89661_229491_2251.jpg",
+    "type": "photo",
+    "caption": "พื้นที่พักผ่อนแบบสวน (정원형 휴게공간) ใต้ทางยกระดับ แปลงไม้พุ่มและไม้ดอกกับทางวิ่งที่เชื่อมพื้นที่",
+    "credit": "Seoul Metropolitan Government (via 한국건설신문)",
+    "source": "http://www.conslove.co.kr/news/articleView.html?idxno=89661",
+    "year": 2026
+   },
+   {
+    "url": "http://www.conslove.co.kr/news/photo/202609/89661_229488_2026.jpg",
+    "type": "photo",
+    "caption": "ลานจมระดับหน้าสถานีที่ปรับเป็นพื้นที่พักผ่อนเชิงวัฒนธรรม อัฒจันทร์ขั้นบันไดหันหาจอ LED ขนาด 16×4.8 ม.",
+    "credit": "Seoul Metropolitan Government (via 한국건설신문)",
+    "source": "http://www.conslove.co.kr/news/articleView.html?idxno=89661",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/RixsHTmMqGkQIEKrdyMReTnBvymqLifa.jpg",
+    "type": "photo",
+    "caption": "แปลงปลูกยกระดับผสมไม้พุ่มและหญ้าประดับ พร้อมโต๊ะกลมและพื้นไม้สำหรับนั่งพัก",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/XDSrbPVDMteQxzcDcMUkxICUcanEYDZA.jpg",
+    "type": "photo",
+    "caption": "ทางวิ่งสีเบจขอบน้ำเงินโค้งผ่านโซน 'Active Meadow' ที่ปลูกไม้พุ่มและไม้ดอก",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/kowexBVSdPCxjkfiqsEnjKeVeDxoVhIW.jpg",
+    "type": "photo",
+    "caption": "คอร์ตอเนกประสงค์ใต้ทางยกระดับ พื้นสีเขียวน้ำเงิน หลังคาโครงสร้างสะพานเป็นร่มเงาให้",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "http://www.conslove.co.kr/news/photo/202609/89661_229489_2050.jpg",
+    "type": "photo",
+    "caption": "ผู้คนเล่นกีฬาในพื้นที่ออกกำลังกายอเนกประสงค์ใต้หลังคา",
+    "credit": "Seoul Metropolitan Government (via 한국건설신문)",
+    "source": "http://www.conslove.co.kr/news/articleView.html?idxno=89661",
+    "year": 2026
+   },
+   {
+    "url": "http://www.conslove.co.kr/news/photo/202609/89661_229490_2146.jpg",
+    "type": "photo",
+    "caption": "พื้นที่ออกกำลังกายในร่มพร้อมเครื่องออกกำลังกายและผนังกราฟิกโค้ง",
+    "credit": "Seoul Metropolitan Government (via 한국건설신문)",
+    "source": "http://www.conslove.co.kr/news/articleView.html?idxno=89661",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/inqoMSNeHgQIXhHxhTNcFDClLCmfssUI.jpg",
+    "type": "photo",
+    "caption": "คอร์ตกลางแจ้งขนาดเล็กเรียงขนานกับม้านั่งไม้และแปลงปลูกใต้ทางยกระดับโค้ง",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/ZErkrYGSRQoCXvHCAHBrCkMlEMQyfXqb.jpg",
+    "type": "photo",
+    "caption": "แป้นบาสเกตบอลและประตูฟุตซอลในคอร์ตเดียวกัน มีตาข่ายกันลูกด้านบนและด้านข้าง",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/xoVOVXPxixcpbWQzIHgeqUanDnVSByVW.jpg",
+    "type": "photo",
+    "caption": "คอร์ตอเนกประสงค์มุมกว้างใต้พื้นสะพาน",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/uoffGIGOLPFwWeiwhxlOzmqvQwyLddyb.jpg",
+    "type": "photo",
+    "caption": "เครื่องหมายระยะ '235m' บนทางวิ่งช่วง Energy Station",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/jytHeJOwciatflCiTofrlVUMvJCmWxCG.jpg",
+    "type": "photo",
+    "caption": "ป้ายแผนผังรวมของสวนกีฬาสถานีมุนจอง ล้อมด้วยแปลงไม้ดอกและหญ้าประดับ",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/OnhjBlfwKvqWVRAunfYBPgrnEgwPXbVj.jpg",
+    "type": "photo",
+    "caption": "คอร์ตแบดมินตันพื้นเขียวใต้ทางยกระดับ ร่มเงาจากพื้นสะพาน",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/sqGgbjHCcWSGmeoNdpqwJeNMKWcJswHF.jpg",
+    "type": "photo",
+    "caption": "ลานโล่งใต้สะพานที่มีวงกลมสัญลักษณ์ทางเข้า Public Gym",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/MEKnDqeAhduyUMBrStJtlkJLuWKzYrGd.jpg",
+    "type": "photo",
+    "caption": "ห้อง Public Gym กึ่งใต้ดิน ผนังกราฟิกโค้งสีน้ำเงิน-ขาว",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/dDOGhsOHxhzhAwjvSDulrGYXqFZGXNAv.jpg",
+    "type": "photo",
+    "caption": "เครื่องออกกำลังกายใน Public Gym",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   },
+   {
+    "url": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/08/BbzSLrcybJNTNvPPTIsiXKollkhMLoaC.jpg",
+    "type": "photo",
+    "caption": "โต๊ะปิงปองสองตัวในพื้นที่ออกกำลังกายในร่ม",
+    "credit": "김재형 / 내 손안에 서울 (Seoul Metropolitan Government)",
+    "source": "https://mediahub.seoul.go.kr/archives/2019032",
+    "year": 2026
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "내 손안에 서울 (Seoul Metropolitan Government) — 출퇴근길 가볍게 운동해볼까…'문정역 스포츠가든' (14 ส.ค. 2026)",
+    "url": "https://mediahub.seoul.go.kr/archives/2019032"
+   },
+   {
+    "title": "한국건설신문 — 문정역, 생활 속 운동·휴식·문화 거점 거듭나다 (18 ก.ย. 2026)",
+    "url": "http://www.conslove.co.kr/news/articleView.html?idxno=89661"
+   },
+   {
+    "title": "시정일보 — 송파구의회, '문정역 스포츠가든' 현장 점검 (23 ก.พ. 2026)",
+    "url": "https://www.sijung.co.kr/news/articleView.html?idxno=424941"
+   },
+   {
+    "title": "Instagram — 환경과조경 (นิตยสาร Environment & Landscape Architecture of Korea, ฉบับ พ.ย. 2026: ทีมออกแบบและแนวคิด)",
+    "url": "https://www.instagram.com/p/Dfiq-afklsy/"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W46",
+  "added_date": "2026-11-13"
+ }
+]

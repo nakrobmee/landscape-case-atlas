@@ -1,0 +1,1302 @@
+[
+ {
+  "id": "finsbury-circus-gardens",
+  "name": "Finsbury Circus Gardens",
+  "designer": "Realm (ภูมิสถาปัตยกรรมและพื้นที่สาธารณะ) ร่วมกับ Studio Weave / Architecture 00 (อาคาร Parks Office)",
+  "client": "City of London Corporation",
+  "city": "London (City of London)",
+  "country": "United Kingdom",
+  "lat": 51.51785,
+  "lng": -0.08647,
+  "year": "2025",
+  "area": "9,000 sq. m. (5.6 ไร่) — สวนขึ้นทะเบียนมรดก Grade II ขนาด 0.9 เฮกตาร์ตามข้อมูลผู้ออกแบบ",
+  "area_sqm": 9000,
+  "categories": [
+   "historic",
+   "public-parks",
+   "flood-suds"
+  ],
+  "tags": [
+   "heritage park regeneration",
+   "Grade II listed",
+   "Crossrail legacy",
+   "rain garden",
+   "SuDS",
+   "biodiversity net gain",
+   "urban greening factor",
+   "climate-resilient trees",
+   "City of London"
+  ],
+  "awards": [
+   "WLA Awards 2026 — Outstanding Award, Built: Small Public Space Design",
+   "LILA 2026 — Public Projects (โครงการที่ได้รับคัดเลือก)"
+  ],
+  "wikipedia": "Finsbury_Circus",
+  "summary_th": "การฟื้นฟูสวนวงรีประวัติศาสตร์ใจกลางย่านการเงิน City of London ซึ่งเคยถูกใช้เป็นพื้นที่ก่อสร้างรถไฟ Elizabeth line นานสิบปี ให้กลับเป็นสวนสาธารณะที่เข้าถึงง่าย มีที่นั่งมากขึ้น และเพิ่มความหลากหลายทางชีวภาพ โดยใช้ประวัติศาสตร์ของพื้นที่ (กำแพงโรมัน แม่น้ำ Walbrook ทุ่ง Moor Fields) เป็นแนวคิดหลัก",
+  "description_th": "Finsbury Circus Gardens เป็นพื้นที่สีเขียวเปิดที่ใหญ่ที่สุดใน Square Mile ของลอนดอน ตั้งอยู่บนที่ตั้งเดิมของ Moor Fields ซึ่งถือเป็นสวนสาธารณะแห่งแรกของลอนดอน (ค.ศ. 1606) ผังวงรีปัจจุบันวางโดย George Dance the Younger ในต้นศตวรรษที่ 19 พื้นที่นี้เคยเป็นที่ลุ่มชื้นแฉะเพราะกำแพงเมืองโรมันกั้นแม่น้ำ Walbrook ไว้บางส่วน และผ่านการใช้งานหลากหลาย ตั้งแต่ลานยิงธนู ที่ตากผ้า ที่พักชั่วคราวของผู้ประสบภัยไฟไหม้ใหญ่และกาฬโรค จนถึงที่ตั้งเดิมของโรงพยาบาล Bethlem (Bedlam) ระหว่างปี 2010–2020 สวนถูกปิดเป็นพื้นที่ก่อสร้าง Crossrail/Elizabeth line ก่อนจะเปิดการประกวดแบบระดับนานาชาติเพื่อออกแบบใหม่ และปิดปรับปรุงอีกครั้งในปี 2023 จนเปิดใหม่กลางปี 2025\n\nแนวคิดของ Realm ดึงองค์ประกอบประวัติศาสตร์สามชั้นมาเป็นภาษาออกแบบ ได้แก่ กำแพงเมืองโรมันและประตู Moorgate ที่สร้างจากหิน Kentish Ragstone, แม่น้ำ Walbrook ที่ทำให้เกิดที่ลุ่ม และ Moor Fields ในฐานะสวนสาธารณะแห่งแรก ผู้ออกแบบใช้การมีส่วนร่วมอย่างกว้างขวาง ทั้งผู้ถือผลประโยชน์ ผู้อยู่อาศัย ธุรกิจ และกลุ่มชุมชน รวมถึงจัดกิจกรรมสวนป๊อปอัปเพื่อรับฟังความเห็นต่อแบบโดยตรง\n\nผังใหม่เรียงตามวงรีซ้อนกันของอาคารล้อมรอบ แนวต้นไม้ใหญ่เดิม และทางเดินวงกลมดั้งเดิม แบ่งเป็นสามชั้นที่ซ้อนกัน คือ โซนลักษณะและการใช้งาน การเข้าถึงและการสัญจร และชั้นความหลากหลายทางชีวภาพ ด้านตะวันตกเป็นสวนป่าร่มรื่นที่มีทางเดินคดเคี้ยว ด้านตะวันออกเป็นสวนฝน (rain garden) เลียนแบบที่ลุ่มเดิม ตรงกลางเป็นสนามหญ้าใหญ่สำหรับกิจกรรมรวม ล้อมด้วยวงรีหินปูนพร้อมม้านั่ง มีทางเดินหลักใหม่และทางเดินรอบนอก สวนยังเป็นทางเดินเชื่อมสถานี Liverpool Street กับ Moorgate ขณะที่ใต้ดินมีอุโมงค์รถไฟ Metropolitan สมัยวิกตอเรียอยู่ลึกเพียง 60 ซม. ใต้สนามหญ้าด้านตะวันออก ทำให้การออกแบบต้องจัดการข้อจำกัดใต้ดินอย่างละเอียด\n\nวัสดุอ้างอิงธรณีวิทยาและประวัติศาสตร์ของที่ตั้ง: ก้อนหินและพื้น Kentish Ragstone ระลึกถึงกำแพงโรมัน ทางเดินโค้งและพื้นหินกรวดแม่น้ำสื่อถึงแม่น้ำ Walbrook วงรีหินปูนด้านในพร้อมม้านั่งประติมากรรมสะท้อนอาคาร Portland stone รอบวง โดยมีร่องกันสเก็ตบอร์ดที่ออกแบบเลียนรายละเอียดหินของอาคารข้างเคียง ปลูกพืชใหม่ 3 กลุ่ม ได้แก่ สวนป่าพืชทนร่มพร้อมกองไม้ให้ด้วงและค้างคาว พืชริมน้ำในสวนฝนเน้นหญ้าดึงดูดนกและแมลงผสมเกสร และแปลงไม้ดอกล้มลุกที่รวมพืชหอมกลางคืนเพื่อเป็นอาหารผีเสื้อกลางคืนและค้างคาว\n\nผลลัพธ์ตามข้อมูลผู้ออกแบบ: เพิ่มต้นไม้ 12 ชนิด พืชกว่า 13,000 ต้น หัวไม้ดอกกว่า 6,000 หัว พื้นที่ปลูกพืชเพิ่ม 27% ความหลากหลายทางชีวภาพสุทธิเพิ่ม (Biodiversity Net Gain) 19.47% ค่า Urban Greening Factor 0.45 (เป้า 0.3) ที่นั่งเพิ่มจาก 110 เป็น 210 เมตรเชิงเส้น วัสดุปูพื้นกว่า 90% มาจากในสหราชอาณาจักร (บางส่วนนำกลับมาใช้ซ้ำ) การดักจับมลพิษเพิ่มจาก 25 เป็น 38 กก./ปี การกักเก็บคาร์บอนเพิ่มจาก 87 เป็น 134 ตัน และประเมินประโยชน์ด้านสุขภาวะ 87 ปอนด์ต่อการลงทุน 1 ปอนด์ หลังเปิดใช้ สวนถูกใช้ตั้งแต่โยคะยามเช้า ประชุมกาแฟ มื้อกลางวันบนโต๊ะเก้าอี้เคลื่อนย้ายได้ ไปจนถึงการพักผ่อนยามเย็น",
+  "design_strategies": [
+   "ใช้ประวัติศาสตร์ชั้นต่าง ๆ ของที่ตั้ง (กำแพงโรมัน แม่น้ำ Walbrook ทุ่ง Moor Fields) เป็นตัวกำหนดวัสดุและรูปทรง",
+   "จัดผังเป็นวงรีซ้อนตามอาคารและแนวต้นไม้เดิม แบ่งโซนป่า–สวนฝน–สนามหญ้ากลาง",
+   "ใช้สวนฝนและระบบ SuDS ด้านตะวันออกเพื่อจัดการน้ำฝน และสื่อถึงที่ลุ่มดั้งเดิม",
+   "เลือกพันธุ์ไม้ที่ทนต่อการเปลี่ยนแปลงภูมิอากาศและเพิ่มความหลากหลายของเรือนยอด",
+   "เพิ่มที่นั่งหลายรูปแบบ รวมโต๊ะเก้าอี้เคลื่อนย้ายได้ เพื่อเพิ่มเวลาการใช้งานในสวน",
+   "ใช้วัสดุในประเทศหรือนำกลับมาใช้ซ้ำมากกว่า 90% เพื่อลดคาร์บอน"
+  ],
+  "lessons_th": [
+   "สวนเมืองเก่าของไทยที่เคยถูกใช้เป็นพื้นที่ก่อสร้างโครงสร้างพื้นฐาน (เช่น แนวรถไฟฟ้า) สามารถใช้ช่วงฟื้นฟูเป็นโอกาสยกระดับความหลากหลายทางชีวภาพและการจัดการน้ำได้",
+   "การเล่าเรื่องประวัติศาสตร์ผ่านวัสดุและรูปทรง (เช่น หินจากกำแพงเมืองหรือแนวคลองเดิม) ทำให้สวนมีอัตลักษณ์โดยไม่ต้องพึ่งป้ายอธิบายอย่างเดียว",
+   "กำหนดตัวชี้วัดที่ตรวจสอบได้ เช่น Biodiversity Net Gain และ Urban Greening Factor ช่วยให้โครงการสวนสาธารณะสื่อสารผลลัพธ์กับผู้ตัดสินใจได้ชัดเจน",
+   "โต๊ะเก้าอี้เคลื่อนย้ายได้และที่นั่งหลากหลายเป็นวิธีง่ายที่เพิ่มการใช้งานของสวนในย่านสำนักงาน"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.087276,
+       51.517905
+      ],
+      [
+       -0.087051,
+       51.517632
+      ],
+      [
+       -0.08649,
+       51.517474
+      ],
+      [
+       -0.085932,
+       51.517532
+      ],
+      [
+       -0.085666,
+       51.517775
+      ],
+      [
+       -0.085844,
+       51.518052
+      ],
+      [
+       -0.086469,
+       51.518231
+      ],
+      [
+       -0.087045,
+       51.518163
+      ],
+      [
+       -0.087276,
+       51.517905
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/23105395"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_001-HERO-IMAGE.jpg",
+    "type": "photo",
+    "caption": "สนามหญ้ากลางและทางเดินโค้งใต้ต้นเพลนใหญ่ หลังการฟื้นฟูสวน",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_008-AERIAL.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวดิ่งแสดงผังวงรี สนามหญ้ากลาง และวงต้นไม้ใหญ่เดิมที่ล้อมด้วยอาคารรูปวงรี",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_007-FINSBURY-CIRCUS-CONTEXT.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแสดงสวนในบริบทอาคารสำนักงานของ City of London",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_009-BIRDS-EYE.jpg",
+    "type": "photo",
+    "caption": "มองจากที่สูงลงสู่สนามหญ้ากลาง โดยมีตึกสูงย่านการเงินเป็นฉากหลัง",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_011-WOODLAND-PLANTING.jpg",
+    "type": "photo",
+    "caption": "สวนป่าด้านตะวันตก ทางเดินหินคดเคี้ยวผ่านเฟินและไม้พุ่มทนร่ม",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_012-PARKS-OFFICE.jpg",
+    "type": "photo",
+    "caption": "ทางเดินโค้งในสวนป่ากับอาคาร Parks Office ใหม่โดย Studio Weave",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_013-RAGSTONE-PATH.jpg",
+    "type": "photo",
+    "caption": "ทางเดินโค้งปูหินผ่านแปลงพืชคลุมดินใบใหญ่ สื่อถึงแม่น้ำ Walbrook",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_014-RAGSTONE-BOULDERS.jpg",
+    "type": "photo",
+    "caption": "ผู้คนนั่งบนก้อนหิน Kentish Ragstone ข้างแปลงไม้ดอกริมทางเดิน",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_015-KEY-ROUTE.jpg",
+    "type": "photo",
+    "caption": "ทางเดินหลักกว้างที่เชื่อมผู้สัญจรผ่านสวน ขนาบด้วยแปลงหญ้าประดับ",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_016-WEST-ENTRY.jpg",
+    "type": "photo",
+    "caption": "ทางเข้าด้านตะวันตกผ่านเฟินต้นและไม้พุ่มร่มรื่น",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_017-RAGSTONE-BOULDERS.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งก้อนหิน Ragstone ท่ามกลางแปลงไม้ดอก",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_020-LIMESTONE-BENCHES.jpg",
+    "type": "photo",
+    "caption": "ม้านั่งหินปูนประติมากรรมบนวงรีหินปูนรอบสนามหญ้า",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_021-LIMESTONE-BENCHES.jpg",
+    "type": "photo",
+    "caption": "ผู้ใช้งานพบปะกันบนม้านั่งหินปูนริมแปลงไม้ดอก",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_022-LIMESTONE-BENCHES.jpg",
+    "type": "photo",
+    "caption": "ผู้คนนั่งพักบนม้านั่งหินปูนและสนามหญ้ากลางช่วงกลางวัน",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_026-MOVEABLE-CHAIRS-TABLES.jpg",
+    "type": "photo",
+    "caption": "โต๊ะเก้าอี้เคลื่อนย้ายได้ท่ามกลางไม้ดอกสีเหลืองและแดง",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_027-MOVEABLE-CHAIRS-TABLES.jpg",
+    "type": "photo",
+    "caption": "กลุ่มคนทำงานรับประทานอาหารกลางวันบนโต๊ะเก้าอี้ในสวน",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_28-LONG-GRASS-EDGE.jpg",
+    "type": "photo",
+    "caption": "ขอบหญ้าสูงตัดกับสนามหญ้าตัดสั้นที่มีผู้คนนั่งพักผ่อน",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_29-PERENNIAL-PLANTING.jpg",
+    "type": "photo",
+    "caption": "แปลงไม้ดอกล้มลุกสีส้มเหลืองริมทางเดินพร้อมที่นั่ง",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_031-RAIN-GARDEN-DETAIL.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดช่องระบายน้ำเข้าสวนฝนที่ขอบแปลงปลูก",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_32-POLLINATORS.jpg",
+    "type": "photo",
+    "caption": "ดอกกระเทียมประดับ (Allium) ดึงดูดแมลงผสมเกสรในแปลงไม้ดอก",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_002-SITE-PLAN.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (site plan) แสดงวงรีสนามหญ้า ทางเดิน แปลงปลูก และวงต้นไม้",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_004-DRAWINGS-LANDSCAPE-LAYERS.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพชั้นภูมิทัศน์ (landscape layers) แยกโซนการใช้งาน การสัญจร และความหลากหลายทางชีวภาพ",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_005-DRAWINGS-HIDDEN-SUBTERRANEAN.jpg",
+    "type": "section",
+    "caption": "รูปตัดแอกโซโนเมตริกแสดงข้อจำกัดใต้ดิน รวมอุโมงค์รถไฟใต้สนามหญ้า",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "url": "https://landezine-award.com/wp-content/uploads/2026/05/73587-Finsbury-Circus-Gardens_006-DRAWINGS-BIODIVERSITY-MATERIALITY.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพกลยุทธ์พืชพรรณ ความหลากหลายทางชีวภาพ และวัสดุ",
+    "credit": "Realm (via LILA / Landezine)",
+    "source": "https://landezine-award.com/finsbury-circus-gardens/"
+   }
+  ],
+  "research": [
+   {
+    "title": "Use of linked monitoring systems for asset protection at Finsbury Circus during SCL tunnelling for Crossrail Station",
+    "authors": "Szabo, Brzeski, González Martí",
+    "year": 2015,
+    "journal": "Crossrail Project: Infrastructure design and construction (ICE Publishing)",
+    "url": "https://doi.org/10.1680/cpid.61026.315",
+    "note_th": "บทความวิศวกรรมเกี่ยวกับการเฝ้าระวังโครงสร้างรอบ Finsbury Circus ระหว่างขุดอุโมงค์ Crossrail ช่วงที่สวนถูกใช้เป็นพื้นที่ก่อสร้าง อธิบายบริบทข้อจำกัดใต้ดินของที่ตั้ง"
+   },
+   {
+    "title": "The Upper Walbrook Valley Cemetery of Roman London. Excavations at Finsbury Circus, City of London, 1987–2007 (book review)",
+    "authors": "Pearce",
+    "year": 2017,
+    "journal": "Archaeological Journal",
+    "url": "https://doi.org/10.1080/00665983.2017.1294910",
+    "note_th": "บทวิจารณ์หนังสือรายงานการขุดค้นสุสานสมัยโรมันในหุบเขา Walbrook ใต้ Finsbury Circus ให้ข้อมูลชั้นประวัติศาสตร์ที่ผู้ออกแบบนำมาเป็นแนวคิด"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Landezine LILA 2026 — Finsbury Circus Gardens (Realm)",
+    "url": "https://landezine-award.com/finsbury-circus-gardens/"
+   },
+   {
+    "title": "World Landscape Architecture — Finsbury Circus Gardens | Realm (WLA Awards 2026)",
+    "url": "https://worldlandscapearchitect.com/finsbury-circus-gardens-realm/"
+   },
+   {
+    "title": "World Landscape Architecture — Finsbury Circus Gardens Reopens: A Green Renaissance in the Square Mile",
+    "url": "https://worldlandscapearchitect.com/finsbury-circus-gardens-reopens-a-green-renaissance-in-the-square-mile/"
+   },
+   {
+    "title": "Londonist — Square Mile's Largest Open Green Space Reopens After Several Years",
+    "url": "https://londonist.com/london/news/finsbury-circus-gardens-city-of-london"
+   },
+   {
+    "title": "OpenStreetMap — Finsbury Circus Gardens",
+    "url": "https://www.openstreetmap.org/way/23105395"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-28"
+ },
+ {
+  "id": "krigsseilerplassen-stavanger",
+  "name": "Wartime Seafarers Memorial — Krigsseilerplassen",
+  "name_local": "Krigsseilerplassen (เดิม Helmich Gabrielsens plass)",
+  "designer": "ATSITE (ภูมิสถาปัตยกรรม) ร่วมกับศิลปิน Jone Kvie",
+  "city": "Stavanger (Vågen)",
+  "country": "Norway",
+  "lat": 58.97029,
+  "lng": 5.72921,
+  "year": "2025",
+  "categories": [
+   "monuments",
+   "urban-squares",
+   "historic"
+  ],
+  "tags": [
+   "war memorial",
+   "art-integrated landscape",
+   "water play",
+   "historic shoreline",
+   "rainwater circuit",
+   "waterfront square",
+   "Vågen"
+  ],
+  "awards": [],
+  "summary_th": "การปรับปรุงลานเล็กริมอ่าว Vågen กลางเมือง Stavanger ให้เป็นอนุสรณ์ถึงลูกเรือพาณิชย์นาวีชาวนอร์เวย์ในสงครามโลกครั้งที่ 2 โดยผสานประติมากรรมหินอ่อนที่นั่งได้ แอ่งน้ำตื้นที่ระบุแนวชายฝั่งเดิม และวัตถุอะลูมิเนียมบนเสาที่ส่งน้ำฝนลงแอ่ง ให้เป็นทั้งพื้นที่รำลึกและพื้นที่เล่นในชีวิตประจำวัน",
+  "description_th": "Helmich Gabrielsens plass เป็นลานสี่เหลี่ยมผืนผ้าริมอ่าว Vågen ใจกลาง Stavanger ล้อมด้วยอาคารเก่าสามด้านและเปิดออกสู่ทะเลด้านที่สี่ เดิมลานนี้ไม่มีอัตลักษณ์ชัดเจน ขณะที่เมืองต้องการพื้นที่รำลึกถึงลูกเรือในภูมิภาคที่ปฏิบัติหน้าที่ช่วงสงครามโลกครั้งที่ 2 โจทย์จึงเป็นการสร้างอนุสรณ์ที่รวมประวัติศาสตร์ ศิลปะ และภูมิทัศน์เมือง และยังเชิญชวนให้คนทุกวัยใช้งาน\n\nแนวคิดคือการผสานงานศิลปะสองชิ้นเข้ากับการออกแบบลานอย่างแยกไม่ออก ทั้งลานจึงเล่าเรื่องของลูกเรือ ได้แก่ ความโหยหา การจากไป และความหวัง ลานได้รับการเปลี่ยนชื่อเป็น Krigsseilerplassen (ลานลูกเรือยามสงคราม) ในปี 2023 และงานแล้วเสร็จในปี 2025\n\nประติมากรรมที่นั่งหินอ่อนสีเทา “Out in and of water” มีรูปเป็นหัวเรือนามธรรมพร้อมคลื่นหัวเรือหันสู่อ่าว Vågen โอบแอ่งน้ำตื้นที่มีผิวโค้งเบา แอ่งน้ำนี้ระบุแนวชายฝั่งประวัติศาสตร์ เป็นพื้นที่เปลี่ยนผ่านอย่างนุ่มนวลจากถนนสู่ลาน และชวนให้เด็กเล่นน้ำ ด้านหลังลานมีวัตถุอะลูมิเนียมหล่อบนเสาสแตนเลสบาง “Pending Phenomenon: Memory / Afterimage” เป็นจุดนำสายตาที่เบาและสะท้อนแสง ใจกลางลานเว้นที่ว่างเพื่อเป็นทั้ง ‘ความว่างเปล่า’ และลานรวมตัว เมื่อฝนตก น้ำจากหลังคาของวัตถุจะไหลลงร่องแคบสู่แอ่งน้ำ เกิดวงจรน้ำที่เชื่อมกับทะเลซึ่งเป็นองค์ประกอบของลูกเรือ และตอบสนองต่อสภาพอากาศและฤดูกาล\n\nงานศิลปะเชื่อมกับพื้นหินปูถนนเดิมด้วยลวดลายการปูที่เป็นคลื่น ขอบหินแกรนิตนำผู้มาเยือนเข้าสู่เรื่องราว ปลูกต้นสนพื้นเมือง 2 ต้นเป็นสัญลักษณ์ของประเทศนอร์เวย์ที่ลูกเรือจากมาและโหยหา และช่วยสร้างสมดุลทางสายตาและพื้นที่ของลาน โครงการพัฒนาโดยความร่วมมือใกล้ชิดระหว่างภูมิสถาปนิก ศิลปิน วิศวกร และช่างสวน โดยเน้นคุณภาพ ความปลอดภัย และประสบการณ์ที่ต่อเนื่อง\n\nผลลัพธ์คือพื้นที่ที่ทั้งเชิงประสาทสัมผัส เชิงกวี และเปิดกว้าง แอ่งน้ำและประติมากรรมที่นั่งชวนให้เล่น ไตร่ตรอง และพบปะ วัตถุลอยสร้างพื้นที่ใกล้ชิดด้านใต้ ลานยังคงยืดหยุ่นสำหรับจัดงานกิจกรรม และช่วยเสริมความเชื่อมโยงของเมืองกับทะเล (ภาพถ่ายแสดงเด็กและสุนัขเล่นในแอ่งน้ำ และผู้คนนั่งบนประติมากรรม)",
+  "design_strategies": [
+   "บูรณาการงานศิลปะเข้ากับการออกแบบลานตั้งแต่ต้น แทนการวางประติมากรรมแยกเดี่ยว",
+   "ใช้แอ่งน้ำตื้นระบุแนวชายฝั่งประวัติศาสตร์ และเป็นพื้นที่เล่นน้ำที่ปลอดภัย",
+   "ออกแบบวงจรน้ำฝนจากวัตถุศิลปะลงร่องน้ำสู่แอ่ง ให้ลานเปลี่ยนไปตามสภาพอากาศ",
+   "ใช้ลวดลายการปูหินเดิมที่เป็นคลื่นและขอบแกรนิตนำทางการเคลื่อนที่",
+   "เว้นพื้นที่ว่างตรงกลางเพื่อความหมายของการสูญเสียและความยืดหยุ่นในการจัดกิจกรรม"
+  ],
+  "lessons_th": [
+   "อนุสรณ์สถานในไทยไม่จำเป็นต้องเป็นพื้นที่เคร่งขรึมห้ามแตะ อนุสรณ์ที่นั่งได้และเล่นน้ำได้ทำให้ความทรงจำอยู่ในชีวิตประจำวันของเมือง",
+   "ลานริมน้ำเล็ก ๆ ในเมืองเก่า (เช่น ริมแม่น้ำเจ้าพระยาหรือคลอง) สามารถใช้แอ่งน้ำตื้นสื่อแนวตลิ่งเดิมและเชื่อมคนกับน้ำได้",
+   "การทำงานร่วมกับศิลปินตั้งแต่ขั้นแนวคิดช่วยให้ศิลปะ พื้นผิว และระบบน้ำทำงานเป็นระบบเดียว",
+   "ต้นไม้เพียงไม่กี่ต้นที่เลือกอย่างมีความหมาย (พันธุ์พื้นเมือง) สามารถเป็นสัญลักษณ์และให้สมดุลแก่ลานขนาดเล็กได้"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       5.728918,
+       58.970236
+      ],
+      [
+       5.729299,
+       58.970094
+      ],
+      [
+       5.729485,
+       58.970351
+      ],
+      [
+       5.729211,
+       58.970424
+      ],
+      [
+       5.728918,
+       58.970236
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1227056300"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/00Wartime-seafarers-memorial_06.jpg",
+    "type": "photo",
+    "caption": "ประติมากรรมหินอ่อนรูปหัวเรือและแอ่งน้ำตื้นหน้าอาคารไม้เก่าสีขาวของลาน",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_13.jpg",
+    "type": "photo",
+    "caption": "แอ่งน้ำสะท้อนอาคารรอบลาน ประติมากรรมที่นั่งและต้นสนพื้นเมือง",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_01.jpeg",
+    "type": "photo",
+    "caption": "มุมกว้างของลานกับประติมากรรมที่นั่งและแอ่งน้ำ ล้อมด้วยอาคารเก่า",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_12.jpg",
+    "type": "photo",
+    "caption": "ผู้คนเดินผ่านประติมากรรมหินอ่อนข้างต้นสนในลาน",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_18.jpg",
+    "type": "photo",
+    "caption": "วัตถุอะลูมิเนียมหล่อ “Pending Phenomenon” บนเสาสแตนเลสบางด้านหลังลาน",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_02.jpeg",
+    "type": "photo",
+    "caption": "แอ่งน้ำ ก้อนหินในน้ำ และประติมากรรมที่นั่งในแสงแดด",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_04.jpg",
+    "type": "photo",
+    "caption": "ผู้มาเยือนเดินตามขอบแกรนิตที่นำเข้าสู่ลานและแอ่งน้ำ",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_03.jpg",
+    "type": "photo",
+    "caption": "เด็กเล่นก้อนหินในแอ่งน้ำตื้นบนพื้นหินปูลายคลื่น",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_07.jpg",
+    "type": "photo",
+    "caption": "แอ่งน้ำที่ระบุแนวชายฝั่งเดิม กับก้อนหินโผล่จากผิวน้ำ",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_08.jpg",
+    "type": "photo",
+    "caption": "สุนัขดื่มน้ำในแอ่งน้ำตื้นที่ปูหินลายคลื่น",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_17.jpg",
+    "type": "photo",
+    "caption": "ประติมากรรมหินอ่อนโค้งรูปคลื่นหัวเรือ มองจากมุมสูง",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_05.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดผิวหินอ่อนของประติมากรรมบนพื้นหินปู",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_09.jpg",
+    "type": "photo",
+    "caption": "ส่วนต่าง ๆ ของประติมากรรมที่นั่งวางบนพื้นหินปูลายโค้ง",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_10.jpg",
+    "type": "photo",
+    "caption": "ผิวโค้งของประติมากรรมกับก้อนหินในแอ่งน้ำ",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_11.jpg",
+    "type": "photo",
+    "caption": "ผู้ใช้สัมผัสพื้นผิวหินอ่อนของประติมากรรมที่นั่ง",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_19.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดหินอ่อนกับร่องน้ำและพื้นหินปู",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_14.jpg",
+    "type": "plan",
+    "caption": "ผังลานแสดงประติมากรรม แอ่งน้ำ วัตถุลอย และต้นสนสองต้น",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_15.jpg",
+    "type": "diagram",
+    "caption": "แผนภาพแนวคิดเชื่อมโยงความทรงจำ ความหวัง การจากไป และการรวมตัว",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/08/Wartime-seafarers-memorial_16.jpg",
+    "type": "section",
+    "caption": "รูปด้าน/รูปตัดลานกับวัตถุ Pending Phenomenon และอาคารโดยรอบ",
+    "credit": "ATSITE / Jone Kvie / Markus Johanson (via Landezine)",
+    "source": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "Landezine — Wartime Seafarers memorial in Stavanger by Atsite",
+    "url": "https://landezine.com/wartime-seafarers-memorial-in-stavanger-by-atsite/"
+   },
+   {
+    "title": "OpenStreetMap — Krigsseilerplassen",
+    "url": "https://www.openstreetmap.org/way/1227056300"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-28"
+ },
+ {
+  "id": "kovo-11-park-kaunas",
+  "name": "Kovo 11 Park",
+  "name_local": "Kovo 11-osios parkas",
+  "designer": "Inout.designstudio (Simona Gaigalaitė, Laura Norkūnaitė, Gabrielė Grigaitė; วิศวกรรม Mindaugas Gaigalas)",
+  "client": "Kaunas City Municipality",
+  "city": "Kaunas (Gričiupis)",
+  "country": "Lithuania",
+  "lat": 54.90641,
+  "lng": 23.97273,
+  "year": "2025",
+  "area": "22,977 sq. m. (14.4 ไร่) — ตามข้อมูลผู้ออกแบบใน gooood; ArchDaily ระบุ 6,932 sq. m. ซึ่งน่าจะเป็นเฉพาะส่วนที่ก่อสร้างใหม่",
+  "area_sqm": 22977,
+  "categories": [
+   "public-parks",
+   "recreation"
+  ],
+  "tags": [
+   "neighbourhood park renovation",
+   "children's playground",
+   "play labyrinth",
+   "in-ground trampolines",
+   "accessibility",
+   "lighting upgrade",
+   "post-Soviet housing estate",
+   "Eastern Europe"
+  ],
+  "awards": [],
+  "summary_th": "การปรับปรุงสวนสาธารณะระดับย่านในเขตอาคารชุดหนาแน่นของเมือง Kaunas ประเทศลิทัวเนีย จากสวนที่ขาดพื้นที่เล่น แสงสว่าง และทางเดินที่ใช้งานได้ ให้เป็นสวนอเนกประสงค์ที่มีลานเล่นหลายรูปแบบสำหรับเด็กทุกวัย ทางเดินเข้าถึงได้ทุกคน และระบบไฟใหม่",
+  "description_th": "Kovo 11 Park ตั้งอยู่ในย่าน Gričiupis ฝั่งขวาของแม่น้ำ Nemunas เมือง Kaunas ล้อมด้วยถนน Dujotiekio (ทิศใต้) ถนน Kovo 11 (ทิศตะวันออก) และถนน Salų (ทิศเหนือและตะวันตก) เป็นพื้นที่สร้างหนาแน่น มีอาคารชุด 12 ชั้นทางตะวันตก ตลาด Girstupis และสระว่ายน้ำ Gričiupis ทางตะวันออก และบ้านเดี่ยว 2–3 ชั้นทางใต้ ก่อนปรับปรุง สวนขาดพื้นที่พักผ่อนและลานเล่นเด็ก ระบบไฟส่องสว่างไม่เพียงพอ ทางเดินและวัสดุผิวไม่เหมาะกับการใช้งาน มีไม้พุ่มน้อยและการดูแลพื้นที่สีเขียวต่ำ ไม่มีทางเข้าสำหรับผู้พิการและรถกวาดหิมะ และถังขยะไม่พอ\n\nแนวคิดของ Inout.designstudio คือการปรับปรุงทั้งพื้นที่ให้เป็นสวนอเนกประสงค์ที่เชื่อมกิจกรรมหลายประเภทเข้าด้วยกันอย่างกลมกลืน ทั้งพักผ่อน กิจกรรมเคลื่อนไหว โซนโต้ตอบ และลานเล่นเด็ก โดยใช้องค์ประกอบสถาปัตยกรรมขนาดเล็กและภูมิทัศน์ที่สะท้อนบริบทท้องถิ่น เน้นความปลอดภัยและการพบปะของชุมชน\n\nสวนมีทางเข้าหลัก 3 จุด (ทิศใต้ 1 จุด และทิศตะวันออก 2 จุดผ่านบันได) และทางเข้ารองทางทิศเหนือและตะวันตก ทุกจุดเชื่อมกับระบบทางเดินเดิมที่ปรับแนวตามเส้นทางที่ผู้คนใช้จริง ฝั่งเหนือเป็นลานปีนป่ายสำหรับเด็กหลายช่วงวัยพร้อมห้องน้ำสาธารณะอัตโนมัติ ตรงข้ามทางเดินเป็นลานเล่นเขาวงกตจากชิ้นส่วนหลากรูปทรงและสี ส่วนกลางมีน้ำพุให้เด็กเล่นน้ำ ซุ้มเพอร์โกลาสำหรับพัก และแปลงพืชเพื่อการเรียนรู้ ฝั่งใต้เป็นโซนเล่นแบบโต้ตอบ ที่พักพร้อมชิงช้าและเปลญวน เนินดินเทียม และแทรมโพลีนฝังพื้น ส่วนเนินลาดด้านตะวันตกมีผนังปีนบนพื้นยาง การเข้าถึงสะดวกด้วยที่จอดรถรอบนอก ทางจักรยานยาว 4.16 กม. ตามถนน Kovo 11 และป้ายรถเมล์/รถรางไฟฟ้าที่ขอบตะวันออก\n\nด้านพืชพรรณ มีการฟื้นฟูสนามหญ้า ปลูกต้นไม้และไม้พุ่มใหม่ และแปลงไม้ประดับตามทางเดิน อุปกรณ์เล่นเด่นคือ ‘บ้านต้นไม้’ ทรงหลายเหลี่ยมโครงไม้ระแนงยกบนเสา เชื่อมด้วยสะพานเชือกและสไลเดอร์ หอคอยไม้หลังคาแหลม และพื้นยางสีเหลือง เขียว น้ำตาล ที่วาดเป็นวงกลมซ้อนกันเพื่อกำหนดโซน (ตามภาพถ่าย) มีป้ายข้อมูลที่ทางเข้าใต้และตะวันออกเฉียงใต้ ม้านั่งและถังขยะตามทางเดิน และระบบไฟใหม่ที่วางเสาไฟตามโครงข่ายทางเดินและการแบ่งโซน\n\nผลลัพธ์คือสวนที่ได้รับการปรับปรุงทั้งพื้นที่ ทั้งโครงสร้างพื้นฐาน การใช้งาน และความสวยงาม ใช้งานได้ทุกวัยและเข้าถึงได้สำหรับผู้พิการ บทวิเคราะห์ของ ArchUp ชี้ว่าโครงการทำได้ดีในการจัดทางเดินและการเชื่อมโซน แต่ยังเน้นโครงสร้างพื้นฐานมากกว่าการสร้างอัตลักษณ์ร่วมกับย่าน และจะต้องมีระบบดูแลรักษาระยะยาว (แหล่งข้อมูลไม่ได้เผยแพร่ตัวเลขผู้ใช้งานหรือประสิทธิภาพเชิงนิเวศ)",
+  "design_strategies": [
+   "สำรวจปัญหาเดิมอย่างเป็นระบบ (ไฟ ทางเดิน การเข้าถึง ถังขยะ พื้นที่เล่น) แล้วแก้ทั้งพื้นที่พร้อมกัน",
+   "ปรับแนวทางเดินตามเส้นทางที่ผู้คนใช้จริงและเชื่อมทุกทางเข้ากับโซนกิจกรรม",
+   "กระจายลานเล่นตามช่วงวัยและประเภทการเล่น (ปีนป่าย เขาวงกต เล่นน้ำ แทรมโพลีน ผนังปีน)",
+   "ใช้สีพื้นยางและรูปทรงวงกลมเป็นเครื่องมือกำหนดโซนและนำทาง",
+   "วางระบบไฟตามโครงข่ายทางเดินเพื่อความปลอดภัยยามค่ำ"
+  ],
+  "lessons_th": [
+   "สวนชุมชนในหมู่บ้านจัดสรรหรือเคหะชุมชนของไทยสามารถใช้แนวทาง ‘ปรับปรุงทั้งพื้นที่’ — ไฟ ทางเดินเข้าถึงได้ ถังขยะ — ควบคู่กับลานเล่น เพื่อให้ผลลัพธ์รู้สึกได้จริง",
+   "การกระจายอุปกรณ์เล่นหลายชนิดตามช่วงวัยทำให้สวนขนาดราว 14 ไร่รองรับครอบครัวได้หลากหลายโดยไม่แออัดจุดเดียว",
+   "น้ำพุเล่นน้ำและแทรมโพลีนฝังพื้นเป็นองค์ประกอบดูแลง่ายที่เหมาะกับสวนเมืองร้อน หากเพิ่มร่มเงาอย่างเพียงพอ",
+   "ควรวางแผนงบดูแลรักษาระยะยาวตั้งแต่ต้น เพราะอุปกรณ์เล่นไม้และพื้นยางต้องการการซ่อมบำรุงสม่ำเสมอ"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       23.970977,
+       54.905858
+      ],
+      [
+       23.970996,
+       54.905481
+      ],
+      [
+       23.971388,
+       54.905483
+      ],
+      [
+       23.971388,
+       54.905195
+      ],
+      [
+       23.972452,
+       54.905228
+      ],
+      [
+       23.973703,
+       54.905394
+      ],
+      [
+       23.973698,
+       54.907635
+      ],
+      [
+       23.973614,
+       54.907469
+      ],
+      [
+       23.973474,
+       54.907459
+      ],
+      [
+       23.973407,
+       54.907253
+      ],
+      [
+       23.973239,
+       54.907286
+      ],
+      [
+       23.973107,
+       54.907492
+      ],
+      [
+       23.972718,
+       54.906513
+      ],
+      [
+       23.971834,
+       54.906503
+      ],
+      [
+       23.971724,
+       54.906422
+      ],
+      [
+       23.971739,
+       54.906315
+      ],
+      [
+       23.971924,
+       54.906253
+      ],
+      [
+       23.971993,
+       54.906137
+      ],
+      [
+       23.971921,
+       54.905944
+      ],
+      [
+       23.971774,
+       54.905873
+      ],
+      [
+       23.970977,
+       54.905858
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/relation/14044704"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9e/159c/fe00/01cd/6c18/large_jpg/Kovo11Park_BirdView_02.jpg?1759391158",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวยาวของสวน แสดงลานเล่นหลากสี ทางเดิน และสนามหญ้าท่ามกลางแนวต้นไม้",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9d/159c/fe00/01cd/6c17/large_jpg/Kovo11Park_BirdView_01.jpg?1759391157",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานเล่นเด็กที่มีบ้านต้นไม้โครงไม้ระแนงทรงหลายเหลี่ยมยกบนเสา",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9c/159c/fe00/01cd/6c10/large_jpg/Kovo11Park_Aerial_01.jpg?1759391161",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแสดงโครงข่ายทางเดินโค้งที่เชื่อมโซนต่าง ๆ ของสวน",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9d/159c/fe00/01cd/6c16/large_jpg/Kovo11Park_AerialClose_07.jpg?1759391158",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานพื้นยางวงกลมซ้อนกับเนินดินเทียมและทางเดิน",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9f/159c/fe00/01cd/6c1c/large_jpg/Kovo11Park_Playground_02.jpg?1759391161",
+    "type": "photo",
+    "caption": "บ้านต้นไม้ไม้ระแนงหลายหลังเชื่อมด้วยสะพานเชือกบนพื้นยางสีเหลือง",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9f/159c/fe00/01cd/6c1b/large_jpg/Kovo11Park_Playground_01.jpg?1759391159",
+    "type": "photo",
+    "caption": "หอคอยไม้หลังคาแหลมพร้อมสไลเดอร์และเด็กที่กำลังเล่น",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c1f/large_jpg/Kovo11Park_Playground_05.jpg?1759391162",
+    "type": "photo",
+    "caption": "กลุ่มบ้านต้นไม้ทรงหลายเหลี่ยมยกบนเสาพร้อมบันไดและตาข่าย",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c1e/large_jpg/Kovo11Park_Playground_04.jpg?1759391158",
+    "type": "photo",
+    "caption": "บ้านต้นไม้ไม้ระแนงกับสไลเดอร์สเตนเลสและพื้นยางสีพาสเทล",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c26/large_jpg/Kovo11Park_PlayHouse_04.jpg?1759391301",
+    "type": "photo",
+    "caption": "สะพานเชือกเชื่อมบ้านต้นไม้กับสไลเดอร์ ด้านหลังเป็นแนวต้นไม้ใหญ่",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c22/large_jpg/Kovo11Park_Playground_08.jpg?1759391188",
+    "type": "photo",
+    "caption": "เนินดินเทียมโค้งมนและแทรมโพลีนฝังพื้นในโซนเล่นฝั่งใต้",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c20/large_jpg/Kovo11Park_Playground_06.jpg?1759391179",
+    "type": "photo",
+    "caption": "ลานเขาวงกตจากบล็อกหลากสีกับหอคอยไม้หลังคาแหลม",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c21/large_jpg/Kovo11Park_Playground_07.jpg?1759391163",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานเขาวงกตที่จัดบล็อกรูปตัว L หลากสีบนวงกลมสีเหลือง",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9c/159c/fe00/01cd/6c12/large_jpg/Kovo11Park_AerialClose_02.jpg?1759391156",
+    "type": "photo",
+    "caption": "ภาพมุมสูงโซนเล่นรูปสามเหลี่ยมที่ทางเดินแยกกำหนดขอบเขต",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9c/159c/fe00/01cd/6c11/large_jpg/Kovo11Park_AerialClose_01.jpg?1759391156",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานเล่นพื้นยางวงกลมซ้อนพร้อมบ้านต้นไม้หลายหลัง",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9c/159c/fe00/01cd/6c15/large_jpg/Kovo11Park_AerialClose_05.jpg?1759391157",
+    "type": "photo",
+    "caption": "ภาพมุมสูงโครงปีนเหล็กบนวงกลมสีเหลืองและแทรมโพลีนฝังพื้น",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9c/159c/fe00/01cd/6c14/large_jpg/Kovo11Park_AerialClose_04.jpg?1759391164",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแปลงพืชและซุ้มเพอร์โกลาในส่วนกลางของสวน",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c24/large_jpg/Kovo11Park_PlayHouse_02.jpg?1759391203",
+    "type": "photo",
+    "caption": "มุมมองภายในบ้านต้นไม้โครงไม้ระแนงที่เปิดสู่ทางเดินตาข่าย",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2da0/159c/fe00/01cd/6c27/large_jpg/Kovo11Park_PlayTower_01.jpg?1759391243",
+    "type": "photo",
+    "caption": "หอปีนไม้พร้อมทางลาดและเชือกบนพื้นยางสีเหลือง",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9e/159c/fe00/01cd/6c19/large_jpg/Kovo11Park_Context_01.jpg?1759391158",
+    "type": "photo",
+    "caption": "มองผ่านแนวลำต้นไม้ไปยังลานเขาวงกตหลากสี",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68de/2d9f/159c/fe00/01cd/6c1a/large_jpg/Kovo11Park_Detail_01.jpg?1759391177",
+    "type": "photo",
+    "caption": "รายละเอียดบล็อกคอนกรีตสีขาวและสีสนิมในลานเขาวงกต",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/68ef/b591/8913/0401/89eb/a00e/large_jpg/kovo11park-siteplan-27.jpg?1760540080",
+    "type": "plan",
+    "caption": "ผังบริเวณแสดงโซนผจญภัย โซนเล่น และพื้นที่สีเขียวของสวน",
+    "credit": "Laurynas Skeisgiela / Inout.designstudio (via ArchDaily)",
+    "source": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Kovo 11 Park / Inout.designstudio",
+    "url": "https://www.archdaily.com/1034680/kovo-11-park-inouesignstudio"
+   },
+   {
+    "title": "gooood — Kovo 11 Park Revitalization Project by Inout designstudio",
+    "url": "https://www.gooood.cn/en/kovo-11-park-revitalization-project-by-inout-designstudio.htm"
+   },
+   {
+    "title": "ArchUp — Kovo 11 Park in Kaunas: Design Analysis and User Experience Post-Redevelopment",
+    "url": "https://archup.net/kovo-11-park-redevelopment/"
+   },
+   {
+    "title": "OpenStreetMap — Kovo 11-osios parkas",
+    "url": "https://www.openstreetmap.org/relation/14044704"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-28"
+ },
+ {
+  "id": "parque-del-jaguar-tulum",
+  "name": "Parque del Jaguar",
+  "name_local": "Parque del Jaguar (เดิม Parque Nacional Tulum)",
+  "designer": "Colectivo C733 (Gabriela Carrillo, Eric Valdez, Israel Espín, Carlos Facio, José Amozurrutia) ร่วมกับ Hugo Sánchez Paisaje และ Taller Nuevos Territorios (ภูมิทัศน์)",
+  "client": "SEDATU (Secretaría de Desarrollo Agrario, Territorial y Urbano)",
+  "city": "Tulum, Quintana Roo",
+  "country": "Mexico",
+  "lat": 20.2246,
+  "lng": -87.4257,
+  "year": "2024",
+  "area": "10 sq. km. (6,250 ไร่) — พื้นที่คุ้มครองต่อเนื่องรวมมากกว่านี้ตามข้อมูลผู้ออกแบบ (ผนวกพื้นที่เพิ่มมากกว่า 3 ตร.กม.)",
+  "area_sqm": 10000000,
+  "categories": [
+   "recreation",
+   "forestry",
+   "historic",
+   "cycleways"
+  ],
+  "tags": [
+   "protected area",
+   "ecological corridor",
+   "dry-stone wall",
+   "depaving",
+   "runway removal",
+   "wildlife crossing",
+   "mangrove restoration",
+   "Maya heritage",
+   "tourism management",
+   "LILA 2026"
+  ],
+  "awards": [
+   "LILA 2026 — Jury Award (Landscape and Architecture)"
+  ],
+  "summary_th": "ยุทธศาสตร์ระดับดินแดนเพื่อปกป้องป่าเขตร้อน ป่าชายเลน เซโนเต และแหล่งโบราณคดี Tulum บนชายฝั่งแคริบเบียนของเม็กซิโก โดยกำหนดขอบเขตด้วยกำแพงหินแห้งยาว 18 กม. ผนวกพื้นที่คุ้มครองเพิ่มกว่า 300 เฮกตาร์ รื้อรันเวย์เก่าเพื่อฟื้นดินและพืช และจัดการสัญจรของนักท่องเที่ยวด้วยทางเดิน ทางจักรยาน และรถโดยสารไฟฟ้า",
+  "description_th": "พื้นที่เดิมที่รู้จักในชื่อ Parque Nacional Tulum มีคุณค่าทางนิเวศและวัฒนธรรมสูง ทั้งป่าเขตร้อน ป่าชายเลน เซโนเต แม่น้ำใต้ดิน ระบบนิเวศปะการัง และแหล่งโบราณคดี Tulum ซึ่งเป็นหนึ่งในแหล่งที่มีผู้เยี่ยมชมมากที่สุดของเม็กซิโก แต่พื้นที่จำนวนมากถูกแบ่งแยกโดยการครอบครองของเอกชน การพัฒนานอกระบบ ระบบนิเวศเสื่อมโทรม และสิ่งกีดขวางอย่างทางหลวง Cancún–Tulum และรันเวย์ทหารเก่า ท่ามกลางแรงกดดันจากการท่องเที่ยวและการขยายเมืองที่ไร้การควบคุม\n\nโครงการเริ่มจากคำถามว่า สถาปัตยกรรมจะช่วยปกป้องดินแดนที่เปราะบางโดยไม่เปลี่ยนให้เป็นสินค้าการบริโภคได้อย่างไร SEDATU มอบหมายให้ Colectivo C733 พัฒนาร่วมกับทีมสหสาขา ทั้งสถาปนิก นักชีววิทยา นักโบราณคดี นักมานุษยวิทยา นักออกแบบภูมิทัศน์ และหน่วยงานรัฐ โดยมองสถาปัตยกรรมเป็นเครื่องมือไกล่เกลี่ย ซ่อมแซม และอยู่ร่วม แทนการเข้าไปครอบครองพื้นที่\n\nโครงการทำงานผ่านสามปฏิบัติการ คือ กำหนดขอบเขต ขยาย และจัดระเบียบ การกำหนดขอบเขตใช้กำแพงหินแห้ง ‘tecorral’ ยาว 18 กม. จากหินปูนที่ขุดได้ในพื้นที่ ได้แรงบันดาลใจจากกำแพง albarrada และ ‘koot’ ของชาวมายา เป็นแนวกั้นที่พรุนให้สัตว์และกระบวนการทางชีวภาพผ่านได้ การขยายพื้นที่ผนวกเพิ่มกว่า 300 เฮกตาร์ รวมเป็นพื้นที่คุ้มครองต่อเนื่องกว่า 1,000 เฮกตาร์ มีทางข้ามสัตว์ป่าและเส้นทางนิเวศเชื่อมถิ่นที่อยู่ที่ขาดตอน และรื้อแอสฟัลต์ของรันเวย์เดิมเพื่อฟื้นดิน วัฏจักรน้ำ และพืชพื้นเมือง การจัดระเบียบลดการพึ่งพารถยนต์ส่วนตัวด้วยทางเดินเท้า ทางจักรยาน และรถขนส่งรวมไฟฟ้า กระจายผู้มาเยือนผ่านเครือข่ายทางเดินร่มรื่น เส้นทางโบราณคดี หอชมวิว ชายหาด สถานีนิเวศ และกิจกรรมวัฒนธรรม\n\nอาคารในอุทยานหลีกเลี่ยงความยิ่งใหญ่ เป็นโครงสร้างแนวราบต่ำ หลังคาเขียว ปาลาปาให้ร่มเงา ลานหิน และศาลาเปิดโล่ง จากวัสดุท้องถิ่น เช่น หินปูน ไม้ chicozapote ดิน sascab และหลังคาใบปาล์ม ใช้การระบายอากาศธรรมชาติ ร่มเงา และการเก็บน้ำฝน นอกจากนี้ยังมีพิพิธภัณฑ์ชายฝั่งตะวันออก (Museum of the Eastern Coast) หอสังเกตการณ์ พื้นที่ชุมชน และร้านอาหารที่บริหารโดยแม่ครัวและช่างฝีมือท้องถิ่น การปลูกป่าใหม่ ระบบซึมน้ำ และการฟื้นฟูพื้นที่ชุ่มน้ำและป่าชายเลนทำให้ ‘พื้นดิน’ เป็นงานออกแบบหลัก\n\nผลลัพธ์เชิงตัวเลขตามผู้ออกแบบ ได้แก่ กำแพงหินแห้ง 18 กม. พื้นที่ผนวกเพิ่มกว่า 300 เฮกตาร์ และพื้นที่คุ้มครองต่อเนื่องกว่า 1,000 เฮกตาร์ โครงการได้รับรางวัล LILA 2026 Jury Award ซึ่งคณะกรรมการชื่นชมว่าเป็นงานหลายระดับและกระจายตัว ตั้งแต่พิพิธภัณฑ์ การนำรันเวย์กลับมาใช้ใหม่ ไปจนถึงจุดชมวิวที่แนบเนียน และต่อต้านการทำให้ภูมิทัศน์เป็นสินค้า งานวิจัยเกี่ยวกับอุทยานแห่งชาติ Tulum ชี้ว่าความท้าทายหลักคือการกำหนดขีดความสามารถรองรับนักท่องเที่ยวในโซนโบราณคดีและชายหาด",
+  "design_strategies": [
+   "ใช้กำแพงหินแห้งจากวัสดุในพื้นที่เป็นขอบเขตที่ปกป้องแต่ยังพรุนให้สัตว์ผ่าน (ตีความภูมิปัญญามายาใหม่)",
+   "ขยายและเชื่อมพื้นที่คุ้มครองด้วยทางข้ามสัตว์ป่าและเส้นทางนิเวศ",
+   "รื้อพื้นผิวแข็ง (รันเวย์เก่า) เพื่อคืนดิน น้ำ และพืชพื้นเมือง",
+   "ลดรถยนต์ส่วนตัว และกระจายนักท่องเที่ยวผ่านทางเดิน ทางจักรยาน และรถไฟฟ้าโดยสาร",
+   "ออกแบบอาคารแนวราบต่ำด้วยวัสดุท้องถิ่นและกลยุทธ์ภูมิอากาศแบบ passive",
+   "ผนวกโปรแกรมวัฒนธรรมและเศรษฐกิจชุมชนเข้ากับการอนุรักษ์"
+  ],
+  "lessons_th": [
+   "แหล่งท่องเที่ยวธรรมชาติและโบราณสถานของไทยที่แออัด (เช่น อุทยานชายฝั่ง) อาจใช้การกระจายผู้มาเยือนผ่านทางเดินและรถไฟฟ้าโดยสาร แทนการสร้างลานจอดรถใกล้จุดหลัก",
+   "แนวกั้นเขตอุทยานไม่จำเป็นต้องเป็นรั้วทึบ กำแพงหินแห้งหรือแนวพืชที่สัตว์ผ่านได้ช่วยทั้งป้องกันการบุกรุกและรักษาความต่อเนื่องทางนิเวศ",
+   "การรื้อพื้นผิวแข็งที่เลิกใช้ (ลานจอด ถนนเก่า) เป็นวิธีฟื้นฟูที่คุ้มค่าและสื่อสารได้ชัด",
+   "การทำงานสหสาขาตั้งแต่ต้น (นักชีววิทยา นักโบราณคดี ชุมชน) จำเป็นสำหรับโครงการระดับดินแดนที่ซ้อนทับทั้งธรรมชาติและมรดก"
+  ],
+  "images": [
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_INAHtulum_Drone_0098.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแหล่งโบราณคดี Tulum ริมทะเลแคริบเบียน กับทางเดินใหม่ที่เชื่อมผ่านป่า",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/A_HEROPhoto.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมกว้างพื้นที่ทางเข้าอุทยาน อาคารแนวราบท่ามกลางผืนป่าเขตร้อน",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoCentroTulum_Drone_0019.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวดิ่งศูนย์ต้อนรับและพิพิธภัณฑ์ วางผังเป็นลานและอาคารแนวราบในป่า",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoCentroTulum_Drone_0004.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงรันเวย์เก่าที่ถูกรื้อแอสฟัลต์เป็นแถบ เพื่อฟื้นฟูดินและพืช",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoSurTulum_Drone_0016.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงเส้นทางผ่านป่าที่เชื่อมสู่ชายฝั่ง",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoCentroTulum_2321.jpg",
+    "type": "photo",
+    "caption": "ทางเดินใต้หลังคาโครงไม้ยาวท่ามกลางพืชพรรณ",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoCentroTulum_0655.jpg",
+    "type": "photo",
+    "caption": "อาคารพิพิธภัณฑ์โครงระแนงไม้เหนือลานหินปูนแบบขั้นบันได",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_INAHtulum_1246.jpg",
+    "type": "photo",
+    "caption": "ลานหินใต้ร่มไม้ใหญ่กับอาคารแนวราบที่กลมกลืนกับป่า",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AvistamientoTulum_Drone_0920.jpg",
+    "type": "photo",
+    "caption": "ทางเดินยกระดับวงโค้งระดับเรือนยอดไม้พร้อมหอบันไดเหล็ก",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AvistamientoTulum_0261.jpg",
+    "type": "photo",
+    "caption": "สะพานแขวนเหล็กระดับเรือนยอดเหนือป่าเขตร้อน",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AvistamientoTulum_Drone_0950.jpg",
+    "type": "photo",
+    "caption": "หอชมวิววงแหวนโผล่เหนือเรือนยอดไม้",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoSurTulum_0731.jpg",
+    "type": "photo",
+    "caption": "หอสังเกตการณ์ทรงสูงหุ้มระแนงไม้",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesoSurTulum_Drone_0006.jpg",
+    "type": "photo",
+    "caption": "หอสังเกตการณ์และทางเดินยกระดับท่ามกลางผืนป่ากว้าง",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesosTulum_1131.jpg",
+    "type": "photo",
+    "caption": "ผู้มาเยือนเดินบนทางเดินกว้างร่มรื่นผ่านป่า",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_AccesosTulum_0661.jpg",
+    "type": "photo",
+    "caption": "ศาลาหลังคาลาดเป็นจุดพักและจุดบริการตามเส้นทาง",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_FaroTulum_0421.jpg",
+    "type": "photo",
+    "caption": "ทางเดินยกระดับมุ่งสู่ชายฝั่งและหอคอยโบราณ",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_FaroTulum_Drone_0176.jpg",
+    "type": "photo",
+    "caption": "จุดชมวิวริมหน้าผาชายฝั่งพร้อมทางเดินคดเคี้ยว",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_RiscoNorteTulum_Dron_0157.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงทางเดินคอนกรีตซิกแซกเลียบหน้าผาชายฝั่ง",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_RiscoNorteTulum2_0121.jpg",
+    "type": "photo",
+    "caption": "ช่องทางเดินระหว่างผนังหินปูนที่เปิดมุมมองสู่ทะเล",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/C733_RiscoSurTulum_1523.jpg",
+    "type": "photo",
+    "caption": "ผู้มาเยือนก้าวข้ามแท่นหินเรียงบนโขดหินชายฝั่ง",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "url": "https://landezine.com/wp-content/uploads/2026/06/SitePlan.jpg",
+    "type": "plan",
+    "caption": "ผังที่ตั้งแสดงตำแหน่งองค์ประกอบของโครงการตลอดแนวชายฝั่ง Tulum",
+    "credit": "Colectivo C733 (via Landezine)",
+    "source": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   }
+  ],
+  "research": [
+   {
+    "title": "Aprovechamiento turístico sustentable del Parque Nacional Tulum",
+    "authors": "Segrado Pavón, Moo Canul, López Contreras, Medina Mata",
+    "year": 2024,
+    "journal": "Avances en nuevos modelos del turismo en México: Sustentabilidad, cultura e inclusión como ejes del desarrollo endógeno",
+    "url": "https://doi.org/10.21555/turismo.2024.02",
+    "note_th": "ประเมินระดับการใช้ประโยชน์เชิงท่องเที่ยวอย่างยั่งยืนของอุทยานแห่งชาติ Tulum ด้วยวิธีหลายเกณฑ์ และคำนวณขีดความสามารถรองรับนักท่องเที่ยวและจักรยานในโซนโบราณคดีและชายหาด ซึ่งเป็นพื้นที่หลักของโครงการ"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Landezine — Parque EL Jaguar by Colectivo C733 (LILA 2026 Jury Award)",
+    "url": "https://landezine.com/parque-el-jaguar-by-colectivo-c733/"
+   },
+   {
+    "title": "OpenStreetMap — Parque Nacional Tulum",
+    "url": "https://www.openstreetmap.org/relation/16495000"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-28"
+ },
+ {
+  "id": "haid-science-park-guangzhou",
+  "name": "HAID Science Park (HAID Biotechnology Headquarters Campus)",
+  "name_local": "海大生物科技总部科学园",
+  "designer": "LOLA Landscape Architects (ภูมิสถาปัตยกรรม); NBBJ และ Guangzhou Design Institute Group (สถาปัตยกรรม)",
+  "client": "Guangzhou Haid Group / Guangzhou Haoyue Biotechnology Development Co., Ltd.",
+  "city": "Guangzhou (Panyu District)",
+  "country": "China",
+  "lat": 23.02876,
+  "lng": 113.44352,
+  "year": "2024 (ออกแบบ 2021–2022, ก่อสร้าง 2023–2024)",
+  "area": "117,600 sq. m. (73.5 ไร่)",
+  "area_sqm": 117600,
+  "categories": [
+   "industrial-commercial",
+   "flood-suds"
+  ],
+  "tags": [
+   "corporate campus",
+   "retained fishpond",
+   "constructed wetland",
+   "closed-loop water",
+   "microclimate simulation",
+   "subtropical climate",
+   "WLA Awards 2026"
+  ],
+  "awards": [
+   "WLA Awards 2026 — Honourable Mention, Built: Commercial Landscape Design"
+  ],
+  "summary_th": "ภูมิทัศน์วิทยาเขตสำนักงานใหญ่ด้านเทคโนโลยีชีวภาพขนาด 11.76 เฮกตาร์ในเขต Panyu เมืองกว่างโจว ที่เก็บบ่อปลาเดิมไว้เป็นทะเลสาบกลาง ใช้พื้นที่ชุ่มน้ำประดิษฐ์กรองน้ำฝนเป็นระบบหมุนเวียนปิด และใช้การจำลองการเคลื่อนที่ของผู้ใช้กับภูมิอากาศเพื่อวางร่มเงา พืช และน้ำ",
+  "description_th": "ที่ตั้งในเขต Panyu เมืองกว่างโจว เดิมเป็นภูมิทัศน์เกษตรที่มีบ่อปลาและโรงเรือน สอดคล้องกับพันธกิจของกลุ่ม Haid ที่มุ่งพัฒนาชนบทจีนด้วยนวัตกรรมการเกษตร ความท้าทายคือสร้างวิทยาเขตวิจัยเทคโนโลยีชีวภาพในภูมิอากาศกึ่งร้อนชื้นที่ร้อนและชื้นจัด โดยไม่ลบอัตลักษณ์เดิมของที่ดิน\n\nแทนการ ‘ถางแล้วสร้าง’ LOLA เก็บและปรับบ่อปลากลางให้เป็นแกนหลักของภูมิทัศน์ รักษาต้นไม้ใหญ่และแหล่งน้ำเดิม แนวคิดคือ ‘สิ่งมีชีวิตเทคโนโลยีชีวภาพที่หายใจได้’ (Breathing Bio-Tech Organism) ใช้รูปทรงที่ได้แรงบันดาลใจจากการไหลและกระบวนการทางชีวภาพ เช่น ทางเดินอินทรีย์ ลวดลายพาราเมตริก และรูปทรงคล้ายเยื่อหุ้มเซลล์\n\nผังจัดรอบทะเลสาบกลางซึ่งเป็นหัวใจทั้งทางนิเวศและพื้นที่ การสัญจรใช้โครงข่ายทางเดินอินทรีย์ ทางเชื่อมใต้ดิน และทางเดินระดับพื้นที่แยกคนเดิน งานบริการ และรถยนต์ออกจากกัน ผู้ออกแบบใช้การจำลองการเคลื่อนที่ของผู้ใช้เพื่อระบุโซนพลังงานสูงและต่ำ แล้วกระจายวัสดุปูพื้นซึมน้ำและสะท้อนแสงต่ำ แปลงพืชหนาแน่น และองค์ประกอบน้ำเพื่อลดความร้อน ภูมิประเทศลาดและพื้นที่ชุ่มน้ำประดิษฐ์กรองน้ำฝนก่อนไหลลงทะเลสาบ ทำให้เป็นระบบจัดการน้ำหมุนเวียนแบบปิดที่เก็บ กรอง และนำน้ำกลับมาใช้ภายในวิทยาเขต\n\nต้นไม้และแปลงปลูกวางตามการวิเคราะห์แสงแดดและลมโดยละเอียด เพื่อให้ร่มเงาสูงสุดและสร้างพื้นที่ภายนอกที่สบาย มีดาดฟ้าทำงานริมทะเลสาบ ลานทำสมาธิ ทางเดินไม้ยกระดับต่อเนื่อง ถนนดอกไม้บาน และขั้นบันไดนั่งสำหรับรับประทานอาหารและพบปะ ใกล้หอพักพนักงานมีพืชหลายชั้นที่สร้าง ‘ห้องนั่งเล่นกลางแจ้ง’ ทั้งสำหรับกิจกรรมกลุ่มและการพักผ่อนส่วนตัว (ภาพถ่ายแสดงศาลาหลังคาโลหะทรงจานเหนือลานจมใต้ระดับ และขอบบ่อน้ำวงกลมโรยกรวด)\n\nผลลัพธ์คือวิทยาเขตขนาด 11.76 เฮกตาร์ (ออกแบบ 2021–2022 ก่อสร้าง 2023–2024) ที่ภูมิทัศน์ทำหน้าที่เป็นระบบนิเวศที่มีชีวิต ทั้งควบคุมภูมิอากาศจุลภาค จัดการน้ำฝน และเป็นพื้นที่ทำงานกลางแจ้ง โครงการได้รับ Honourable Mention จาก WLA Awards 2026 ประเภท Commercial Landscape Design (แหล่งข้อมูลไม่ได้เผยแพร่ตัวเลขประสิทธิภาพเชิงปริมาณ เช่น อุณหภูมิที่ลดลงหรือปริมาณน้ำที่นำกลับมาใช้)",
+  "design_strategies": [
+   "เก็บบ่อปลาและต้นไม้ใหญ่เดิมไว้เป็นแกนภูมิทัศน์ แทนการถางพื้นที่ใหม่ทั้งหมด",
+   "ใช้การจำลองการเคลื่อนที่ของผู้ใช้และการวิเคราะห์แดด/ลมในการวางร่มเงา วัสดุ และน้ำ",
+   "ใช้เนินลาดและพื้นที่ชุ่มน้ำประดิษฐ์กรองน้ำฝนสู่ทะเลสาบกลางเป็นระบบหมุนเวียนปิด",
+   "แยกการสัญจรคนเดิน งานบริการ และรถยนต์ด้วยทางเดินหลายระดับรวมทางเชื่อมใต้ดิน",
+   "ขยายพื้นที่ทำงานสู่ภายนอกด้วยดาดฟ้าริมน้ำ ลานทำสมาธิ และทางเดินไม้ต่อเนื่อง"
+  ],
+  "lessons_th": [
+   "นิคมหรือวิทยาเขตสำนักงานในไทยที่สร้างบนที่ดินเกษตร (บ่อปลา นาข้าว) สามารถเก็บแหล่งน้ำเดิมเป็นแก้มลิงและแกนภูมิทัศน์ได้ ลดต้นทุนถมดินและเพิ่มอัตลักษณ์",
+   "ภูมิอากาศร้อนชื้นของไทยใกล้เคียงกว่างโจว การวางต้นไม้ตามการวิเคราะห์แดดและลมช่วยให้พื้นที่ภายนอกใช้งานได้จริง",
+   "พื้นที่ชุ่มน้ำประดิษฐ์ก่อนลงบ่อหลักช่วยรักษาคุณภาพน้ำ และนำน้ำกลับมาใช้รดน้ำต้นไม้ได้",
+   "ควรเก็บตัวเลขประสิทธิภาพหลังใช้งาน (อุณหภูมิ น้ำ ผู้ใช้) เพื่อใช้เป็นหลักฐานในโครงการถัดไป"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       113.440735,
+       23.028053
+      ],
+      [
+       113.441287,
+       23.027806
+      ],
+      [
+       113.442037,
+       23.027782
+      ],
+      [
+       113.442632,
+       23.027571
+      ],
+      [
+       113.442903,
+       23.027276
+      ],
+      [
+       113.443671,
+       23.027273
+      ],
+      [
+       113.444072,
+       23.027681
+      ],
+      [
+       113.444438,
+       23.027537
+      ],
+      [
+       113.444685,
+       23.027695
+      ],
+      [
+       113.445262,
+       23.027775
+      ],
+      [
+       113.445322,
+       23.028074
+      ],
+      [
+       113.446284,
+       23.028844
+      ],
+      [
+       113.44517,
+       23.029688
+      ],
+      [
+       113.443959,
+       23.02966
+      ],
+      [
+       113.443697,
+       23.029869
+      ],
+      [
+       113.442606,
+       23.030216
+      ],
+      [
+       113.442042,
+       23.030141
+      ],
+      [
+       113.440935,
+       23.028949
+      ],
+      [
+       113.440735,
+       23.028053
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/relation/13617906"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-architects-haid-campus-2-lake-ring-bird-eye.webp",
+    "type": "photo",
+    "caption": "ภาพมุมสูงทะเลสาบกลาง (บ่อปลาเดิม) ล้อมด้วยทางเดินไม้และอาคารวิจัย",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-architects-haid-campus-1.webp",
+    "type": "photo",
+    "caption": "อาคารสำนักงานใหญ่กับลานต้นไม้และแอ่งน้ำด้านหน้า",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-architects-haid-campus-3-lake-ring.webp",
+    "type": "photo",
+    "caption": "ทางเดินไม้โค้งริมทะเลสาบผ่านแนวพืชริมน้ำ",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-architects-haid-campus-4.webp",
+    "type": "photo",
+    "caption": "วงแหวนรอบทะเลสาบกับขั้นบันไดนั่งและแปลงพืช",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-architects-haid-campus-5-boulevard.webp",
+    "type": "photo",
+    "caption": "ถนนภายในร่มรื่นด้วยแถวต้นไม้และแปลงไม้พุ่ม",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-8-outdoor-office-space.webp",
+    "type": "photo",
+    "caption": "ลานพื้นหินกับแอ่งน้ำตื้นรูปทรงอิสระและพุ่มไม้กลม",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-10-water-pavilion-sunken-plaza-1.webp",
+    "type": "photo",
+    "caption": "ศาลาหลังคาโลหะทรงจานเหนือแอ่งน้ำในลานจมใต้ระดับ",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-11-water-pavilion-sunken-plaza-3.webp",
+    "type": "photo",
+    "caption": "บันไดโค้งลงสู่ลานจมใต้ระดับใต้หลังคาทรงจาน",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-6-residential-area-meeting-space-2.webp",
+    "type": "photo",
+    "caption": "พื้นที่พบปะใกล้หอพักพนักงาน ปลูกพืชหลายชั้นรอบลานวงกลม",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-7-residential-area-meeting-space-1.webp",
+    "type": "photo",
+    "caption": "ห้องนั่งเล่นกลางแจ้งร่มรื่นด้วยไม้ยืนต้นและพุ่มไม้ ใกล้อาคารพักอาศัย",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-9-outdoor-office-space-detail-3.webp",
+    "type": "photo",
+    "caption": "รายละเอียดขอบแอ่งน้ำวงกลมกับกรวดและไม้คลุมดินดอกขาว",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "url": "https://worldlandscapearchitect.com/wp-content/uploads/2026/09/HCG-20250611-lola-landscape-haid-campus-12-masterplan.webp",
+    "type": "plan",
+    "caption": "ผังแม่บทวิทยาเขตแสดงทะเลสาบกลาง อาคาร และโครงข่ายพื้นที่สีเขียว",
+    "credit": "LOLA Landscape Architects (via World Landscape Architecture)",
+    "source": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "World Landscape Architecture — HAID Science Park | LOLA Landscape Architects (WLA Awards 2026)",
+    "url": "https://worldlandscapearchitect.com/haid-science-park-lola-landscape-architects/"
+   },
+   {
+    "title": "OpenStreetMap — 海大生物科技总部科学园",
+    "url": "https://www.openstreetmap.org/relation/13617906"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W44",
+  "added_date": "2026-10-28"
+ }
+]

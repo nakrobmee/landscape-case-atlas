@@ -1,0 +1,1034 @@
+[
+ {
+  "id": "dumas-sea-face-surat",
+  "name": "Dumas Sea Face Masterplan (Dumas Sea-Face and Eco-Tourism Park)",
+  "designer": "INI Design Studio (Ahmedabad) — สถาปัตยกรรม ภูมิสถาปัตยกรรม และผังเมือง",
+  "client": "Surat Municipal Corporation (SMC)",
+  "city": "Surat (Dumas)",
+  "country": "India",
+  "lat": 21.0807,
+  "lng": 72.7157,
+  "year": "2026",
+  "area": "1.02 sq. km. (638 ไร่) — ตามข้อมูลผู้ออกแบบใน ArchDaily; ข่าว ANI ระบุพื้นที่โครงการรวมราว 1.52 ตร.กม. ตลอดแนวชายฝั่งราว 5 กม.",
+  "area_sqm": 1020618,
+  "categories": [
+   "masterplanning",
+   "recreation",
+   "greenways"
+  ],
+  "tags": [
+   "waterfront",
+   "coastal landscape",
+   "promenade",
+   "cycle track",
+   "children's play",
+   "eco-tourism",
+   "Arabian Sea"
+  ],
+  "awards": [],
+  "summary_th": "ผังแม่บทพัฒนาชายฝั่งดูมัสของเมืองสุรัต ตรงจุดที่แม่น้ำตาปีไหลลงทะเลอาหรับ เปลี่ยนแนวชายหาดที่กระจัดกระจายให้เป็นภูมิทัศน์สาธารณะริมทะเลต่อเนื่องราว 5 กม. พร้อมทางเดิน ทางจักรยาน สวน และลานเล่น ปัจจุบันมีผู้มาเยือนกว่า 25,000 คนต่อวัน",
+  "description_th": "หาดดูมัส (Dumas) อยู่ทางตะวันตกเฉียงใต้ของเมืองสุรัต รัฐคุชราต ตรงจุดที่แม่น้ำตาปีไหลลงทะเลอาหรับ แม้เป็นที่พักผ่อนของชาวเมืองมายาวนาน แต่ก่อนโครงการ แนวชายฝั่งนี้ถูกพัฒนาเป็นช่วง ๆ ไม่ต่อเนื่อง เข้าถึงยาก และไม่มีวิสัยทัศน์ร่วม ทำให้เป็นเพียงจุดปิกนิกท้องถิ่น ขณะที่สุรัตเป็นหนึ่งในเมืองที่เติบโตเร็วที่สุดของอินเดียและขาดพื้นที่สาธารณะคุณภาพสูง\n\nเทศบาลนครสุรัต (SMC) มอบหมายให้ INI Design Studio สำรวจและวิเคราะห์พื้นที่ แล้วเสนอแนวทาง 4 ด้านเพื่อพัฒนาหาดให้เป็นแหล่งนันทนาการของทั้งชาวเมืองและนักท่องเที่ยว แนวคิดหลักคือการมองขอบทะเลเป็น “ภูมิทัศน์ชายฝั่งที่มีชีวิต” ที่ระบบนิเวศ ชีวิตพลเมือง และอัตลักษณ์เมืองมาบรรจบกัน และเชื่อมคนเมืองกลับสู่มรดกทางธรรมชาติทั้งบนบกและทะเล\n\nผังแม่บทเย็บต่อพื้นที่ย่อยที่เคยแยกส่วนให้เป็นประสบการณ์ริมน้ำต่อเนื่อง ประกอบด้วยทางเดินเลียบทะเล ทางจักรยานสีแดงที่แยกจากทางเดิน ลานเด็กเล่น สวนภูมิทัศน์ ลานหญ้าวงกลมแบบขั้นบันได หลังคาร่มเงารูปคลื่น ที่นั่งหันหน้าสู่ทะเล อาคารบริการ ที่จอดรถ และจุดชาร์จรถยนต์ไฟฟ้า โดยมีแนวหินกันคลื่นเป็นขอบระหว่างสวนกับหาดเลนกว้าง\n\nภาพถ่ายแสดงเนินดินคลุมหญ้าที่แบ่งพื้นที่ย่อย ทางเดินคดเคี้ยว แนวต้นปาล์มให้ร่มทางจักรยาน แปลงไม้ดอกสีสด และระบบไฟส่องสว่างที่ทำให้ใช้งานได้ถึงค่ำ ทีมงานประกอบด้วยวิศวกรโครงสร้างงานชายฝั่ง Global Marine และที่ปรึกษาระบบชลประทาน Integrated Flow tech\n\nโครงการแล้วเสร็จปี 2026 ตามข้อมูล ArchDaily ข่าว ANI (มิถุนายน 2026) รายงานว่าดูมัสเปลี่ยนจากจุดปิกนิกท้องถิ่นเป็นแหล่งท่องเที่ยวที่มีผู้มาเยือนมากกว่า 25,000 คนต่อวัน และสร้างโอกาสในการประกอบอาชีพให้คนในพื้นที่",
+  "design_strategies": [
+   "เย็บต่อพื้นที่ริมทะเลที่เคยแยกส่วนให้เป็นแนวสาธารณะต่อเนื่องยาวราว 5 กม.",
+   "แยกทางจักรยานออกจากทางเดิน และใช้แนวต้นปาล์มให้ร่มเงาตลอดเส้นทาง",
+   "ใช้เนินดิน ลานหญ้าขั้นบันได และหลังคาร่มเงาเป็นห้องกลางแจ้งที่รับคนจำนวนมาก",
+   "รวมสิ่งอำนวยความสะดวก (ลานเด็กเล่น ที่จอดรถ จุดชาร์จ EV) ไว้ในผังเดียวกันเพื่อรองรับการท่องเที่ยว",
+   "จัดไฟส่องสว่างให้ใช้งานได้ตั้งแต่ช่วงเย็นถึงค่ำ ซึ่งเป็นเวลาที่อากาศเย็นลง"
+  ],
+  "lessons_th": [
+   "ชายหาดเมืองในไทย เช่น บางแสนหรือหาดชะอำ อาจใช้แนวคิดเย็บต่อพื้นที่ย่อยให้เป็นแนวสาธารณะต่อเนื่องแทนการพัฒนาทีละจุด",
+   "ในภูมิอากาศร้อน ร่มเงาและไฟส่องสว่างทำให้ชายหาดใช้งานได้ช่วงเย็น-ค่ำ ซึ่งเป็นเวลาที่คนออกมามากที่สุด",
+   "การแยกทางจักรยานกับทางเดินชัดเจนช่วยลดความขัดแย้งเมื่อมีผู้ใช้หลายหมื่นคนต่อวัน"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c996/large_jpg/Dumas_Sea_Face_Masterplan-01.jpg?1790887454",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวชายฝั่งดูมัส ทางเดินริมทะเลขนานกับเนินหญ้าและทางจักรยานสีแดง",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9b2/large_jpg/Dumas_Masterplan.jpg?1790887586",
+    "type": "plan",
+    "caption": "ผังแม่บท Dumas Sea Face แสดงการเชื่อมพื้นที่ชายฝั่งที่เคยแยกส่วนให้เป็นแนวสาธารณะต่อเนื่อง",
+    "credit": "INI Design Studio / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9a1/large_jpg/Dumas_Sea_Face_Masterplan-10.jpg?1790887464",
+    "type": "photo",
+    "caption": "ลานทรายและทางเดินโค้งท่ามกลางต้นปาล์มและแปลงไม้พุ่ม",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c99e/large_jpg/Dumas_Sea_Face_Masterplan-07.jpg?1790887463",
+    "type": "photo",
+    "caption": "หลังคาร่มเงารูปคลื่นเหนือลานนั่งพักริมทางเดิน",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9a0/large_jpg/Dumas_Sea_Face_Masterplan-09.jpg?1790887460",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานหญ้าวงกลมแบบขั้นบันไดสำหรับนั่งพักและชมกิจกรรม",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c999/large_jpg/Dumas_Sea_Face_Masterplan-02.jpg?1790887449",
+    "type": "photo",
+    "caption": "ภาพมุมสูงลานกิจกรรมทรงกลมและแปลงสวนเรขาคณิตข้างแนวหินชายฝั่ง",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c99a/large_jpg/Dumas_Sea_Face_Masterplan-03.jpg?1790887449",
+    "type": "photo",
+    "caption": "เนินดินคลุมหญ้าและทางเดินคดเคี้ยวที่แบ่งพื้นที่ย่อยของสวน",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c998/large_jpg/Dumas_Sea_Face_Masterplan-01-1.jpg?1790887455",
+    "type": "photo",
+    "caption": "ภาพมุมสูงยามเย็น แนวสวนทอดยาวขนานหาดเลนกว้างของทะเลอาหรับ",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c99b/large_jpg/Dumas_Sea_Face_Masterplan-04.jpg?1790887461",
+    "type": "photo",
+    "caption": "แนวหินกันคลื่นกับลานทางเดินกว้างและแปลงไม้ที่ขอบสวน",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9a8/large_jpg/Dumas_Sea_Face_Masterplan-16.jpg?1790887521",
+    "type": "photo",
+    "caption": "ผู้คนนั่งใต้หลังคาร่มเงา ล้อมด้วยแปลงไม้ดอกสีส้มแดง",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9ab/large_jpg/Dumas_Sea_Face_Masterplan-19.jpg?1790887579",
+    "type": "photo",
+    "caption": "ลานเครื่องเล่นเด็กบนพื้นยางสีสด",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9ac/large_jpg/Dumas_Sea_Face_Masterplan-20.jpg?1790887541",
+    "type": "photo",
+    "caption": "ลานทางเดินกับต้นปาล์มและเสาไฟที่ผู้มาเยือนใช้เดินเล่น",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9ad/large_jpg/Dumas_Sea_Face_Masterplan-21.jpg?1790887546",
+    "type": "photo",
+    "caption": "ทางจักรยานสีแดงแยกจากทางเดิน ร่มด้วยแนวต้นปาล์ม",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9a4/large_jpg/Dumas_Sea_Face_Masterplan-13.jpg?1790887500",
+    "type": "photo",
+    "caption": "ทางเดินริมทะเลยามเย็น มีม้านั่งและแปลงไม้ดอกขนาบ",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c9a5/large_jpg/Dumas_Sea_Face_Masterplan-13-1.jpg?1790887466",
+    "type": "photo",
+    "caption": "ภาพมุมสูงทางเดินริมทะเลที่มีผู้คนหนาแน่นข้างแนวหินชายฝั่ง",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f8/07c3/d100/017f/c99f/large_jpg/Dumas_Sea_Face_Masterplan-08.jpg?1790887467",
+    "type": "photo",
+    "caption": "หลังคาร่มเงารูปคลื่นยามพระอาทิตย์ตก หันหน้าสู่ทะเล",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c99d/large_jpg/Dumas_Sea_Face_Masterplan-06.jpg?1790887442",
+    "type": "photo",
+    "caption": "ลานเครื่องเล่นเด็กและลานกิจกรรมยามพระอาทิตย์ตก",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abe/c5f7/07c3/d100/017f/c99c/large_jpg/Dumas_Sea_Face_Masterplan-05.jpg?1790887438",
+    "type": "photo",
+    "caption": "ภาพมุมสูงยามค่ำ แสงไฟตามทางเดินและลานกิจกรรมตลอดแนวชายฝั่ง",
+    "credit": "Vinay Panjwani / ArchDaily",
+    "source": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Dumas Sea Face Masterplan / INI Design Studio",
+    "url": "https://www.archdaily.com/1186210/dumas-sea-face-masterplan-ini-design-studio"
+   },
+   {
+    "title": "INI Design Studio — Dumas Sea Face Masterplan",
+    "url": "https://inidesignstudio.com/dumas-sea-face-masterplan/"
+   },
+   {
+    "title": "NewKerala (ANI) — Gujarat's Dumas beach emerges as world-class tourism destination",
+    "url": "https://www.newkerala.com/news/a/from-seaside-escape-global-attraction-gujarats-dumas-beach-626.htm"
+   },
+   {
+    "title": "Asianet Newsable — Dumas Seaface project transforms Surat into a top tourism hotspot",
+    "url": "https://newsable.asianetnews.com/india/dumas-seaface-project-transforms-surat-into-a-top-tourism-hotspot-articleshow-q95pg5l"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W43",
+  "added_date": "2026-10-21"
+ },
+ {
+  "id": "comillas-waterfront-promenade",
+  "name": "Comillas Waterfront Promenade",
+  "name_local": "Paseo marítimo de Comillas",
+  "designer": "Hector Navarro + ARKHITEKTON; ภูมิทัศน์ Diego Jardinería (Diego Cuartas & Adolfo Vila)",
+  "city": "Comillas (Cantabria)",
+  "country": "Spain",
+  "lat": 43.3887,
+  "lng": -4.2866,
+  "year": "2026",
+  "area": "5,400 sq. m. (3.4 ไร่)",
+  "area_sqm": 5400,
+  "categories": [
+   "green-streets",
+   "urban-squares",
+   "recreation"
+  ],
+  "tags": [
+   "seafront",
+   "dune planting",
+   "permeable paving",
+   "car-free conversion",
+   "coastal vegetation",
+   "limestone riprap"
+  ],
+  "awards": [],
+  "summary_th": "เปลี่ยนทางเท้าแคบและลานจอดรถขนาดใหญ่ริมหาดโกมิยัส แคว้นกันตาเบรีย ให้เป็นทางเดินริมทะเลสายใหม่ที่ได้แรงบันดาลใจจากระบบนิเวศเนินทราย ยอมให้ทรายที่ลมพัดเข้ามาเป็นส่วนหนึ่งของแปลงพืชและพื้นปูซึมน้ำได้",
+  "description_th": "โกมิยัส (Comillas) เป็นเมืองชายฝั่งขนาดเล็กในแคว้นกันตาเบรียทางเหนือของสเปน มีชื่อเสียงจาก El Capricho หนึ่งในอาคารไม่กี่หลังของกาวดีนอกแคว้นกาตาลุญญา ก่อนโครงการ แนวริมหาดเป็นทางเท้าแคบติดลานจอดรถขนาดใหญ่ ทำให้เมืองแทบไม่มีพื้นที่สาธารณะที่สัมพันธ์กับชายหาด\n\nแทนการปรับปรุงทางเดินเดิม โครงการสร้าง “แนวหน้าทะเลใหม่” โดยทวงคืนชายฝั่งช่วงนี้ให้คนเดินเท้าและผนวกเข้ากับเครือข่ายพื้นที่สาธารณะของเมือง แนวคิดคือทำงานร่วมกับกระบวนการที่มีอยู่แล้วในพื้นที่ ได้แก่ ลม ทราย พืช น้ำ และการเคลื่อนที่ โดยได้แรงบันดาลใจจากระบบนิเวศเนินทรายของชายฝั่งกันตาเบรีย\n\nทางเดินถูกออกแบบเป็นภูมิทัศน์เชิงเส้นระหว่างเนื้อเมืองกับหาด ลดพื้นที่รถยนต์และขยายพื้นที่คนเดิน พื้นปูใหม่ให้ความต่อเนื่องของการเดิน สลับกับแถบแปลงพืชและจุดพัก ม้านั่งถูกวางกระจายเป็นตัวเดี่ยวแทนแนวเฟอร์นิเจอร์ต่อเนื่อง ต้นไม้เดิมถูกเก็บไว้เป็นร่มเงาของที่นั่งที่มองออกสู่อ่าว และมีซุ้มขายไอศกรีมรูปแบบศาลาเบาเป็นส่วนหนึ่งของแนวหน้าทะเล\n\nแทนที่จะมองทรายเป็นสิ่งต้องกวาดทิ้ง ทรายที่ลมและผู้มาเล่นน้ำพาขึ้นมาจะพักตัวในแปลงพืชและพื้นปูซึมน้ำได้ แปลงไม้รูปเนินทรายนำพืชชายฝั่งเข้ามาในทางเดิน หินปูนท้องถิ่นแบบหินทิ้ง (riprap) ใช้กำหนดขอบ ที่นั่ง และการเปลี่ยนผ่านระหว่างพื้นผิว และช่วยประสานกับราวลูกกรงประวัติศาสตร์ริมทะเล วัสดุหลักคือหิน คอนกรีต และเหล็ก\n\nผลลัพธ์คือพื้นที่สาธารณะริมทะเลราว 5,400 ตร.ม. ที่เปลี่ยนจากพื้นที่ของรถเป็นของคน และสร้างการเปลี่ยนผ่านต่อเนื่องระหว่างเมืองกับหาด ข้อมูลที่เผยแพร่ไม่ได้ระบุชนิดพืช งบประมาณ หรือวันเปิดใช้",
+  "design_strategies": [
+   "ลดพื้นที่จอดรถ/ทางรถริมหาด แล้วคืนพื้นที่ให้คนเดินเป็นแนวหน้าทะเลใหม่",
+   "ยอมรับทรายที่ลมพัดเข้ามาเป็นส่วนหนึ่งของแปลงพืชและพื้นปู แทนการกวาดทิ้ง",
+   "ใช้พื้นปูซึมน้ำได้ให้น้ำและทรายกลับคืนสู่พื้นดิน",
+   "ใช้หินปูนท้องถิ่นแบบหินทิ้งเป็นขอบแปลงและที่นั่ง เชื่อมกับภูมิทัศน์หินชายฝั่ง",
+   "วางม้านั่งเดี่ยวกระจายและเก็บต้นไม้เดิมไว้เป็นร่มเงาที่มองออกสู่ทะเล"
+  ],
+  "lessons_th": [
+   "ถนนเลียบหาดในไทยที่ถูกรถยนต์และที่จอดรถยึดครอง สามารถเปลี่ยนเป็นทางเดินริมทะเลแบบมีแปลงพืชชายหาดได้ด้วยงบไม่มาก",
+   "การออกแบบให้ทราย น้ำ และพืชทำงานร่วมกัน ช่วยลดภาระการดูแลรักษา (เช่นการกวาดทราย) ในระยะยาว",
+   "ใช้หินและพืชท้องถิ่นเพื่อให้พื้นที่สาธารณะกลมกลืนกับภูมิทัศน์ชายฝั่งเดิม"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc6/large_jpg/004.jpg?1791384655",
+    "type": "photo",
+    "caption": "ภาพมุมสูงอ่าวโกมิยัสกับท่าเรือ หาดทราย และแนวทางเดินริมทะเลสายใหม่",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c23/07c3/d100/017f/dde2/large_jpg/general_plan.jpg?1791384817",
+    "type": "plan",
+    "caption": "ผังบริเวณทางเดินริมทะเลโกมิยัส แสดงแนวแปลงพืช พื้นปู และที่นั่ง",
+    "credit": "Hector Navarro + ARKHITEKTON / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc3/large_jpg/002.jpg?1791384638",
+    "type": "photo",
+    "caption": "ภาพมุมสูงทางเดินริมหาดใหม่ที่คั่นระหว่างหาดทรายกับลานจอดรถด้านหลัง",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc7/large_jpg/006.jpg?1791384658",
+    "type": "photo",
+    "caption": "แนวทางเดินริมหาดกับแปลงไม้ทรายแบบเนินทรายเรียงขนานชายหาด",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc5/large_jpg/003.jpg?1791384668",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวดิ่งของทางเดิน แปลงพืชชายฝั่ง และหาดทราย",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc8/large_jpg/008.jpg?1791384656",
+    "type": "photo",
+    "caption": "ภาพมองลงด้านบนแปลงไม้รูปเนินทรายสลับกับพื้นปูซึมน้ำได้",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c21/07c3/d100/017f/ddc9/large_jpg/009.jpg?1791384688",
+    "type": "photo",
+    "caption": "ต้นไม้อายุน้อยและแปลงพืชบนทางเดินที่ขนานหาด",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd0/large_jpg/020.jpg?1791384697",
+    "type": "photo",
+    "caption": "หินปูนก้อนใหญ่และพืชเนินทรายข้างราวลูกกรงเดิมริมทะเล",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd1/large_jpg/021.jpg?1791384784",
+    "type": "photo",
+    "caption": "ขอบพื้นปูโค้งรับแปลงหญ้าชายฝั่งและทรายที่ลมพัดเข้ามา",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd2/large_jpg/022.jpg?1791384715",
+    "type": "photo",
+    "caption": "หินปูนทิ้ง (riprap) กำหนดขอบแปลงและที่นั่ง ตัดกับพื้นปูลายก้างปลา",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd3/large_jpg/023.jpg?1791384689",
+    "type": "photo",
+    "caption": "แปลงพืชชายฝั่งริมราวลูกกรงสีขาวของแนวกำแพงริมหาด",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd4/large_jpg/024.jpg?1791384689",
+    "type": "photo",
+    "caption": "ม้านั่งเดี่ยวท่ามกลางหินปูนและแปลงไม้",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd5/large_jpg/025.jpg?1791384727",
+    "type": "photo",
+    "caption": "แปลงพืชชายฝั่งกับหินปูนและต้นไม้ใหม่ในพื้นที่ที่เคยเป็นลานจอดรถ",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd6/large_jpg/026.jpg?1791384724",
+    "type": "photo",
+    "caption": "แปลงไม้พุ่มเตี้ยและหญ้าทนเค็มที่ปลูกหนาแน่น",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd7/large_jpg/027.jpg?1791384757",
+    "type": "photo",
+    "caption": "ม้านั่งไม้สองตัวในแปลงพืชและก้อนหิน",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd8/large_jpg/030.jpg?1791384729",
+    "type": "photo",
+    "caption": "ม้านั่งเดี่ยวหันมองราวกันตกริมทะเล",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c22/07c3/d100/017f/ddd9/large_jpg/033.jpg?1791384795",
+    "type": "photo",
+    "caption": "ต้นไม้เดิมให้ร่มเงาแก่ที่นั่งพักที่มองออกสู่อ่าว",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c23/07c3/d100/017f/dde1/large_jpg/260706_Hector_Navarro_Comillas_321-2.jpg?1791384862",
+    "type": "photo",
+    "caption": "ม้านั่ง เสาไฟ และต้นไม้ใหม่บนพื้นปูหินในวันฟ้าครึ้ม",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6ac6/5c23/07c3/d100/017f/dde0/large_jpg/043.jpg?1791384773",
+    "type": "photo",
+    "caption": "ทรายที่ปลิวเข้ามาพักตัวในแปลงหญ้าข้างพื้นปู",
+    "credit": "imagensubliminal (Rocío R. Rivas + Miguel de Guzmán) / ArchDaily",
+    "source": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Comillas Waterfront Promenade / Hector Navarro + ARKHITEKTON",
+    "url": "https://www.archdaily.com/1186487/comillas-waterfront-promenade"
+   },
+   {
+    "title": "designboom — dune-inspired promenade brings sand and vegetation into Comillas' waterfront",
+    "url": "https://www.designboom.com/?p=1208951"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W43",
+  "added_date": "2026-10-21"
+ },
+ {
+  "id": "tlallipan-floating-garden-mexico-city",
+  "name": "Jardín Flotante Tlallipan (Parque Elevado Tlalli-Pan)",
+  "name_local": "Jardín Flotante Tlallipan / Calzada Flotante de Tlalpan",
+  "designer": "Gobierno de la Ciudad de México — Secretaría de Obras y Servicios (SOBSE); ก่อสร้างโดย Idinza และ Grupo Riobóo",
+  "client": "Gobierno de la Ciudad de México",
+  "city": "Mexico City (Cuauhtémoc)",
+  "country": "Mexico",
+  "lat": 19.4172,
+  "lng": -99.1344,
+  "year": "2026",
+  "area": "15,400 sq. m. (9.6 ไร่) — พื้นที่สาธารณะยกระดับยาว 1.8 กม.",
+  "area_sqm": 15400,
+  "categories": [
+   "transport-corridors",
+   "greenways",
+   "urban-design"
+  ],
+  "tags": [
+   "elevated park",
+   "metro corridor",
+   "pollinator planting",
+   "night-time safety",
+   "FIFA World Cup 2026",
+   "pedestrian bridge"
+  ],
+  "awards": [],
+  "summary_th": "สวนลอยฟ้ายาว 1.8 กม. คร่อมแนวรถไฟใต้ดินสาย 2 บน Calzada de Tlalpan จากสถานี Pino Suárez ถึง Chabacano เปิดเมื่อ 7 มิถุนายน 2026 ก่อนฟุตบอลโลก ได้พื้นที่สาธารณะคืน 15,400 ตร.ม. ครึ่งหนึ่งเป็นพื้นที่สีเขียว ปลูกต้นไม้ 176 ต้นและพืชดึงดูดแมลงผสมเกสรหลายหมื่นต้น",
+  "description_th": "Calzada de Tlalpan เป็นถนนสายประวัติศาสตร์ทางใต้ของใจกลางเม็กซิโกซิตี้ มีรถไฟใต้ดินสาย 2 วิ่งระดับดินอยู่กลางถนน แบ่งย่านทั้งสองฝั่งออกจากกันและให้ความสำคัญกับรถยนต์เป็นหลัก ช่วงก่อนฟุตบอลโลก 2026 รัฐบาลเมืองโดยสำนักงานโยธาธิการ (SOBSE) จึงสร้างทางเดินลอยฟ้าเหนือแนวรถไฟ ซึ่งนายกเทศมนตรี Clara Brugada เรียกว่า “ชั้นสองสำหรับคนเดิน”\n\nชื่อ Tlallipan มาจากภาษานาวัตล์แปลว่า “แผ่นดินที่ยกขึ้น” แนวคิดคือสวนที่ลอยเหนือถนน แบ่งเป็น 7 ช่วงตามธีมสัตว์ถิ่นของหุบเขาเม็กซิโก ได้แก่ ajolote (แอกโซลอเติล) xoloitzcuintle นกฮัมมิงเบิร์ด teporingo cacomixtle mirlo และกบ พร้อมประติมากรรมและกราฟิกวัฒนธรรม 18 ชิ้น\n\nเส้นทางยาว 1.8 กม. จากสถานี Pino Suárez ถึง Chabacano ในเขต Cuauhtémoc เข้าถึงด้วยบันไดขนาดใหญ่ที่ปลายทั้งสองด้านและบันไดย่อยตลอดแนว มีเพอร์โกลา 7 หลัง ผ้าใบขึง (velaria) 8 จุดสำหรับเวิร์กช็อปชุมชน โมดูลพักผ่อน 64 จุดพร้อมม้านั่งและกระบะต้นไม้ น้ำพุแสงสี 9 จุด ลานสุนัข จอฉายภาพยนตร์กลางแจ้ง และเชื่อมกับทางจักรยาน Gran Tenochtitlan และเส้นทางเดิน “Camina Libre, Camina Segura” ยาว 34 กม. นอกจากนี้ยังมีบริการสังคม เช่น โรงอาหารชุมชน ร้านซักผ้าฟรี พื้นที่ดูแลเด็ก แปลงผักในเมือง และตลาด “Del Campo a la Ciudad”\n\nพื้นที่สีเขียว 6,200 ตร.ม. หรือราว 50% ของพื้นที่ ปลูกต้นไม้ 176 ต้น เช่น จาคารันดา flor de mayo และโอ๊กไม่ผลัดใบ ไม้พุ่มกว่า 2,000 ต้น และพืชดึงดูดแมลงผสมเกสรกว่า 81,000 ต้น (บางแหล่งระบุมากกว่า 100,000 ต้น กว่า 60 ชนิด) มีเรือนเพาะชำที่ใช้น้ำฝนเท่านั้น ไฟส่องสว่างกว่า 900 จุด กล้องวงจรปิด และปุ่มฉุกเฉิน เพื่อความปลอดภัยของผู้หญิงและเด็ก\n\nสวนเปิดเมื่อ 7 มิถุนายน 2026 (เลื่อนจากกำหนดเดิม 31 พฤษภาคม) ใช้แรงงานกว่า 3,000 คนทำงานสองกะ คืนพื้นที่สาธารณะ 15,400 ตร.ม. เปิดฟรีเวลา 05:00–24:00 น. ตามเวลาเดินรถไฟใต้ดิน ระหว่างก่อสร้างเคยเกิดเหตุคานเหล็กตกใส่รถยนต์บนถนนด้านล่าง (16 พฤษภาคม 2026) แม้ไม่มีผู้บาดเจ็บ สะท้อนความเสี่ยงของการก่อสร้างเร่งด่วนเหนือถนนที่ยังเปิดใช้",
+  "design_strategies": [
+   "ใช้พื้นที่ว่างเหนือแนวรถไฟระดับดินสร้างทางเดินสีเขียวยกระดับ โดยไม่ต้องเวนคืนที่ดิน",
+   "แบ่งเส้นทางยาวเป็นช่วงตามธีมสัตว์ถิ่น เพื่อสร้างอัตลักษณ์และการรับรู้ทิศทาง",
+   "กำหนดพื้นที่สีเขียวราว 50% และเน้นพืชดึงดูดแมลงผสมเกสร",
+   "ผนวกบริการสังคม (ดูแลเด็ก ซักผ้า โรงอาหาร ตลาด) เข้ากับสวนให้เป็นโครงสร้างพื้นฐานทางสังคม",
+   "ออกแบบแสงสว่าง กล้อง และปุ่มฉุกเฉินเพื่อความปลอดภัยยามค่ำ โดยเฉพาะผู้หญิงและเด็ก"
+  ],
+  "lessons_th": [
+   "แนวรถไฟฟ้าและถนนสายหลักในกรุงเทพฯ มีพื้นที่ว่างที่อาจพัฒนาเป็นทางเดินสีเขียวยกระดับเชื่อมสถานีได้ คล้ายแนวคิดสกายวอล์ก แต่ใส่ต้นไม้และกิจกรรม",
+   "สวนยกระดับต้องวางแผนระบบน้ำและดินปลูกบนโครงสร้างตั้งแต่ต้น และควรใช้พืชทนแล้ง/ดึงดูดแมลงที่ดูแลง่าย",
+   "การเร่งก่อสร้างให้ทันอีเวนต์ใหญ่ต้องมีมาตรการความปลอดภัยต่อการจราจรด้านล่างอย่างเข้มงวด"
+  ],
+  "images": [
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_05.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินกว้างบนสวนลอยฟ้า ขนาบด้วยแปลงไม้ดอกและไม้พุ่ม มีผ้าใบบังแดดด้านหลัง",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_05.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_02.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินลอยฟ้าเหนือ Calzada de Tlalpan กับแปลงไม้ดอกเลียบราวกันตก",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_02.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_03.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ผนังสวนแนวตั้งที่ทางเข้า Jardín Flotante Tlallipan",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_03.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_06.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ม่านน้ำพุแก้วกลางแนวสวน ล้อมด้วยแปลงไม้ดอก",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_06.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_08.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ม้านั่งยาวและแปลงไม้ข้างแนวน้ำพุแก้ว",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_08.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_10.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ประติมากรรมแอกโซลอเติลในช่วงสวนตามธีมสัตว์ถิ่นของหุบเขาเม็กซิโก",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_10.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_11.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ซุ้มประตูลวดลายศิลปะพื้นบ้าน “Ciudad de México” คร่อมทางเดิน",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_11.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_12.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางลาดลงสู่ลานพื้นสีฟ้าที่ระดับถนน",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_12.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_13.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ผู้คนเดินเล่นบนทางเดินลอยฟ้าระหว่างแปลงไม้หนาแน่น",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_13.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_15.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ลายกระเบื้องบนพื้นทางเดินกับแปลงไม้สองข้าง",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_15.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_17.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ทางเดินผ่านแปลงไม้พุ่มและต้นไม้อายุน้อย",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_17.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_19.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ประติมากรรมแอกโซลอเติลสีชมพูกับแปลงไม้ดอกริมทาง",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_19.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Jard%C3%ADn_Flotante_Tlallip%C3%A1n_21.jpg/1280px-Jard%C3%ADn_Flotante_Tlallip%C3%A1n_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บันไดขึ้นสวนลอยฟ้าจากทางเท้าระดับถนนใต้ร่มไม้",
+    "credit": "TomasVial (CC BY-SA 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallip%C3%A1n_21.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Jard%C3%ADn_Flotante_Tlallipan_13.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "มุมสูงยามค่ำเหนือรางรถไฟใต้ดินสาย 2 ที่วิ่งระดับดินกลางถนน ขนาบด้วยสวนลอยฟ้า",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_13.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Jard%C3%ADn_Flotante_Tlallipan_15.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ซุ้มกรอบไม้เรียงซ้อนประดับไฟตามทางเดินยามค่ำ",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_15.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Jard%C3%ADn_Flotante_Tlallipan_18.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "น้ำพุแสงสีฟ้าและแปลงไม้ยามค่ำ",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_18.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Jard%C3%ADn_Flotante_Tlallipan_30.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บันไดลงจากสวนลอยฟ้าสู่ทางม้าลายยามค่ำ",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_30.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Jard%C3%ADn_Flotante_Tlallipan_31.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_31.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "บันไดเหล็กเชื่อมระดับถนนกับสวนลอยฟ้า มองเห็นแนวรถไฟใต้ดินด้านล่าง",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_31.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Jard%C3%ADn_Flotante_Tlallipan_35.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "ลานนั่งพักใต้ผ้าใบขึง (velaria) ยามค่ำ",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_35.jpg",
+    "year": "2026"
+   },
+   {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Jard%C3%ADn_Flotante_Tlallipan_26.jpg/1280px-Jard%C3%ADn_Flotante_Tlallipan_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "type": "photo",
+    "caption": "อุโมงค์ซุ้มไม้ประดับไฟบนทางเดินลอยฟ้า",
+    "credit": "ProtoplasmaKid (CC BY 4.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Flotante_Tlallipan_26.jpg",
+    "year": "2026"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "El Financiero — Inauguran Jardín Flotante Tlallipan en Calzada de Tlalpan (7 Jun 2026)",
+    "url": "https://www.elfinanciero.com.mx/cdmx/2026/06/07/inauguran-jardin-flotante-tlallipan-en-calzada-de-tlalpan-primera-utopia-peatonal-a-cielo-abierto-en-cdmx/"
+   },
+   {
+    "title": "Chilango — Ya abrió el Jardín Flotante Tlallipan",
+    "url": "https://www.chilango.com/noticias/inauguracion-jardin-flotante-tlallipan-parque-elevado-tlalpan/"
+   },
+   {
+    "title": "Chilango — Cae viga del Parque Elevado sobre Calzada Tlalpan (16 May 2026)",
+    "url": "https://www.chilango.com/noticias/cae-viga-parque-elevado-calzada-tlalpan-y-golpea-a-un-automovil/"
+   },
+   {
+    "title": "Wikimedia Commons — Jardín Flotante Tlallipan photos",
+    "url": "https://commons.wikimedia.org/w/index.php?search=Jard%C3%ADn+Flotante+Tlallipan&title=Special:MediaSearch&type=image"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W43",
+  "added_date": "2026-10-21"
+ },
+ {
+  "id": "century-square-east-nanjing-road",
+  "name": "Century Square Renewal, East Nanjing Road (The Ecological Kaleidoscope)",
+  "name_local": "南京东路世纪广场改造更新",
+  "designer": "Benedetta Tagliabue – EMBT ร่วมกับ TJAD (Tongji Architectural Design); ที่ปรึกษาสภาพแวดล้อม Transsolar; ที่ปรึกษาสีพื้น China Academy of Art",
+  "client": "Shanghai New World (Group) Co., Ltd.; ผู้จัดประกวดแบบ: รัฐบาลเขตหวงผู่ เซี่ยงไฮ้",
+  "city": "Shanghai (Huangpu)",
+  "country": "China",
+  "lat": 31.2373,
+  "lng": 121.4752,
+  "year": "2026",
+  "categories": [
+   "urban-squares",
+   "industrial-commercial",
+   "urban-design"
+  ],
+  "tags": [
+   "urban renewal",
+   "pedestrian street",
+   "event plaza",
+   "terracotta paving",
+   "urban greening",
+   "microclimate"
+  ],
+  "awards": [],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       121.474191,
+       31.23739
+      ],
+      [
+       121.475112,
+       31.236858
+      ],
+      [
+       121.476029,
+       31.237174
+      ],
+      [
+       121.475758,
+       31.237701
+      ],
+      [
+       121.474191,
+       31.23739
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/137191767"
+   ]
+  },
+  "summary_th": "ปรับปรุงจัตุรัสเซ็นจูรีกลางถนนคนเดินหนานจิงตะวันออก เซี่ยงไฮ้ ให้เป็นพื้นที่สาธารณะที่มีพืชพรรณ ยืดหยุ่นต่อกิจกรรม มีศาลากระจก “คาไลโดสโคป” เป็นจุดศูนย์กลาง และพื้นกระเบื้องดินเผาโทนฟ้าที่สื่อถึงผิวน้ำ",
+  "description_th": "จัตุรัสเซ็นจูรี (Century Square) ตั้งอยู่กลางถนนคนเดินหนานจิงตะวันออก ถนนช้อปปิ้งที่เป็นสัญลักษณ์ของเซี่ยงไฮ้ ในตำแหน่งเชื่อมระหว่างจัตุรัสประชาชนกับเดอะบันด์ จัตุรัสนี้ผูกพันกับการแสดง อีเวนต์ แสงไฟยามค่ำ และการนำเสนอสินค้ามาโดยตลอด แต่เป็นลานแข็งท่ามกลางอาคารสูง รัฐบาลเขตหวงผู่จึงจัดประกวดแบบเพื่อฟื้นฟู\n\nทีม Benedetta Tagliabue – EMBT ร่วมกับ TJAD ใช้คำอุปมา “หอยที่เปิดออกเผยไข่มุก” เพื่อระลึกถึงที่มาของชื่อเซี่ยงไฮ้ที่แปลว่า “เหนือทะเล” จุดศูนย์กลางคือศาลา “คาไลโดสโคป” ที่สะท้อนและจัดกรอบภาพเมืองใหม่ราวกับผิวน้ำ จัตุรัสถูกออกแบบให้เป็น “เวทีสีเขียวที่ยืดหยุ่น” สำหรับชีวิตสาธารณะ\n\nผังประกอบด้วยลานกลางสำหรับอีเวนต์ พื้นที่จัดแสดง ที่นั่งสาธารณะ และอัฒจันทร์สีเขียว (green grades) ที่มีหลังคาให้ร่มและกันฝน พร้อมแนวพืชพรรณเป็นกันชนระหว่างพื้นที่สาธารณะกับอาคารสูงรอบด้าน ทางเดินยกระดับและขั้นบันไดใต้ร่มไม้เชื่อมระดับต่าง ๆ ของจัตุรัส\n\nพื้นจัตุรัสใช้กระเบื้องดินเผาของ NBK ไล่เฉดสีฟ้าเหมือนระลอกน้ำ โดยมี China Academy of Art เป็นที่ปรึกษาสี ศาลาคาไลโดสโคปยังทำหน้าที่เป็นเครื่องมือด้านสิ่งแวดล้อมในการกรองอากาศและควบคุมสภาพอากาศ โดยมี Transsolar เป็นที่ปรึกษาด้านสิ่งแวดล้อมในขั้นประกวดแบบ ยามค่ำจัตุรัสเปลี่ยนเป็นประสบการณ์แสงไฟที่สื่อถึงทะเล\n\nโครงการแล้วเสร็จในปี 2026 (EMBT ระบุปีโครงการ 2024) ผลลัพธ์คือจัตุรัสการค้าที่เดิมเป็นลานแข็ง กลายเป็นแลนด์มาร์กทางวัฒนธรรมและนิเวศที่รองรับทั้งอีเวนต์ใหญ่ ชีวิตประจำวัน และการพักผ่อน ข้อมูลที่เผยแพร่ไม่ได้ระบุชนิดพืชหรือตัวเลขประสิทธิภาพ",
+  "design_strategies": [
+   "ใช้คำอุปมาเชิงประวัติศาสตร์ (เซี่ยงไฮ้ “เหนือทะเล”) เป็นแนวคิดหลักทั้งรูปทรง สีพื้น และแสงไฟ",
+   "วางศาลากลางลานเป็นจุดหมายตาที่ทำหน้าที่ด้านสภาพอากาศด้วย",
+   "สร้างอัฒจันทร์สีเขียวที่มีร่มเงา เป็นทั้งที่นั่งชมอีเวนต์และกันชนสีเขียวจากอาคารสูง",
+   "ใช้พื้นกระเบื้องดินเผาไล่เฉดสีเพื่อสร้างภาพผิวน้ำบนลานแข็งที่ต้องรองรับคนจำนวนมาก",
+   "ออกแบบให้ลานยืดหยุ่นต่อทั้งอีเวนต์ใหญ่และการใช้งานประจำวัน"
+  ],
+  "lessons_th": [
+   "ลานหน้าห้างและลานอีเวนต์ในย่านการค้าไทย (เช่น ราชประสงค์ สยาม) สามารถเพิ่มอัฒจันทร์สีเขียวและร่มเงาโดยยังรักษาพื้นที่จัดงานไว้ได้",
+   "ลวดลายและสีของพื้นแข็งสามารถเล่าเรื่องอัตลักษณ์เมืองได้ เมื่อไม่สามารถเพิ่มพื้นที่ปลูกต้นไม้ได้มาก",
+   "การร่วมมือระหว่างเอกชนเจ้าของพื้นที่กับรัฐบาลเขตผ่านการประกวดแบบ ช่วยยกระดับพื้นที่สาธารณะในย่านการค้า"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/71e6/f50d/1782/9c56/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_6.jpg?1779750076",
+    "type": "photo",
+    "caption": "ภาพมุมสูงจากอาคารรอบข้าง เห็นจัตุรัสกลางถนนคนเดินหนานจิงตะวันออก ศาลากระจก และแนวต้นไม้",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d49a/093e/9201/8986/62e1/large_jpg/site-plan-5.jpg?1779750358",
+    "type": "plan",
+    "caption": "ผังบริเวณจัตุรัสเซ็นจูรี แสดงศาลา “คาไลโดสโคป” กลางลาน แนวต้นไม้ และอัฒจันทร์สีเขียว",
+    "credit": "EMBT + TJAD / ArchDaily",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d497/fd52/9207/909d/237a/large_jpg/concept-3.jpg?1779750118",
+    "type": "diagram",
+    "caption": "แผนผังตำแหน่งจัตุรัสบนถนนหนานจิงตะวันออก ระหว่างจัตุรัสประชาชนกับเดอะบันด์",
+    "credit": "EMBT + TJAD / ArchDaily",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d497/71e6/f501/7f6a/7008/large_jpg/back-facade-1.jpg?1779750228",
+    "type": "section",
+    "caption": "รูปด้านแสดงอัฒจันทร์ที่มีต้นไม้ ทางเดินยกระดับ และศาลากลางลาน",
+    "credit": "EMBT + TJAD / ArchDaily",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d497/093e/9201/8986/62e0/large_jpg/south-facade-6.jpg?1779750063",
+    "type": "section",
+    "caption": "รูปด้านทิศใต้แสดงลำดับต้นไม้ ลาน และศาลา",
+    "credit": "EMBT + TJAD / ArchDaily",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2383/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_13.jpg?1779750108",
+    "type": "photo",
+    "caption": "ศาลา “คาไลโดสโคป” ผิวกระจกสะท้อนเมือง ท่ามกลางต้นไม้และลานกิจกรรม",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9244/4139/9817/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_20.jpg?1779750091",
+    "type": "photo",
+    "caption": "ลานพื้นกระเบื้องดินเผาโทนฟ้าที่สื่อถึงผิวน้ำ มีผู้คนใช้งาน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9207/909d/2384/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_22.jpg?1779750095",
+    "type": "photo",
+    "caption": "ลานกลางจัตุรัสกับพื้นสีฟ้าและอาคารสูงรอบด้าน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4aa/093e/9201/8986/62e8/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_19.jpg?1779750113",
+    "type": "photo",
+    "caption": "ลานพื้นโทนแดงอิฐกับแปลงไม้ริมขอบจัตุรัส",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/093e/9222/6c4c/3a5d/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_16.jpg?1779750078",
+    "type": "photo",
+    "caption": "มุมศาลาและแปลงไม้บนอัฒจันทร์สีเขียว",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/71e6/f501/7f6a/700f/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_17.jpg?1779750093",
+    "type": "photo",
+    "caption": "ทางเดินบนอัฒจันทร์สีเขียวมองเส้นขอบฟ้าเมือง",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d49f/71e6/f50d/1782/9c55/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_4.jpg?1779750197",
+    "type": "photo",
+    "caption": "ขั้นบันไดใต้ร่มไม้ลงสู่ลานโล่ง",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/093e/9201/8986/62e7/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_14.jpg?1779750078",
+    "type": "photo",
+    "caption": "ทางเดินยกระดับขอบเหล็กกล้าผุกร่อนผ่านแปลงไม้",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/71e6/f50d/4082/9c55/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_15.jpg?1779750113",
+    "type": "photo",
+    "caption": "ทางเดินในสวนยกระดับที่คั่นจัตุรัสกับอาคารสูงรอบข้าง",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/093e/9222/6c4c/3a5c/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_11.jpg?1779750076",
+    "type": "photo",
+    "caption": "ศาลากระจกมองจากถนนคนเดิน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/71e6/f501/7f6a/700e/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_12.jpg?1779750092",
+    "type": "photo",
+    "caption": "ด้านหน้าศาลาที่สะท้อนภาพถนนและผู้คน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9244/4139/9815/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_3.jpg?1779750076",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวดิ่งของจัตุรัส พื้นโทนฟ้ารูปผิวน้ำล้อมด้วยต้นไม้",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/71e6/f50d/4082/9c56/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_7.jpg?1779750078",
+    "type": "photo",
+    "caption": "ภาพมุมสูงจัตุรัสในแนวถนนคนเดิน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a8/71e6/f501/7f6a/700d/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_2.jpg?1779750074",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแนวดิ่งแสดงรูปทรงลานและแนวไม้",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a9/fd52/9244/4139/9816/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_18.jpg?1779750075",
+    "type": "photo",
+    "caption": "ผู้มาเยือนมองผ่านผนังกระจกของศาลาสู่ลาน",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4aa/71e6/f501/7f6a/7010/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_21.jpg?1779750096",
+    "type": "photo",
+    "caption": "ผู้คนเดินบนพื้นกระเบื้องดินเผาโทนฟ้า",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a1/093e/9201/8986/62e4/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_9.jpg?1779750151",
+    "type": "photo",
+    "caption": "รายละเอียดกระเบื้องดินเผา NBK ไล่เฉดสีฟ้าเหมือนระลอกน้ำ",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a0/71e6/f501/7f6a/700b/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_6.jpg?1779750152",
+    "type": "photo",
+    "caption": "ทางเดินยกระดับยามค่ำที่มีผู้คนยืนชมแสงไฟ",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6a14/d4a1/71e6/f501/7f6a/700c/large_jpg/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad_8.jpg?1779750153",
+    "type": "photo",
+    "caption": "ขั้นบันไดไม้ประดับไฟใต้ร่มไม้ยามค่ำ",
+    "credit": "Runzi Zhu / Songkai Liu (ArchDaily)",
+    "source": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — The Ecological Kaleidoscope of East Nanjing Road: Century Square Reborn / EMBT + TJAD",
+    "url": "https://www.archdaily.com/1041842/the-ecological-kaleidoscope-of-east-nanjing-road-century-square-reborn-embt-plus-tjad"
+   },
+   {
+    "title": "ArchDaily 中国 — 上海南京东路世纪广场改造更新 / EMBT + 同济院",
+    "url": "https://www.archdaily.com/zh/1041846/shang-hai-nan-jing-dong-lu-shi-ji-yan-chang-gai-zao-geng-xin-embt-plus-tong-ji-yuan"
+   },
+   {
+    "title": "Miralles Tagliabue EMBT — Century Square in East Nanjing Road",
+    "url": "https://www.mirallestagliabue.com/project/century-square-in-east-nanjing-road/"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W43",
+  "added_date": "2026-10-21"
+ },
+ {
+  "id": "lech-mountain-mirror",
+  "name": "Lech Mountain Mirror",
+  "designer": "Snøhetta (Studio Innsbruck, นำโดย Patrick Lüth)",
+  "client": "Lech Bergbahnen AG",
+  "city": "Lech am Arlberg (Zug)",
+  "country": "Austria",
+  "lat": 47.2106,
+  "lng": 10.1076,
+  "year": "2026",
+  "categories": [
+   "land-art",
+   "living-roofs",
+   "recreation"
+  ],
+  "tags": [
+   "alpine landscape",
+   "reflecting pool",
+   "rooftop landscape",
+   "year-round tourism",
+   "larch wood",
+   "natural stone"
+  ],
+  "awards": [],
+  "summary_th": "งานศิลปะภูมิทัศน์บนหลังคาสถานีปลายทางกระเช้า Zugerbergbahn ที่ระดับราว 2,100 ม. ในเมืองเลช ออสเตรีย เป็นแอ่งน้ำตื้นที่สะท้อนเทือกเขาและเมฆ มีหินก้าวเดินนำสู่หินจุดชมวิวกลางน้ำ ล้อมด้วยพื้นที่สีเขียวและที่นั่งจากไม้ลาร์ชและหินธรรมชาติ",
+  "description_th": "เลช (Lech am Arlberg) เป็นรีสอร์ตสกีชื่อดังในแคว้นโฟราร์ลแบร์ก ที่ต้องการเพิ่มบทบาทเป็นแหล่งท่องเที่ยวตลอดปี สถานีปลายทางของกระเช้า Zugerbergbahn ซึ่งพาผู้มาเยือนจากหมู่บ้าน Zug ขึ้นสู่ระดับราว 2,100 ม. สร้างมาหลายปีก่อนและเริ่มเปิดในฤดูร้อนตั้งแต่ปี 2024 หลังคาของสถานีจึงกลายเป็นโอกาสสร้างจุดหมายใหม่บนภูเขา\n\nSnøhetta ออกแบบงานศิลปะภูมิทัศน์ที่เน้น “การหยุดพัก” และการรับรู้มากกว่ากิจกรรมผจญภัย โดยไม่ได้มุ่งที่รูปลักษณ์อย่างเดียว แต่ที่การชักชวนให้ผู้มาเยือนมีปฏิสัมพันธ์กับสภาพแวดล้อม งานนี้ต่อยอดยุทธศาสตร์ระยะยาวด้านศิลปะของเลช ร่วมกับ Horizon Field ของ Antony Gormley และ Skyspace Lech ของ James Turrell\n\nองค์ประกอบหลักคือแอ่งน้ำตื้นกว้างบนหลังคาสถานีที่สะท้อนพาโนรามาภูเขาและเมฆ แผ่นหินก้าวเดินที่วางเสมอผิวน้ำหรือต่ำกว่าผิวน้ำเล็กน้อยนำไปสู่หินธรรมชาติที่โผล่จากน้ำเป็นจุดชมวิว รอบแอ่งน้ำเป็นพื้นที่สีเขียวพร้อมที่นั่งและที่เอนกายจากไม้สนลาร์ชและก้อนหินธรรมชาติ เข้าถึงได้ฟรีและไร้สิ่งกีดขวางในเวลาทำการของกระเช้า และอยู่ติดร้านอาหาร Balmalp\n\nสภาพอากาศเป็นส่วนหนึ่งของประสบการณ์ วันที่ลมสงบและแดดจัดให้เงาสะท้อนคมชัด ส่วนลมทำให้ผิวน้ำเป็นระลอกและภาพพร่าเลือน เงาของภูเขา ท้องฟ้า เมฆ และผู้คนผสานกัน วัสดุจำกัดเพียงน้ำ หิน และไม้ เพื่อให้กลมกลืนกับภูมิประเทศเทือกเขาแอลป์\n\nโครงการดำเนินการปี 2024–2026 และแล้วเสร็จในปี 2026 มีกิจกรรมอย่าง “Balm Sundowner” ที่ขยายเวลากระเช้าถึง 21:30 น. ให้ชมแสงอาทิตย์ตกสะท้อนในน้ำ ข้อมูลที่เผยแพร่ไม่ได้ระบุขนาดพื้นที่หรือรายละเอียดการปลูกพืชบนหลังคา",
+  "design_strategies": [
+   "เปลี่ยนหลังคาโครงสร้างพื้นฐาน (สถานีกระเช้า) ให้เป็นพื้นที่สาธารณะและงานศิลปะภูมิทัศน์",
+   "ใช้แอ่งน้ำตื้นเป็น “กระจก” นำภูมิทัศน์รอบข้างเข้ามาเป็นส่วนหนึ่งของงาน",
+   "ใช้สภาพอากาศ (ลม แสง เมฆ) เป็นตัวแปรที่ทำให้ประสบการณ์เปลี่ยนไปทุกครั้ง",
+   "จำกัดวัสดุเพียงน้ำ หินธรรมชาติ และไม้ลาร์ชท้องถิ่น",
+   "เชื่อมงานศิลปะกับเส้นทางเดินเขาและการท่องเที่ยวฤดูร้อน เพื่อให้เป็นจุดหมายตลอดปี"
+  ],
+  "lessons_th": [
+   "หลังคาอาคารโครงสร้างพื้นฐานในไทย เช่น สถานีรถไฟฟ้า ลานจอดรถ หรืออาคารบริการในอุทยาน สามารถเป็นพื้นที่ภูมิทัศน์เชิงประสบการณ์ได้",
+   "แหล่งน้ำตื้นที่สะท้อนภูมิทัศน์เป็นเครื่องมือเรียบง่ายแต่ทรงพลังสำหรับจุดชมวิวในแหล่งท่องเที่ยวธรรมชาติ",
+   "งานที่ออกแบบให้คน “หยุดพัก” สอดคล้องกับการท่องเที่ยวเชิงช้าและลดแรงกดดันต่อธรรมชาติ"
+  ],
+  "images": [
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e28/4c0c/5301/88f7/4606/large_jpg/lech-mountain-mirror-snohetta_15.jpg?1790774939",
+    "type": "photo",
+    "caption": "ผู้มาเยือนยืนบนหินกลางแอ่งน้ำตื้นบนหลังคาสถานี เงาเทือกเขาสะท้อนบนผิวน้ำ",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e26/b2b8/9801/8835/a3e9/large_jpg/lech-mountain-mirror-snohetta_6.jpg?1790774936",
+    "type": "photo",
+    "caption": "ผู้มาเยือนนั่งบนลานไม้สนลาร์ชริมแอ่งน้ำ มองทิวเขา",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e27/4c0c/5301/88f7/4605/large_jpg/lech-mountain-mirror-snohetta_7.jpg?1790774932",
+    "type": "photo",
+    "caption": "ผู้คนยืนบนหินกลางน้ำ ท้องฟ้าและเมฆสะท้อนบนผิวน้ำ",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e25/b2b8/9801/8835/a3e5/large_jpg/lech-mountain-mirror-snohetta_12.jpg?1790774856",
+    "type": "photo",
+    "caption": "แผ่นหินก้าวเดินนำสู่หินจุดชมวิวกลางแอ่งน้ำ ตัดกับหุบเขาสีเขียว",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0df5/b2b8/9801/8835/a3e1/large_jpg/lech-mountain-mirror-snohetta_3.jpg?1790774881",
+    "type": "photo",
+    "caption": "แสงยามเย็นบนยอดเขาสะท้อนในแอ่งน้ำ",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e26/b2b8/9801/8835/a3e8/large_jpg/lech-mountain-mirror-snohetta_2.jpg?1790774930",
+    "type": "photo",
+    "caption": "แนวหินก้าวเดินและขอบหินริมแอ่งน้ำกับพื้นหญ้า",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e2a/4c0c/5301/88f7/4607/large_jpg/lech-mountain-mirror-snohetta_11.jpg?1790774935",
+    "type": "photo",
+    "caption": "ผู้มาเยือนยืนบนหินธรรมชาติกลางน้ำ ฉากหลังเป็นทิวเขา",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e25/b2b8/9801/8835/a3e6/large_jpg/lech-mountain-mirror-snohetta_14.jpg?1790774920",
+    "type": "photo",
+    "caption": "ลานไม้ยื่นลงในน้ำและผู้มาเยือนนั่งพัก",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e2f/4c0c/5301/88f7/4608/large_jpg/lech-mountain-mirror-snohetta_4.jpg?1790774942",
+    "type": "photo",
+    "caption": "ลานไม้และขอบหินริมแอ่งน้ำ",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e26/4c0c/5301/88f7/4604/large_jpg/lech-mountain-mirror-snohetta_5.jpg?1790774917",
+    "type": "photo",
+    "caption": "ภูเขาหินสะท้อนบนผิวน้ำนิ่ง",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e17/b2b8/9801/8835/a3e2/large_jpg/lech-mountain-mirror-snohetta_8.jpg?1790774903",
+    "type": "photo",
+    "caption": "ผู้มาเยือนยืนกลางน้ำหน้าภูเขาที่สะท้อนเงา",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e26/b2b8/9801/8835/a3e7/large_jpg/lech-mountain-mirror-snohetta_9.jpg?1790774930",
+    "type": "photo",
+    "caption": "แนวหินก้าวเดินใต้ผิวน้ำในแสงอาทิตย์อ่อน",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0df4/b2b8/9801/8835/a3e0/large_jpg/lech-mountain-mirror-snohetta_1.jpg?1790774874",
+    "type": "photo",
+    "caption": "ผู้มาเยือนยืนบนหินยามพลบค่ำ ภูเขาสีส้มสะท้อนในน้ำ",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e18/b2b8/9801/8835/a3e3/large_jpg/lech-mountain-mirror-snohetta_10.jpg?1790774912",
+    "type": "photo",
+    "caption": "เงาภูเขาในน้ำกับแผ่นหินก้าวเดิน",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "url": "https://images.adsttc.com/media/images/6abd/0e25/b2b8/9801/8835/a3e4/large_jpg/lech-mountain-mirror-snohetta_13.jpg?1790774926",
+    "type": "photo",
+    "caption": "ขอบแอ่งน้ำกับภูเขายามเย็น",
+    "credit": "Christian Flatscher / ArchDaily",
+    "source": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "ArchDaily — Lech Mountain Mirror / Snøhetta",
+    "url": "https://www.archdaily.com/1186060/lech-mountain-mirror-snohetta"
+   },
+   {
+    "title": "Snøhetta — Lech Mountain Mirror",
+    "url": "https://www.snohetta.com/projects/lech-mountain-mirror"
+   },
+   {
+    "title": "Lech Zürs Tourismus — Lech Mountain Mirror",
+    "url": "https://www.lechzuers.com/de/kultur/lech-mountain-mirror"
+   }
+  ],
+  "found_via": "press",
+  "added_week": "2026-W43",
+  "added_date": "2026-10-21"
+ }
+]

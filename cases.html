@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ตารางกรณีศึกษา — Landscape Case Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Anuphan:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css?v=14">
+<script src="data/projects.js"></script>
+<script src="assets/common.js?v=11"></script>
+<style>
+.topbar{position:sticky;top:0;z-index:20;background:var(--surface);border-bottom:1px solid var(--line)}
+.topbar .in{max-width:1600px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:16px}
+.topbar .q{flex:1;max-width:560px;position:relative;margin:0 auto}
+.topbar .q svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted);pointer-events:none}
+.topbar .q input{padding-left:36px;border-radius:10px;background:var(--bg)}
+.wrap{max-width:1600px;margin:0 auto;padding:18px 16px 48px}
+
+
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:4px 0 6px}
+.filters #cat{min-width:240px}
+.filters select{width:auto;flex:0 1 auto;max-width:240px;font-size:13.5px;padding:7px 10px}
+.tg{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:7px 11px;border-radius:8px;cursor:pointer;white-space:nowrap}
+.tg.link{border-color:transparent;background:none;color:var(--accent-text);font-weight:600;padding:7px 6px}
+.filters .sp{flex:1}
+.count{font-size:13.5px;color:var(--muted);margin:4px 2px 12px}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:18px}
+/* 4:5 photo card (Instagram-style): photo fills the card, text sits on a dark gradient at the bottom */
+.card{position:relative;aspect-ratio:4/5;border-radius:14px;overflow:hidden;background:#2a2c2e;color:#fff;transition:box-shadow .15s,transform .15s}
+.card:hover{box-shadow:var(--shadow);transform:translateY(-2px)}
+.cimg{position:absolute;inset:0;display:block}   /* the photo itself links to the project */
+.cimg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s}
+.card:hover .cimg img{transform:scale(1.04)}
+.cimg::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(0,0,0,.25) 0%,rgba(0,0,0,0) 25%,rgba(0,0,0,.1) 45%,rgba(0,0,0,.85) 80%)}
+.cimg .upd{position:absolute;right:12px;top:12px;z-index:1}
+.cbody{position:absolute;left:0;right:0;bottom:0;padding:16px;display:flex;flex-direction:column;gap:3px}
+.card h3{margin:0;font-size:23px;line-height:1.2;font-weight:600;letter-spacing:-.01em;text-shadow:0 1px 3px rgba(0,0,0,.4)}
+.card h3 a{color:#fff;text-decoration:none}
+.card h3 a::after{content:"";position:absolute;inset:0;z-index:1}   /* whole card is the link */
+.card h3 a:focus-visible{outline:none}
+.card:focus-within{outline:2px solid var(--accent);outline-offset:2px}
+.ccats{position:relative;z-index:2;display:flex;gap:6px;margin:6px 0 4px;align-self:flex-start}
+.ccats button{all:unset;cursor:pointer;display:inline-flex;border-radius:50%}
+.ccats .cbadge{box-shadow:0 0 0 2px rgba(255,255,255,.9)}
+.ccats button:focus-visible{outline:2px solid #fff;outline-offset:2px}
+.cmeta{font-size:13px}
+.cmeta span{color:rgba(255,255,255,.75)}
+.cdes{font-size:12.5px;color:rgba(255,255,255,.75);line-height:1.4;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.cfoot{display:flex;align-items:center;gap:12px;margin-top:8px;padding-top:10px;border-top:1px solid rgba(255,255,255,.22);font-size:12.5px;color:rgba(255,255,255,.65)}
+.cfoot .area{color:#fff;font-weight:500;white-space:nowrap}
+.cnt{display:inline-flex;gap:9px;white-space:nowrap}
+.cnt span{display:inline-flex;align-items:center;gap:3px}
+.cnt span.on{color:#fff}
+.cnt span.on.r{color:#ff8fb5;font-weight:600}
+.mapit{position:relative;z-index:2;margin-left:auto;color:#fff;display:inline-flex;padding:5px;border-radius:6px}
+.mapit:hover{background:rgba(255,255,255,.18)}
+.none{padding:48px 16px;text-align:center;color:var(--muted);grid-column:1/-1}
+
+@media (max-width:640px){
+  .topbar .in{gap:10px}
+  .brand>span:last-child{display:none}
+  .filters #cat{flex:1 1 100%;min-width:0}
+  .filters select{flex:1 1 30%;max-width:none;min-width:0;font-size:13px;padding:7px 8px}
+  .filters .sp{display:none}
+  .grid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="in">
+  <span id="brand"></span>
+  <div class="q">
+    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    <input type="search" id="q" placeholder="ค้นหาโครงการ ผู้ออกแบบ เมือง แท็ก…" aria-label="ค้นหา" autocomplete="off">
+  </div>
+  <span id="nav"></span>
+</div></header>
+
+<main class="wrap">
+  <div class="filters">
+    <div id="cat"></div>
+    <select id="cont" aria-label="ภูมิภาค"></select>
+    <select id="country" aria-label="ประเทศ"></select>
+    <select id="sortSel" aria-label="เรียงตาม"></select>
+    <button class="tg link" id="reset" type="button">ล้างตัวกรอง</button>
+    <span class="sp"></span>
+    <button class="tg" id="csv" type="button">ดาวน์โหลด CSV</button>
+  </div>
+  <div class="count" id="count" aria-live="polite"></div>
+
+  <div class="grid" id="rows"></div>
+</main>
+
+<script>
+document.getElementById("brand").innerHTML = brandHtml();
+document.getElementById("nav").innerHTML = navHtml("table");
+
+const nDraw = p => (p.images || []).filter(isDrawing).length;
+const nPhoto = p => (p.images || []).filter(im => !isDrawing(im)).length;
+const nRes = p => (p.research || []).length;
+const hasPlan = p => (p.images || []).some(im => im.type === "plan");
+
+// ---- sort keys
+const COLS = [
+  {k: "name", label: "ชื่อโครงการ", v: p => p.name.toLowerCase()},
+  {k: "loc", label: "ประเทศ", v: p => (p.country + " " + p.city).toLowerCase()},
+  {k: "year", label: "ปี", v: firstYear, desc: true},
+  {k: "area", label: "ขนาดพื้นที่", v: p => p.area_sqm || null, desc: true},
+  {k: "cat", label: "ประเภทงาน", v: p => (C[cats(p)[0]] || {}).th || ""},
+  {k: "res", label: "จำนวนงานวิจัย", v: p => nRes(p) * 1000 + nDraw(p) * 100 + nPhoto(p), desc: true},
+];
+const sortable = COLS;
+// ?sort=<key> (from the map's stat tiles) wins over the remembered sort
+const urlSort = new URLSearchParams(location.search).get("sort");
+const saved = (urlSort ? `${urlSort}:${(COLS.find(c => c.k === urlSort) || {}).desc ? "desc" : "asc"}` : store("lca-table-sort") || "name:asc").split(":");
+const state = {q: "", cont: "", country: "", cat: "",
+  sort: sortable.some(c => c.k === saved[0]) ? saved[0] : "name", dir: sortable.some(c => c.k === saved[0]) && saved[1] === "desc" ? -1 : 1};
+
+// ---- filter controls
+const opt = (v, t) => `<option value="${esc(v)}">${esc(t)}</option>`;
+const contSel = document.getElementById("cont"), ctySel = document.getElementById("country");
+const conts = [...new Set(P.map(continent))].sort((a, b) => a.localeCompare(b, "th"));
+contSel.innerHTML = opt("", "ทุกภูมิภาค") + conts.map(c => opt(c, `${c} (${P.filter(p => continent(p) === c).length})`)).join("");
+function fillCountries(){
+  const list = [...new Set(P.filter(p => !state.cont || continent(p) === state.cont).map(p => p.country))].sort();
+  if (!list.includes(state.country)) state.country = "";
+  ctySel.innerHTML = opt("", "ทุกประเทศ") + list.map(c => opt(c, `${c} (${P.filter(p => p.country === c).length})`)).join("");
+  ctySel.value = state.country;
+}
+fillCountries();
+const catCounts = Object.fromEntries(Object.keys(C).map(k => [k, P.filter(p => cats(p).includes(k)).length]));
+const urlCat = new URLSearchParams(location.search).get("cat");
+if (C[urlCat]) state.cat = urlCat;
+const catPick = catPicker(document.getElementById("cat"), {counts: catCounts, value: state.cat,
+  onChange: k => { state.cat = k; render(); }});
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
+contSel.addEventListener("change", e => { state.cont = e.target.value; fillCountries(); render(); });
+ctySel.addEventListener("change", e => { state.country = e.target.value; render(); });
+function resetAll(){
+  Object.assign(state, {q: "", cont: "", country: "", cat: ""});
+  document.getElementById("q").value = ""; contSel.value = ""; catPick.set(""); fillCountries();
+  render();
+}
+document.getElementById("reset").addEventListener("click", resetAll);
+
+function matches(p){
+  return (!state.cat || cats(p).includes(state.cat)) &&
+    (!state.cont || continent(p) === state.cont) && (!state.country || p.country === state.country) &&
+    (!state.q || [p.name, p.name_local, p.designer, p.city, p.country, p.summary_th, (p.tags || []).join(" "), (p.awards || []).join(" "),
+      cats(p).map(c => C[c] ? C[c].th + " " + C[c].en : c).join(" ")].join(" ").toLowerCase().includes(state.q));
+}
+
+// ---- sorting
+const sortSel = document.getElementById("sortSel");
+sortSel.innerHTML = COLS.flatMap(c => c.desc
+  ? [opt(c.k + ":-1", `เรียงตาม${c.label} (มาก→น้อย)`), opt(c.k + ":1", `เรียงตาม${c.label} (น้อย→มาก)`)]
+  : [opt(c.k + ":1", `เรียงตาม${c.label} (ก→ฮ)`), opt(c.k + ":-1", `เรียงตาม${c.label} (ฮ→ก)`)]).join("");
+sortSel.addEventListener("change", e => { const [k, d] = e.target.value.split(":"); setSort(k, +d); });
+function setSort(k, dir){
+  state.sort = k; state.dir = dir; store("lca-table-sort", `${k}:${dir > 0 ? "asc" : "desc"}`); render();
+}
+function sorted(list){
+  const c = COLS.find(x => x.k === state.sort);
+  return list.slice().sort((a, b) => {
+    const va = c.v(a), vb = c.v(b);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1; if (vb == null) return -1;   // missing values always last
+    return (typeof va === "number" ? va - vb : String(va).localeCompare(String(vb), "th")) * state.dir || a.name.localeCompare(b.name);
+  });
+}
+
+// ---- rows
+const ICON = {
+  plan: '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true"><path d="M4 20l1-5L16 4l4 4L9 19zM13.5 6.5l4 4"/></svg>',
+  photo: '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="15" rx="2"/><circle cx="12" cy="12.5" r="3.5"/></svg>',
+  res: '<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 4h11l5 5v11H4z"/><path d="M8 13h8M8 17h5"/></svg>',
+  pin: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6l6-3 6 3 6-3v15l-6 3-6-3-6 3zM9 3v15M15 6v15"/></svg>',
+};
+const recent = d => d && (Date.now() - new Date(d)) / 864e5 <= 45;
+function card(p){
+  const a = fmtArea(p.area_sqm), img = coverImg(p), d = nDraw(p), ph = nPhoto(p), r = nRes(p), y = firstYear(p);
+  return `<article class="card">
+    <a class="cimg" href="${projectUrl(p)}" tabindex="-1" aria-hidden="true">${img ? `<img src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}
+      ${recent(p.updated_date) ? `<span class="upd" title="อัปเดตเมื่อ ${esc(p.updated_date)}">อัปเดต</span>` : ""}</a>
+    <div class="cbody">
+      <h3><a href="${projectUrl(p)}">${esc(p.name)}</a></h3>
+      <div class="ccats">${cats(p).map(k => `<button type="button" data-c="${k}" aria-label="${esc(C[k] ? C[k].en : k)} — กรองตามประเภทนี้">${badge(k, 26)}</button>`).join("")}</div>
+      <div class="cmeta">${esc(p.city)}, ${esc(p.country)}${y ? ` <span>· ${y}</span>` : ""}</div>
+      <div class="cdes">${esc(p.designer)}</div>
+
+      <div class="cfoot">
+        ${a ? `<span class="area" title="${a.metric}">${a.rai} ไร่</span>` : ""}
+        <span class="cnt"><span class="${ph ? "on" : ""}" title="ภาพถ่าย ${ph}">${ICON.photo}${ph}</span><span class="${r ? "on r" : ""}" title="งานวิจัย ${r}">${ICON.res}${r}</span></span>
+        <a class="mapit" href="index.html?focus=${encodeURIComponent(p.id)}" aria-label="ดู ${esc(p.name)} บนแผนที่">${ICON.pin}</a>
+      </div>
+    </div>
+  </article>`;
+}
+const rowsEl = document.getElementById("rows");
+// clicking a type icon on a card filters by that type
+rowsEl.addEventListener("click", e => {
+  const b = e.target.closest(".ccats button"); if (!b) return;
+  state.cat = b.dataset.c; catPick.set(state.cat); render(); scrollTo({top: 0, behavior: "smooth"});
+});
+
+let current = [];
+function render(){
+  current = sorted(P.filter(matches));
+  sortSel.value = `${state.sort}:${state.dir}`;
+  contSel.classList.toggle("on", !!state.cont); ctySel.classList.toggle("on", !!state.country);
+  rowsEl.innerHTML = current.map(card).join("") || `<div class="none">${P.length ? "ไม่พบโครงการที่ตรงกับตัวกรอง" : "ยังไม่มีโครงการ"}</div>`;
+  document.getElementById("count").textContent = current.length === P.length ? `ทั้งหมด ${P.length} โครงการ` : `แสดง ${current.length} จาก ${P.length} โครงการ`;
+}
+render();
+
+// ---- CSV of the rows currently shown
+document.getElementById("csv").addEventListener("click", () => {
+  const cell = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const hdr = ["name", "name_local", "designer", "city", "country", "region", "year", "area_sqm", "area_rai", "categories", "drawings", "photos", "research", "updated_date", "summary_th"];
+  const lines = current.map(p => [p.name, p.name_local, p.designer, p.city, p.country, continent(p), p.year, p.area_sqm,
+    p.area_sqm ? Math.round(p.area_sqm / 1600) : "", cats(p).map(k => C[k] ? C[k].en : k).join("; "),
+    nDraw(p), nPhoto(p), nRes(p), p.updated_date, p.summary_th].map(cell).join(","));
+  const blob = new Blob(["﻿" + [hdr.join(","), ...lines].join("\n")], {type: "text/csv;charset=utf-8"});
+  const a = Object.assign(document.createElement("a"), {href: URL.createObjectURL(blob), download: "landscape-case-studies.csv"});
+  a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+});
+</script>
+</body>
+</html>
