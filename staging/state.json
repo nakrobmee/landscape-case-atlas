@@ -181,6 +181,17 @@
     "rike-park-tbilisi"
    ],
    "note": "2 new inbox links staged (IG @landscape.first -> 1881 Park, Aurora; FB Casabella 986 -> Ortobene forest path, Nuoro). 3 press: Parques del Río Medellín, Parc du Belvédère Tunis, Rike Park Tbilisi. 1881 Park coords from official Google Maps link on livewindler.com (no OSM feature); area 10 acres per Superbloom. Nuoro coords = Nostra Signora di Monte Nero church (path ends at its forecourt); area 400 m2 per project credits. Parques del Río: thin Commons imagery (8 photos, no drawings), no area (only OSM boundary of 2 park ways). Belvédère area 110 ha (Wikipedia), OSM way 1.04 km2 used as boundary. Rike area 6 ha (Plizio), OSM relation 69,120 m2 boundary; one Commons photo dropped (persistent 429). Fukuoka museum garden lead: city press release confirms opening 18 Oct 2026, designer still unknown, left pending. Other older pending links not rechecked. inbox.md had no pending lines. claude-artifacts MCP server failed to connect but ArtifactData worked."
+  },
+  {
+   "date": "2026-11-26",
+   "staged": [
+    "hongyuan-headquarters-square-beijing",
+    "waitangi-park-wellington",
+    "kadriorg-park-tallinn",
+    "ssr-botanic-garden-pamplemousses",
+    "parque-bicentenario-vitacura"
+   ],
+   "note": "Local container network blocked (no allowed hosts); all research done through the Firecrawl/Composio remote sandbox (curl/requests) + WebSearch. Inbox: 2 new IG links. DfkqC0KiVdJ (@ecotime_pisos) = rubber-flooring vendor ad for an unnamed condo playground -> skipped. DgKDDE0kcz8 (@landscape.first) = Hongyuan HQ Square (UJ design, Beijing) -> staged from mooool (18,000 m2, 2021); coords from fang.com listing map point (Baidu BD-09 converted to WGS84), ~450 m SW of Kefeng Bridge; could not view images, so photo/drawing picks from article caption order + pixel stats (before-photos 22/4/6/5 and uncertain 23/3/1 excluded). Press: Waitangi Park (NZ; OSM way 24,198 m2 vs ~6 ha so no boundary), Kadriorg Park (Estonia; OSM relation 567k m2 vs ~70 ha used), SSR Botanic Garden Pamplemousses (Mauritius; OSM 327k vs 37 ha used), Parque Bicentenario Vitacura (Chile; OSM 228k vs 314k used). Wikimedia upload host gave 429 for some originals: dropped WaitangiPark1/2/4 and Bicentenario plano entorno map; Kadriorg map + Poivreavenue used as verified 500px thumbs. Older pending inbox links not rechecked (quota/time)."
   }
  ]
 }

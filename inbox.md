@@ -16,8 +16,6 @@
 
 <!-- ตัวอย่าง: - https://www.instagram.com/p/XXXX/ | สวนริมน้ำในโคเปนเฮเกน -->
 
-- https://www.instagram.com/p/DfkqC0KiVdJ/?img_index=2&gwpx=MW44ZmFvZ29oNHhzaA==
-- https://www.instagram.com/p/DgKDDE0kcz8/?img_index=6&gwpx=ODM3NGFmdWc2bThx
 
 ## กำลังตรวจสอบ (ยังยืนยันข้อมูลไม่ได้ — งานรายวันจะตรวจซ้ำ)
 
@@ -42,6 +40,7 @@
 
 ## รอขึ้นเว็บวันอาทิตย์
 
+- 2026-11-26 · https://www.instagram.com/p/DgKDDE0kcz8/?img_index=6&gwpx=ODM3NGFmdWc2bThx → staged: hongyuan-headquarters-square-beijing (Hongyuan Headquarters Square (UJ design), Beijing)
 - 2026-11-23 · https://www.instagram.com/p/DgCV2ZyCEiP/?img_index=3&lqvp=MmdwY2JlOXM3NjE1 → staged: smk-museum-garden-copenhagen (Statens Museum for Kunst Museum Garden, Copenhagen (Karres en Brands + POLYFORM))
 - 2026-11-24 · https://www.instagram.com/p/Df0hhLsiqzk/?bqrl=MWRvbmFsNDZ5MDVkaQ== → staged: opera-park-copenhagen (The Opera Park (Cobe), Copenhagen)
 - 2026-11-24 · https://www.instagram.com/p/DgCnOP7kd3h/?img_index=7&cnvx=cHYxdzBkbnh6OHU0 → staged: genbudo-park-toyooka (Genbudo Park (CASE-REAL), Toyooka)
@@ -53,3 +52,4 @@
 
 ## ดำเนินการแล้ว
 
+- 2026-11-26 · https://www.instagram.com/p/DfkqC0KiVdJ/?img_index=2&gwpx=MW44ZmFvZ29oNHhzaA== → ข้าม: เป็นโพสต์โฆษณาพื้นยาง Ecotime ของสนามเด็กเล่นคอนโดที่ไม่ระบุชื่อโครงการ ผู้ออกแบบ หรือที่ตั้ง
