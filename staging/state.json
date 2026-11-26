@@ -197,6 +197,11 @@
    "date": "2026-11-26",
    "staged": [],
    "note": "Second run on 2026-11-26 (Asia/Bangkok): staging/2026-11-26.json already held 5 projects, so nothing new was staged. App had 18 pending links, all checked before (no new ones); inbox.md had no new lines. Re-checks skipped because today's quota is full. Weekly panel already listed all 25 staged projects; left unchanged."
+  },
+  {
+   "date": "2026-11-26",
+   "staged": [],
+   "note": "Third run on 2026-11-26 (Asia/Bangkok): staging/2026-11-26.json already held 5 projects, nothing new staged. App had 1 new link (kk2c0ojsetp7itc1s4k4, instagram.com/share/BAWaAdz106, no note): Instagram not reachable from this container, so kept pending with checks=1 and result_th. Weekly panel unchanged (25 staged)."
   }
  ]
 }
