@@ -192,6 +192,11 @@
     "parque-bicentenario-vitacura"
    ],
    "note": "Local container network blocked (no allowed hosts); all research done through the Firecrawl/Composio remote sandbox (curl/requests) + WebSearch. Inbox: 2 new IG links. DfkqC0KiVdJ (@ecotime_pisos) = rubber-flooring vendor ad for an unnamed condo playground -> skipped. DgKDDE0kcz8 (@landscape.first) = Hongyuan HQ Square (UJ design, Beijing) -> staged from mooool (18,000 m2, 2021); coords from fang.com listing map point (Baidu BD-09 converted to WGS84), ~450 m SW of Kefeng Bridge; could not view images, so photo/drawing picks from article caption order + pixel stats (before-photos 22/4/6/5 and uncertain 23/3/1 excluded). Press: Waitangi Park (NZ; OSM way 24,198 m2 vs ~6 ha so no boundary), Kadriorg Park (Estonia; OSM relation 567k m2 vs ~70 ha used), SSR Botanic Garden Pamplemousses (Mauritius; OSM 327k vs 37 ha used), Parque Bicentenario Vitacura (Chile; OSM 228k vs 314k used). Wikimedia upload host gave 429 for some originals: dropped WaitangiPark1/2/4 and Bicentenario plano entorno map; Kadriorg map + Poivreavenue used as verified 500px thumbs. Older pending inbox links not rechecked (quota/time)."
+  },
+  {
+   "date": "2026-11-26",
+   "staged": [],
+   "note": "Second run on 2026-11-26 (Asia/Bangkok): staging/2026-11-26.json already held 5 projects, so nothing new was staged. App had 18 pending links, all checked before (no new ones); inbox.md had no new lines. Re-checks skipped because today's quota is full. Weekly panel already listed all 25 staged projects; left unchanged."
   }
  ]
 }
