@@ -202,6 +202,11 @@
    "date": "2026-11-26",
    "staged": [],
    "note": "Third run on 2026-11-26 (Asia/Bangkok): staging/2026-11-26.json already held 5 projects, nothing new staged. App had 1 new link (kk2c0ojsetp7itc1s4k4, instagram.com/share/BAWaAdz106, no note): Instagram not reachable from this container, so kept pending with checks=1 and result_th. Weekly panel unchanged (25 staged)."
+  },
+  {
+   "date": "2026-11-27",
+   "staged": [],
+   "note": "Run aborted at research stage: the cloud environment's network policy (Default env, limited, no allowed hosts) refused every research host (en.wikipedia.org, archdaily.com, nominatim, wikimedia, crossref, openalex, landezine, gooood, instagram) with 403 'no rule allows this host'; WebFetch also failed. No projects staged. 6 new app share links + kk2c0 marked checked (pending, Instagram blocked). inbox.md unchanged; weekly panel unchanged."
   }
  ]
 }
