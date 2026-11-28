@@ -212,6 +212,11 @@
    "date": "2026-11-27",
    "staged": [],
    "note": "Second run on 2026-11-27 (Asia/Bangkok): network still blocked (nominatim, archdaily, crossref, wikipedia refused by proxy; WebFetch fails; Firecrawl has no active connection). Only WebSearch works, which cannot verify images/coordinates, so nothing staged. Inbox app links not re-touched (already checked earlier today). Needs research hosts allowed in the cloud environment's network settings."
+  },
+  {
+   "date": "2026-11-28",
+   "staged": [],
+   "note": "Run on 2026-11-28 (Asia/Bangkok): network still blocked (archdaily, nominatim, crossref, wikimedia, landezine, wikipedia refused by proxy with 403). Default env has no allowed hosts. Nothing staged. 1 new app link (b2a80f1kwnkevn4wm3xb, instagram share) marked checks=1 pending. Older links not counted as failed checks since failure is network-caused. inbox.md and weekly panel unchanged."
   }
  ]
 }
