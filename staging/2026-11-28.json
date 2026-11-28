@@ -1,0 +1,1375 @@
+[
+ {
+  "id": "mahou-calderon-park-madrid",
+  "name": "Mahou-Calderón Park (Parque Atlético de Madrid)",
+  "name_local": "Parque del Nuevo Mahou-Calderón / Parque del Atlético de Madrid",
+  "designer": "Burgos & Garrido Arquitectos (Francisco Burgos, Ginés Garrido) ร่วมกับ Fernando Porras-Isla (Porras La Casta); MRIO Arquitectos Asociados",
+  "client": "Junta de Compensación APE 02.27 \"Nuevo Mahou-Calderón\" (ภายใต้การกำกับของ Ayuntamiento de Madrid)",
+  "city": "Madrid (Arganzuela)",
+  "country": "Spain",
+  "lat": 40.4019,
+  "lng": -3.7204,
+  "year": "2024",
+  "area": "67,360 sq. m. (42.1 ไร่)",
+  "area_sqm": 67360,
+  "categories": [
+   "transport-corridors",
+   "public-parks",
+   "derelict-land",
+   "historic"
+  ],
+  "tags": [
+   "highway capping",
+   "Madrid Río",
+   "stadium site",
+   "memory landscape",
+   "reclaimed water",
+   "circular materials",
+   "urban heat island",
+   "native vegetation",
+   "riverfront"
+  ],
+  "awards": [],
+  "summary_th": "สวน 67,360 ตร.ม. บนแผ่นพื้นคลุมถนนวงแหวน Calle 30 (M-30) ตรงที่ตั้งสนามฟุตบอล Vicente Calderón เดิม ในย่าน Arganzuela กรุงมาดริด (Burgos & Garrido + Fernando Porras-Isla, เปิดธันวาคม 2024) เชื่อมช่วงที่ขาดของ Madrid Río และเก็บความทรงจำของสนามไว้ในรูปทุ่งหญ้าจมระดับคล้ายสนามแข่งรถม้าโรมัน",
+  "description_th": "พื้นที่ริมแม่น้ำ Manzanares ตรงที่เคยเป็นสนามฟุตบอล Vicente Calderón ของสโมสร Atlético de Madrid และโรงเบียร์ Mahou เป็นจุดเดียวของโครงการ Madrid Río ที่ถนนวงแหวน Calle 30 ยังโผล่ขึ้นมาบนดิน ทำให้แนวสวนริมแม่น้ำขาดตอน ระบบนิเวศริมน้ำถูกตัด และย่าน Arganzuela ถูกกั้นออกจากริมแม่น้ำของตัวเอง หลังรื้อสนามและโรงเบียร์ โครงการ 'Nuevo Mahou-Calderón' ได้คลุมถนน M-30 ยาวกว่า 600 เมตร (กว้างราว 40 เมตร) แล้วสร้างสวนบนแผ่นพื้นนั้น\n\nแนวคิดของ Burgos & Garrido ร่วมกับ Fernando Porras-Isla ซึ่งเป็นทีมเดียวกับที่ออกแบบ Madrid Río คือให้สวนเป็น 'บานพับ' เชื่อม Salón de Pinos ทางเหนือกับสวน Arganzuela ทางใต้ ใช้ภาษาออกแบบและอุปกรณ์ชุดเดียวกับ Madrid Río และเก็บความทรงจำของสนามฟุตบอลไว้ด้วยการแปลงรูปทรงสนามเป็นทุ่งหญ้าจมระดับยาวที่มีปลายโค้งคล้ายสนามแข่งรถม้าโรมัน (circus) โดยไม่มีอัฒจันทร์หรือกำแพง เปิดให้ใช้งานได้หลากหลาย มีแคปซูลเวลาฝังไว้ตรงกลางสนามเดิมและแผ่นหินแกะเส้นขอบสนาม\n\nเนื่องจากส่วนนี้ไม่ใช่อุโมงค์ใต้ดินแต่เป็นแผ่นคลุมถนนที่ยกขึ้นเหนือดิน ระดับพื้นที่จึงต่างกันมาก ผังจึงแบ่งเป็นสามแถบ: (1) ลานยกระดับริมแม่น้ำบนแผ่นคลุม M-30 มีทางจักรยานคดเคี้ยวผ่านป่าสน ต่อเนื่องจาก Salón de Pinos และมีช่องเปิดมองแม่น้ำ (2) Paseo de la Virgen del Puerto ที่ระดับล่างทางเหนือ เปลี่ยนเป็นถนนคนเดินที่แก้ทางตันเดิม พร้อมบันไดและทางลาดสำหรับทุกคนเชื่อมขึ้นลานบน และต่อกับถนน Duque de Tovar (3) ทุ่งหญ้าจมระดับบนที่ตั้งสนามเดิม ทั้งสามส่วนเชื่อมกันด้วยลาดดินปลูกต้นไม้ขนาดใหญ่ที่ซ่อนกำแพงกันดินของแผ่นคลุมถนน มีทางเดินใหม่ยาว 620 เมตร เชื่อม Madrid Río ช่วงเหนือและใต้ และลู่วิ่งแบบไม่เป็นทางการสามลู่\n\nเพื่อไม่ให้แผ่นพื้นถนนรับน้ำหนักเกิน ดินถมหนักถูกผสมกับวัสดุเบาอย่างโฟมโพลีสไตรีน และปลูกป่าสนบนระดับสูง พืชพรรณเกือบทั้งหมดเป็นพืชพื้นถิ่นที่ขึ้นตามธรรมชาติริมแม่น้ำ Manzanares เป็นชุดพืชเมดิเตอร์เรเนียนทนแล้ง ให้น้ำเฉพาะสนามหญ้ากลางและพื้นที่พ่นเมล็ด ต้นไม้แต่ละต้นมีวงรดน้ำและหน้าดิน 1 ลูกบาศก์เมตร รดด้วยน้ำรีไซเคิลจากเครือข่ายของ Madrid Río ทางเดินใช้หินแกรนิตและแกรนิตบด ม้านั่งทำจากหินครอบกำแพงเดิมที่รื้อมา หินปูถนน ขอบทาง และโคมไฟเดิมถูกเก็บเข้าคลังเทศบาลเพื่อนำกลับมาใช้ ใช้ระบบก่อสร้างที่ถอดประกอบได้ เช่น ปูแกรนิตด้วยปูนแห้งและยึดด้วยสลักเกลียว และเครื่องเล่นทำจากไม้ robinia ที่ปลูกทดแทนได้\n\nโครงการใช้งบประมาณราว 12 ล้านยูโร ปลูกต้นไม้ใหม่ 1,200 ต้น ไม้พุ่ม 9,000 ต้น และสนามหญ้า 4,500 ตร.ม. แทนที่ถนนผิวทึบยาว 620 เมตรด้วยพื้นผิวพืชพรรณ 71% ของพื้นที่เป็นพื้นที่เขียวและต้นไม้ ส่วนพื้นแข็ง 29% ก็มีต้นไม้ให้ร่มและพื้นซึมน้ำ ระบบระบายน้ำในโครงสร้างอุโมงค์ช่วยหน่วงน้ำผิวดิน ทั้งหมดทำหน้าที่เป็น 'ฟองน้ำสีเขียว' ลดอุณหภูมิและเกาะความร้อนเมือง สวนเปิดใช้ในเดือนธันวาคม 2024 และถือเป็นชิ้นที่ทำให้ Madrid Río สมบูรณ์ต่อเนื่อง",
+  "design_strategies": [
+   "ใช้สวนเป็น 'บานพับ' เชื่อมช่วงที่ขาดของสวนริมแม่น้ำ ด้วยภาษาออกแบบ วัสดุ และอุปกรณ์ชุดเดียวกับ Madrid Río",
+   "แปลงรูปทรงสนามฟุตบอลเดิมเป็นทุ่งหญ้าจมระดับไร้อัฒจันทร์ เก็บความทรงจำของพื้นที่โดยไม่สร้างอนุสรณ์ที่ใช้งานไม่ได้",
+   "จัดการระดับที่ต่างกันจากแผ่นคลุมถนนด้วยลาดดินปลูกต้นไม้แทนกำแพงคอนกรีต และใช้ทางลาด-บันไดเชื่อมทุกระดับ",
+   "ผสมดินถมกับวัสดุเบา (โพลีสไตรีน) เพื่อปลูกป่าสนบนแผ่นพื้นถนนโดยไม่เกินกำลังรับน้ำหนักโครงสร้าง",
+   "เลือกพืชพื้นถิ่นริมแม่น้ำที่ทนแล้ง ให้น้ำรีไซเคิลเฉพาะจุด และนำวัสดุเดิมกลับมาใช้ด้วยระบบก่อสร้างที่ถอดประกอบได้"
+  ],
+  "lessons_th": [
+   "แนวทางคลุมถนนหรือทางด่วนแล้วทำสวนด้านบน ใช้ได้กับช่วงทางยกระดับหรือคลองที่ตัดชุมชนในกรุงเทพฯ โดยต้องวางระบบดินเบาและรากต้นไม้ให้สัมพันธ์กับโครงสร้างตั้งแต่แรก",
+   "การเปลี่ยนสนามกีฬาหรือโรงงานเก่าเป็นสวน ควรเก็บร่องรอยรูปทรงเดิมไว้เป็นพื้นที่เปิดที่ใช้ได้จริง แทนการทำอนุสรณ์ปิดล้อม",
+   "การใช้มาตรฐานอุปกรณ์สวนชุดเดียวกันทั้งแนว ช่วยให้ซ่อมบำรุงและเปลี่ยนชิ้นส่วนได้ง่าย เหมาะกับโครงการสวนเชิงเส้นที่สร้างเป็นช่วง ๆ"
+  ],
+  "images": [
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_01.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón บนแผ่นพื้นคลุมถนน Calle 30 เชื่อม Salón de Pinos กับสวน Arganzuela ของ Madrid Río (ภาพเปิดบทความ)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_02.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 2 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_03.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 3 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_04.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 4 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_05.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 5 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_06.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 6 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_07.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 7 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_07a.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 8 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_08.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 9 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_09.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 10 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_10.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 11 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_10a.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 12 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_11.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 13 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_12.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 14 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_13.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 15 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_14.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 16 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_15.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 17 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_16.jpg",
+    "type": "photo",
+    "caption": "สวน Mahou-Calderón ช่วงหลังเปิดใช้ ภาพชุดโดย Imagen Subliminal (ภาพที่ 18 จาก 18 ตามลำดับในบทความ METALOCUS)",
+    "credit": "Imagen Subliminal (Miguel de Guzmán + Rocío R. Rivas) / Burgos & Garrido via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_17.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (site plan) สวน Mahou-Calderón",
+    "credit": "Burgos & Garrido Arquitectos, Fernando Porras-Isla via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_17a.jpg",
+    "type": "plan",
+    "caption": "ผังพื้น (floor plan) ของสวน",
+    "credit": "Burgos & Garrido Arquitectos, Fernando Porras-Isla via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_24.jpg",
+    "type": "section",
+    "caption": "รูปตัดแสดงระดับพื้นที่ของสวนบนแผ่นคลุมอุโมงค์ถนน",
+    "credit": "Burgos & Garrido Arquitectos, Fernando Porras-Isla via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "url": "https://www.metalocus.es/sites/default/files/2026-11/metalocus_burgos-garrido-porras_omc_25.jpg",
+    "type": "section",
+    "caption": "รูปตัดอีกแนวหนึ่งของสวน",
+    "credit": "Burgos & Garrido Arquitectos, Fernando Porras-Isla via METALOCUS",
+    "source": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   }
+  ],
+  "research": [
+   {
+    "title": "La pérdida de “señas de identidad” en los espacios urbanos en transformación, de Madrid: estudio de caso",
+    "authors": "María Sotelo Pérez, Ignacio Sotelo Pérez, Julián Mora Aliseda",
+    "year": "2023",
+    "journal": "Anales de Geografía de la Universidad Complutense",
+    "url": "https://doi.org/10.5209/aguc.85947",
+    "note_th": "กรณีศึกษาการเปลี่ยนแปลงพื้นที่ 'Nuevo Mahou-Calderón' ย่าน Imperial เขต Arganzuela ในกรอบ Madrid Río และการสูญเสียอัตลักษณ์ของพื้นที่หลังรื้อโรงเบียร์และสนามฟุตบอล"
+   }
+  ],
+  "sources": [
+   {
+    "title": "METALOCUS — Memory. Mahou-Calderón Operation by Burgos & Garrido, Fernando Porras-Isla",
+    "url": "https://www.metalocus.es/en/news/memory-mahou-calderon-operation-burgos-garrido-fernando-porras-isla"
+   },
+   {
+    "title": "Burgos & Garrido arquitectos — Atlético de Madrid Park (OMC)",
+    "url": "https://www.burgos-garrido.com/en/proyectos/parque-operacion-mahou-calderon"
+   },
+   {
+    "title": "Madrid es Noticia — Madrid Río culmina su desarrollo con un homenaje al Vicente Calderón (ธ.ค. 2024)",
+    "url": "https://www.madridesnoticia.es/2024/12/madrid-rio-3/"
+   },
+   {
+    "title": "OpenAlex — La pérdida de “señas de identidad”... (DOI 10.5209/aguc.85947)",
+    "url": "https://api.openalex.org/works/doi:10.5209/aguc.85947"
+   },
+   {
+    "title": "OpenStreetMap — Parque Atlético de Madrid (way 1343531782)",
+    "url": "https://www.openstreetmap.org/way/1343531782"
+   },
+   {
+    "title": "Instagram — @metalocus (Mahou-Calderón Park)",
+    "url": "https://www.instagram.com/p/DgKsAYmFdHI/?cnvx=NTc4MTIwNjQ2YQ%3D%3D&utm_source=ig_web_copy_link"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W48",
+  "added_date": "2026-11-28"
+ },
+ {
+  "id": "detura-park-kuala-lumpur",
+  "name": "Detura Park (Taman Kejiranan PPR Desa Tun Razak)",
+  "name_local": "Taman Kejiranan PPR Desa Tun Razak",
+  "designer": "Eleena Jamil Architect",
+  "client": "Think City Sdn Bhd (โครงการ Kita2Kita) ร่วมกับ Dewan Bandaraya Kuala Lumpur (DBKL)",
+  "city": "Kuala Lumpur (Bandar Tun Razak, Cheras)",
+  "country": "Malaysia",
+  "lat": 3.0787,
+  "lng": 101.7162,
+  "year": "2026",
+  "area": "2,440 sq. m. (1.5 ไร่)",
+  "area_sqm": 2440,
+  "categories": [
+   "housing",
+   "community-gardens",
+   "recreation"
+  ],
+  "tags": [
+   "social housing",
+   "low-income community",
+   "participatory design",
+   "pocket park",
+   "playground",
+   "covered walkway",
+   "salvaged materials",
+   "rainwater harvesting",
+   "tropical"
+  ],
+  "awards": [
+   "รางวัลในงาน UN-Habitat dinner gala วัน World Habitat Day ระดับชาติ 2026 (จัดโดย URBANICE Malaysia และ KPKT)"
+  ],
+  "summary_th": "สวนชุมชนขนาด 2,440 ตร.ม. ในเคหะชุมชนผู้มีรายได้น้อย PPR Desa Tun Razak กัวลาลัมเปอร์ (Eleena Jamil Architect, โครงการ Kita2Kita ของ Think City, เปิดกันยายน 2026) ที่ใช้ทางเดินมีหลังคาเป็นแกนเชื่อมกิจกรรม ลานนั่งเล่น สนามฟุตซอล-เซปักตะกร้อ และศาลาเด็กเล่นหลายชั้น บนพื้นที่เหลือรูปร่างไม่ปกติระหว่างอาคารจอดรถกับแฟลต",
+  "description_th": "PPR Desa Tun Razak เป็นเคหะชุมชนสำหรับผู้มีรายได้น้อยที่กระทรวงที่อยู่อาศัยสร้างในปี 1998 มีผู้อยู่อาศัยราว 8,000 คน ในแฟลต 2 ห้องนอนขนาด 56 ตร.ม. ที่แทบเหมือนกันทุกห้อง เรียงเป็นอาคาร 17 ชั้นล้อมพื้นที่โล่งกลาง เมื่อเวลาผ่านไปเคหะแห่งนี้มีปัญหาการบำรุงรักษาและขาดพื้นที่กลางแจ้งให้ชุมชนใช้ จนในปี 2017 ลานกลางขนาดใหญ่ถูกสร้างเป็นอาคารจอดรถ 7 ชั้น ซึ่งชุมชนไม่พอใจ พื้นที่ว่างที่เหลือเป็นแปลงรูปร่างไม่ปกติขนาด 2,440 ตร.ม. ระหว่างอาคารจอดรถกับอาคารที่พัก\n\nโครงการนี้ริเริ่มและพัฒนาโดย Think City ภายใต้โครงการ Kita2Kita ร่วมกับ DBKL แนวคิดของ Eleena Jamil Architect คือมองสวนเป็นส่วนต่อขยายของบ้านที่คับแคบ การออกแบบเกิดจากการประชุมเชิงปฏิบัติการ (design charrette) กับผู้อยู่อาศัย ซึ่งพบปัญหาของสิ่งอำนวยความสะดวกเดิม ได้แก่ การเชื่อมต่อขาดตอน ความปลอดภัย ความทนทาน การขาดร่มเงา และการขาดพื้นที่พัก เล่น และทำกิจกรรมร่วมกัน ทีมหวังให้กระบวนการมีส่วนร่วมสร้างความรู้สึกเป็นเจ้าของ\n\nเอกลักษณ์ของสวนมาจากการตอบรับรูปร่างที่ไม่ปกติและพื้นที่ต่างระดับ ทางเดินมีหลังคาตรงกลาง (โครงเหล็ก เสาอิฐ และหลังคาวัสดุรีไซเคิล) เป็นเส้นทางเดินมีร่มจากอาคารที่พักไปยังมัสยิดและจุดขนส่งสาธารณะใกล้เคียง และเป็นแกนจัดลำดับกิจกรรมต่าง ๆ ทุกส่วนของพื้นที่ถูกกำหนดกิจกรรมให้รองรับหลายวัย ได้แก่ ลานนั่งเล่นมีร่ม สนามฟุตซอลและเซปักตะกร้อ พื้นที่อเนกประสงค์ และศาลาเด็กเล่นหลายชั้น มีทางลาดให้เคลื่อนที่ระหว่างระดับได้โดยไม่มีอุปสรรค และผังแบบเปิดทำให้มองเห็นกิจกรรมจากทางเดินกลาง ช่วยให้ชุมชนสอดส่องดูแลกันเอง\n\nวัสดุหลักคืออิฐเปลือยและคอนกรีตที่ทนทานเรียบง่ายในพื้นที่นั่งพักที่สงบ ตัดกับสีสดในสนามเด็กเล่นและลานกีฬา ตัวอย่างหนึ่งคือ 'laman santai' ที่จัดอิฐเป็นวงกลมพร้อมโต๊ะและเก้าอี้เป็นพื้นที่พบปะ ซึ่งอาคารสูงรอบข้างให้ร่มเงาเกือบทั้งวันยกเว้นช่วงเที่ยง และต้นไม้ที่ปลูกจะให้ร่มเพิ่มเมื่อโตขึ้น นอกจากนี้ยังมีการเก็บน้ำฝน ปลูกพืชพื้นเมือง และนำวัสดุจากการรื้อถอนกลับมาใช้\n\nสวนเปิดใช้ในเดือนกันยายน 2026 และกลายเป็นส่วนต่อขยายของพื้นที่อยู่อาศัย เป็นที่พักจากห้องพักคับแคบและเป็นที่พบปะ เล่น และสร้างความสัมพันธ์ ลาน laman santai กลายเป็นจุดที่คนในชุมชนนิยมมานั่งคุยอย่างรวดเร็ว ในเดือนตุลาคม 2026 โครงการได้รับรางวัลในงานกาลาของ UN-Habitat เนื่องในวัน World Habitat Day ระดับชาติของมาเลเซีย ซึ่งแสดงให้เห็นว่างานแทรกแซงเมืองขนาดเล็กสามารถคืนพื้นที่สาธารณะและเสริมความเป็นเจ้าของของชุมชนได้",
+  "design_strategies": [
+   "ใช้ทางเดินมีหลังคาเป็นแกนกลาง เชื่อมแฟลตกับมัสยิดและจุดขนส่ง พร้อมเป็นโครงสร้างจัดกิจกรรมทั้งสวน",
+   "ออกแบบกิจกรรมให้ทุกตารางเมตรของพื้นที่เหลือรูปร่างไม่ปกติ รองรับหลายวัย ทั้งลานนั่ง สนามกีฬา และศาลาเด็กเล่นหลายชั้น",
+   "ใช้ทางลาดเชื่อมพื้นที่ต่างระดับและผังเปิดโล่งเพื่อการมองเห็นและความปลอดภัยโดยชุมชน",
+   "ใช้วัสดุทนทานราคาประหยัด (อิฐ คอนกรีต วัสดุรื้อถอนรีไซเคิล) ตัดกับสีสดในพื้นที่เล่น",
+   "ออกแบบร่วมกับผู้อยู่อาศัยผ่าน design charrette เพื่อสร้างความเป็นเจ้าของ"
+  ],
+  "lessons_th": [
+   "แฟลตการเคหะและชุมชนแออัดในกรุงเทพฯ มักเหลือพื้นที่ว่างรูปร่างไม่ปกติระหว่างอาคาร สวนขนาดราว 1.5 ไร่ก็ทำให้เกิดพื้นที่เล่นและพบปะได้ถ้าวางกิจกรรมให้แน่นและต่อเนื่อง",
+   "ทางเดินมีหลังคาที่เชื่อมจุดหมายประจำวัน (มัสยิด/วัด ป้ายรถ ตลาด) เป็นทั้งโครงสร้างกันแดดฝนและแกนของสวน เหมาะกับภูมิอากาศร้อนชื้น",
+   "เงาจากอาคารสูงเป็นทรัพยากร: วางลานนั่งในเงาอาคาร แล้วปลูกต้นไม้เสริมร่มในช่วงเที่ยง",
+   "การทำงานกับองค์กรกลางอย่าง Think City และหน่วยงานท้องถิ่น ช่วยให้โครงการเล็กในชุมชนรายได้น้อยเกิดขึ้นและมีผู้ดูแลต่อ"
+  ],
+  "images": [
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/10/PPR-Desa-Tun-Razak_02.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน Detura Park ระหว่างอาคารจอดรถ 7 ชั้นกับแฟลต 17 ชั้นของ PPR Desa Tun Razak (ภาพประกอบข่าวรางวัลของสำนักงานออกแบบ)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-Desa-Tun-Razak_01.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 2 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-Desa-Tun-Razak_21.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 3 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/10/Detura_4.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 4 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/10/Detura_13.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 5 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-Desa-Tun-Razak.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 6 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-Desa-Tun-Razak_07.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 7 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-Desa-Tun-Razak_15.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 8 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   },
+   {
+    "url": "https://i0.wp.com/ej-architect.com/wp-content/uploads/2026/11/PPR-desa-Tun-Razak_22.jpg?w=1600",
+    "type": "photo",
+    "caption": "สวนชุมชน PPR Desa Tun Razak หลังเปิดใช้ (ภาพที่ 9 จาก 9 ในหน้าโครงการของ Eleena Jamil Architect)",
+    "credit": "Eleena Jamil Architect (ภาพ @zakeeman_)",
+    "source": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/",
+    "year": "2026"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "Eleena Jamil Architect — Taman Kejiranan PPR Desa Tun Razak (portfolio)",
+    "url": "https://ej-architect.com/portfolio/taman-kejiranan-ppr-desa-tun-razak/"
+   },
+   {
+    "title": "Eleena Jamil Architect — ข่าวรางวัล World Habitat Day 2026 (24 ต.ค. 2026)",
+    "url": "https://ej-architect.com/taman-kejiranan-ppr-desa-tun-razak/"
+   },
+   {
+    "title": "Eleena Jamil Architect — Space for Community (ระยะออกแบบ, เม.ย. 2025)",
+    "url": "https://ej-architect.com/8391/"
+   },
+   {
+    "title": "OpenStreetMap — PPR Desa Tun Razak (way 826193661)",
+    "url": "https://www.openstreetmap.org/way/826193661"
+   },
+   {
+    "title": "Instagram — @eleenajamilarchitect (Detura Park laman santai)",
+    "url": "https://www.instagram.com/p/DgNDHHJn2xP/?knvt=NTc4MTIwNjQ2YQ%3D%3D&utm_source=ig_web_copy_link"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W48",
+  "added_date": "2026-11-28"
+ },
+ {
+  "id": "alexandra-road-estate-london",
+  "name": "Alexandra Road Estate landscape (Alexandra Road Park)",
+  "name_local": "Alexandra and Ainsworth Estate / Alexandra Road Park",
+  "designer": "Neave Brown (London Borough of Camden Architects' Department) กับ Janet Jack (ภูมิสถาปนิก — พืชพรรณและสนามเด็กเล่น); ฟื้นฟูปี 2013–2016 โดย J&L Gibbons ร่วมกับ Erect Architecture",
+  "client": "London Borough of Camden",
+  "city": "London (Camden)",
+  "country": "UK",
+  "lat": 51.5394,
+  "lng": -0.1842,
+  "year": "1979",
+  "area": "18,000 sq. m. (11.25 ไร่) — พื้นที่สวน Alexandra Road Park ตามข้อมูลงานฟื้นฟูของ J&L Gibbons; ทั้งเอสเตตราว 65,000 ตร.ม.",
+  "area_sqm": 18000,
+  "categories": [
+   "housing",
+   "public-parks",
+   "historic"
+  ],
+  "tags": [
+   "social housing",
+   "modernism",
+   "brutalism",
+   "outdoor rooms",
+   "playgrounds",
+   "adventure play",
+   "noise barrier",
+   "terraced housing",
+   "heritage restoration",
+   "Heritage Lottery Fund",
+   "community-led",
+   "low maintenance planting",
+   "Grade II* registered landscape"
+  ],
+  "awards": [
+   "BALI National Landscape Awards 2016 — Winner, Community & Schools Development (งานฟื้นฟูโดย J&L Gibbons)",
+   "BALI National Landscape Awards 2016 — Winner, Regeneration Scheme (งานฟื้นฟู)",
+   "Camden Design Awards 2017 — Winner (งานฟื้นฟู)"
+  ],
+  "wikipedia": "Alexandra_Road_Estate",
+  "summary_th": "เคหะสภาเขตแคมเดนของ Neave Brown (ออกแบบ 1968 สร้าง 1972–1978) ที่ภูมิทัศน์เป็นส่วนหนึ่งของสถาปัตยกรรม มีอาคารขั้นบันไดพร้อมกระบะปลูกทุกหน่วย และสวนเส้นยาวที่ Janet Jack ออกแบบพืชพรรณกับสนามเด็กเล่น 5 แห่ง แบ่งเป็น 'ห้องกลางแจ้ง' ด้วยกำแพงและระดับ สวนได้รับการฟื้นฟูในปี 2015 และขึ้นทะเบียนสวนประวัติศาสตร์ Grade II*",
+  "description_th": "Alexandra Road Estate (ชื่อทางการ Alexandra and Ainsworth Estate หรือที่เรียกกันว่า Rowley Way) เป็นเคหะของสภาเขตแคมเดน (Camden) ทางเหนือของลอนดอน ออกแบบในปี 1968 โดย Neave Brown แห่งกองสถาปนิกของสภาเขตแคมเดน ก่อสร้างระหว่างปี 1972–1978 บนที่ดินรูปพระจันทร์เสี้ยวราว 16 เอเคอร์ (ประมาณ 65,000 ตร.ม.) ซึ่งเดิมเป็นส่วนหนึ่งของที่ดิน Eyre Estate โจทย์ใหญ่คือรางรถไฟสายหลัก West Coast Main Line ที่ขนาบด้านเหนือ เสียงและแรงสั่นสะเทือนของรถไฟจึงกำหนดผังทั้งหมด โครงการมี 520 หน่วย พร้อมโรงเรียน ศูนย์ชุมชน สโมสรเยาวชน และสวนสาธารณะ เอกสารวิชาการระบุว่าโครงการรองรับผู้อยู่อาศัยราว 1,660 คน\n\nแนวคิดของ Brown คือปฏิเสธอาคารสูงกลางลานโล่งแบบหลังสงคราม แล้วกลับไปหาแถวบ้านแบบอังกฤษ (terrace) ในศตวรรษที่ 18–19 ซึ่งเขามองว่าเป็นระบบที่ยืดหยุ่นและสร้างความสัมพันธ์ระหว่างพื้นที่สาธารณะกับพื้นที่ส่วนตัวได้ดี ทุกหน่วยมีระเบียงหรือดาดฟ้าส่วนตัวและกระบะปลูกในตัว ด้วยความตั้งใจให้ต้นไม้ห้อยลงตามหน้าอาคารขั้นบันไดทุกชั้น ภูมิทัศน์จึงเป็นส่วนหนึ่งของสถาปัตยกรรมตั้งแต่แรก Brown วางผังแนวกำแพงแบ่งพื้นที่และทางเดินไว้ตั้งแต่ปี 1968 ส่วน Janet Jack (1934–2016) ภูมิสถาปนิกที่เคยเรียนกับ Brown ที่ AA School และทำงานเป็นสถาปนิกก่อนจะเรียนภูมิสถาปัตยกรรม รับผิดชอบงานพืชพรรณและสนามเด็กเล่น สวนแล้วเสร็จในปี 1979\n\nผังประกอบด้วยอาคารสามแถวขนานตามแนวตะวันออก–ตะวันตก แถวสูง 8 ชั้นติดรางรถไฟเป็นทรงขั้นบันได (ziggurat) ทำหน้าที่กำแพงกันเสียงให้พื้นที่ด้านใน และวางบนแผ่นยางกันสั่นสะเทือน แถวแรกและแถวที่สองหันหน้าเข้าหากันข้ามถนนคนเดิน Rowley Way ที่มีต้นไม้เรียงแถว รถยนต์ถูกลดลงไปอยู่ชั้นใต้ดิน ส่วนสวนหลักเป็นแถบยาวระหว่างแถวที่สองกับแถวที่สาม แบ่งเป็นลำดับ 'ห้อง' ที่ต่อกันด้วยทางเดินยกระดับซึ่งหักซิกแซกระหว่างห้อง ได้แก่ สนามเด็กเล่น 5 แห่งเรียงตามช่วงอายุ ลานหญ้าวงกลมแบบอัฒจันทร์ (bowl) ล้อมด้วยรั้วต้นยู ทุ่งหญ้ากลาง (meadow) ลานหญ้ายกระดับรับแดดใต้ สวนป่าเล็ก (grove/woodland walk) สนามฟุตบอล 5 คนจมระดับ และศูนย์เด็กเล่นที่ฝังในเนินจนหลังคากลายเป็นลานเล่น Historic England ยกให้เป็นการใช้พื้นที่จำกัดอย่างชาญฉลาด ด้วยการเล่นระดับ กำแพงและทางเดินแนวทแยง แบ่งพื้นที่เล่นสลับกับพื้นที่พักผ่อนที่แต่ละแห่งมีบุคลิกต่างกัน\n\nพื้นที่แคบและลมแรง Jack จึงใช้การปลูกต้นไม้และไม้พุ่มหนาแน่นเสริมระดับพื้นที่ยกและจม เพื่อสร้างมุมที่กำบังลม โจทย์ระบุว่าสวน 'ต้องดูแลน้อย' และ 'พืชต้องทนสภาพแย่' เธอจึงเลือกพรรณไม้ทนทาน เช่น โอ๊กไม่ผลัดใบ Holm Oak (Quercus ilex) ใช้ต้นไม้หลากสีและผิวสัมผัสร่วมกับไม้พุ่มไม่ผลัดใบเพื่อให้สวยตลอดปี ปลูกแดฟโฟดิลบนเนินด้านรับแดดของอัฒจันทร์ และสโนว์ดรอปบนด้านร่มใต้รั้ว แผนเดิมยังมีดอกไม้ ผลไม้ และสมุนไพรให้ผู้อยู่อาศัยเก็บกินได้ กำแพงคอนกรีตสีขาวออกแบบให้ไม้เลื้อยเกาะและมีแปลงปลูกบนสัน และมีม้านั่งคอนกรีตที่หล่อติดกำแพงทั่วสวน\n\nในทศวรรษ 1990 สวนทรุดโทรมเพราะสหกรณ์ผู้อยู่อาศัยที่ดูแลไม่มีงบพอ เครื่องเล่นถูกรื้อและบางส่วนถูกปิดด้วยเหตุผลด้านความปลอดภัย ไม้พุ่มรกจนบังสายตาและเกิดปัญหาการรวมกลุ่มของแก๊ง ปี 2010 ผู้อยู่อาศัยร่วมกับสภาเขตแคมเดนเสนอขอทุน และได้ทุนราว 1.5 ล้านปอนด์จาก Heritage Lottery Fund และ Big Lottery Fund งานฟื้นฟูปี 2013–2016 นำโดย J&L Gibbons ร่วมกับ Erect Architecture (สนามเด็กเล่น) และที่ปรึกษาประวัติศาสตร์ Sarah Couch บนพื้นที่ 1.8 เฮกตาร์ ปลูกต้นไม้ใหม่ 57 ต้น บูรณะกำแพง หล่อม้านั่งใหม่จากแม่พิมพ์ของม้านั่งเดิมที่ยังสมบูรณ์ ตัดไม้พุ่มเพื่อเปิดแนวสายตา และหยิบองค์ประกอบเด่นของ Jack มาตีความใหม่ในสนามเด็กเล่น โดยปรึกษา Janet Jack เองและใช้แบบที่เธอเก็บไว้ (ปัจจุบันบริจาคให้ Garden Museum) สวนเปิดอีกครั้งในเดือนกันยายน 2015 ได้รางวัล BALI National Landscape Awards 2016 สองสาขาและ Camden Design Awards 2017 ตัวเอสเตตเป็นเคหะหลังสงครามแห่งแรกที่ขึ้นทะเบียนอาคารอนุรักษ์ Grade II* (1993) และสวนได้ขึ้นทะเบียนสวนประวัติศาสตร์ Grade II* ในปี 2020",
+  "design_strategies": [
+   "ใช้แถวอาคารสูง 8 ชั้นทรงขั้นบันไดติดรางรถไฟเป็นกำแพงกันเสียง แล้วซ่อนพื้นที่สีเขียวและถนนคนเดินไว้ด้านในที่เงียบ",
+   "แบ่งสวนเส้นยาวเป็น 'ห้อง' ต่อเนื่องด้วยกำแพงแนวทแยง การยกและจมระดับ และแนวไม้หนา เพื่อให้แต่ละห้องมีบุคลิกและกลุ่มผู้ใช้ต่างกัน",
+   "จัดสนามเด็กเล่น 5 แห่งเรียงตามช่วงอายุ สลับกับลานหญ้าอัฒจันทร์ ทุ่งหญ้า ลานรับแดด และสวนป่าเล็กสำหรับพักผ่อนและสัตว์ป่า",
+   "ฝังภูมิทัศน์ในตัวอาคาร: กระบะปลูกประจำทุกหน่วย กระบะใหญ่เป็นแนวกั้นพื้นที่สาธารณะ–ส่วนตัว ม้านั่งหล่อติดกำแพง",
+   "เลือกพืชทนทานดูแลน้อย ปลูกหนาแน่นกันลม ใช้ไม้ไม่ผลัดใบและพรรณไม้หลากสีให้สวยตลอดปี",
+   "ฟื้นฟูด้วยหลักฐานแบบเดิมและการมีส่วนร่วมของผู้อยู่อาศัย: บูรณะกำแพง หล่อม้านั่งจากแม่พิมพ์เดิม เปิดแนวสายตา และตีความเครื่องเล่นเดิมใหม่"
+  ],
+  "lessons_th": [
+   "โครงการเคหะความหนาแน่นสูงของการเคหะแห่งชาติหรือคอนโดริมทางด่วน/รถไฟฟ้าในกรุงเทพฯ ใช้อาคารแถวยาวเป็นแนวกันเสียงและซ่อนสวนส่วนกลางไว้ด้านในได้ ดีกว่าวางตึกสูงกลางลานโล่ง",
+   "แบ่งพื้นที่ส่วนกลางขนาดเล็กเป็นห้องย่อยที่มีหน้าที่ชัด (เล่นตามช่วงอายุ นั่งพัก ร่มเงา) ด้วยระดับและแนวไม้ ทำให้พื้นที่แคบรองรับคนหลายกลุ่มพร้อมกัน",
+   "การออกแบบสำหรับงบดูแลน้อยต้องคิดถึงวันที่ต้นไม้โตเต็มที่: ไม้พุ่มที่รกจนบังสายตาทำให้เกิดปัญหาความปลอดภัย จึงควรวางแผนการตัดแต่งและระยะมองเห็นตั้งแต่ต้น",
+   "เก็บแบบและเอกสารต้นฉบับของงานภูมิทัศน์ไว้ให้ดี เพราะเป็นหลักฐานสำคัญเมื่อต้องฟื้นฟูหรือขึ้นทะเบียนอนุรักษ์งานสมัยใหม่"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.18606,
+       51.538999
+      ],
+      [
+       -0.185489,
+       51.538643
+      ],
+      [
+       -0.18491,
+       51.538882
+      ],
+      [
+       -0.182874,
+       51.539521
+      ],
+      [
+       -0.181726,
+       51.539811
+      ],
+      [
+       -0.181507,
+       51.540162
+      ],
+      [
+       -0.181574,
+       51.540148
+      ],
+      [
+       -0.181601,
+       51.540195
+      ],
+      [
+       -0.181926,
+       51.540127
+      ],
+      [
+       -0.182772,
+       51.539938
+      ],
+      [
+       -0.184083,
+       51.539607
+      ],
+      [
+       -0.184685,
+       51.539445
+      ],
+      [
+       -0.185194,
+       51.539291
+      ],
+      [
+       -0.185549,
+       51.539177
+      ],
+      [
+       -0.185995,
+       51.539022
+      ],
+      [
+       -0.18606,
+       51.538999
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/982728997"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://freight.cargo.site/w/1200/i/e35edda12afa4a8f271dcc7fa99f4ce6eb2a528aa981b60e5cc4905b4e428f8a/1_ARP-586_photo-credit_Sarah-Blee_J-L-Gibbons.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟู (ภาพนำของโครงการโดย J&L Gibbons) — สวนเส้นยาวกลางเอสเตตระหว่างแถวอาคารขั้นบันได",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/391cb3f67729ba977f556c74aaced273cfbf4997e8d95e778f64573962287656/2_707--JLG_photo-credit_Sarah-Blee_J-L-Gibbons.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 2/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/f59943c34062af3b9b19b6eb87d8de1980e3f4276070e21a953dd500f6236032/3_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP-JLG-714767.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 3/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/58dbc7e0b5d63942d4149e40dd9f1d6757291247a0ea943b6371ce2285aac208/4_ARP-717_photo-credit_Sarah-Blee_J-L-Gibbons.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 4/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/045cf60c6dea7809875d02a9e15c9dfa6307db85ae06ca1340a9225abeb51875/5_ARP-729_photo-credit_Sarah-Blee_J-L-Gibbons.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 5/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/30fb13a05e13a19312c8a13d00204fd33f2273e5bf73577ff21225bd29b6f56f/6_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP--JLG-714831.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 6/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/36679ca89817085ddd5bf4a1527a1765963b5b9b68c65fae2bc4e94c6c9d5d1e/7_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP--JLG-714833.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 7/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/b16a01fe48499b175338e3bde9c5e2751d0411c3d03fe7698514bab63eb8b4ea/8_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP-JLG-714680.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 8/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/d76dac22f68ad13dbe7ce7819e907e821ac15a68ff0dbc7a53ff003eadbdd310/9_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP-JLG-714783.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 9/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/29edaec001ceb30f83879fb11b5738a24fe0f9e31f7e5a3a2fc15eaaef24853e/10_ARP-729_photo-credit_Sarah-Blee_J-L-GibbonsARP-662_photo-credit_Sarah-Blee_J-L-Gibbons.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Park หลังการฟื้นฟูโดย J&L Gibbons ร่วมกับ Erect Architecture (ภาพชุดโครงการ 10/10)",
+    "credit": "Sarah Blee / J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Rz77W9JcB1RSTTvDbp14E0k7LEMBYICVfF9ysBBkHqIpzj99AWcOrv90zvfWfG9b37-oqpSbs=w1280",
+    "type": "photo",
+    "caption": "มองไปยังทุ่งหญ้ากลาง (meadow) ของสวน ต้นไม้ที่ Janet Jack ปลูกเติบโตเต็มที่แล้ว",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/view-to-the-meadow-alexandra-road-park-camden-london-elizabeth-knowles/AgF3rr-7NUNchg",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_RHvJtcvBnNEV3Cs-QnwQFr52lG6uLa2XY62Q9yE0n8tNYGgbAsjDSSdYkl8_TRAEiaWyTINCA=w1280",
+    "type": "photo",
+    "caption": "ต้นไม้ใน Woodland Walk ทางเดินป่าเล็กที่ใช้พรรณไม้หลากสีและผิวสัมผัส",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/trees-in-woodland-walk-alexandra-road-park-camden-london-elizabeth-knowles/bgHv05buWNQQDg",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_TMmD9wFwI5lQwLzlyAjUTtHxcUSPHg-wtaZJ76N7XBd0kLJKbr-DFxoNMln22iWy-MdqnlYw=w1280",
+    "type": "photo",
+    "caption": "Woodland Walk ข้างสนามเด็กเล่นที่ 4 และ 5 ออกแบบให้เป็นแหล่งอาศัยของสัตว์ป่าและที่หลบจากความพลุกพล่าน",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/woodwalk-walk-alexandra-road-park-camden-london-elizabeth-knowles/SQEdOm6fwRR4hw",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Qe1W7gRqbhCGsYukMlhS6XESuWpfe7wpgkmtlwGY4M1GqEhFokUbnJDik6yIygZ1tLiny5cqpC=w1280",
+    "type": "photo",
+    "caption": "พื้นที่ธรรมชาติกับเนินดอกโครคัส มีที่นั่งมองลงไปยังสนามฟุตบอลจมระดับ (หลังการฟื้นฟู)",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/wild-area-with-crocus-bank-alexandra-road-park-camden-elizabeth-knowles/nQEj7Arr2umAxg",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Qg5jVoE_rC7UrZRM18cL1lPrjFFUJsV1Y9Wpc8A-La-Tz_DKdJUoSPav9luNoXmBKIUqoT8pN-=w1280",
+    "type": "photo",
+    "caption": "สนามเด็กเล่นที่ 2 หลังการฟื้นฟู กระบะปลูกรอบลานเล่นเติมโรสแมรี มินต์ป่า และสตรอว์เบอร์รี",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/playground-two-alexandra-road-park-camden-london-elizabeth-knowles/vQHgXBaxKpaXsA",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Ra-ehMUWlQ2VG66a4IclkaRrRNQVPcVFc1xbqKaBKPebVdRt2C23jsNbn1M2CtLac5E8_snP4=w1280",
+    "type": "photo",
+    "caption": "กำแพงในสนามเด็กเล่นที่ 2 — กำแพงขาวที่แบ่งสวนเป็น 'ห้อง' และเป็นส่วนหนึ่งของการขึ้นทะเบียน",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/wall-in-playground-two-alexandra-park-road-camden-london-elizabeth-knowles/sgGtBqAoZNjjew",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_R9YY0jBMfEw-3cfN2XjIY9JqB4QE87M9VQCF_UD5z0GIkxS41dy8XQDjOUYtvP8QatIG_OMw=w1280",
+    "type": "photo",
+    "caption": "สนามเด็กเล่นที่ 3 กำแพงออกแบบให้ไม้เลื้อยเกาะและมีแปลงปลูกบนสันกำแพง",
+    "credit": "Elizabeth Knowles / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/playground-3-alexandra-road-park-camden-london-elizabeth-knowles/7AEzYFPHamqghg",
+    "year": "2019"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_TQ8ZUy3SYr6TJYJeRtaZtTx6GkQm2Tz0-ZlFaRJgXFuEEoECqJOenIjbDp5lfUTHavW7y1e4Y=w1280",
+    "type": "photo",
+    "caption": "เครื่องเล่นใหม่ในสนามเด็กเล่นที่ 3 ได้แรงบันดาลใจจากโดมปีนป่ายรูปสามเหลี่ยมเดิมของ Janet Jack",
+    "credit": "Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/playground-three-garden-museum/xQHr9V4pIL-dWw",
+    "year": "2020"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Teor6XHNdMUWxs4kcakGd_h_Vr7EPLDH48N2JhxXyR0Brf9ULdqVHvL5b8zWFWcjWtVos0sQM=w1280",
+    "type": "photo",
+    "caption": "สวนช่วงแรกหลังเปิดใช้ (ราว 1979–1985) แปลงปลูกยังมีรั้วกั้นเพื่อให้ต้นไม้ตั้งตัว (ภาพจากคลังของ Janet Jack)",
+    "credit": "Janet Jack / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/view-of-alexandra-road-park-camden-london-janet-jack/PgGFOiRftqSGbg"
+   },
+   {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Alexandra_Road_Estate_-_2024-06-23_-_01.jpg/1280px-Alexandra_Road_Estate_-_2024-06-23_-_01.jpg",
+    "type": "photo",
+    "caption": "Alexandra Road Estate (Rowley Way) อาคารคอนกรีตขั้นบันไดที่มีกระบะปลูกประจำทุกหน่วย",
+    "credit": "Felipe Tofani (CC BY-SA 2.0)",
+    "source": "https://commons.wikimedia.org/wiki/File:Alexandra_Road_Estate_-_2024-06-23_-_01.jpg",
+    "year": "2024"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_Q48z7fDh9QDwdUUSFJcx5QGVrb99izZLmMyAXj9cdHM_XK-ME-T3u3cQB5gF3Rde0AWUtR=w1280",
+    "type": "plan",
+    "caption": "ผังบริเวณ (Site Plan) ของ Alexandra Road Park โดย Janet Jack (1968–1979)",
+    "credit": "Janet Jack / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/site-plan-for-alexandra-road-park-janet-jack/2wHBroljjVwoaw"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_RBLqDzpc_e-AyyE-kElugAAxYAejVyJocPbULmLgAPzS83jBIdMQbDUUWMYz2_Y86eJuS8xhCy=w1280",
+    "type": "plan",
+    "caption": "ผังพืชพรรณ (Planting Plan) ของสวน โดย Janet Jack (1968–1979)",
+    "credit": "Janet Jack / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/planting-plan-for-alexandra-road-park-janet-jack/-gGhnQo5ukG1IQ"
+   },
+   {
+    "url": "https://lh3.googleusercontent.com/ci/AL18g_TlidnSTdCPI-q5TdF6JkEnTTSyn4x15fpMV4Szk_cfuG62P3WAd5UoE1YBa3upsLsvsw8yHA=w1280",
+    "type": "plan",
+    "caption": "ผังระดับและตำแหน่งต้นไม้ (Tree Levels and Location Plan) โดย Janet Jack",
+    "credit": "Janet Jack / Garden Museum (via Google Arts & Culture)",
+    "source": "https://artsandculture.google.com/asset/tree-levels-and-location-plan-for-alexandra-road-park-janet-jack/NQHSCcQR5tcdfg"
+   },
+   {
+    "url": "https://freight.cargo.site/w/1200/i/4c388abcf2ae75f67f88ad18f77b10d314af7a4fd7a7f2409ba9d6ba6cb1d031/15_AXO_NO-ANNOTATION_web.jpg",
+    "type": "diagram",
+    "caption": "ภาพแอกโซโนเมตริกของสวนหลังการฟื้นฟู (J&L Gibbons)",
+    "credit": "J&L Gibbons",
+    "source": "https://jlg-london.com/Alexandra-Road-Park"
+   }
+  ],
+  "research": [
+   {
+    "title": "The Brilliance of Alexandra Road",
+    "authors": "Zhan Chen",
+    "year": "2021",
+    "journal": "ACSA 109th Annual Meeting Proceedings (Expanding the View)",
+    "url": "https://doi.org/10.35483/acsa.am.109.51",
+    "note_th": "บทความประชุมวิชาการ ACSA วิเคราะห์เอสเตต 520 หน่วย ผู้อยู่อาศัย 1,660 คน บนที่ดิน 16.3 เอเคอร์ ว่าเป็นการตีความแถวบ้านอังกฤษแบบดั้งเดิมใหม่ แทนอาคารสูงหลังสงคราม"
+   },
+   {
+    "title": "The Interaction of Architecture and Environment in Neave Brown's Most Outstanding Creation",
+    "authors": "Yuriy Dzhyhil",
+    "year": "2023",
+    "journal": "Visnyk of Lviv Polytechnic National University. Series Architecture",
+    "url": "https://doi.org/10.23939/sa2023.01.075",
+    "note_th": "ศึกษาวิธีคิดของ Neave Brown ใน Alexandra Road Estate บทบาทของบริบททางสังคม และความสัมพันธ์ของสถาปัตยกรรมกับสภาพแวดล้อมเมือง"
+   },
+   {
+    "title": "Alexandra Road Estate, London: Neave Brown 1967–79",
+    "authors": "Mark Swenarton",
+    "year": "2020",
+    "journal": "Luxury for All (De Gruyter / Birkhäuser)",
+    "url": "https://doi.org/10.1515/9783035618877-012",
+    "note_th": "บทในหนังสือโดย Mark Swenarton นักประวัติศาสตร์ผู้ศึกษาเคหะของแคมเดน บันทึกการออกแบบและก่อสร้างเอสเตตช่วงปี 1967–79"
+   },
+   {
+    "title": "Alexandra and Ainsworth Estates (chapter in Community-Led Regeneration: A Toolkit for Residents and Planners)",
+    "authors": "Pablo Sendra; Daniel Fitzpatrick",
+    "year": "2020",
+    "journal": "UCL Press",
+    "url": "https://doi.org/10.2307/j.ctv13xpsj7.16",
+    "note_th": "บทกรณีศึกษาในหนังสือคู่มือการฟื้นฟูเมืองโดยชุมชน ใช้เอสเตต Alexandra and Ainsworth เป็นตัวอย่างบทบาทผู้อยู่อาศัย"
+   },
+   {
+    "title": "新粗野主义社会住宅的最后辉煌——尼弗·布朗及其亚历山大路住区设计研究 (The Last Glory of New Brutalist Social Housing: Neave Brown and Alexandra Road Estate)",
+    "authors": "扶国 (Fu Guo)",
+    "year": "2021",
+    "journal": "建筑师 (The Architect)",
+    "url": "https://doi.org/10.12285/jzs.20191223001",
+    "note_th": "บทความภาษาจีนวิเคราะห์ความต่อเนื่องของโครงสร้างพื้นที่และสุนทรียศาสตร์แบบ New Brutalism ใน Alexandra Road Estate"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Instagram — @gardenmuseum",
+    "url": "https://www.instagram.com/p/DgK6NDgjizs/?img_index=6&evlk=aWR1Z2Z6cXM2MnV5"
+   },
+   {
+    "title": "Wikipedia — Alexandra Road Estate",
+    "url": "https://en.wikipedia.org/wiki/Alexandra_Road_Estate"
+   },
+   {
+    "title": "Garden Museum — Janet Jack at Alexandra Road Park (Google Arts & Culture)",
+    "url": "https://artsandculture.google.com/story/5gVh76dwTZRcLw"
+   },
+   {
+    "title": "London Parks & Gardens (London Gardens Trust) — Alexandra Road Park inventory record",
+    "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=CAM001"
+   },
+   {
+    "title": "J&L Gibbons — Alexandra Road Park",
+    "url": "https://jlg-london.com/Alexandra-Road-Park"
+   },
+   {
+    "title": "Camden Council — Celebrating the restoration of Alexandra Road Park (2015)",
+    "url": "https://news.camden.gov.uk/celebrating-the-restoration-of-alexandra-road-park/"
+   },
+   {
+    "title": "Planning Data (Historic England) — Alexandra Road Park, park-and-garden 1469254",
+    "url": "https://www.planning.data.gov.uk/entity/11101693"
+   },
+   {
+    "title": "OpenStreetMap — Alexandra Road Park",
+    "url": "https://www.openstreetmap.org/way/982728997"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W48",
+  "added_date": "2026-11-28"
+ },
+ {
+  "id": "glenstone-museum-landscape-potomac",
+  "name": "Glenstone Museum Landscape",
+  "designer": "PWP Landscape Architecture (ภูมิสถาปนิก) ร่วมกับ Thomas Phifer and Partners (อาคาร Pavilions) และ Gwathmey Siegel & Associates (อาคาร Gallery); ที่ปรึกษาทุ่งหญ้า Larry Weaner Landscape Associates",
+  "client": "Glenstone Foundation",
+  "city": "Potomac, Maryland",
+  "country": "United States",
+  "lat": 39.0592,
+  "lng": -77.2487,
+  "year": "2018",
+  "area": "930,777 sq. m. (582 ไร่) — 230 เอเคอร์ ตามกรณีศึกษา LAF",
+  "area_sqm": 930777,
+  "categories": [
+   "land-art",
+   "forestry",
+   "flood-suds",
+   "living-roofs"
+  ],
+  "tags": [
+   "museum landscape",
+   "meadow restoration",
+   "reforestation",
+   "stream restoration",
+   "organic maintenance",
+   "landscape performance",
+   "sculpture park",
+   "stormwater harvesting",
+   "suburban retrofit"
+  ],
+  "awards": [
+   "2019 ASLA Professional Awards — Honor Award, General Design"
+  ],
+  "wikipedia": "Glenstone",
+  "summary_th": "ภูมิทัศน์พิพิธภัณฑ์ศิลปะร่วมสมัย Glenstone ที่ Potomac รัฐแมริแลนด์ (PWP Landscape Architecture, เฟส 2 เสร็จปี 2018) เปลี่ยนแปลงที่ดินบ้านจัดสรรชานเมืองกว่าสิบแปลงรวม 230 เอเคอร์ ให้เป็นภูมิทัศน์ต่อเนื่องของทุ่งหญ้าพื้นเมือง ป่าปลูกใหม่ ลำธารที่ฟื้นฟู และงานประติมากรรม ดูแลแบบอินทรีย์ทั้งหมด และมีข้อมูลผลลัพธ์จากกรณีศึกษา LAF",
+  "description_th": "Glenstone ตั้งอยู่ในหุบเขาแม่น้ำโพโตแมคชานกรุงวอชิงตัน ดี.ซี. พื้นที่นี้เดิมเป็นชนบทเกษตรกรรม แต่ในรอบศตวรรษที่ผ่านมาถูกแบ่งเป็นแปลงบ้านพักขนาด 1–5 เอเคอร์ ปรับระดับเป็นที่ราบขั้นบันไดกับลาดดินที่วิศวกรรมขึ้น ทำให้สัณฐานธรรมชาติและลักษณะเฉพาะของภูมิภาคหายไป ตลิ่งลำธารถูกกัดเซาะและเสื่อมโทรม มูลนิธิ Glenstone ทยอยซื้อบ้านจัดสรรกว่าสิบแปลง (ราว 20 หลัง) มารวมเป็นพื้นที่ต่อเนื่อง 230 เอเคอร์ โดย PWP เริ่มงานตั้งแต่ปี 2003 กับพื้นที่ 40 เอเคอร์รอบบ้านและอาคาร Gallery เดิม\n\nแนวคิดคือให้ศิลปะ สถาปัตยกรรม และธรรมชาติเป็นประสบการณ์เดียวกันที่ต่อเนื่อง ผู้ชมจอดรถใต้ร่มป่าที่ออกแบบขึ้นแล้วเดินเท้าเข้าสู่ภูมิทัศน์ ได้สัมผัสผืนดินโดยตรงและมีจุดชมวิวที่ทำให้เข้าใจระบบภูมิทัศน์ควบคู่กับงานศิลปะ ทีมออกแบบฟื้นความสัมพันธ์ของพื้นที่กับภูมิประเทศหุบเขาโพโตแมคด้วยการปรับระดับดิน ปลูกป่า และฟื้นฟูลำธาร โดยกำหนดโครงสร้างตามลุ่มรับน้ำ (watershed) แทนเส้นแบ่งแปลงที่ดิน\n\nโครงการแบ่งเป็นสองเฟส เฟส 1 (2006) ปรับระดับ ปลูกป่า และทำเส้นทางชมประติมากรรมบนที่ดินเดิม 150 เอเคอร์ เฟส 2 (2018) ขยายเป็น 230 เอเคอร์ พร้อมอาคาร Pavilions ขนาด 204,000 ตร.ฟุต ของ Thomas Phifer ลำดับการเข้าถึงเริ่มจากลานจอดรถแบบป่าละเมาะผิวกรวดที่ซึมน้ำได้ ผ่าน Arrival Hall แล้วเดินบนทางคดเคี้ยวกลางทุ่งหญ้าสู่ Pavilions ซึ่งมี Water Court ขนาด 16,000 ตร.ฟุต เป็นหัวใจ ต่อด้วยสะพานโค้งข้ามหุบไปยังอาคาร Gallery ร้านกาแฟ และเส้นทางเดินกับทางเท้ารวม 12,760 ฟุต ลงสู่ป่าและลำธาร ซึ่งเชื่อมกับ Bridle Trail สาธารณะ และมีรถประจำทางสายใหม่จอดที่พื้นที่ ระบบน้ำจัดการฝนรอบ 1 นิ้ว/24 ชม. ด้วย bioretention ผิวซึมน้ำ และถังเก็บน้ำใต้ดินสามถังรวม 1,000,000 แกลลอน เก็บน้ำฝนไว้รดน้ำ น้ำจากหลังคา Gallery และสนามหญ้าไหลลงบ่อใหญ่ที่กรองผ่านกำแพงหินเรียงแห้งด้านหนึ่งและขอบพื้นที่ชุ่มน้ำอีกด้าน\n\nด้านพืชพรรณ สนามหญ้าและทุ่งเลี้ยงสัตว์ 84 เอเคอร์ถูกเปลี่ยนเป็นทุ่งหญ้าพื้นเมือง เช่น little bluestem และ purpletop ตัดปีละครั้งและไม่ต้องให้น้ำ ปลูกต้นไม้ใหม่ราว 9,200 ต้น (tulip poplar, redbud, hornbeam ฯลฯ) และย้ายต้นไม้เดิมขนาด 5–30 นิ้วกว่า 400 ต้นมาพักและปลูกใหม่ในพื้นที่ หลังคาเขียว 33,106 ตร.ฟุต ของ Pavilions ปลูกพืชพื้นเมือง 32 ชนิด Water Court ปลูกไม้น้ำ 4,389 ต้น 9 ชนิด (ไอริส บัวสาย pickerelweed) บนแผงไฟเบอร์กลาสโมดูลที่ปรับความลึกได้ ใช้ปลากินลูกน้ำแทนสารเคมี ดิน 99.5% ที่ใช้ถมมาจากการขุดในพื้นที่ หน้าดิน 25,000 ลูกบาศก์หลาถูกเก็บกองและปลูกพืชคลุมดินไว้ใช้ผสมดิน ใช้หิน Carderock จากเหมืองห่างไป 9 ไมล์ และไม้โอ๊กจากต้นที่ล้มจากพายุ 750 ต้นมาทำรั้วยาว 3,100 ฟุต งานประติมากรรมของ Richard Serra, Michael Heizer, Andy Goldsworthy, Jeff Koons, Tony Smith, Ellsworth Kelly และ Charles Ray ถูกวางเป็นจุดหมายในภูมิทัศน์ ตั้งแต่ปี 2010 การดูแลเปลี่ยนเป็นระบบอินทรีย์ทั้งหมด (ปุ๋ยหมัก compost tea ถอนมือ ใช้เปลวไฟ คลุมผ้า)\n\nกรณีศึกษา LAF (2019) วัดผลได้ว่า ดินได้รับการฟื้นฟูบน 120 เอเคอร์ ตัวอย่างหนึ่งมีอินทรียวัตถุเพิ่มขึ้น 300% ระหว่างปี 2010–2016 ฟื้นฟูถิ่นอาศัยริมลำธาร 2.7 ไมล์ ดัชนีคุณภาพพรรณพืช (FQI) ได้ 54 เทียบกับ 0 ของสนามหญ้าบ้านจัดสรร ต้นไม้ใหม่ 9,026 ต้นดักน้ำฝน 50,300 ลบ.ฟุต/ปี และกักเก็บคาร์บอน 22.03 ตัน/ปี การเปลี่ยนสนามหญ้า 91 เอเคอร์เป็นทุ่งหญ้าประหยัดค่าตัดหญ้าและดูแลราว 160,000 ดอลลาร์/ปี การปลูกทุ่งหญ้าด้วยเมล็ดแทนต้นกล้าประหยัด 20,000 ดอลลาร์ต่อเอเคอร์ นำวัสดุจากบ้านเดิม 20 หลังกลับมาใช้ 95% และผู้ชม 95% จาก 833 คนรู้สึกผูกพันกับภูมิทัศน์มากหรือมากที่สุด โครงการยังช่วยผลักดันนโยบายจำกัดยาฆ่าแมลงสนามหญ้าของ Montgomery County ซึ่งศาลยืนยันในปี 2019 และได้รางวัล ASLA Honor Award ปี 2019",
+  "design_strategies": [
+   "รวมแปลงบ้านจัดสรรหลายแปลงเป็นภูมิทัศน์เดียว แล้วจัดโครงสร้างพื้นที่ตามลุ่มรับน้ำและภูมิประเทศหุบเขาแทนเส้นแบ่งแปลงเดิม",
+   "ให้ผู้ชมจอดรถใต้ป่าละเมาะผิวซึมน้ำ แล้วเดินเท้าผ่านทุ่งหญ้า เพื่อให้ภูมิทัศน์เป็นส่วนแรกของประสบการณ์พิพิธภัณฑ์",
+   "เปลี่ยนสนามหญ้า 84–91 เอเคอร์เป็นทุ่งหญ้าพื้นเมืองที่ปลูกด้วยเมล็ด ตัดปีละครั้งและไม่ต้องให้น้ำ",
+   "สมดุลดิน-น้ำในพื้นที่: ใช้ดินขุดและหน้าดินเดิมเกือบทั้งหมด เก็บน้ำฝนในถังใต้ดิน 1 ล้านแกลลอนและบ่อกรองเพื่อรดน้ำ",
+   "ย้ายและพักต้นไม้ใหญ่เดิมกว่า 400 ต้น ปลูกป่าใหม่ราว 9,000 ต้น และฟื้นฟูลำธารร่วมกับหน่วยงานท้องถิ่น",
+   "ดูแลแบบอินทรีย์ทั้งหมดและทดลองวิธีกำจัดวัชพืชในพื้นที่จริงเพื่อเลือกวิธีที่ได้ผล"
+  ],
+  "lessons_th": [
+   "สนามหญ้าขนาดใหญ่ในรีสอร์ต สนามกอล์ฟเก่า หรือวิทยาเขตในไทย เปลี่ยนเป็นทุ่งหญ้าหรือพืชคลุมดินพื้นเมืองที่ตัดน้อยครั้งได้ ลดค่าดูแลได้มากโดยยังดูตั้งใจออกแบบ",
+   "ลานจอดรถใต้ร่มไม้ผิวกรวดซึมน้ำ พร้อมแอ่ง bioretention ท้ายลาด เป็นต้นแบบลานจอดรถของพิพิธภัณฑ์และอุทยานในไทยที่ลดความร้อนและน้ำท่วมขังได้",
+   "การวางผังแม่บทระยะยาวที่ยืดหยุ่นช่วยให้ค่อย ๆ รวมที่ดินและโปรแกรมใหม่เข้ามาได้ตลอด 15 ปีโดยไม่เสียภาพรวม",
+   "การเก็บข้อมูลผลลัพธ์หลังสร้าง (ดิน น้ำ คาร์บอน ค่าดูแล ความรู้สึกผู้ใช้) ช่วยให้โครงการมีน้ำหนักพอจะผลักดันนโยบายท้องถิ่นได้"
+  ],
+  "images": [
+   {
+    "url": "https://www.asla.org/getContentAsset/33b4e29d-22ff-21c1-5281-c7b1d66b13ee/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD2abc5670.webp",
+    "type": "photo",
+    "caption": "อาคาร Pavilions ท่ามกลางทุ่งหญ้าดอกไม้ป่าที่บานในฤดูใบไม้ผลิ ส่วนนี้ปลูกบนโครงสร้างหลังคาอาคาร",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/e46736b1-a8ea-7418-bcd6-ab7f8a9eb101/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD71951ab5.webp",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของอาคาร Pavilions กลางทุ่งหญ้า ด้านหน้าคือประติมากรรม 'Compression Line' ของ Michael Heizer",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/cb1c88c6-9e0e-1238-91fc-7a9e0e3a4f98/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDc16dea01.webp",
+    "type": "photo",
+    "caption": "Water Court ใจกลางอาคาร Pavilions ช่วงที่ไม้น้ำบานเต็มที่",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20Pavilions.jpg?itok=gNUxz1MU",
+    "type": "photo",
+    "caption": "ทางเดินคดเคี้ยวผ่านทุ่งหญ้าที่เปลี่ยนมาจากสนามหญ้าและทุ่งเลี้ยงสัตว์เดิม นำผู้ชมไปสู่อาคาร Pavilions",
+    "credit": "Iwan Baan via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20meadow.jpg?itok=edumXglJ",
+    "type": "photo",
+    "caption": "ทุ่งหญ้าพื้นเมืองผืนใหญ่ที่เปลี่ยนสีสันและลักษณะไปตามฤดูกาล",
+    "credit": "Iwan Baan via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/25a2c9aa-c756-be92-8cac-a024daea16d7/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDb9d8b7d9.webp",
+    "type": "photo",
+    "caption": "ลานจอดรถแบบ 'ป่าละเมาะ' (parking grove) ใต้ร่มเพลน โอ๊กแดง และโอ๊กขาว ผิวซึมน้ำได้ ช่วยกรองมลพิษและลดน้ำไหลบ่า",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20parking.jpg?itok=bkzyYoMH",
+    "type": "photo",
+    "caption": "ลานจอดรถผิวซึมน้ำทั้งหมด แบ่งช่องด้วยหินท้องถิ่น จุดแรกที่ผู้ชมเริ่มสัมผัสภูมิทัศน์",
+    "credit": "Iwan Baan via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/08b5a9ce-496e-26e2-234d-60f52523946d/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD2b1dc0e2.webp",
+    "type": "photo",
+    "caption": "สวนพื้นที่ชุ่มน้ำที่ผู้ชมพบเป็นอย่างแรกเมื่อเข้าสู่อาคาร Pavilions",
+    "credit": "Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20water%20court%20detail_0.jpg?itok=ugWronRW",
+    "type": "photo",
+    "caption": "รายละเอียด Water Court ที่ใช้แผงไฟเบอร์กลาสเสริมแรงแบบโมดูล ปรับความลึกน้ำให้เหมาะกับไม้น้ำแต่ละชนิด",
+    "credit": "Landscape Architecture Foundation (Christina Sanders, 2019)",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone",
+    "year": "2019"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20green%20roof_0.jpg?itok=hItAY2xo",
+    "type": "photo",
+    "caption": "หลังคาเขียว 33,106 ตร.ฟุต บนส่วนบนของอาคาร Pavilions ปลูกพืชพื้นเมือง 32 ชนิด",
+    "credit": "Landscape Architecture Foundation (Christina Sanders, 2019)",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone",
+    "year": "2019"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/af00ab0b-a6c2-7af2-a32b-ce578f985f27/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD2ebc3bd6.webp",
+    "type": "photo",
+    "caption": "สะพานโค้งข้ามหุบร่องน้ำ พาผู้ชมไปยังอาคาร Gallery ก่อนเดินต่อเข้าสู่ภูมิทัศน์",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/4ad0acaf-5a3d-ea0b-fd3c-87a3f0793d7a/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD7b302f00.webp",
+    "type": "photo",
+    "caption": "ขั้นบันไดหิน Carderock นำลงสู่เส้นทางในป่าที่มีงานศิลปะแทรกอยู่",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/2163f6cd-8202-6c05-e76e-ccf01b0a8c42/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD478a5ba3.webp",
+    "type": "photo",
+    "caption": "ทางเดินไม้ยกระดับเหนือพื้นที่ชุ่มน้ำที่สร้างขึ้นใหม่",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/6726763f-0550-2648-d13c-4f8c956121fd/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDccf16e8e.webp",
+    "type": "photo",
+    "caption": "ขอบบ่อด้านหนึ่งเป็นพื้นที่ชุ่มน้ำ อีกด้านเป็นกำแพงหินเรียงแห้ง ช่วยกรองน้ำไหลบ่าที่เก็บไว้ในบ่อเพื่อใช้รดน้ำ",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/c39e1092-0476-48be-be14-9f5fcbc3edb9/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDdb016a19.webp",
+    "type": "photo",
+    "caption": "ประติมากรรม 'Contour 290' ของ Richard Serra กลางทุ่งหญ้าพื้นเมือง",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/49ae28d0-7869-e5a5-d60a-c7691c22af9d/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDa5a7c36e.webp",
+    "type": "photo",
+    "caption": "ประติมากรรมดอกไม้ 'Split-Rocker' ของ Jeff Koons บนเนินในภูมิทัศน์",
+    "credit": "Iwan Baan courtesy of Glenstone via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20creek%20restoration.jpg?itok=IuIgQlN5",
+    "type": "photo",
+    "caption": "ลำธารที่กำลังฟื้นฟูร่วมกับ Montgomery County พร้อมการตรวจคุณภาพน้ำระยะยาว",
+    "credit": "Landscape Architecture Foundation (Christina Sanders, 2019)",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone",
+    "year": "2019"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-stream-after.jpg?itok=jJhatdvb",
+    "type": "photo",
+    "caption": "ตลิ่งลำธารหลังการฟื้นฟู ความหลากหลายทางชีวภาพริมน้ำดีขึ้น",
+    "credit": "Glenstone via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20woods.jpg?itok=VaK2d_Tz",
+    "type": "photo",
+    "caption": "พื้นที่ธรรมชาติและป่าซึ่งเป็นส่วนสำคัญของประสบการณ์ภูมิทัศน์",
+    "credit": "PWP Landscape Architecture via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/efaba56e-6917-7a44-37d5-c4a8f4e18a9b/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD4ef0c3a0.webp",
+    "type": "photo",
+    "caption": "ลานจอดรถแบบป่าละเมาะในฤดูหนาว",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20site%20plan.jpg?itok=wehuWDOz",
+    "type": "plan",
+    "caption": "ผังแม่บท Glenstone แสดงพัฒนาการของพื้นที่ จาก 40 เอเคอร์รอบบ้านและอาคาร Gallery สู่ Phase 1 (150 เอเคอร์) และ Phase 2",
+    "credit": "PWP Landscape Architecture via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/28cd1c3e-978a-b25c-a4a6-98aed7f75bc2/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MD5a5bfe12.webp",
+    "type": "plan",
+    "caption": "ผังบริเวณ (site plan) Glenstone",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.asla.org/getContentAsset/60b9f4dc-a62d-815b-3f9f-a16a873ad3f7/e477a59e-1df6-4e2f-9986-20ab37342540/Glenstone-Potomac-MDddb2190b.webp",
+    "type": "diagram",
+    "caption": "แผนภาพแนวคิดการปลูกพืชใน Water Court",
+    "credit": "PWP Landscape Architecture via ASLA",
+    "source": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "url": "https://www.landscapeperformance.org/sites/default/files/styles/lightbox/public/Glenstone-%20aerial.jpg?itok=yk-q_tCv",
+    "type": "diagram",
+    "caption": "ภาพมุมสูงแสดง Glenstone ในบริบทย่านบ้านพักชานเมืองโดยรอบ",
+    "credit": "PWP Landscape Architecture via Landscape Architecture Foundation",
+    "source": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   }
+  ],
+  "research": [
+   {
+    "title": "Glenstone",
+    "authors": "Emma Mendel, Chloe Nagraj",
+    "year": "2019",
+    "journal": "Landscape Performance Series, Landscape Architecture Foundation",
+    "url": "https://doi.org/10.31353/cs1560",
+    "note_th": "กรณีศึกษา CSI 2019 ของ LAF วัดผลด้านดิน น้ำฝน คาร์บอน ถิ่นอาศัย ค่าดูแล และแบบสำรวจผู้ชม"
+   },
+   {
+    "title": "Glenstone Methods",
+    "authors": "Landscape Architecture Foundation",
+    "year": "2019",
+    "journal": "Landscape Performance Series, Landscape Architecture Foundation",
+    "url": "https://doi.org/10.31353/cs1561",
+    "note_th": "เอกสารวิธีการคำนวณตัวเลขผลลัพธ์ในกรณีศึกษา LAF ของ Glenstone"
+   }
+  ],
+  "sources": [
+   {
+    "title": "Landscape Architecture Foundation — Landscape Performance Series: Glenstone",
+    "url": "https://www.landscapeperformance.org/case-study-briefs/glenstone"
+   },
+   {
+    "title": "ASLA 2019 Professional Awards — Glenstone (Honor Award, General Design)",
+    "url": "https://www.asla.org/awards-events-main-landing/honors-awards/pro-student-awards/2019-professional-awards/641548"
+   },
+   {
+    "title": "Crossref — Glenstone (LAF case study, DOI 10.31353/cs1560)",
+    "url": "https://api.crossref.org/works/10.31353/cs1560"
+   },
+   {
+    "title": "OpenStreetMap — Glenstone Museum (way 1160735192)",
+    "url": "https://www.openstreetmap.org/way/1160735192"
+   },
+   {
+    "title": "Instagram — @muka_case_study (Glenstone Museum, landscape by PWP)",
+    "url": "https://www.instagram.com/reel/DgLTFDdSB5w/?hvrq=NnRmcGcwZzNhY2dv"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W48",
+  "added_date": "2026-11-28"
+ },
+ {
+  "id": "parc-de-la-raude-tassin",
+  "name": "Parc de la Raude",
+  "name_local": "Parc de la Raude (« La Raude, un paysage vivant »)",
+  "designer": "BASE (Baseland, ภูมิสถาปนิก) ร่วมกับ Vurpas Architectes (หัวหน้าทีม/mandataire) และ OGI (วิศวกรรม VRD และการจัดการน้ำ); นักนิเวศวิทยา Yann Vasseur; ผู้ก่อสร้างงานภูมิทัศน์ Green Style paysagiste ร่วมกับ Dynamique Environnement",
+  "client": "Ville de Tassin-la-Demi-Lune",
+  "city": "Tassin-la-Demi-Lune (Métropole de Lyon)",
+  "country": "France",
+  "lat": 45.7575,
+  "lng": 4.7762,
+  "year": "2025",
+  "area": "6,500 sq. m. (4.06 ไร่) — เฉพาะสวนสาธารณะ; ที่ดินทั้งโครงการรวมโรงเรียนและที่พักอาศัยราว 13,000 ตร.ม.",
+  "area_sqm": 6500,
+  "categories": [
+   "public-parks",
+   "forestry"
+  ],
+  "tags": [
+   "urban forest",
+   "meadow",
+   "pedagogical pond",
+   "soil reuse",
+   "no imported topsoil",
+   "bentonite clay liner",
+   "market-garden heritage",
+   "noria",
+   "school park",
+   "biodiversity",
+   "rainwater retention",
+   "frugal design"
+  ],
+  "awards": [],
+  "summary_th": "สวนสาธารณะ 6,500 ตร.ม. บนที่ดินสวนผักเก่าใจกลางย่านหนาแน่นของ Tassin-la-Demi-Lune ชานเมืองลียง (BASE + Vurpas Architectes, เปิดปี 2025) ที่สร้างป่าในเมือง ทุ่งหญ้า และสระน้ำเพื่อการเรียนรู้ โดยใช้ดินเดิมของพื้นที่ทั้งหมดโดยไม่นำหน้าดินจากภายนอกเข้ามา",
+  "description_th": "Parc de la Raude อยู่ใกล้สี่แยก Libération ซึ่งเป็นย่านที่มีการจราจรหนาแน่นและเป็นเขตที่เป็นเมืองมากที่สุดของ Tassin-la-Demi-Lune ในเขตมหานครลียง ที่ดินแปลงนี้เป็นที่ดินแปลงสุดท้ายที่รอดจากการขยายตัวของเมือง และเป็นร่องรอยของวัฒนธรรมสวนผัก (maraîchage) ที่ส่งผักให้เมืองลียงมาตั้งแต่ต้นศตวรรษที่ 18 ถึงศตวรรษที่ 20 บนดินตะกอนอุดมสมบูรณ์ซึ่งมีน้ำใต้ดินลึกไม่ถึงสิบเมตร เทศบาลยืนยันเก็บที่ดินไว้เป็นของสาธารณะมากว่าสิบปีแม้จะมีแรงกดดันจากผู้พัฒนาอสังหาริมทรัพย์ แล้ววางโครงการ 'pôle public de la Raude' บนพื้นที่รวมราว 13,000 ตร.ม. ประกอบด้วยอาคารพักอาศัย 38 หน่วยพร้อมศูนย์เด็กเล็ก สวนสาธารณะ 6,500 ตร.ม. และกลุ่มโรงเรียน Samuel Paty 15 ห้องเรียน\n\nทีม Vurpas Architectes (หัวหน้าทีม) กับสำนักงานภูมิสถาปัตยกรรม BASE ได้รับเลือกแบบเอกฉันท์ด้วยแนวคิด 'โรงเรียนในสวน' ที่ให้อาคารกินพื้นที่น้อยที่สุดเพื่อเหลือพื้นที่ให้สวนมากที่สุด BASE นิยามสวนว่าเป็น 'สวนที่ปรับตัวเข้ากับภูมิอากาศ' (parc acclimaté) เป็นสัญลักษณ์ของระบบธรรมชาติที่ประหยัดทรัพยากรและมีชีวิต ไม่ใช่พื้นที่สีเขียวมาตรฐาน แต่เป็นพื้นที่เย็นสบายที่มีคุณค่าทางนิเวศสูง มีดินอุดมสมบูรณ์ พืชพรรณแบบป่าบุกเบิก (pionnière) และถิ่นที่อยู่หลายแบบ ทั้งทุ่งหญ้า ป่า และสระน้ำ เพื่อรองรับทั้งมนุษย์และสิ่งมีชีวิตอื่น และปล่อยให้ระบบนิเวศเปลี่ยนแปลงไปตามเวลา\n\nผังสวนประกอบด้วยทุ่งหญ้ากลาง ป่าในเมือง ขอบไม้ปลูก และสระน้ำเพื่อการเรียนรู้ ร้อยเป็นทางเดินวงรอบระหว่างทางเข้าหลักที่มุมถนน chemin de la Raude กับ avenue du Général-Brosset และอาคาร Noria ส่วนทางเข้ารองเชื่อมไปยังโรงเรียนและศูนย์เด็กเล็ก ทำให้สวนใช้เป็นทางลัดในชีวิตประจำวันได้ด้วย ตามแนวทางเดินมีเครื่องเล่นและม้านั่งไม้ขนาดใหญ่กระจายอยู่ในซอกพักผ่อน สระน้ำใช้ร่วมกับโรงเรียนและช่วยกักเก็บน้ำฝนเพื่อรักษาสมดุลวัฏจักรน้ำ ทีมออกแบบเก็บบ่อน้ำ แอ่งน้ำ โรงลา และ Noria (อาคารสูบน้ำเก่า) ไว้เป็นความทรงจำของยุคสวนผัก มหานครลียงระบุว่าสวนยังเชื่อมกับพื้นที่ธรรมชาติของ Francheville และ Sainte-Foy-lès-Lyon\n\nผู้รับเหมา Green Style ใช้ดินเดิมของพื้นที่ทั้งหมด โดยขุดเก็บแล้วนำกลับมาใช้ตามลำดับชั้นดินเดิม จึงไม่ต้องนำหน้าดินจากภายนอกเข้ามาเลย พืชพรรณมีทั้งการหว่านเมล็ด ต้นกล้า ไม้พุ่ม และต้นไม้ราวหนึ่งร้อยต้นที่คัดจากเรือนเพาะชำ เช่น โอ๊กหลายชนิด หลิว อัลเดอร์ เมเปิลมงเปอลีเย เฮเซล และไมโครคูลิเย (Celtis) สระน้ำกันซึมด้วยดินเหนียวเบนโทไนต์ร่วมกับแผ่นใยสังเคราะห์ (geotextile) และปลูกพืชชายน้ำ งานก่อสร้างรวมงานดิน ปลูกต้นไม้ ปูผิวทาง ขอบทาง รั้ว บันได และเฟอร์นิเจอร์ โดยเริ่มขุดดินวันที่ 15 พฤศจิกายน 2024\n\nสวนเปิดอย่างเป็นทางการวันที่ 3 กรกฎาคม 2025 แต่เลื่อนให้ประชาชนเข้าใช้เป็นวันที่ 30 สิงหาคม 2025 เพื่อให้พืชพรรณได้ตั้งตัวช่วงฤดูร้อนราวสองเดือน สระน้ำยังปิดไว้ระยะหนึ่งเพื่อให้ระบบนิเวศก่อตัว และงานทั้งหมดมีกำหนดเสร็จปลายปี 2026 พร้อมโรงเรียน มูลค่างานก่อสร้างภูมิทัศน์ราว 900,000 ยูโร (ไม่รวมภาษี) ตามข้อมูลของ Green Style และมหานครลียงระบุว่าได้สนับสนุนงบกว่า 900,000 ยูโรผ่านนโยบายช่วยเหลือท้องถิ่น สวนเปิดทุกวัน 7.00–19.00 น. ในฤดูหนาว และ 7.00–21.30 น. ในฤดูร้อน ผู้ใช้ที่ทำงานใกล้เคียงบอกว่าก่อนหน้านี้พื้นที่ถูกปิดล้อมและสวนที่ใกล้ที่สุดคือสวนศาลาว่าการ",
+  "design_strategies": [
+   "ใช้ดินเดิมของพื้นที่ทั้งหมด โดยขุดเก็บและวางคืนตามลำดับชั้นดิน ไม่นำหน้าดินจากภายนอกเข้ามา",
+   "สร้างถิ่นที่อยู่หลายแบบบนพื้นที่เดียว ทั้งป่าบุกเบิก ทุ่งหญ้า ขอบไม้ และสระน้ำ แทนสนามหญ้าล้อมต้นไม้",
+   "ปลูกต้นไม้อายุน้อยราว 100 ต้นหลายชนิด และออกแบบให้ระบบนิเวศเติบโตและเปลี่ยนแปลงเองตามเวลา",
+   "ทำสระน้ำกันซึมด้วยดินเหนียวเบนโทไนต์กับ geotextile ปลูกพืชชายน้ำ และใช้กักเก็บน้ำฝน",
+   "เก็บร่องรอยสวนผักเดิม (Noria บ่อน้ำ แอ่งน้ำ โรงลา) ไว้เป็นจุดหมายและพื้นที่ชุมชน",
+   "ผสานสวนเข้ากับโรงเรียนและศูนย์เด็กเล็ก และเปิดทางเข้าหลายทางให้ใช้เป็นทางสัญจรประจำวัน"
+  ],
+  "lessons_th": [
+   "ที่ดินแปลงว่างหรือสวนผักเก่าในเขตชานเมืองกรุงเทพฯ ที่เทศบาลถือครอง ทำเป็นสวนป่าขนาดเล็ก (ราว 4 ไร่) ร่วมกับโรงเรียนได้ โดยใช้ต้นไม้ขนาดเล็กหลายชนิดซึ่งมีต้นทุนต่ำกว่าการล้อมต้นไม้ใหญ่",
+   "การเก็บหน้าดินเดิมแยกตามชั้นแล้วนำกลับมาใช้ ช่วยลดต้นทุนและคาร์บอนจากการซื้อดินถมดินปลูก เหมาะกับที่ดินเกษตรเดิมที่ดินยังดี",
+   "สระน้ำแบบดินเหนียวกันซึมที่ใช้ร่วมกับโรงเรียนเป็นได้ทั้งแหล่งกักน้ำฝนและห้องเรียนธรรมชาติ แต่ควรกันพื้นที่ปิดไว้ช่วงแรกให้ระบบนิเวศตั้งตัว",
+   "ควรสื่อสารกับประชาชนว่าสวนแบบนิเวศจะดูโล่งและต้นไม้เล็กในช่วงแรก และอาจเลื่อนเปิดให้พืชตั้งตัวก่อนเหมือนกรณีนี้"
+  ],
+  "boundary": {
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       4.775439,
+       45.757376
+      ],
+      [
+       4.776084,
+       45.757169
+      ],
+      [
+       4.776326,
+       45.757125
+      ],
+      [
+       4.776376,
+       45.757254
+      ],
+      [
+       4.776409,
+       45.757273
+      ],
+      [
+       4.776471,
+       45.757432
+      ],
+      [
+       4.776504,
+       45.7576
+      ],
+      [
+       4.776496,
+       45.757653
+      ],
+      [
+       4.776462,
+       45.757717
+      ],
+      [
+       4.775845,
+       45.757911
+      ],
+      [
+       4.7757,
+       45.757873
+      ],
+      [
+       4.775439,
+       45.757376
+      ]
+     ]
+    ]
+   },
+   "source": [
+    "https://www.openstreetmap.org/way/1168276030"
+   ]
+  },
+  "images": [
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-35-2-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงของสวน La Raude หลังงานแล้วเสร็จ เห็นทางเดินโค้งตัดผ่านทุ่งหญ้าและแปลงปลูกไม้เล็กท่ามกลางอาคารรอบข้าง",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-40-3-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงทางเดินโค้งที่ร้อยพื้นที่ทุ่งหญ้าและป่าปลูกใหม่เข้าด้วยกัน",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-38-2-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงแปลงพืชพรรณของสวนในช่วงแรกที่ต้นไม้ยังเล็ก",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-37-2-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมสูงสวนกับอาคารพักอาศัยรอบแปลงที่ดินเดิมของชาวสวนผัก",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-34-scaled.jpg",
+    "type": "photo",
+    "caption": "มุมใกล้แปลงปลูกไม้พุ่มและไม้ต้นขนาดเล็กที่ปลูกแบบหนาแน่นเป็นป่าบุกเบิก",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-32-1-scaled.jpg",
+    "type": "photo",
+    "caption": "ภาพมุมกว้างของสวน พื้นที่ทุ่งหญ้า ขอบไม้ และอาคารเมืองด้านหลัง",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-31-scaled.jpg",
+    "type": "photo",
+    "caption": "รายละเอียดงานไม้และพืชพรรณริมทางเดินในสวน",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-19-1-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเดินระหว่างแนวต้นไม้ที่เพิ่งปลูก ซึ่งจะเติบโตเป็นเรือนยอดป่าในเมือง",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-15-scaled.jpg",
+    "type": "photo",
+    "caption": "มุมมองแนวตั้งของสวนที่มีอาคารรอบข้างเป็นฉากหลัง",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-12-3-scaled.jpg",
+    "type": "photo",
+    "caption": "ต้นไม้ที่ปลูกใหม่และพื้นที่เปิดโล่งของสวน โดยมีอาคารเมืองล้อมรอบ",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-8-1-scaled.jpg",
+    "type": "photo",
+    "caption": "ทุ่งหญ้าและแปลงปลูกในสวนท่ามกลางย่านที่หนาแน่นของ Tassin-la-Demi-Lune",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-6-1-scaled.jpg",
+    "type": "photo",
+    "caption": "ทางเดินในสวนที่ตัดผ่านแปลงพืชพรรณอายุน้อย โดยมีอาคารพักอาศัยอยู่ด้านหลัง",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.greenstyle.fr/wp-content/uploads/2026/08/Export_SD-2-scaled.jpg",
+    "type": "photo",
+    "caption": "ทุ่งหญ้ากลางสวนกับแนวต้นไม้ที่เพิ่งปลูก",
+    "credit": "Green Style paysagiste",
+    "source": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "url": "https://www.baseland.fr/wp-content/uploads/2025/07/ESP_900x500_5.jpg",
+    "type": "photo",
+    "caption": "พื้นที่ภายในสวนช่วงพิธีเปิด ก.ค. 2025",
+    "credit": "BASE (baseland.fr)",
+    "source": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/",
+    "year": "2025"
+   },
+   {
+    "url": "https://www.baseland.fr/wp-content/uploads/2025/07/ESP_900x500_4.jpg",
+    "type": "photo",
+    "caption": "ผู้ใช้สวนนั่งเอนบนม้านั่งไม้ขนาดใหญ่ ซึ่งเป็นจุดนัดพบในสวน",
+    "credit": "BASE (baseland.fr)",
+    "source": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/",
+    "year": "2025"
+   },
+   {
+    "url": "https://www.baseland.fr/wp-content/uploads/2025/07/ESP_900x500_8.jpg",
+    "type": "photo",
+    "caption": "ชานไม้และพืชพรรณในสวนช่วงพิธีเปิด ก.ค. 2025",
+    "credit": "BASE (baseland.fr)",
+    "source": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/",
+    "year": "2025"
+   },
+   {
+    "url": "https://www.baseland.fr/wp-content/uploads/2025/07/ESP_900x500_1.jpg",
+    "type": "photo",
+    "caption": "สวนกับอาคารรอบข้างในวันพิธีเปิด",
+    "credit": "BASE (baseland.fr)",
+    "source": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/",
+    "year": "2025"
+   },
+   {
+    "url": "https://www.baseland.fr/wp-content/uploads/2025/07/ESP_900x500_3.jpg",
+    "type": "photo",
+    "caption": "พิธีเปิดสวน La Raude วันที่ 3 ก.ค. 2025",
+    "credit": "BASE (baseland.fr)",
+    "source": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/",
+    "year": "2025"
+   },
+   {
+    "url": "https://www.grandlyon.com/fileadmin/_processed_/7/e/csm_2025_Tassin-ParcRaude_AnaisMercey_-_M%C3%A9tropole_de_Lyon_9303469901.webp",
+    "type": "photo",
+    "caption": "สวน La Raude กับอาคารใกล้เคียง หลังเปิดให้ประชาชนใช้งาน",
+    "credit": "Métropole de Lyon / Anaïs Mercey",
+    "source": "https://www.grandlyon.com/actualite/flaner-au-parc-de-la-raude",
+    "year": "2025"
+   },
+   {
+    "url": "https://vurpas-architectes.com/wp-content/uploads/2024/04/Plan-masse_recadre-scaled.jpg",
+    "type": "plan",
+    "caption": "ผังบริเวณ (plan masse) ของกลุ่มโรงเรียน Samuel Paty และสวนสาธารณะ La Raude",
+    "credit": "Vurpas Architectes / BASE",
+    "source": "https://vurpas-architectes.com/projets/groupe-scolaire-s-paty-et-parc-public-de-la-raude/"
+   },
+   {
+    "url": "https://vurpas-architectes.com/wp-content/uploads/2024/04/La-Noria-coupe-2-1-scaled.jpg",
+    "type": "section",
+    "caption": "รูปตัดพื้นที่ La Noria อาคารสูบน้ำเก่าที่เก็บไว้เป็นจุดเชื่อมระหว่างสวนกับโรงเรียน",
+    "credit": "Vurpas Architectes / BASE",
+    "source": "https://vurpas-architectes.com/projets/groupe-scolaire-s-paty-et-parc-public-de-la-raude/"
+   },
+   {
+    "url": "https://vurpas-architectes.com/wp-content/uploads/2024/04/VUE1-FORET-dans-20-ANS-1-1024x576.jpg",
+    "type": "diagram",
+    "caption": "ภาพจำลองป่าในสวนเมื่อเวลาผ่านไป 20 ปี (ภาพประกอบการออกแบบ)",
+    "credit": "Pierre Descubes / Vurpas Architectes / BASE",
+    "source": "https://vurpas-architectes.com/projets/groupe-scolaire-s-paty-et-parc-public-de-la-raude/"
+   },
+   {
+    "url": "https://vurpas-architectes.com/wp-content/uploads/2024/04/VUE2-MARE-1024x576.jpg",
+    "type": "diagram",
+    "caption": "ภาพจำลองสระน้ำ (mare) และชานไม้ตามแบบ (ภาพประกอบการออกแบบ)",
+    "credit": "Pierre Descubes / Vurpas Architectes / BASE",
+    "source": "https://vurpas-architectes.com/projets/groupe-scolaire-s-paty-et-parc-public-de-la-raude/"
+   }
+  ],
+  "research": [],
+  "sources": [
+   {
+    "title": "Instagram — @greenstyle_paysagiste",
+    "url": "https://www.instagram.com/p/DgLCpl8DfEO/?dmpr=NTc4MTIwNjQ2YQ%3D%3D&utm_source=ig_web_copy_link"
+   },
+   {
+    "title": "Green Style — Parc de la Raude",
+    "url": "https://www.greenstyle.fr/parcs-squares-paysagers/parc-de-la-raude/"
+   },
+   {
+    "title": "BASE — Inauguration du parc de la Raude à Tassin-la-Demi-Lune",
+    "url": "https://www.baseland.fr/inauguration-du-parc-de-la-raude-a-tassin-la-demi-lune/"
+   },
+   {
+    "title": "Vurpas Architectes — Groupe scolaire Samuel Paty et parc public de la Raude",
+    "url": "https://vurpas-architectes.com/projets/groupe-scolaire-s-paty-et-parc-public-de-la-raude/"
+   },
+   {
+    "title": "Mairie de Tassin la Demi-Lune — Le Parc de la Raude : un nouveau poumon vert",
+    "url": "https://www.tassinlademilune.fr/cadre-de-ville/le-parc-de-la-raude-un-nouveau-poumon-vert-pour-tassin-la-demi-lune"
+   },
+   {
+    "title": "Mairie de Tassin la Demi-Lune — La transformation du parc public de la Raude (2022)",
+    "url": "https://www.tassinlademilune.fr/cadre-de-ville/la-transformation-du-parc-public-de-la-raude"
+   },
+   {
+    "title": "Le Mag de Tassin n°90 (mai 2025) — Le parc de la Raude prend vie",
+    "url": "https://tassinlademilune.fr/images/lemag/n90.pdf"
+   },
+   {
+    "title": "Le Mag de Tassin n°91 (juillet 2025) — Dossier parc de la Raude",
+    "url": "https://tassinlademilune.fr/images/lemag/n91.pdf"
+   },
+   {
+    "title": "Métropole de Lyon — Flâner au parc de la Raude",
+    "url": "https://www.grandlyon.com/actualite/flaner-au-parc-de-la-raude"
+   },
+   {
+    "title": "Lyon Capitale — Tassin-la-Demi-Lune : ce grand parc de 6 500 m2 inauguré",
+    "url": "https://www.lyoncapitale.fr/actualite/tassin-la-demi-lune-inaugure-le-parc-de-la-raude-ouvrira-au-public-en-septembre-prochain"
+   },
+   {
+    "title": "Lyon Capitale — Le parc de la Raude ouvre ses portes ce samedi",
+    "url": "https://www.lyoncapitale.fr/actualite/tassin-la-demi-lune-le-parc-de-la-raude-ouvre-ses-portes-ce-samedi"
+   }
+  ],
+  "found_via": "user-link",
+  "added_week": "2026-W48",
+  "added_date": "2026-11-28"
+ }
+]

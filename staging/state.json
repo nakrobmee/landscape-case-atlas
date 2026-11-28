@@ -217,6 +217,17 @@
    "date": "2026-11-28",
    "staged": [],
    "note": "Run on 2026-11-28 (Asia/Bangkok): network still blocked (archdaily, nominatim, crossref, wikimedia, landezine, wikipedia refused by proxy with 403). Default env has no allowed hosts. Nothing staged. 1 new app link (b2a80f1kwnkevn4wm3xb, instagram share) marked checks=1 pending. Older links not counted as failed checks since failure is network-caused. inbox.md and weekly panel unchanged."
+  },
+  {
+   "date": "2026-11-28",
+   "staged": [
+    "mahou-calderon-park-madrid",
+    "detura-park-kuala-lumpur",
+    "alexandra-road-estate-london",
+    "glenstone-museum-landscape-potomac",
+    "parc-de-la-raude-tassin"
+   ],
+   "note": "Second run on 2026-11-28. Local container network still blocked; research done via the Firecrawl/Composio remote sandbox + WebSearch (its WAF refuses some command strings; used plain simple commands, no encoding workarounds). Resolved 8 IG share links via 302 redirects; captions read from page metadata. 5 staged from inbox (Spain, Malaysia, UK, USA, France); Medellín Tejiendo Hogares award post queued as source-only update (award unconfirmed); Sa Casa Ibiza skipped (unbuilt); Place Jean-Jaurès Romans-sur-Isère left pending (quota). Images could mostly not be viewed: captions for Mahou-Calderón (metalocus), Detura (EJA) photos are generic; Glenstone captions from LAF/ASLA publisher captions; Alexandra Road uses Google Arts & Culture lh3 URLs (may expire). Older pending links not rechecked."
   }
  ]
 }

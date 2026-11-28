@@ -38,8 +38,16 @@
 - https://www.instagram.com/p/DgDFKq-EztY/?img_index=14&cnvx=MXZ6ODc4ZWN0MHpvcA== | สวนใหม่ของ Fukuoka City Museum (福岡市博物館) — ยังรอดำเนินการ: 25 พ.ย. 2026 พบข่าวเมืองฟุกุโอกะว่า 'สวนพิพิธภัณฑ์' หน้าพิพิธภัณฑ์เมืองฟุกุโอกะเปิดวันที่ 18 ต.ค. 2026 (มี Garden Terrace, Sankaku Hiroba, สนามหญ้าและแปลงดอกไม้) แต่ยังไม่พบชื่อผู้ออกแบบและชุดภาพที่ลิงก์ได้ (ตรวจล่าสุด 2026-11-25)
 - https://www.instagram.com/p/Df3RJrlDPQD/?img_index=6&knvt=dndjbHptbHhveHJt | 땅의 정원 (Garden of the Land) — ออกแบบโดย 김종보 (นิตยสาร 환경과조경 ฉบับ พ.ย. 2026) — ยังรอดำเนินการ: คำบรรยาย IG ไม่ระบุที่ตั้ง ขนาด และปี ต้องหาบทความในนิตยสาร Landscape Architecture Korea เพื่อยืนยัน (24 พ.ย. ครบโควตา 5 โครงการ) (ตรวจล่าสุด 2026-11-24)
 
+- https://www.instagram.com/share/BAjy_6NN9a | Place Jean-Jaurès, Romans-sur-Isère (Agence APS) — ยังรอดำเนินการ: โพสต์ของ @seoulgardeningclub ระบุจัตุรัสสวนราว 2.9 เฮกตาร์ที่ปรับปรุงจากลานจอดรถในปี 2025 ยังไม่ได้ค้นแหล่งยืนยันเพราะวันนี้ครบโควตา 5 โครงการ (ตรวจล่าสุด 2026-11-28)
+
 ## รอขึ้นเว็บวันอาทิตย์
 
+- 2026-11-28 · https://www.instagram.com/share/Fc4y5IGgv → staged: mahou-calderon-park-madrid (Mahou-Calderón Park (Burgos & Garrido + Porras-Isla), Madrid)
+- 2026-11-28 · https://www.instagram.com/share/INYNU-53H → staged: detura-park-kuala-lumpur (Detura Park / Taman Kejiranan PPR Desa Tun Razak (Eleena Jamil Architect), Kuala Lumpur)
+- 2026-11-28 · https://www.instagram.com/share/BAWaAdz106 → staged: alexandra-road-estate-london (Alexandra Road Estate landscape (Janet Jack), London)
+- 2026-11-28 · https://www.instagram.com/share/BAWdO1AffD → staged: glenstone-museum-landscape-potomac (Glenstone Museum Landscape (PWP), Potomac MD)
+- 2026-11-28 · https://www.instagram.com/share/FDfqOHuDt → staged: parc-de-la-raude-tassin (Parc de la Raude (Baseland + Vurpas), Tassin-la-Demi-Lune)
+- 2026-11-28 · https://www.instagram.com/share/BABR4bUc5t → update: medellin-tejiendo-hogares-playgrounds (เพิ่มแหล่งข้อมูลโพสต์รางวัล Bienal de Urbanismo de México 2026)
 - 2026-11-26 · https://www.instagram.com/p/DgKDDE0kcz8/?img_index=6&gwpx=ODM3NGFmdWc2bThx → staged: hongyuan-headquarters-square-beijing (Hongyuan Headquarters Square (UJ design), Beijing)
 - 2026-11-23 · https://www.instagram.com/p/DgCV2ZyCEiP/?img_index=3&lqvp=MmdwY2JlOXM3NjE1 → staged: smk-museum-garden-copenhagen (Statens Museum for Kunst Museum Garden, Copenhagen (Karres en Brands + POLYFORM))
 - 2026-11-24 · https://www.instagram.com/p/Df0hhLsiqzk/?bqrl=MWRvbmFsNDZ5MDVkaQ== → staged: opera-park-copenhagen (The Opera Park (Cobe), Copenhagen)
@@ -52,4 +60,5 @@
 
 ## ดำเนินการแล้ว
 
+- 2026-11-28 · https://www.instagram.com/share/BAUs89LNAK → ข้าม: Sa Casa ที่อิบิซา (Stefano Boeri Architetti) เป็นโครงการเคหะที่ยังไม่สร้างเสร็จ (Year: Ongoing)
 - 2026-11-26 · https://www.instagram.com/p/DfkqC0KiVdJ/?img_index=2&gwpx=MW44ZmFvZ29oNHhzaA== → ข้าม: เป็นโพสต์โฆษณาพื้นยาง Ecotime ของสนามเด็กเล่นคอนโดที่ไม่ระบุชื่อโครงการ ผู้ออกแบบ หรือที่ตั้ง
