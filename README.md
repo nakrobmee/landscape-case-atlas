@@ -29,6 +29,7 @@
 
 ## โครงสร้าง
 - `data/projects.json` — ข้อมูลต้นฉบับ (แก้ไขที่นี่)
+- `tools/ig_read.js` — อ่านโพสต์ Instagram สาธารณะ (แคปชัน บัญชี สถานที่) ให้งานรายวัน: `node tools/ig_read.js <ลิงก์>` (ต้องเปิดให้ environment เข้า instagram.com ได้)
 - `tools/build.py` — ตรวจข้อมูลและสร้าง `data/projects.js` (+ ไฟล์ KML/CSV ใน `exports/`)
 - `assets/` — สไตล์ ฟังก์ชันร่วม และค่าแผนที่ (Mapbox token ใน `config.js`)
 - ฟิลด์ที่งานรายเดือนเพิ่ม: `last_reviewed`, `updated_date`, `updates` [{date, note_th}]; ภาพมี `year` ได้
